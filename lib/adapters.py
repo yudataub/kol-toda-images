@@ -112,3 +112,53 @@ def hb(by_id):
                     if stitle and stitle not in it["he_ctx"]["book_sections"]:
                         it["he_ctx"]["book_sections"].append(stitle)
     return items
+
+
+OG = r"C:\og-ai"
+TN = r"C:\Users\User\OneDrive\Documents\מסמכים\משחקים\YUDA\איורי סיפורי התנאים"
+
+
+def og():
+    """og-ai: ציורי צבעי מים (Codex) שצוירו כתמונות שיתוף לעמודי האתר. אין תיאור של מה שמצויר – רק שם העמוד;
+    התיאור, התגיות והבדיקה (נשים/טקסט) – בתיוג עם ראייה (TAG_VISION.md). נכנסים לגלריה רק אחרי review ok."""
+    jobs = {j["key"]: j for j in json.load(open(os.path.join(OG, "jobs.json"), encoding="utf-8"))}
+    items = []
+    for f in sorted(glob.glob(os.path.join(OG, "img", "*.png"))):
+        stem = os.path.basename(f)[:-4]
+        j = jobs.get(stem, {})
+        items.append(dict(id="og/" + stem, source="og", engine="codex", style="watercolor", kind="scene", en="",
+                          he_ctx={"page_title": plain(j.get("title", "")), "page_desc": plain(j.get("desc", ""))[:200]},
+                          topic=["צבעי מים"], topic_key="og", reviewed=False, has_text=False,
+                          files={"master": f, "web_url": ""}))
+    return items
+
+
+def tn():
+    """איורי סיפורי התנאים: פרומפטים.md – '## סיפור N — כותרת', '### N-NN.png', ואחריו הפרומפט בבלוק קוד."""
+    md = open(os.path.join(TN, "פרומפטים.md"), encoding="utf-8").read()
+    items, story, cur = [], "", None
+    lines = md.splitlines()
+    i = 0
+    while i < len(lines):
+        l = lines[i]
+        if l.startswith("## "):
+            story = l[3:].strip()
+        elif l.startswith("### ") and re.match(r"^###\s+(\S+\.png)", l):
+            cur = re.match(r"^###\s+(\S+\.png)", l).group(1)
+        elif l.startswith("```") and cur:
+            j = i + 1
+            buf = []
+            while j < len(lines) and not lines[j].startswith("```"):
+                if not lines[j].startswith("Style:"):
+                    buf.append(lines[j])
+                j += 1
+            path = os.path.join(TN, cur)
+            if os.path.exists(path):
+                title = re.sub(r"^סיפור\s+\d+\s*[—–-]\s*", "", story)
+                items.append(dict(id="tn/" + cur[:-4], source="tn", engine="gpt", style="cinematic", kind="scene",
+                                  en=" ".join(buf).strip()[:600], he_ctx={"story_title": title},
+                                  topic=["סיפורי התנאים", title], topic_key="tn", reviewed=False, has_text=False,
+                                  files={"master": path, "web_url": ""}))
+            cur, i = None, j
+        i += 1
+    return items

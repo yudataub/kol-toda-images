@@ -55,6 +55,7 @@ def main():
     items = adapters.hq()
     by_id = {i["id"]: i for i in items}
     items += adapters.hb(by_id)
+    items += adapters.og() + adapters.tn()
     today = datetime.date.today().isoformat()
     for it in items:
         if it["kind"] == "panel":
@@ -64,7 +65,8 @@ def main():
     json.dump(cache, open(cpath, "w", encoding="utf-8"))
     json.dump(items, open(old_path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     new = [i for i in items if i["id"] not in old]
-    gone = [k for k in old if k not in by_id and not k.startswith("hb/")]
+    allids = {i["id"] for i in items}
+    gone = [k for k in old if k not in allids]
     from collections import Counter
     print("items:", len(items), dict(Counter((i["source"], i["kind"]) for i in items)))
     print("new:", len(new), "| gone:", len(gone), "| reviewed:", sum(1 for i in items if i.get("reviewed")))
