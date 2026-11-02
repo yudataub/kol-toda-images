@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>ספריית התמונות – הקול החמישי</title>
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f7f5f0;--card:#fff;--ink:#1f2937;--soft:#6b7280;--c1:#7c3aed;--c2:#f97316;--line:#e5e7eb;--chip:#efe9fb}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#15161b;--card:#22242c;--ink:#eceef3;--soft:#9aa1ad;--line:#343744;--chip:#2e2840}}
+:root[data-theme="dark"]{--bg:#15161b;--card:#22242c;--ink:#eceef3;--soft:#9aa1ad;--line:#343744;--chip:#2e2840}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Rubik,Arial,sans-serif}
+header{background:linear-gradient(120deg,var(--c1),var(--c2));color:#fff;padding:18px 16px 22px;text-align:center}
+header h1{margin:0;font-size:1.7em}header p{margin:4px 0 0;opacity:.9;font-size:.92em}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:12px 16px;border-bottom:1px solid var(--line)}
+.wrap{max-width:1300px;margin:0 auto}
+#q{width:100%;font:inherit;font-size:1.1em;padding:12px 18px;border-radius:30px;border:2px solid var(--c1);background:var(--card);color:var(--ink)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;font-size:.85em}
+.chips button{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:20px;padding:4px 12px;cursor:pointer}
+.chips button.on{background:var(--c1);color:#fff;border-color:var(--c1)}
+#info{color:var(--soft);font-size:.85em;margin:10px 16px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px;padding:12px 16px 100px}
+.cell{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;cursor:pointer;position:relative}
+.cell img{display:block;width:100%;height:150px;object-fit:contain;background:#fff}
+.cell .tt{font-size:.78em;padding:6px 8px 8px;line-height:1.35;color:var(--ink)}
+.cell .n{position:absolute;top:6px;right:6px;background:var(--c2);color:#fff;font-weight:800;font-size:.8em;border-radius:10px;padding:1px 8px}
+.cell.sel{outline:4px solid var(--c1)}
+.cell .add{position:absolute;top:6px;left:6px;border:0;border-radius:50%;width:30px;height:30px;font-size:1em;background:rgba(255,255,255,.9);cursor:pointer}
+#lb{position:fixed;inset:0;background:rgba(0,0,0,.75);display:none;align-items:center;justify-content:center;z-index:20;padding:16px}
+#lb.on{display:flex}
+#lb .box{background:var(--card);border-radius:16px;max-width:980px;width:100%;max-height:94vh;overflow:auto;padding:14px}
+#lb img{width:100%;border-radius:10px;background:#fff}
+#lb h3{margin:10px 0 4px}#lb .meta{color:var(--soft);font-size:.85em;line-height:1.6}
+#lb .tags span{display:inline-block;background:var(--chip);border-radius:12px;padding:1px 9px;margin:2px;font-size:.82em}
+.btn{font:inherit;font-weight:600;border:0;border-radius:24px;padding:8px 16px;background:var(--c1);color:#fff;cursor:pointer;text-decoration:none;display:inline-block;margin:6px 0 0 6px}
+.btn.g{background:var(--chip);color:var(--ink)}
+#basket{position:fixed;bottom:0;left:0;right:0;background:var(--card);border-top:2px solid var(--c1);padding:10px 16px;display:none;z-index:10;align-items:center;gap:10px;flex-wrap:wrap}
+#basket.on{display:flex}
+#toast{position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#111;color:#fff;padding:8px 16px;border-radius:20px;display:none;z-index:30}
+footer{text-align:center;font-size:.85em;color:var(--soft);padding:10px 16px 110px}
+footer a{color:var(--c1)}
+@media(max-width:600px){.grid{grid-template-columns:repeat(2,1fr)}.cell img{height:120px}}
+</style>
+</head>
+<body>
+<header><h1>🖼️ ספריית התמונות</h1><p>איורים בדוקים מחידוני ההלכה ומספרי ההלכה – חפשו, בחרו, והכניסו לספר</p></header>
+<div class="bar"><div class="wrap">
+  <input id="q" type="search" placeholder="חיפוש – למשל: נטילת ידיים, שופר, ילד מתפלל, סוכה, חלה…" autocomplete="off">
+  <div class="chips" id="kinds">
+    <button data-k="s" class="on">🎨 סצנות</button><button data-k="p">🧩 פריטים בודדים</button><button data-k="t">▦ שלושה לוחות</button><button data-k="">הכול</button>
+  </div>
+</div></div>
+<div class="wrap"><div id="info">טוען…</div><div class="grid" id="grid"></div></div>
+<div id="lb"><div class="box" id="lbbox"></div></div>
+<div id="basket"><b id="bn"></b><button class="btn" id="bcopy">📋 העתקת פקודת ההעתקה לספר</button><button class="btn g" id="bclear">ניקוי הסל</button></div>
+<div id="toast"></div>
+<footer>📚 עוד חומרי לימוד – חינם, במאגר הקול החמישי: <a href="https://www.kol-toda.co.il/">kol-toda.co.il</a></footer>
+<script>
+// אותו נרמול כמו lib/hebrew.py
+var FIN={"ך":"כ","ם":"מ","ן":"נ","ף":"פ","ץ":"צ"}, P2=["וה","וב","ול","ומ","וש","שה","שב","של","מה","כש","לה","בה","וכ"], P1="והבלמשכ";
+function norm(s){s=String(s||"").replace(/[֑-ׇ]/g,"").replace(/[״"׳'־–-]/g," ").replace(/[ךםןףץ]/g,function(c){return FIN[c]}).toLowerCase();
+  return s.replace(/[^\wא-ת\s]/g," ").replace(/\s+/g," ").trim();}
+function variants(t){var o={};o[t]=1;if(!/^[א-ת]+$/.test(t))return Object.keys(o);var b=[t];
+  if(t.length>=5&&P2.indexOf(t.slice(0,2))>=0)b.push(t.slice(2)); if(t.length>=4&&P1.indexOf(t[0])>=0)b.push(t.slice(1));
+  b.forEach(function(x){o[x]=1;if(x.length>=5&&/(ימ|ות)$/.test(x))o[x.slice(0,-2)]=1;if(x.length>=4&&/ה$/.test(x))o[x.slice(0,-1)]=1;});return Object.keys(o);}
+function toks(s){var o={};norm(s).split(" ").forEach(function(t){if(t.length>=2)variants(t).forEach(function(v){o[v]=1})});return o;}
+var D=null,KIND="s",SEL=[],SHOWN=[],W=[3,2.5,2,1.5,0.7];
+function $(i){return document.getElementById(i)}
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function expand(q){var qt=toks(q),qn=" "+norm(q)+" ",extra={},en={};(q.toLowerCase().match(/[a-z]+/g)||[]).forEach(function(w){en[w]=1});
+  Object.keys(D.lex).forEach(function(k){var keys=[k].concat(D.lex[k].he);
+    if(keys.some(function(s){var n=norm(s);return qn.indexOf(" "+n+" ")>=0||(n.length>=3&&qt[n])})){
+      keys.forEach(function(s){Object.keys(toks(s)).forEach(function(t){if(!qt[t])extra[t]=1})});D.lex[k].en.forEach(function(w){en[w.toLowerCase()]=1});}});
+  return [qt,extra,en];}
+function run(){var q=$("q").value.trim(),res=[];
+  var list=D.items.filter(function(it){return !KIND||it.k===KIND});
+  if(!q){res=list.slice(0,120).map(function(it){return[0,it]});}
+  else{var e=expand(q),qt=e[0],ex=e[1],en=e[2],qn=norm(q);
+    list.forEach(function(it){var s=0;
+      if(!it._x)it._x=it.x.map(function(f){var o={};f.split(" ").forEach(function(t){o[t]=1});return o});
+      it._x.forEach(function(f,i){Object.keys(qt).forEach(function(t){if(f[t])s+=W[i]});Object.keys(ex).forEach(function(t){if(f[t])s+=W[i]*.5});});
+      var ew=(it.en.toLowerCase().match(/[a-z]+/g)||[]);ew.forEach(function(w){if(en[w])s+=1.5});
+      if(qn.length>=3&&(norm(it.t).indexOf(qn)>=0||norm(it.g.join(" ")).indexOf(qn)>=0))s+=4;
+      if(s>0)res.push([s,it]);});
+    res.sort(function(a,b){return b[0]-a[0]});res=res.slice(0,200);}
+  SHOWN=res.map(function(r){return r[1]});
+  $("info").textContent=q?("נמצאו "+res.length+(res.length===200?"+":"")+" תמונות ל״"+q+"״"):("מוצגות "+res.length+" תמונות – כתבו מילה לחיפוש");
+  $("grid").innerHTML=SHOWN.map(function(it,i){return '<div class="cell'+(SEL.indexOf(it.id)>=0?" sel":"")+'" data-i="'+i+'"><span class="n">'+(i+1)+'</span>'+
+    '<button class="add" data-a="'+i+'" title="לסל">'+(SEL.indexOf(it.id)>=0?"✔":"＋")+'</button><img loading="lazy" src="'+it.th+'" alt=""><div class="tt">'+esc(it.t||it.en.slice(0,80))+'</div></div>'}).join("");}
+function toggle(id){var k=SEL.indexOf(id);if(k>=0)SEL.splice(k,1);else SEL.push(id);basket();run();}
+function basket(){$("basket").classList.toggle("on",SEL.length>0);$("bn").textContent="🧺 "+SEL.length+" תמונות בסל";}
+function toast(t){$("toast").textContent=t;$("toast").style.display="block";setTimeout(function(){$("toast").style.display="none"},1800)}
+function copy(t){(navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(function(){toast("הועתק ✔")},function(){prompt("העתיקו:",t)})}
+function open_(it){$("lbbox").innerHTML='<img src="'+it.u+'" alt=""><h3>'+esc(it.t||"")+'</h3><div class="tags">'+it.g.map(function(g){return"<span>"+esc(g)+"</span>"}).join("")+
+  '</div><div class="meta">📂 '+esc(it.p)+'<br>🔤 '+esc(it.en)+'<br>🆔 '+esc(it.id)+'</div>'+
+  '<button class="btn" id="lbadd">'+(SEL.indexOf(it.id)>=0?"✔ בסל":"➕ לסל")+'</button><button class="btn g" id="lbcopy">📋 העתקת מזהה</button>'+
+  '<a class="btn g" href="'+it.u+'" target="_blank" rel="noopener">⬇️ תמונה מלאה</a>'+(it.q?'<a class="btn g" href="'+it.q+'" target="_blank" rel="noopener">🎯 החידון</a>':"")+
+  '<button class="btn g" id="lbx">✖ סגירה</button>';$("lb").classList.add("on");
+  $("lbadd").onclick=function(){toggle(it.id);open_(it)};$("lbcopy").onclick=function(){copy(it.id)};$("lbx").onclick=function(){$("lb").classList.remove("on")};}
+$("grid").onclick=function(e){var a=e.target.closest("[data-a]");if(a){e.stopPropagation();toggle(SHOWN[+a.dataset.a].id);return}
+  var c=e.target.closest(".cell");if(c)open_(SHOWN[+c.dataset.i]);};
+$("lb").onclick=function(e){if(e.target.id==="lb")$("lb").classList.remove("on")};
+document.addEventListener("keydown",function(e){if(e.key==="Escape")$("lb").classList.remove("on")});
+$("kinds").onclick=function(e){var b=e.target.closest("button");if(!b)return;KIND=b.dataset.k;[].forEach.call($("kinds").children,function(x){x.classList.toggle("on",x===b)});run();};
+var tmr;$("q").oninput=function(){clearTimeout(tmr);tmr=setTimeout(run,200)};
+$("bcopy").onclick=function(){copy('python pick.py '+SEL.join(" ")+' --to "<תיקיית הספר>\\img"')};
+$("bclear").onclick=function(){SEL=[];basket();run()};
+fetch("lib.json").then(function(r){return r.json()}).then(function(j){D=j;var h=location.hash.slice(1);if(h)$("q").value=decodeURIComponent(h);run();});
+</script>
+</body>
+</html>

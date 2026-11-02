@@ -1,0 +1,3066 @@
+[
+{
+"id": "hq/chanuka-03/a6/p0",
+"en": "a street of plain Israeli stone houses at bright noon with the sun high in the sky, no tower, no dome, no cross (noon)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "צהריים",
+"question": "מתי נוהגים להדליק נרות חנכה ביום רגיל?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a6/p1",
+"en": "a street of plain Israeli stone houses at dusk with the first stars appearing in a deep blue sky and a few men with kippot walking home, no tower, no dome, no cross, only men (first stars)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "צאת הכוכבים",
+"question": "מתי נוהגים להדליק נרות חנכה ביום רגיל?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a6/p2",
+"en": "a street of plain Israeli stone houses in the middle of the night, completely dark and empty, all windows dark, no tower, no dome, no cross (midnight)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "חצות הלילה",
+"question": "מתי נוהגים להדליק נרות חנכה ביום רגיל?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a7/p0",
+"en": "a father with a kippa lighting a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, in the late afternoon sunlight, unlit Shabbat candlesticks on the table behind, only a father and sons (menorah first)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "חנוכייה קודם",
+"question": "בערב שבת חנכה – מה מדליקים קדם?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a7/p1",
+"en": "two lit Shabbat candlesticks on a white tablecloth with challah, and an unlit hanukkah menorah beside them, no people (shabbat candles first)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "נרות שבת קודם",
+"question": "בערב שבת חנכה – מה מדליקים קדם?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a7/p2",
+"en": "a dark night window with stars outside, a father with a kippa holding a match near a menorah and Shabbat candlesticks, only the one man in this panel (after sunset)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "אחרי השקיעה",
+"question": "בערב שבת חנכה – מה מדליקים קדם?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a8/p0",
+"en": "men with kippot praying the evening prayer in a synagogue with a Star of David on the wall, dark windows, no church, no bell tower, only men (praying)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "תפילת ערבית",
+"question": "במוצאי שבת חנכה – מה עושים לפני שמדליקים נרות?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a8/p1",
+"en": "a father with a kippa and his sons eating a big festive meal at a long table, only a father and sons (big meal)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "סעודה גדולה",
+"question": "במוצאי שבת חנכה – מה עושים לפני שמדליקים נרות?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a8/p2",
+"en": "a boy with a kippa asleep in his bed with a blanket (sleeping)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "הולך לישון",
+"question": "במוצאי שבת חנכה – מה עושים לפני שמדליקים נרות?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a9/p0",
+"en": "a hotel lobby with a reception desk and a hanukkah menorah on a side table, a father with a kippa and his sons standing there, only a father and sons (lobby)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "בלובי",
+"question": "משפחה במלון בחנכה. איפה הכי נכון להדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a9/p1",
+"en": "a father with a kippa and his sons sitting in a hotel room with suitcases, no menorah at all, only a father and sons (no lighting)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "לא מדליקים",
+"question": "משפחה במלון בחנכה. איפה הכי נכון להדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a9/p2",
+"en": "a father with a kippa and his sons lighting a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, by the window of their hotel room, only a father and sons (room window)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "בחדר ליד החלון",
+"question": "משפחה במלון בחנכה. איפה הכי נכון להדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a10/p0",
+"en": "a father with a kippa and his sons lighting a small hanukkah menorah at the entrance of a big camping tent in a field at dusk, only a father and sons (at the tent)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "בפתח האוהל",
+"question": "מטילים ישנים בלילה באהל גדול. איך מדליקים?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a10/p1",
+"en": "a father with a kippa and his sons sitting in a big camping tent at night with no lights at all, only a father and sons (nothing)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "לא מדליקים",
+"question": "מטילים ישנים בלילה באהל גדול. איך מדליקים?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a10/p2",
+"en": "a father with a kippa and his sons sitting in a big camping tent at night lit only by a flashlight, only a father and sons (flashlight)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "רק פנס",
+"question": "מטילים ישנים בלילה באהל גדול. איך מדליקים?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/b1",
+"en": "a warm dining room with a festive dinner table and a lit hanukkah menorah on the windowsill, a father with a kippa putting on his coat at the front door, only men",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "",
+"question": "משפחת כהן אוכלת ארוחת ערב אצל הדודים, וחוזרת לישן בבית. מה הכי טוב?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/b2",
+"en": "a quiet dark apartment late at night with a clock on the wall showing late hour, a hanukkah menorah on a windowsill overlooking an empty street of plain Israeli stone houses, no tower, no dome, no cross, a man with a kippa holding a match, only the one man in this scene",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "",
+"question": "אבי חזר הביתה באחת עשרה בלילה. כלם ישנים, וברחוב אין אף אחד. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/b3",
+"en": "a boy with a kippa looking thoughtfully at a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, holding an unlit candle, evening window",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "",
+"question": "יוסף שכח לגמרי להדליק בלילה השלישי. כמה נרות ידליק בלילה הרביעי?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/b4",
+"en": "a Friday afternoon table set for Shabbat with challah under a cover and unlit Shabbat candlesticks, a hanukkah menorah of tall oil cups filled to the top on the windowsill, golden late afternoon light, no people",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "",
+"question": "בערב שבת חנכה מדליקים לפני השקיעה. על מה צריך להקפיד?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/b5",
+"en": "a table on Saturday night with a cup of wine, a braided havdalah candle and a spice box, and next to them an unlit hanukkah menorah, dark window with stars, no people",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "",
+"question": "במוצאי שבת חנכה, אחרי ערבית – מה עושים קדם: הבדלה או נרות חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/b6",
+"en": "a group of men with kippot sitting around a table with open books in a synagogue study corner in the evening, a Star of David on the wall, no church, no bell tower, only men",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "",
+"question": "אחרי ערבית יש בבית הכנסת שעור תורה קבוע. מה עדיף בחנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/b7",
+"en": "a simple yeshiva dormitory room with two beds, a bookshelf of holy books and a window facing the street, a young man with a kippa standing by the window, only the one young man in this scene",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "",
+"question": "אחיו של אביתר לומד בישיבה, ישן שם ואוכל בחדר האכל. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/b8",
+"en": "a tidy hotel room in the evening with a lit hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, on a table by the window, a clock on the wall, no people",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "",
+"question": "משפחה הדליקה בחדר במלון, ורוצה לרדת לחדר האכל. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/b9",
+"en": "an evening living room with an unlit hanukkah menorah on the windowsill, a father with a kippa looking at the clock and smiling toward the front door where his sons with kippot and school bags are coming in, only a father and sons",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "",
+"question": "בבית ספרדי אבא מדליק לכלם. הבנים חוזרים כל יום מהלמודים בשמונה בערב. מה עדיף?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a1/p0",
+"en": "a boy with a kippa at a school desk turning away and hiding a ruler behind his back while a classmate holds out his hand (refusing)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מסרב לתת",
+"question": "אתמול שמעון לא השאיל לך מחק. היום הוא מבקש ממך סרגל. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a1/p1",
+"en": "a boy with a kippa at a school desk smiling warmly and handing a ruler to a classmate (giving with a smile)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "נותן בחיוך",
+"question": "אתמול שמעון לא השאיל לך מחק. היום הוא מבקש ממך סרגל. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a1/p2",
+"en": "a boy with a kippa at a school desk handing a ruler to a classmate with a smug teasing face and a raised finger (teasing)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "נותן ועוקץ",
+"question": "אתמול שמעון לא השאיל לך מחק. היום הוא מבקש ממך סרגל. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a2/p0",
+"en": "a boy with a kippa sitting alone on a bench in a schoolyard with crossed arms and an angry frown (silent anger)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "שותק וכועס",
+"question": "בהפסקה חבר העליב אותך. מה התורה מלמדת לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a2/p1",
+"en": "a boy with a kippa peeking from behind a wall in a schoolyard with a sly look, waiting for a classmate to pass (waiting to get back)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מחכה להחזיר",
+"question": "בהפסקה חבר העליב אותך. מה התורה מלמדת לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a2/p2",
+"en": "two boys with kippot sitting together on a schoolyard bench, one calmly talking with open hands and the other listening (talking calmly)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מדבר בנחת",
+"question": "בהפסקה חבר העליב אותך. מה התורה מלמדת לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a3/p0",
+"en": "a boy with a kippa on a sidewalk smiling kindly as a friend walks past reading a book, a thought bubble above the smiling boy showing the friend busy with his book (kind thought)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "לא ראה אותי",
+"question": "אבי עבר לידך ברחוב ולא ענה לך \"שלום\". מה כדאי לחשב?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a3/p1",
+"en": "a boy with a kippa on a sidewalk frowning as a friend walks past reading a book, a thought bubble above him showing an angry face (angry thought)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "כועס עליי",
+"question": "אבי עבר לידך ברחוב ולא ענה לך \"שלום\". מה כדאי לחשב?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a3/p2",
+"en": "a boy with a kippa on a sidewalk rolling his eyes as a friend walks past reading a book, a thought bubble above him showing the friend with his nose up in the air (proud thought)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "חושב שהוא חשוב",
+"question": "אבי עבר לידך ברחוב ולא ענה לך \"שלום\". מה כדאי לחשב?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a4/p0",
+"en": "a small group of boys with kippot in a schoolyard, one boy leaning in eagerly with his hand cupped to his ear toward a whispering boy (leaning in)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מקשיב",
+"question": "בהפסקה ילד מספר לחברים דברים רעים על ילד אחר. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a4/p1",
+"en": "a small group of boys with kippot in a schoolyard, one boy talking excitedly and waving his hands as he adds to the gossip (adding more)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מוסיף סיפור",
+"question": "בהפסקה ילד מספר לחברים דברים רעים על ילד אחר. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a4/p2",
+"en": "a boy with a kippa walking away from a small group of whispering boys in a schoolyard toward a friendly ball game (walking away)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "הולך משם",
+"question": "בהפסקה ילד מספר לחברים דברים רעים על ילד אחר. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a5/p0",
+"en": "a boy with a kippa whispering into a classmate's ear while pointing at another boy across the classroom, the listener looking upset (whispering)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "פלוני אמר עליך",
+"question": "איזה משלושת הילדים עובר על אסור רכילות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a5/p1",
+"en": "a boy with a kippa smiling and pointing at a classmate's nice drawing while talking to the teacher, a man with a kippa (praising)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "משבח חבר",
+"question": "איזה משלושת הילדים עובר על אסור רכילות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a5/p2",
+"en": "a boy with a kippa waving and smiling to a friend in a school hallway (greeting)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מוסר שלום",
+"question": "איזה משלושת הילדים עובר על אסור רכילות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a6/p0",
+"en": "a classroom where boys with kippot laugh and point at a boy standing by the board with red cheeks (laughing)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "צוחקים עליו",
+"question": "יוסי טעה בתשובה מול כל הכתה. מה נכון לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a6/p1",
+"en": "a classroom where boys with kippot smile encouragingly at a boy standing by the board (encouraging)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מחייכים אליו",
+"question": "יוסי טעה בתשובה מול כל הכתה. מה נכון לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a6/p2",
+"en": "a boy with a kippa in a classroom making a silly face to imitate a classmate standing by the board (imitating)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מחקה אותו",
+"question": "יוסי טעה בתשובה מול כל הכתה. מה נכון לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a7/p0",
+"en": "two boys with kippot on a playground shouting at each other face to face (shouting back)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "צועק בחזרה",
+"question": "במשחק חבר צעק עליך מלה לא יפה. איך עוצרים את הריב?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a7/p1",
+"en": "a boy with a kippa on a playground waving a group of friends to come stand with him against another boy (calling friends)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "קורא לחברים",
+"question": "במשחק חבר צעק עליך מלה לא יפה. איך עוצרים את הריב?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a7/p2",
+"en": "a boy with a kippa on a playground calmly turning away with a peaceful face while another boy looks surprised (not answering)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "לא מחזיר",
+"question": "במשחק חבר צעק עליך מלה לא יפה. איך עוצרים את הריב?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a8/p0",
+"en": "a boy with a kippa kneeling to help a classmate pick up books that fell on the classroom floor (helping)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "עוזר לו",
+"question": "יש בכתה ילד שקשה לך לאהב. מה יעזר לך לאהב אותו?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a8/p1",
+"en": "a boy with a kippa sitting alone at the far end of the classroom, away from a classmate (keeping away)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מתרחק ממנו",
+"question": "יש בכתה ילד שקשה לך לאהב. מה יעזר לך לאהב אותו?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a8/p2",
+"en": "two boys with kippot whispering together and glancing at a third boy in the classroom (talking about him)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מדבר עליו",
+"question": "יש בכתה ילד שקשה לך לאהב. מה יעזר לך לאהב אותו?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a9/p0",
+"en": "a boy with a kippa standing aside in a schoolyard with his hands in his pockets, looking away while a few boys tease a small boy who looks a little sad (standing aside)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "עומד מהצד",
+"question": "כמה ילדים צוחקים על ילד חלש. מה עליך לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a9/p1",
+"en": "a boy with a kippa in a schoolyard gently raising his hand and talking to a few boys who are teasing a small boy (speaking up)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "אומר להפסיק",
+"question": "כמה ילדים צוחקים על ילד חלש. מה עליך לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/a9/p2",
+"en": "a boy with a kippa laughing together with a few boys at a small boy in a schoolyard (joining in)",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "מצטרף לצחוק",
+"question": "כמה ילדים צוחקים על ילד חלש. מה עליך לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/b1",
+"en": "two boys with kippot in front of a house, one handing a soccer ball to the other, a bicycle leaning on the fence",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "",
+"question": "שמעון לא השאיל לראובן את האופנים. למחרת שמעון מבקש כדור, וראובן נותן ואומר: \"תראה שאני לא כמוך\". מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/b2",
+"en": "two boys with kippot sitting on a low stone wall in a schoolyard after school, one of them looking hurt",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "",
+"question": "אריה פגע בדוד, ודוד כועס עליו. מה הדרך שהתורה מעדיפה?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/b3",
+"en": "the entrance of a synagogue with a Star of David above the door, a rabbi with a beard and a kippa walking out holding a prayer book",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "",
+"question": "ראית את רב בית הכנסת, איש ירא שמים, יוצא באמצע התפלה. מה נכון לחשב?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/b4",
+"en": "two boys with kippot sitting on a schoolyard bench with piles of collectible cards between them, a third boy with a kippa watching from nearby",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "",
+"question": "נעם רוצה להחליף קלפים עם ילד שאתה יודע שהוא נוטה לרמות. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/b5",
+"en": "a small community clubhouse building with a cracked window and a soccer ball lying on the grass below, a few boys with kippot standing nearby",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "",
+"question": "חבר בעט בכדור ושבר חלון במועדון של הישוב. כל החברים החליטו לשתק. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/b6",
+"en": "a synagogue courtyard with a Star of David on the building, a man with a kippa warmly shaking hands with a newcomer, also a man with a kippa",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "",
+"question": "למה התורה הוסיפה מצוה מיחדת לאהב את הגר ולהזהר בדבור אתו?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/b7",
+"en": "a classroom with boys with kippot, some heading to the door with their school bags and a few still sitting at their desks",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "",
+"question": "הכתה מתכננת להעלם לפני השעור האחרון, כדי לצחק על המורה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/b8",
+"en": "two boys with kippot sitting across a table in a study hall with open books, both pointing at a page with eager friendly faces",
+"topic": "🤝 בין אדם לחברו › בין אדם לחברו",
+"caption": "",
+"question": "בכתה יש וכוח על פרוש של פסוק. מתי זו \"מחלקת לשם שמים\"?",
+"section": ""
+},
+{
+"id": "hq/chavero-01/b9",
+"en": "a boy with a kippah and short hair standing next to a toppled tower of colorful wooden toy blocks on a living room rug, a small toddler boy sitting nearby, only these two boys",
+"topic": "🤝 בין אדם לחברו › לקוטים",
+"caption": "",
+"question": "האח הקטן של יונתן הרס לו את מגדל הקביות, ויונתן כועס מאוד. מה מלמדים חכמים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a1/p0",
+"en": "a boy with a kippa telling friends a story with arms spread wide, a thought bubble above him showing a giant snake (exaggerating)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "נחש ענק",
+"question": "דני מספר לחברים על הטיול. איך נכון לספר?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a1/p1",
+"en": "a boy with a kippa calmly telling friends a story, a thought bubble above him showing a simple hiking trail with a small bush (accurate)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "מה שהיה",
+"question": "דני מספר לחברים על הטיול. איך נכון לספר?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a1/p2",
+"en": "a boy with a kippa proudly pointing at himself while telling friends a story, a thought bubble above him showing himself alone at the top of a mountain (boasting)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "טיפסתי ראשון",
+"question": "דני מספר לחברים על הטיול. איך נכון לספר?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a2/p0",
+"en": "a boy with a kippa at a school desk thinking hard and writing on his own test paper (writing alone)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "כותב לבד",
+"question": "המבחן קשה, ואתה לא בטוח בתשובה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a2/p1",
+"en": "a boy with a kippa at a school desk leaning over to look at his neighbor's test paper (copying)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "מעתיק מהשכן",
+"question": "המבחן קשה, ואתה לא בטוח בתשובה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a2/p2",
+"en": "a boy with a kippa at a school desk peeking at an open notebook hidden under his desk (peeking)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "מציץ במחברת",
+"question": "המבחן קשה, ואתה לא בטוח בתשובה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a3/p0",
+"en": "a boy with a kippa running happily to a ball game in a park while his friend waits alone at a table with schoolbooks (going to play)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "הולך לשחק",
+"question": "הבטחת לעזר לחבר בשעורי הבית בערב. פתאום מזמינים אותך לשחק. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a3/p1",
+"en": "a boy with a kippa holding a phone to his ear and pretending to cough (fake excuse)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "אני חולה",
+"question": "הבטחת לעזר לחבר בשעורי הבית בערב. פתאום מזמינים אותך לשחק. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a3/p2",
+"en": "a boy with a kippa sitting next to a friend at a table and helping him with his homework notebook (helping)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "עוזר כמו שהבטיח",
+"question": "הבטחת לעזר לחבר בשעורי הבית בערב. פתאום מזמינים אותך לשחק. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a4/p0",
+"en": "a boy with a kippa standing by the teacher's desk looking honest and a little embarrassed, the teacher, a man with a kippa, listening kindly (honest)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "אומר אמת",
+"question": "המורה שואל אותך בשקט אם חזרת למבחן, ולא חזרת. מה עונים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a4/p1",
+"en": "a boy with a kippa standing by the teacher's desk nodding with a big fake confident smile, the teacher a man with a kippa (fake yes)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "כן, הרבה",
+"question": "המורה שואל אותך בשקט אם חזרת למבחן, ולא חזרת. מה עונים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a4/p2",
+"en": "a boy with a kippa standing by the teacher's desk shrugging with empty hands, the teacher a man with a kippa (excuse)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "הספר נעלם",
+"question": "המורה שואל אותך בשקט אם חזרת למבחן, ולא חזרת. מה עונים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a5/p0",
+"en": "a boy with a kippa making a disgusted face at a new school backpack his friend proudly holds up (criticizing)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "הוא מכוער",
+"question": "חבר מראה לך תיק חדש שקנה, והתיק לא מוצא חן בעיניך. מה אומרים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a5/p1",
+"en": "a boy with a kippa laughing and pointing at the bright color of a new school backpack his friend holds up (laughing)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "צוחק על הצבע",
+"question": "חבר מראה לך תיק חדש שקנה, והתיק לא מוצא חן בעיניך. מה אומרים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a5/p2",
+"en": "a boy with a kippa smiling and pointing at the many pockets of a new school backpack his friend proudly holds up (praising)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "משבח משהו",
+"question": "חבר מראה לך תיק חדש שקנה, והתיק לא מוצא חן בעיניך. מה אומרים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a6/p0",
+"en": "a boy with a kippa whispering eagerly into a friend's ear on a school bench (telling all)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "מספר הכול",
+"question": "חבר שואל אותך אם יוסי אמר עליו דברים רעים – ויוסי באמת אמר. מה עדיף לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a6/p1",
+"en": "a boy with a kippa on a school bench smiling and pointing at a soccer game in the yard to change the subject (changing subject)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "מחליף נושא",
+"question": "חבר שואל אותך אם יוסי אמר עליו דברים רעים – ויוסי באמת אמר. מה עדיף לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a6/p2",
+"en": "a boy with a kippa on a school bench talking with big hand gestures to an upset friend (adding more)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "מוסיף עוד",
+"question": "חבר שואל אותך אם יוסי אמר עליו דברים רעים – ויוסי באמת אמר. מה עדיף לעשות?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a7/p0",
+"en": "a boy with a kippa at a neighbor's door holding out his hands to help, behind him a fully set festive table with no work left (all ready)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "הכול מוכן",
+"question": "בבית השכנים מכינים שמחה. מתי מציעים להם עזרה?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a7/p1",
+"en": "a boy with a kippa at a neighbor's door in the evening, behind him empty chairs and a cleared table after the celebration (everyone left)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "כולם הלכו",
+"question": "בבית השכנים מכינים שמחה. מתי מציעים להם עזרה?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a7/p2",
+"en": "a boy with a kippa carrying folding chairs into a neighbor's yard while men with kippot set up tables for a celebration (work to do)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "עוד יש עבודה",
+"question": "בבית השכנים מכינים שמחה. מתי מציעים להם עזרה?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a8/p0",
+"en": "a boy with a kippa handing a slice of cake to a visiting friend at the kitchen table and pointing at the friend with a big grin, a large cake on the table (made for you)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "אפינו בשבילך",
+"question": "חבר בא לבקר. בבית יש עוגה גדולה שאפו לשבת. מה נכון לומר?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a8/p1",
+"en": "a boy with a kippa warmly offering a plate with a slice of cake to a visiting friend at the kitchen table, a large cake on the table (please taste)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "בבקשה, תטעם",
+"question": "חבר בא לבקר. בבית יש עוגה גדולה שאפו לשבת. מה נכון לומר?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a8/p2",
+"en": "a boy with a kippa handing a slice of cake to a visiting friend while hiding a big remaining cake behind his back (last piece)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "החתיכה האחרונה",
+"question": "חבר בא לבקר. בבית יש עוגה גדולה שאפו לשבת. מה נכון לומר?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a9/p0",
+"en": "a boy with a kippa in a kitchen pointing at himself honestly next to a broken glass on the floor, his father with a kippa listening (honest)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "אני שברתי",
+"question": "שברת בטעות כוס, ואבא שואל מה קרה. מה עונים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a9/p1",
+"en": "a boy with a kippa in a kitchen pointing at his little brother next to a broken glass on the floor, his father with a kippa (blaming brother)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "אחי שבר",
+"question": "שברת בטעות כוס, ואבא שואל מה קרה. מה עונים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/a9/p2",
+"en": "a boy with a kippa in a kitchen pointing at a cat next to a broken glass on the floor, his father with a kippa (blaming cat)",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "החתול הפיל",
+"question": "שברת בטעות כוס, ואבא שואל מה קרה. מה עונים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/b1",
+"en": "a family dining table set for dinner, a father with a kippa at the open front door greeting a guest who holds his car keys",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "",
+"question": "אורח הגיע בזמן הארוחה. אבא יודע שהוא ממהר ויסרב, אבל בלבו שמח לארח אותו. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/b2",
+"en": "a boy with a kippa at the front door of his home waving a friend inside, the friend holding his school bag and pointing down the street",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "",
+"question": "שמעון לא רוצה שחברו יאכל אצלו, אבל מפציר בו – כי הוא יודע שהחבר יסרב. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/b3",
+"en": "a city bus stop with a bus pulling in, a boy with a kippa sitting on the bench and another boy with a kippa stepping off the bus and smiling",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "",
+"question": "רוני ישב בתחנה. דוד ירד מהאוטובוס וחשב שרוני בא לקבל אותו, אבל רוני סתם חכה שם. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/b4",
+"en": "a man with a kippa handing a wrapped bottle as a gift to his neighbor over a garden fence, both men smiling",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "",
+"question": "יהודי נותן לשכן גוי בקבוק יין פשוט, ואומר שזה יין נדיר ויקר. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/b5",
+"en": "two boys with kippot standing apart in a schoolyard with their backs to each other, and a third boy with a kippa walking toward one of them",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "",
+"question": "חבר רוצה לעשות שלום בין שני ילדים שרבו. מתי מתר לו לשנות מהאמת?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/b6",
+"en": "a study hall with shelves of holy books, a boy with a kippa sitting with an open Talmud volume while a friend with a kippa asks him something",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "",
+"question": "שואלים את יוסף אם הוא יודע היטב את כל המסכת, והוא יודע. למה מתר לו לומר שלא?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/b7",
+"en": "a school hallway near the door of the teachers' room, two boys with kippot standing and talking seriously Every boy has SHORT cropped hair and a kippa. NO words, letters or signs anywhere. Buildings are plain Israeli stone houses, no tower, no dome, no cross.",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "",
+"question": "חבר בטוח שאבי לקח לו עט, ומבקש שתגיד למורה שראית. אבל לא ראית. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/b8",
+"en": "a festive family celebration in a home with guests at a long table, an elderly rabbi with a kippa arriving at the door carrying a covered cooking pot",
+"topic": "🤝 בין אדם לחברו › הלכות גנבת דעת",
+"caption": "",
+"question": "רב חשוב בא לשמח אצל שכניו עם סיר אכל, והוא יודע שיש שם אכל בשפע. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-02/b9",
+"en": "two boys with kippot and short hair shaking hands next to a used blue bicycle on a quiet neighborhood street, plain Israeli stone houses, no tower, no dome, no cross",
+"topic": "🤝 בין אדם לחברו › אמירת אמת",
+"caption": "",
+"question": "נעם סכם למכר לאבי את האופנים הישנים שלו במאה שקלים. אחר כך בא חבר אחר והציע מאה וחמשים. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a1/p0",
+"en": "a boy with a kippa sneakily hiding a classmate's pencil case inside a cupboard in an empty classroom, grinning (hiding)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מחביא בצחוק",
+"question": "חבר השאיר את הקלמר שלו על השלחן ויצא להפסקה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a1/p1",
+"en": "a boy with a kippa coloring with a classmate's new set of markers at the classmate's empty desk (using markers)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מצייר בטושים שלו",
+"question": "חבר השאיר את הקלמר שלו על השלחן ויצא להפסקה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a1/p2",
+"en": "a boy with a kippa walking past a classmate's empty desk with a pencil case on it, keeping his hands behind his back (not touching)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "לא נוגע",
+"question": "חבר השאיר את הקלמר שלו על השלחן ויצא להפסקה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a2/p0",
+"en": "a boy with a kippa waiting politely on the doorstep of a neighbor's apartment, looking at his watch (waiting to ask)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מחכה לבקש",
+"question": "צריכים כפית. השכן לא בבית, והדלת שלו פתוחה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a2/p1",
+"en": "a boy with a kippa walking into a neighbor's empty kitchen through an open door and taking a spoon from a drawer (taking)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "נכנס ולוקח",
+"question": "צריכים כפית. השכן לא בבית, והדלת שלו פתוחה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a2/p2",
+"en": "a boy with a kippa leaving a neighbor's open door with a spoon in his hand, a thought bubble above him showing himself returning it the next morning (return tomorrow)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "יחזיר מחר",
+"question": "צריכים כפית. השכן לא בבית, והדלת שלו פתוחה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a3/p0",
+"en": "a boy with a kippa at a school desk quietly sliding his neighbor's eraser toward himself while the neighbor writes (taking quietly)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "לוקח בשקט",
+"question": "החבר יושב לידך, ואתה צריך את המחק שלו. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a3/p1",
+"en": "a boy with a kippa at a school desk turning to his neighbor and asking politely with an open hand (asking)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "אפשר בבקשה?",
+"question": "החבר יושב לידך, ואתה צריך את המחק שלו. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a3/p2",
+"en": "a boy with a kippa at a school desk quickly grabbing his neighbor's eraser while the neighbor looks away (grabbing)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "חוטף ומחזיר",
+"question": "החבר יושב לידך, ואתה צריך את המחק שלו. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a4/p0",
+"en": "a boy with a kippa at a bus stop unzipping a backpack that is not his and taking out a sandwich (eating from it)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "לוקח ממנו אוכל",
+"question": "אחרי הטיול גלית שהתיק שלך התחלף בתיק דומה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a4/p1",
+"en": "a boy with a kippa walking to school wearing a backpack that looks almost like his own (using it)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "משתמש בתיק",
+"question": "אחרי הטיול גלית שהתיק שלך התחלף בתיק דומה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a4/p2",
+"en": "a boy with a kippa holding up a backpack and showing it to a group of classmates, asking whose it is (asking around)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מחפש את הבעלים",
+"question": "אחרי הטיול גלית שהתיק שלך התחלף בתיק דומה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a5/p0",
+"en": "a boy with a kippa at a wedding table neatly putting the leftovers from his own plate into a small container (own plate)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מהצלחת שלי",
+"question": "בחתנה של הדוד נשאר הרבה אכל. מה מתר לקחת הביתה בלי לשאל?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a5/p1",
+"en": "a boy with a kippa at a wedding reaching with a bag toward a big shared tray of cakes on the buffet (big tray)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מהמגש הגדול",
+"question": "בחתנה של הדוד נשאר הרבה אכל. מה מתר לקחת הביתה בלי לשאל?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a5/p2",
+"en": "a boy with a kippa at a wedding gathering drink bottles from several tables into his arms (bottles)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "בקבוקים",
+"question": "בחתנה של הדוד נשאר הרבה אכל. מה מתר לקחת הביתה בלי לשאל?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a6/p0",
+"en": "a boy with a kippa walking out of a synagogue with a holy book under his arm, empty benches behind him (taking it)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "אף אחד לא לומד",
+"question": "בבית הכנסת יש ספר שאתה רוצה ללמד בו בבית. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a6/p1",
+"en": "a boy with a kippa holding a holy book and asking the synagogue caretaker, an older man with a kippa and a beard, by the bookshelves (asking permission)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מבקש מהגבאי",
+"question": "בבית הכנסת יש ספר שאתה רוצה ללמד בו בבית. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a6/p2",
+"en": "a boy with a kippa pulling a book from a synagogue bookshelf and slipping it into his backpack (into the bag)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מכניס לתיק",
+"question": "בבית הכנסת יש ספר שאתה רוצה ללמד בו בבית. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a7/p0",
+"en": "a boy with a kippa in a synagogue carefully placing a lulav and etrog back in their holder on a shelf (back in place)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מחזיר למקום",
+"question": "בסכות, ארבעה מינים של אדם אחר מנחים בבית הכנסת, והוא לא כאן. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a7/p1",
+"en": "a boy with a kippa walking out of a synagogue door carrying a lulav and etrog toward home (taking home)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "לוקח הביתה",
+"question": "בסכות, ארבעה מינים של אדם אחר מנחים בבית הכנסת, והוא לא כאן. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a7/p2",
+"en": "a boy with a kippa in a synagogue leaving a lulav and etrog lying on a far bench across the room (far bench)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "על ספסל רחוק",
+"question": "בסכות, ארבעה מינים של אדם אחר מנחים בבית הכנסת, והוא לא כאן. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a8/p0",
+"en": "a boy with a kippa sitting on a bus seat looking out the window while a man walks past the driver without paying (ignoring)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מתעלם",
+"question": "מישהו עלה לאוטובוס ולא שלם. מה עושים קדם?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a8/p1",
+"en": "a boy with a kippa standing on a bus pointing and shouting angrily at a man who did not pay (shouting)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "צועק עליו",
+"question": "מישהו עלה לאוטובוס ולא שלם. מה עושים קדם?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a8/p2",
+"en": "a boy with a kippa on a bus quietly and politely talking to a man who walked past the payment machine (telling gently)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "אומר בנחת",
+"question": "מישהו עלה לאוטובוס ולא שלם. מה עושים קדם?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a9/p0",
+"en": "a boy with a kippa at a kiosk counter happily pointing at more candy with coins in his hand (more candy)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "עוד ממתק",
+"question": "בקיוסק קבלת בטעות עדף גדול מדי. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a9/p1",
+"en": "a boy with a kippa at a kiosk counter handing coins back to the smiling kiosk owner, a man with a kippa (giving back)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "מחזיר למוכר",
+"question": "בקיוסק קבלת בטעות עדף גדול מדי. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/a9/p2",
+"en": "a boy with a kippa walking away from a kiosk quickly putting extra coins into his pocket (keeping)",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "שומר לעצמו",
+"question": "בקיוסק קבלת בטעות עדף גדול מדי. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/b1",
+"en": "the entrance hall of an event hall on a rainy evening, a row of coat hooks with bags and several umbrellas in a stand by the door",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "",
+"question": "מה ההבדל בין תיק שהתחלף באירוע לבין מטריה שהתחלפה ביום גשם?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/b2",
+"en": "a classroom during recess with an empty desk, a simple ballpoint pen lying on it, and a boy with a kippa standing next to the desk holding a notebook",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "",
+"question": "יוסי צריך לכתב מלה אחת. על השלחן מנח עט פשוט של חבר שיצא. מתי מתר לו להשתמש בו?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/b3",
+"en": "a quiet backyard of a house with a soccer ball lying on the grass by the fence, and a boy with a kippa looking at it over the fence",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "",
+"question": "הכדור של ארי מנח בחצר, וארי לא בבית. יש סכוי קטן שהוא לא יסכים. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/b4",
+"en": "a dirt path in an old village with a broken clay jar and spilled golden honey on the ground, an empty clay jar standing by a nearby gate, and a man with a kippa kneeling beside them",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "",
+"question": "הכד של דני נשבר, והדבש מתחיל להשפך. לידו כד ריק של אדם אחר, שאינו כאן. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/b5",
+"en": "a toy store with shelves of colorful board games, two boys with kippot looking at a game box together Every boy has SHORT cropped hair and a kippa. NO words, letters or signs anywhere. Buildings are plain Israeli stone houses, no tower, no dome, no cross.",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "",
+"question": "חבר שואל את עצתך איזה משחק לקנות. אתה יודע שהמשחק שהוא רוצה מתקלקל מהר. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/b6",
+"en": "a small neighborhood grocery store with a smiling shopkeeper behind the counter and a man with a kippa holding a shopping bag Every boy has SHORT cropped hair and a kippa. NO words, letters or signs anywhere. Buildings are plain Israeli stone houses, no tower, no dome, no cross.",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "",
+"question": "קניתם מחנוני גוי בהקפה, והוא שכח שאתם חיבים לו. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/b7",
+"en": "a study hall with long tables and benches, a boy with a kippa looking at a closed Talmud volume that belongs to a man with a kippa learning next to him",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "",
+"question": "בעל הגמרא יושב בספסל שלידך, ואתה רוצה ללמד בה שעה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-03/b8",
+"en": "a small grocery store aisle with shelves of snacks, a boy with a kippa holding a shopping basket and peeking around the end of the aisle",
+"topic": "🤝 בין אדם לחברו › הלכות גנבה",
+"caption": "",
+"question": "בחנות ראית איש גדול ומפחיד גונב, ואתה חושש שיפגע בך. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a1/p0",
+"en": "a boy with a kippa at a bus stop smiling and handing a few coins to his friend with a kippa (lending)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "מלווה בשמחה",
+"question": "חבר שכח את הכסף לאוטובוס, ומבקש שתלוה לו. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a1/p1",
+"en": "a boy with a kippa at a bus stop turning away from his friend and pointing down the street (sending away)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "שולח לאחר",
+"question": "חבר שכח את הכסף לאוטובוס, ומבקש שתלוה לו. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a1/p2",
+"en": "a boy with a kippa at a bus stop wagging his finger at his embarrassed friend with a kippa (scolding)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "נוזף בו",
+"question": "חבר שכח את הכסף לאוטובוס, ומבקש שתלוה לו. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a2/p0",
+"en": "a boy with a kippa lying lazily on a sofa next to a piggy bank (whenever)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "כשירצה",
+"question": "דני לוה כסף, ולא קבעו מתי להחזיר. מתי עליו להחזיר?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a2/p1",
+"en": "a boy with a kippa handing coins back to his friend, a wall calendar with one page torn off behind them (after a month)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "אחרי חודש",
+"question": "דני לוה כסף, ולא קבעו מתי להחזיר. מתי עליו להחזיר?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a2/p2",
+"en": "a boy with a kippa sitting and waiting while his friend taps his shoulder to remind him (when reminded)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "כשיזכירו לו",
+"question": "דני לוה כסף, ולא קבעו מתי להחזיר. מתי עליו להחזיר?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a3/p0",
+"en": "a boy with a kippa crossing his arms and shaking his head at his friend who asks for help (refusing)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "כבר הלוויתי",
+"question": "יוסי החזיר לך אתמול הלואה, והיום הוא מבקש שוב. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a3/p1",
+"en": "a boy with a kippa handing coins to his friend with a sour annoyed face (grumpy)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "בפרצוף חמוץ",
+"question": "יוסי החזיר לך אתמול הלואה, והיום הוא מבקש שוב. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a3/p2",
+"en": "a boy with a kippa happily handing coins to his friend, both smiling (happy)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "בשמחה",
+"question": "יוסי החזיר לך אתמול הלואה, והיום הוא מבקש שוב. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a4/p0",
+"en": "a boy with a kippa holding out his hand to his friend for a stack of coins with a few extra coins on top (a bit more)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "שנים עשר",
+"question": "אתה מלוה לחבר עשרה שקלים. כמה מתר לבקש שיחזיר?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a4/p1",
+"en": "a boy with a kippa receiving back a small neat stack of coins from his friend (same amount)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "עשרה",
+"question": "אתה מלוה לחבר עשרה שקלים. כמה מתר לבקש שיחזיר?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a4/p2",
+"en": "a boy with a kippa holding out both hands for a big heap of coins from his worried friend (much more)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "חמישה עשר",
+"question": "אתה מלוה לחבר עשרה שקלים. כמה מתר לבקש שיחזיר?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a5/p0",
+"en": "a boy with a kippa writing in a small notebook at his desk, a few coins next to it (writing it down)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "רושם בפנקס",
+"question": "הלוית לחבר כמה שקלים. מה כדאי לעשות, כדי שלא יהיה אחר כך ריב?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a5/p1",
+"en": "a boy with a kippa tapping his friend on the shoulder again and again in a school hallway (nagging)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "מזכיר כל שעה",
+"question": "הלוית לחבר כמה שקלים. מה כדאי לעשות, כדי שלא יהיה אחר כך ריב?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a5/p2",
+"en": "a boy with a kippa standing in a classroom talking loudly to classmates and pointing at a friend (telling everyone)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "מספר לכולם",
+"question": "הלוית לחבר כמה שקלים. מה כדאי לעשות, כדי שלא יהיה אחר כך ריב?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a6/p0",
+"en": "a boy with a kippa closing the front door on a modestly dressed man with a kippa (nothing)",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "בלי כלום",
+"question": "עני דופק בדלת ומבקש צדקה. מה נותנים לו?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a6/p1",
+"en": "a boy with a kippa emptying a whole piggy bank into the hands of a modestly dressed man with a kippa at the door (all the savings)",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "כל החיסכון",
+"question": "עני דופק בדלת ומבקש צדקה. מה נותנים לו?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a6/p2",
+"en": "a boy with a kippa at the front door kindly placing one coin in the hand of a modestly dressed man with a kippa (a coin)",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "מטבע קטן",
+"question": "עני דופק בדלת ומבקש צדקה. מה נותנים לו?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a7/p0",
+"en": "a boy with a kippa at a candy shop counter with a big pile of sweets (candy)",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "ממתקים",
+"question": "סבא נתן לך חמשים שקלים במתנה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a7/p1",
+"en": "a boy with a kippa dropping coins into a tzedakah box on a shelf at home (tzedakah box)",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "לקופת צדקה",
+"question": "סבא נתן לך חמשים שקלים במתנה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a7/p2",
+"en": "a boy with a kippa hiding paper money in a desk drawer (drawer)",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "במגירה",
+"question": "סבא נתן לך חמשים שקלים במתנה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a8/p0",
+"en": "a man with a kippa handing a loaf of bread to a modestly dressed man with a kippa (bread)",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "ככר לחם",
+"question": "איזו צדקה היא המעלה הגבוהה ביותר?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a8/p1",
+"en": "a man with a kippa giving a coin to a modestly dressed man with a kippa (coin)",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "מטבע",
+"question": "איזו צדקה היא המעלה הגבוהה ביותר?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a8/p2",
+"en": "a man with a kippa in a carpentry workshop showing a modestly dressed man with a kippa how to use the tools (a job)",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "עבודה",
+"question": "איזו צדקה היא המעלה הגבוהה ביותר?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a9/p0",
+"en": "a man with a kippa handing an envelope to a man with a kippa in old patched clothes (the poor man)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "לעני",
+"question": "שנים מבקשים הלואה, ויש לך רק לאחד: עני ועשיר. למי מלוים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a9/p1",
+"en": "a man with a kippa handing an envelope to a man with a kippa in an elegant suit and shiny shoes (the rich man)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "לעשיר",
+"question": "שנים מבקשים הלואה, ויש לך רק לאחד: עני ועשיר. למי מלוים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a9/p2",
+"en": "a man with a kippa handing an envelope to the first man in a short line at his door (first in line)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "לראשון בתור",
+"question": "שנים מבקשים הלואה, ויש לך רק לאחד: עני ועשיר. למי מלוים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a10/p0",
+"en": "a man with a kippa handing a folded new shirt to a man with a kippa in worn clothes (clothes)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "בגדים",
+"question": "שני עניים: אחד צריך אכל, והשני צריך בגדים חדשים. למי עוזרים קדם?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a10/p1",
+"en": "a man with a kippa handing a bag of groceries with bread and vegetables to a hungry looking man with a kippa (food)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "אוכל",
+"question": "שני עניים: אחד צריך אכל, והשני צריך בגדים חדשים. למי עוזרים קדם?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/a10/p2",
+"en": "a man with a kippa turning toward a man with a kippa who is calling out loudly with his hands around his mouth (loudest)",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "מי שצועק",
+"question": "שני עניים: אחד צריך אכל, והשני צריך בגדים חדשים. למי עוזרים קדם?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/b1",
+"en": "a boy with a kippa standing in a toy store holding a few coins, shelves of colorful toys on one side and a shelf of school books on the other",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "",
+"question": "רוני לוה מחברו כסף כדי לקנות ספרים לבית הספר. בחנות הוא ראה משחק יקר. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/b2",
+"en": "a father with a kippa standing at his open front door holding an envelope, visitors with kippot waiting on the garden path",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "",
+"question": "לאבא יש כסף להלואה אחת. מבקשים ממנו: דוד שגר בשכונה ואינו עני, ועני זר מעיר אחרת. למי ילוה?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/b3",
+"en": "a boy with a kippa standing in front of his house holding an old bicycle by the handlebars",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "",
+"question": "שמואל מוכר את האופנים הישנים שלו. קונה יהודי וקונה גוי רוצים אותם, והגוי מציע קצת יותר. מה עדיף?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/b4",
+"en": "a boy with a kippa at a bus stop counting a few coins in his open palm",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "",
+"question": "אבא נתן לאלי עשרים שקלים לנסיעות, ונשארו לו חמשה. אבא אמר: \"העדף שלך\". ממה מעשרים?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/b5",
+"en": "a boy with a kippa sitting at his desk with a small open notebook, a few coins and a tzedakah box",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "",
+"question": "דוד חיב לחברו כסף, וגם הגיע הזמן לתת מעשר. אין לו מספיק לשניהם. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/b6",
+"en": "a velvet tefillin bag on a table next to a tzedakah box, in a synagogue with a Star of David window",
+"topic": "🤝 בין אדם לחברו › הלכות צדקה",
+"caption": "",
+"question": "לקראת בר המצוה רוצה נעם לקנות לעצמו תפלין בכסף המעשר שחסך. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/b7",
+"en": "a father with a kippa sitting at a kitchen table looking thoughtfully at an open notebook, a cup of tea beside him",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "",
+"question": "אבא של אביחי הלוה פעמים, ולא החזירו לו. עכשו הוא אומר: \"לא אלוה יותר לאף אחד\". מה נכון?",
+"section": ""
+},
+{
+"id": "hq/chavero-04/b8",
+"en": "a man with a kippa sitting at a desk with an open cash box and a neat row of envelopes",
+"topic": "🤝 בין אדם לחברו › מצות הלואה",
+"caption": "",
+"question": "ליעקב יש אלף שקלים להלואות. עשרה מבקשים מאה שקלים כל אחד, ואחד מבקש את כל האלף. מה עדיף בדרך כלל?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a1/p0",
+"en": "a boy with a kippa smiling and placing a glass of water and a plate of cookies in front of a tired guest with a kippa sitting on the sofa (drink and food)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מגיש לו",
+"question": "אורח עיף מגיע לבית שלכם. מה עושים קדם?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a1/p1",
+"en": "a boy with a kippa leading a tired guest with a kippa holding a suitcase down a hallway and pointing at the rooms (house tour)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "סיור בבית",
+"question": "אורח עיף מגיע לבית שלכם. מה עושים קדם?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a1/p2",
+"en": "a boy with a kippa sitting and reading a book while a tired guest with a kippa sits waiting on the sofa (waiting)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מחכה",
+"question": "אורח עיף מגיע לבית שלכם. מה עושים קדם?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a2/p0",
+"en": "an old man with a white beard and a head covering in ancient robes lying on a mat to rest inside a desert tent (resting)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "נח באוהל",
+"question": "מה עשה אברהם אבינו כשהיה חולה וראה אורחים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a2/p1",
+"en": "an old man with a white beard and a head covering in ancient robes running happily from his tent toward travelers in the desert (running)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "רץ לקראתם",
+"question": "מה עשה אברהם אבינו כשהיה חולה וראה אורחים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a2/p2",
+"en": "an old man with a white beard and a head covering in ancient robes at his tent door waving travelers away with his hand (another day)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "ביום אחר",
+"question": "מה עשה אברהם אבינו כשהיה חולה וראה אורחים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a3/p0",
+"en": "a boy with a kippa pointing toward the kitchen sink for a guest with a kippa (pointing)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מראה את הברז",
+"question": "אורח מבקש כוס מים. מה הכי דומה למעשה רבקה?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a3/p1",
+"en": "a boy with a kippa handing a glass of water to a guest with a kippa and turning to walk away (glass and leave)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "כוס והולך",
+"question": "אורח מבקש כוס מים. מה הכי דומה למעשה רבקה?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a3/p2",
+"en": "a boy with a kippa handing a glass of water to a guest with a kippa and offering a bowl of fruit with a big smile (offering more)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מציע עוד",
+"question": "אורח מבקש כוס מים. מה הכי דומה למעשה רבקה?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a4/p0",
+"en": "boys with kippot playing ball in a schoolyard, not noticing a boy with a kippa standing alone by the fence (keep playing)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "ממשיכים לשחק",
+"question": "ילד חדש עומד לבד בהפסקה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a4/p1",
+"en": "a boy with a kippa walking over with a smile and reaching out his hand to a lonely boy with a kippa by the schoolyard fence (inviting)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מזמין אותו",
+"question": "ילד חדש עומד לבד בהפסקה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a4/p2",
+"en": "boys with kippot staring from far away at a lonely boy with a kippa standing by the schoolyard fence (staring)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מסתכלים מרחוק",
+"question": "ילד חדש עומד לבד בהפסקה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a5/p0",
+"en": "a thin squeaky metal folding cot with no pillow in a corner of a room (folding cot)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מיטה חורקת",
+"question": "אורח נשאר לישן אצלכם בליל חרף. מה מכינים לו?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a5/p1",
+"en": "a thin mattress lying on the floor with no pillow and a light sheet (floor mattress)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מזרן על הרצפה",
+"question": "אורח נשאר לישן אצלכם בליל חרף. מה מכינים לו?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a5/p2",
+"en": "a cozy made bed with a fluffy pillow and a thick warm blanket, a boy with a kippa smoothing the blanket (cozy bed)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מיטה נוחה",
+"question": "אורח נשאר לישן אצלכם בליל חרף. מה מכינים לו?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a6/p0",
+"en": "a father with a kippa and his son with a kippa walking a guest with a kippa down the front path outside the house (walking him out)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מלווים אותו",
+"question": "האורח הולך הביתה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a6/p1",
+"en": "a boy with a kippa lying on a sofa and waving lazily at a guest with a kippa at the door (waving)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מנפנף מהספה",
+"question": "האורח הולך הביתה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a6/p2",
+"en": "a boy with a kippa quickly closing the front door behind a guest with a kippa (closing the door)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "סוגר את הדלת",
+"question": "האורח הולך הביתה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a7/p0",
+"en": "a boy with a kippa handing invitation envelopes to his smiling friends with kippot in a schoolyard (best friends)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "החברים הכי טובים",
+"question": "אתה מחלק הזמנות לבר המצוה שלך. את מי לא שוכחים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a7/p1",
+"en": "a boy with a kippa handing an invitation envelope to a lonely elderly man with a kippa sitting on a bench outside his apartment (lonely neighbor)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "השכן הבודד",
+"question": "אתה מחלק הזמנות לבר המצוה שלך. את מי לא שוכחים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a7/p2",
+"en": "a boy with a kippa handing an invitation envelope to a man with a kippa who holds a big wrapped gift box (gift bringer)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מי שיביא מתנה",
+"question": "אתה מחלק הזמנות לבר המצוה שלך. את מי לא שוכחים?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a8/p0",
+"en": "a boy with a kippa laughing and pointing mockingly at another boy with a kippa who dropped his books (mocking)",
+"topic": "🤝 בין אדם לחברו › חברה ושליחות",
+"caption": "צוחק על אחרים",
+"question": "עם איזה חבר כדאי להתחבר?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a8/p1",
+"en": "a boy with a kippa standing with crossed arms and a cheeky face in front of a teacher with a kippa (cheeky)",
+"topic": "🤝 בין אדם לחברו › חברה ושליחות",
+"caption": "מתחצף",
+"question": "עם איזה חבר כדאי להתחבר?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a8/p2",
+"en": "two boys with kippot learning together from one open book, one boy helping the other (learning together)",
+"topic": "🤝 בין אדם לחברו › חברה ושליחות",
+"caption": "לומד ועוזר",
+"question": "עם איזה חבר כדאי להתחבר?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a9/p0",
+"en": "a boy with a kippa helping his friend's father with a kippa clear plates from the table (helping)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "עוזר לסדר",
+"question": "אתה מתארח אצל חבר. מה מתאים לאורח טוב?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a9/p1",
+"en": "a boy with a kippa sitting on the sofa and calling out to his tired friend with a kippa who carries a tray of snacks (demanding)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "מבקש עוד ועוד",
+"question": "אתה מתארח אצל חבר. מה מתאים לאורח טוב?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a9/p2",
+"en": "a boy with a kippa unpacking a big suitcase full of clothes in his friend's bedroom (staying long)",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "נשאר עוד שבוע",
+"question": "אתה מתארח אצל חבר. מה מתאים לאורח טוב?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a10/p0",
+"en": "a boy with a kippa kicking a ball alone in a backyard (ball)",
+"topic": "🤝 בין אדם לחברו › חברה ושליחות",
+"caption": "כדור בחצר",
+"question": "מה עלול להשפיע עלינו היום אפלו יותר משכן רע?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a10/p1",
+"en": "a boy with a kippa sitting close to a glowing screen in a dark room (screen)",
+"topic": "🤝 בין אדם לחברו › חברה ושליחות",
+"caption": "מסך",
+"question": "מה עלול להשפיע עלינו היום אפלו יותר משכן רע?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/a10/p2",
+"en": "a neighbor's closed front door across the street seen from a boy's window, a boy with a kippa looking out (distant neighbor)",
+"topic": "🤝 בין אדם לחברו › חברה ושליחות",
+"caption": "שכן רחוק",
+"question": "מה עלול להשפיע עלינו היום אפלו יותר משכן רע?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/b1",
+"en": "a warm dining room with a set table, a father with a kippa welcoming a tired traveler with a kippa and a backpack at the open door in the evening",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "",
+"question": "באיזה ארוח מקימים את המצוה שגדולה מקבלת פני השכינה?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/b2",
+"en": "a young man with a kippa holding a suitcase being welcomed into a family home in the evening, a father with a kippa smiling at the door",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "",
+"question": "היום כמעט אין אנשים רעבים. איך מקימים היום את הכנסת האורחים בהדור?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/b3",
+"en": "two boys with kippot talking at the school gate after class, one of them with an uneasy forced smile",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "",
+"question": "אביגדור אומר לחבר: \"בוא אלינו לשבת!\" – אבל בלבו הוא מקוה שהחבר יסרב. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/b4",
+"en": "a boy with a kippa ringing the doorbell of a friend's house, holding a small box of cookies",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "",
+"question": "מה פרוש הפסוק \"הקר רגלך מבית רעך\"?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/b5",
+"en": "an ancient town with bathhouses and vineyards on green hills, a bearded sage with a head covering sitting alone under a tree with a closed scroll",
+"topic": "🤝 בין אדם לחברו › חברה ושליחות",
+"caption": "",
+"question": "למה שכח רבי אלעזר בן ערך את תלמודו?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/b6",
+"en": "two men with kippot studying together from an open book at a small table on a balcony of a city apartment",
+"topic": "🤝 בין אדם לחברו › חברה ושליחות",
+"caption": "",
+"question": "מתי נכון לגור בין רחוקים מתורה כדי לקרב אותם?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/b7",
+"en": "a quiet neighborhood street with houses and trees, a boy with a kippa standing by a garden gate and waving hello across the street",
+"topic": "🤝 בין אדם לחברו › חברה ושליחות",
+"caption": "",
+"question": "בשכונה של איתי גר ילד ממשפחה שאינה שומרת מצוות. איך נכון להתיחס אליו?",
+"section": ""
+},
+{
+"id": "hq/chavero-05/b8",
+"en": "a decorated sukkah with a long set holiday table, a father with a kippa at the entrance inviting an elderly man with a kippa inside",
+"topic": "🤝 בין אדם לחברו › הכנסת אורחים",
+"caption": "",
+"question": "משפחת לוי מתכננת סעדת חג. מה יהפך את השמחה שלהם לשמחת מצוה?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a1/p0",
+"en": "a flat open rooftop of a house with no railing at all at the edges, a boy with a kippa standing safely in the middle with a watering can (no railing)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "בלי מעקה",
+"question": "לבית משפחת כהן יש גג שעולים אליו במדרגות. איך הוא צריך להראות?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a1/p1",
+"en": "a flat rooftop surrounded only by a knee-high bench-like wall, a boy with a kippa sitting in the middle (low wall)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "קיר נמוך",
+"question": "לבית משפחת כהן יש גג שעולים אליו במדרגות. איך הוא צריך להראות?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a1/p2",
+"en": "a flat rooftop surrounded by a tall sturdy railing, a boy with a kippa leaning safely on it and looking at the view (high railing)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "מעקה גבוה",
+"question": "לבית משפחת כהן יש גג שעולים אליו במדרגות. איך הוא צריך להראות?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a2/p0",
+"en": "a boy with a kippa standing on a step stool placing a cleaning bottle on the top shelf of a closed kitchen cabinet (high cabinet)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "בארון גבוה",
+"question": "בבית יש בקבוק אקונומיקה. איפה שומרים אותו?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a2/p1",
+"en": "a boy with a kippa pouring a cleaning liquid into an empty juice bottle at the kitchen counter (juice bottle)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "בבקבוק מיץ",
+"question": "בבית יש בקבוק אקונומיקה. איפה שומרים אותו?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a2/p2",
+"en": "a cleaning bottle standing on the kitchen floor next to a toddler boy with a kippa playing with blocks (on the floor)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "על הרצפה",
+"question": "בבית יש בקבוק אקונומיקה. איפה שומרים אותו?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a3/p0",
+"en": "a boy with a kippa walking away from an old wobbly wooden ladder leaning in a storage room (leaving it)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "משאיר",
+"question": "מצאת במחסן סלם רעוע. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a3/p1",
+"en": "a boy with a kippa showing his father with a kippa a broken rung on an old wooden ladder in a storage room (telling dad)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "מספר לאבא",
+"question": "מצאת במחסן סלם רעוע. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a3/p2",
+"en": "a boy with a kippa carefully putting his foot on the first rung of an old wobbly wooden ladder (climbing)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "מטפס לאט",
+"question": "מצאת במחסן סלם רעוע. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a4/p0",
+"en": "a father with a kippa and his son with a kippa placing a heavy sturdy lid over a pit in a garden (lid)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "מכסה חזק",
+"question": "בחצר יש בור עמק וריק. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a4/p1",
+"en": "a boy with a kippa placing one small stone next to an open pit in a garden (small stone)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "אבן קטנה",
+"question": "בחצר יש בור עמק וריק. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a4/p2",
+"en": "an open empty pit in a garden lawn, a boy with a kippa looking at it from a distance (left open)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "משאירים",
+"question": "בחצר יש בור עמק וריק. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a5/p0",
+"en": "a boy with a kippa standing up between the front seats of a parked car (standing)",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "עומד בין המושבים",
+"question": "נכנסים לרכב לנסיעה. מה עושים קדם כל דבר?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a5/p1",
+"en": "a boy with a kippa sitting in the back seat of a car and clicking his seat belt (seat belt)",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "חוגר חגורה",
+"question": "נכנסים לרכב לנסיעה. מה עושים קדם כל דבר?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a5/p2",
+"en": "a boy with a kippa sitting in the back seat of a car with the seat belt hanging loose beside him (no belt)",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "בלי חגורה",
+"question": "נכנסים לרכב לנסיעה. מה עושים קדם כל דבר?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a6/p0",
+"en": "a boy with a kippa hesitantly taking one unlit cigarette in his fingers while a teenage boy with a kippa holds out a cigarette pack (trying once)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "מנסה פעם אחת",
+"question": "נער גדול מציע לך סיגריה \"רק לנסות\". מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a6/p1",
+"en": "a boy with a kippa slipping an unlit cigarette into his pocket while a teenage boy with a kippa holds out a cigarette pack (in the pocket)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "שומר בכיס",
+"question": "נער גדול מציע לך סיגריה \"רק לנסות\". מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a6/p2",
+"en": "a boy with a kippa raising his hand firmly to say no to a teenage boy with a kippa who holds out a cigarette pack (saying no)",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "מסרב",
+"question": "נער גדול מציע לך סיגריה \"רק לנסות\". מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a7/p0",
+"en": "a boy with a kippa at the edge of a swimming pool bending his knees to jump in toward a boy raising his hand in the deep end (jumping in)",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "קופץ למים",
+"question": "חבר בצד העמק של הברכה קורא לעזרה, ואתה לא יודע לשחות. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a7/p1",
+"en": "a boy with a kippa at the edge of a swimming pool shouting and waving toward a lifeguard on a tall chair (calling the lifeguard)",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "קורא למציל",
+"question": "חבר בצד העמק של הברכה קורא לעזרה, ואתה לא יודע לשחות. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a7/p2",
+"en": "a boy with a kippa walking away from a swimming pool with a towel over his shoulder (walking away)",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "הולך משם",
+"question": "חבר בצד העמק של הברכה קורא לעזרה, ואתה לא יודע לשחות. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a8/p0",
+"en": "a boy with a kippa handing his water bottle to a tired elderly man with a kippa sitting on a shady bench on a sunny day (giving water)",
+"topic": "🤝 בין אדם לחברו › הלכות הצלת נפשות",
+"caption": "נותן לו מים",
+"question": "ביום חם מאוד, איש זקן מרגיש חלש וצמא. יש לך בקבוק מים. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a8/p1",
+"en": "a boy with a kippa drinking from his own water bottle near a tired elderly man with a kippa sitting on a bench on a sunny day (drinking himself)",
+"topic": "🤝 בין אדם לחברו › הלכות הצלת נפשות",
+"caption": "שותה בעצמו",
+"question": "ביום חם מאוד, איש זקן מרגיש חלש וצמא. יש לך בקבוק מים. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a8/p2",
+"en": "a boy with a kippa walking past a tired elderly man with a kippa sitting on a bench on a sunny day (walking on)",
+"topic": "🤝 בין אדם לחברו › הלכות הצלת נפשות",
+"caption": "ממשיך ללכת",
+"question": "ביום חם מאוד, איש זקן מרגיש חלש וצמא. יש לך בקבוק מים. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a9/p0",
+"en": "a boy with a kippa turning his face away while a man sneaks a schoolbag from a park bench (silent)",
+"topic": "🤝 בין אדם לחברו › הלכות הצלת נפשות",
+"caption": "שותק",
+"question": "אתה רואה מישהו לוקח בשקט תיק של חבר מהספסל. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a9/p1",
+"en": "a boy with a kippa shouting loudly and waving to grown-ups while a man sneaks a schoolbag from a park bench (shouting)",
+"topic": "🤝 בין אדם לחברו › הלכות הצלת נפשות",
+"caption": "צועק גנב",
+"question": "אתה רואה מישהו לוקח בשקט תיק של חבר מהספסל. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a9/p2",
+"en": "a boy with a kippa running toward a man who sneaks a schoolbag from a park bench, fists raised (fighting)",
+"topic": "🤝 בין אדם לחברו › הלכות הצלת נפשות",
+"caption": "מתקוטט",
+"question": "אתה רואה מישהו לוקח בשקט תיק של חבר מהספסל. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a10/p0",
+"en": "a car parked in front of a small neighborhood grocery store, a boy with a kippa getting out (to the grocery)",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "למכולת",
+"question": "מתי אומרים תפלת הדרך?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a10/p1",
+"en": "a boy with a kippa standing in the front hall of his home with a backpack, next to the closed door (at home)",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "בבית",
+"question": "מתי אומרים תפלת הדרך?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/a10/p2",
+"en": "a family car with a father with a kippa driving and a boy with a kippa praying from a small card in the back seat, on a highway leaving the city (leaving the city)",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "ביציאה מהעיר",
+"question": "מתי אומרים תפלת הדרך?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/b1",
+"en": "a boy with a kippa standing next to his bicycle on a quiet street, a bicycle helmet hanging on the handlebar",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "",
+"question": "עודד אומר: \"ה׳ שומר עלי, אז אני לא צריך קסדה כשאני רוכב על אופנים\". מה נכון?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/b2",
+"en": "a school group of boys with kippot and a teacher with a kippa at the start of a hiking trail in a green valley, the teacher looking at a map",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "",
+"question": "הכתה מתכננת טיול בנחל. מי קובע אם המסלול מסכן מדי?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/b3",
+"en": "a city bus stop, a father with a kippa and his son with a kippa waiting on the bench, a man with a kippa standing nearby holding a cigarette",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "",
+"question": "בתחנה, איש מעשן ליד אבא של שלום. המעשן אומר: \"אני מעשן כאן כבר שנים\". מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/b4",
+"en": "a cozy living room, a father with a kippa sitting in an armchair and talking with his son with a kippa who stands beside him",
+"topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+"caption": "",
+"question": "אבא מבקש מנתנאל לקנות לו סיגריות. מה כותב הרב מלמד?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/b5",
+"en": "inside a city bus, a father with a kippa and his son with a kippa sitting near the front, the driver at the wheel",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "",
+"question": "בנסיעה באוטובוס הנהג נוסע מהר מאוד, ואבא של אלחנן רוצה להעיר לו. איך נכון?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/b6",
+"en": "a family car with a father with a kippa driving and his sons with kippot in the back seat, on a highway leaving a city in the morning sun",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "",
+"question": "משפחת אברהמי יוצאת בבקר לירושלים, ומתכננת לנסע משם באותו יום לסבא בעיר אחרת. כמה פעמים יאמרו תפלת הדרך?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/b7",
+"en": "a winding road between rocky hills leading to a small village with red roofs, a family car driving on it",
+"topic": "🤝 בין אדם לחברו › נהיגה זהירה ותפלת הדרך",
+"caption": "",
+"question": "הדרך לישוב של סבא ארכה רק שני קילומטרים, אבל היא ידועה כמסכנת. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chavero-06/b8",
+"en": "a Shabbat table with candles and challah, a grandfather with a kippa resting in an armchair with his hand on his chest, a father with a kippa kneeling beside him with concern",
+"topic": "🤝 בין אדם לחברו › הלכות הצלת נפשות",
+"caption": "",
+"question": "בשבת, סבא מרגיש פתאום כאב חזק בחזה, ולא ברור אם זה מסכן. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a1/p0",
+"en": "a friendly camel standing on golden desert sand (camel)",
+"topic": "🍽️ הלכות כשרות › כשרות בעלי חיים",
+"caption": "גמל",
+"question": "איזו בהמה כשרה לאכילה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a1/p1",
+"en": "a pink pig standing in a farm pen (pig)",
+"topic": "🍽️ הלכות כשרות › כשרות בעלי חיים",
+"caption": "חזיר",
+"question": "איזו בהמה כשרה לאכילה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a1/p2",
+"en": "a brown and white cow grazing in a green meadow (cow)",
+"topic": "🍽️ הלכות כשרות › כשרות בעלי חיים",
+"caption": "פרה",
+"question": "איזו בהמה כשרה לאכילה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a2/p0",
+"en": "a silver fish with clearly visible shiny scales and fins swimming in clear blue water (scaly fish)",
+"topic": "🍽️ הלכות כשרות › כשרות בעלי חיים",
+"caption": "דג עם קשקשים",
+"question": "איזה דג כשר?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a2/p1",
+"en": "a single pink shrimp swimming in clear blue water (shrimp)",
+"topic": "🍽️ הלכות כשרות › כשרות בעלי חיים",
+"caption": "שרימפס",
+"question": "איזה דג כשר?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a2/p2",
+"en": "a smooth-skinned catfish with long whiskers and no scales swimming in clear blue water (smooth fish)",
+"topic": "🍽️ הלכות כשרות › כשרות בעלי חיים",
+"caption": "דג חלק",
+"question": "איזה דג כשר?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a3/p0",
+"en": "a short-haired boy with a kippa running toward a dinner table, a parrot cage with an empty food bowl behind him (running to eat)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "רץ לשולחן",
+"question": "התכי של יוסי בכלוב, והקערה שלו ריקה. אבא קורא לארוחה. מה עושה יוסי קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a3/p1",
+"en": "a short-haired boy with a kippa pouring seeds into the food bowl of a green parrot in a cage (feeding parrot)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "נותן לתוכי",
+"question": "התכי של יוסי בכלוב, והקערה שלו ריקה. אבא קורא לארוחה. מה עושה יוסי קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a3/p2",
+"en": "a short-haired boy with a kippa asleep in bed at night, a parrot cage with an empty food bowl beside the bed (waiting)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "מחכה למחר",
+"question": "התכי של יוסי בכלוב, והקערה שלו ריקה. אבא קורא לארוחה. מה עושה יוסי קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a4/p0",
+"en": "a donkey lying on a dirt road under heavy sacks while a short-haired boy with a kippa walks past without looking (walking past)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "עובר הלאה",
+"question": "חמור נפל בדרך תחת משא כבד. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a4/p1",
+"en": "a donkey lying on a dirt road under heavy sacks while a man with a kippa lifts one more sack onto its back (more load)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "מוסיף שק",
+"question": "חמור נפל בדרך תחת משא כבד. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a4/p2",
+"en": "a man and a short-haired boy, both with kippot, lifting heavy sacks off a donkey lying on a dirt road (unloading)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "מוריד את המשא",
+"question": "חמור נפל בדרך תחת משא כבד. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a5/p0",
+"en": "a short-haired boy with a kippa clapping his hands loudly near a bird nest in a tree, a dove flying away from the nest (shooing)",
+"topic": "🍽️ הלכות כשרות › שלוח הקן",
+"caption": "מבריח בקול",
+"question": "בעץ יש קן של יונת בר, והאם יושבת על הביצים. אלי צריך את הביצים. מה הוא עושה קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a5/p1",
+"en": "a short-haired boy with a kippa holding a whole nest with a dove still sitting in it (taking all)",
+"topic": "🍽️ הלכות כשרות › שלוח הקן",
+"caption": "לוקח גם את האם",
+"question": "בעץ יש קן של יונת בר, והאם יושבת על הביצים. אלי צריך את הביצים. מה הוא עושה קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a5/p2",
+"en": "a short-haired boy with a kippa reaching his hand under a dove sitting on its nest in a tree (under the mother)",
+"topic": "🍽️ הלכות כשרות › שלוח הקן",
+"caption": "יד מתחת לאם",
+"question": "בעץ יש קן של יונת בר, והאם יושבת על הביצים. אלי צריך את הביצים. מה הוא עושה קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a6/p0",
+"en": "an eagle with spread wings perched on a rock (eagle)",
+"topic": "🍽️ הלכות כשרות › כשרות בעלי חיים",
+"caption": "נשר",
+"question": "איזה עוף מתר לאכל?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a6/p1",
+"en": "a turkey walking in a sunny farmyard (turkey)",
+"topic": "🍽️ הלכות כשרות › כשרות בעלי חיים",
+"caption": "תרנגול הודו",
+"question": "איזה עוף מתר לאכל?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a6/p2",
+"en": "an owl sitting on a tree branch at dusk (owl)",
+"topic": "🍽️ הלכות כשרות › כשרות בעלי חיים",
+"caption": "ינשוף",
+"question": "איזה עוף מתר לאכל?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a7/p0",
+"en": "a father and two short-haired sons, all with kippot, at a bare table with only a plate of dry bread (dry bread)",
+"topic": "🍽️ הלכות כשרות › אכילת בשר",
+"caption": "רק לחם יבש",
+"question": "במה מכבדים את סעודת השבת?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a7/p1",
+"en": "a short-haired boy with a kippa eating a sandwich quickly while standing in a kitchen (eating standing)",
+"topic": "🍽️ הלכות כשרות › אכילת בשר",
+"caption": "אוכל בעמידה",
+"question": "במה מכבדים את סעודת השבת?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a7/p2",
+"en": "a father and two short-haired sons, all with kippot, at a festive Shabbat table with candles, challah and a steaming meat dish (meat dish)",
+"topic": "🍽️ הלכות כשרות › אכילת בשר",
+"caption": "תבשיל בשר",
+"question": "במה מכבדים את סעודת השבת?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a8/p0",
+"en": "a short-haired boy with a kippa placing a small plate of leftover food on the ground for a thin street cat (leftovers)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "שיירי אוכל",
+"question": "חתול רחוב רעב מילל ליד הבית. מה עושה נעם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a8/p1",
+"en": "a short-haired boy with a kippa pulling the tail of an unhappy street cat (pulling tail)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "מושך בזנב",
+"question": "חתול רחוב רעב מילל ליד הבית. מה עושה נעם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a8/p2",
+"en": "a short-haired boy with a kippa waving a stick to chase away a street cat (stick)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "מגרש במקל",
+"question": "חתול רחוב רעב מילל ליד הבית. מה עושה נעם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a9/p0",
+"en": "a large dog barking loudly behind a fence while a short-haired boy with a kippa listens (loud barking)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "נובח חזק",
+"question": "הילדים רוצים לאמץ כלב. מה צריך לבדק קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a9/p1",
+"en": "a father with a kippa and his short-haired son with a kippa setting up a dog bed, a food bowl and a water bowl at home, a happy puppy beside them (care ready)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "מזון ומקום",
+"question": "הילדים רוצים לאמץ כלב. מה צריך לבדק קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a9/p2",
+"en": "a short-haired boy with a kippa hugging a puppy with very fluffy beautiful fur (pretty fur)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "פרווה יפה",
+"question": "הילדים רוצים לאמץ כלב. מה צריך לבדק קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a10/p0",
+"en": "an ox walking over piles of wheat stalks on a threshing floor and eating some of the grain, a farmer with a kippa watching kindly (eating)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "אוכל מהחיטים",
+"question": "שור עובד בדישת חטים בגרן. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a10/p1",
+"en": "an ox with a leather muzzle over its mouth walking over piles of wheat stalks on a threshing floor (muzzle)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "מחסום על הפה",
+"question": "שור עובד בדישת חטים בגרן. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/a10/p2",
+"en": "an ox tied with a rope to a post, looking at a pile of wheat just out of its reach (tied away)",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "קשור רחוק",
+"question": "שור עובד בדישת חטים בגרן. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/b1",
+"en": "a dusty village road with two donkeys loaded with sacks, one of them lying down, and a short-haired boy with a kippa standing between them",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "",
+"question": "שני חברים מבקשים עזרה באותו רגע: אחד – להוריד משא מחמור שנפל, והשני – להעמיס משא על חמורו. למי עוזרים קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/b2",
+"en": "a quiet neighborhood path beside a house with a front yard and a big friendly-looking dog standing near an open gate",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "",
+"question": "לשכן יש כלב גדול וטוב, אבל הוא נובח בקול על כל מי שעובר בשביל, והילדים מפחדים. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/b3",
+"en": "a public park with tall trees and benches, a bird nest visible on a low branch, and a short-haired boy with a kippa looking up at it",
+"topic": "🍽️ הלכות כשרות › שלוח הקן",
+"caption": "",
+"question": "שמעון מצא בגנה הצבורית קן של יונת בר. הוא אינו צריך את הביצים, אבל רוצה לצאת ידי כל הדעות. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/b4",
+"en": "a calm lake shore at sunrise with a fishing rod leaning on a rock and a green forest behind",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "",
+"question": "איזה מן הבלויים האלה מתר ליהודי?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/b5",
+"en": "a family kitchen at dinner time with a parrot in a cage by the window and a dog looking in through the open back door",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "",
+"question": "למשפחת לוי יש תכי בכלוב, וגם כלב שמסתובב בחצר וברחוב. למי חובה לתת אכל לפני שהם אוכלים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/b6",
+"en": "a small chicken coop in a sunny backyard with a hen sitting in a straw nest and a grandfather with a white beard and a kippa standing nearby",
+"topic": "🍽️ הלכות כשרות › שלוח הקן",
+"caption": "",
+"question": "לסבא יש לול תרנגולות בחצר, ותרנגלת אחת דוגרת על ביצים. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/b7",
+"en": "a desert camp of tents at sunset with many small quail birds flying low over the sand",
+"topic": "🍽️ הלכות כשרות › אכילת בשר",
+"caption": "",
+"question": "מה למדו חכמים מספור \"קברות התאוה\" על אכילת בשר?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/b8",
+"en": "a peaceful green pasture with a mother cow and her calf grazing side by side",
+"topic": "🍽️ הלכות כשרות › אכילת בשר",
+"caption": "",
+"question": "למה צותה התורה מצוות כמו אסור אבר מן החי, ואסור לשחט בהמה ובנה ביום אחד?",
+"section": ""
+},
+{
+"id": "hq/kashrut-01/b9",
+"en": "a boy with a kippah and short hair gently petting a happy small puppy with a long tail on the grass of a home garden",
+"topic": "🍽️ הלכות כשרות › צער בעלי חיים",
+"caption": "",
+"question": "לדני יש גור כלבים, וחבר מציע לחתך לגור את הזנב כדי שיראה יפה. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a1/p0",
+"en": "raw pieces of meat being put straight into a pot of water boiling on a stove (cooking right away)",
+"topic": "🍽️ הלכות כשרות › דם והכשרת הבשר",
+"caption": "מבשלים מיד",
+"question": "מה עושים לבשר חי שלא הכשר, לפני שמבשלים אותו?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a1/p1",
+"en": "a father with a kippa sprinkling coarse salt on pieces of raw meat lying on a slanted perforated board over a sink (salting)",
+"topic": "🍽️ הלכות כשרות › דם והכשרת הבשר",
+"caption": "משרים, מולחים ושוטפים",
+"question": "מה עושים לבשר חי שלא הכשר, לפני שמבשלים אותו?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a1/p2",
+"en": "raw pieces of meat in a frying pan with oil on a stove (frying)",
+"topic": "🍽️ הלכות כשרות › דם והכשרת הבשר",
+"caption": "מטגנים בשמן",
+"question": "מה עושים לבשר חי שלא הכשר, לפני שמבשלים אותו?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a2/p0",
+"en": "pieces of liver on a metal grill over open fire flames (every boy has SHORT cropped hair and a kippa; no long-haired children, no women, no girls) (grilling)",
+"topic": "🍽️ הלכות כשרות › דם והכשרת הבשר",
+"caption": "צולים על האש",
+"question": "איך מכשירים כבד?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a2/p1",
+"en": "pieces of liver covered with coarse salt on a slanted board (every boy has SHORT cropped hair and a kippa; no long-haired children, no women, no girls) (salting)",
+"topic": "🍽️ הלכות כשרות › דם והכשרת הבשר",
+"caption": "מולחים",
+"question": "איך מכשירים כבד?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a2/p2",
+"en": "pieces of liver in a pot of boiling water on a stove (every boy has SHORT cropped hair and a kippa; no long-haired children, no women, no girls) (boiling)",
+"topic": "🍽️ הלכות כשרות › דם והכשרת הבשר",
+"caption": "מבשלים בסיר",
+"question": "איך מכשירים כבד?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a3/p0",
+"en": "a father with a kippa cracking eggs directly into a hot frying pan (into the pan)",
+"topic": "🍽️ הלכות כשרות › מזון מן החי",
+"caption": "ישר למחבת",
+"question": "אבא מכין חביתה משלש ביצים. איך כדאי לשבר אותן?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a3/p1",
+"en": "a father with a kippa cracking three eggs together into one big mixing bowl (one bowl)",
+"topic": "🍽️ הלכות כשרות › מזון מן החי",
+"caption": "קערה אחת",
+"question": "אבא מכין חביתה משלש ביצים. איך כדאי לשבר אותן?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a3/p2",
+"en": "a father with a kippa cracking an egg into a small clear glass cup, two more small empty cups beside it (separate cups)",
+"topic": "🍽️ הלכות כשרות › מזון מן החי",
+"caption": "כוס לכל ביצה",
+"question": "אבא מכין חביתה משלש ביצים. איך כדאי לשבר אותן?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a4/p0",
+"en": "a friendly camel in the desert standing next to a clay jug of milk (camel milk)",
+"topic": "🍽️ הלכות כשרות › מזון מן החי",
+"caption": "חלב גמלים",
+"question": "איזה מאכל כשר, אף שהוא בא מבעל חיים טמא?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a4/p1",
+"en": "a jar of golden honey next to a wooden beehive with bees flying among flowers (honey)",
+"topic": "🍽️ הלכות כשרות › מזון מן החי",
+"caption": "דבש",
+"question": "איזה מאכל כשר, אף שהוא בא מבעל חיים טמא?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a4/p2",
+"en": "a huge ostrich egg in a sandy nest with a living ostrich standing beside it (ostrich egg)",
+"topic": "🍽️ הלכות כשרות › מזון מן החי",
+"caption": "ביצת יענה",
+"question": "איזה מאכל כשר, אף שהוא בא מבעל חיים טמא?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a5/p0",
+"en": "a short-haired boy with a kippa holding a whole closed head of lettuce under a running tap (outside only)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "רק מבחוץ",
+"question": "איך מנקים ראש חסה לסלט?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a5/p1",
+"en": "a short-haired boy with a kippa shaking a whole head of lettuce and wiping it with a kitchen towel (towel)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "מנגב במגבת",
+"question": "איך מנקים ראש חסה לסלט?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a5/p2",
+"en": "a short-haired boy with a kippa separating lettuce leaves one by one into a bowl of water at the sink (leaf by leaf)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "עלה עלה",
+"question": "איך מנקים ראש חסה לסלט?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a6/p0",
+"en": "a short-haired boy with a kippa splitting a date open with his fingers and looking inside (opening)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "פותח ובודק",
+"question": "לפני שאוכלים תמר, מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a6/p1",
+"en": "a short-haired boy with a kippa putting a whole date into his mouth (whole)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "אוכל שלם",
+"question": "לפני שאוכלים תמר, מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a6/p2",
+"en": "a short-haired boy with a kippa rinsing a whole date under the tap (rinsing outside)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "שוטף מבחוץ",
+"question": "לפני שאוכלים תמר, מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a7/p0",
+"en": "a short-haired boy with a kippa quickly eating raisins from an old package (eating quickly)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "אוכל מהר",
+"question": "בחבילת צמוקים יש קורים לבנים ואבקה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a7/p1",
+"en": "a short-haired boy with a kippa rinsing raisins in a colander and eating them (rinsing)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "שוטף ואוכל",
+"question": "בחבילת צמוקים יש קורים לבנים ואבקה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a7/p2",
+"en": "a short-haired boy with a kippa examining raisins spread on a white plate with a magnifying glass, a small trash bin nearby (checking)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "בודק או זורק",
+"question": "בחבילת צמוקים יש קורים לבנים ואבקה. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a8/p0",
+"en": "rice poured straight from an open market sack into a pot on the stove (straight to pot)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "ישר לסיר",
+"question": "קנו ארז בתפזרת בשוק. מה עושים לפני הבשול?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a8/p1",
+"en": "a short-haired boy with a kippa spreading rice on a white tray and looking at it carefully (checking tray)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "בודקים על מגש",
+"question": "קנו ארז בתפזרת בשוק. מה עושים לפני הבשול?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a8/p2",
+"en": "a short-haired boy with a kippa adding salt to a pot of rice (adding salt)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "מוסיפים מלח",
+"question": "קנו ארז בתפזרת בשוק. מה עושים לפני הבשול?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a9/p0",
+"en": "a short-haired boy with a kippa sifting flour through a round sieve into a bowl (sifting)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "מנפה בנפה",
+"question": "שקית קמח עמדה פתוחה על השיש יום שלם. מה עושים לפני האפיה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a9/p1",
+"en": "a short-haired boy with a kippa pouring flour straight from an open paper bag into a mixing bowl (pouring)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "שופך ישר",
+"question": "שקית קמח עמדה פתוחה על השיש יום שלם. מה עושים לפני האפיה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a9/p2",
+"en": "a short-haired boy with a kippa adding yeast to a bowl of flour (yeast)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "מוסיף שמרים",
+"question": "שקית קמח עמדה פתוחה על השיש יום שלם. מה עושים לפני האפיה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a10/p0",
+"en": "a short-haired boy with a kippa pulling a cookie out of a kitchen trash bin (from the trash)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "מהפח",
+"question": "איזו אכילה שומרת על המצוה \"אל תשקצו\"?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a10/p1",
+"en": "a short-haired boy with a kippa eating neatly with a fork and a napkin at a clean table (neat eating)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "אוכל בנקיון",
+"question": "איזו אכילה שומרת על המצוה \"אל תשקצו\"?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/a10/p2",
+"en": "a short-haired boy with a kippa on his knees licking spilled food off the kitchen floor (from the floor)",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "מהרצפה",
+"question": "איזו אכילה שומרת על המצוה \"אל תשקצו\"?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/b1",
+"en": "a sunny breakfast table with a plate of sliced bread and a short-haired boy with a kippa sitting at it",
+"topic": "🍽️ הלכות כשרות › דם והכשרת הבשר",
+"caption": "",
+"question": "אורי נשך פרוסת לחם, וראה עליה מעט דם מן החניכים. מה הוא עושה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/b2",
+"en": "a large pot of clear chicken soup steaming on a stove in a home kitchen",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "",
+"question": "זבוב נפל לסיר גדול של מרק עוף צלול, ולא מצאו אותו. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/b3",
+"en": "a bowl of fresh red strawberries and a head of broccoli on a kitchen counter in daylight",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "",
+"question": "אילו חרקים הכל מסכימים שאין צרך לחפש אותם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/b4",
+"en": "an open cardboard box of fresh fruit on a kitchen table",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "",
+"question": "בקפסת פרות, שבדרך כלל אין בהם חרקים, מצאו שלשה חרקים. מה עכשו?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/b5",
+"en": "a home kitchen with a wooden cutting board, an empty pot on the stove and a wrapped butcher paper package on the counter",
+"topic": "🍽️ הלכות כשרות › דם והכשרת הבשר",
+"caption": "",
+"question": "למה אסור לבשל בשר שלא הכשר?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/b6",
+"en": "a basket of freshly picked red apples on a wooden kitchen table",
+"topic": "🍽️ הלכות כשרות › שרצים",
+"caption": "",
+"question": "בתוך תפוח קטוף התפתחה תולעת. מאימתי חל עליה אסור שרץ?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/b7",
+"en": "a farmyard chicken coop with hens and a rooster, and a basket of fresh brown eggs on a windowsill",
+"topic": "🍽️ הלכות כשרות › מזון מן החי",
+"caption": "",
+"question": "סבא מגדל תרנגולות יחד עם תרנגול, ובביצה מן הלול שלו נמצא כתם דם. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-02/b8",
+"en": "a carton of white eggs on a grocery store shelf",
+"topic": "🍽️ הלכות כשרות › מזון מן החי",
+"caption": "",
+"question": "למה לפי הדין אין חובה לבדק ביצים עם חותמת?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a1/p0",
+"en": "a pot on a stove with chunks of meat and potatoes (every boy has SHORT cropped hair and a kippa; no long-haired children, no women, no girls) (meat and potatoes)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "בשר ותפוחי אדמה",
+"question": "מה אסור לבשל יחד בסיר אחד?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a1/p1",
+"en": "a pot on a stove with chunks of meat while milk is poured into it from a jug (every boy has SHORT cropped hair and a kippa; no long-haired children, no women, no girls) (meat and milk)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "בשר וחלב",
+"question": "מה אסור לבשל יחד בסיר אחד?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a1/p2",
+"en": "a pot on a stove with vegetables and melted cheese (every boy has SHORT cropped hair and a kippa; no long-haired children, no women, no girls) (vegetables and cheese)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "ירקות וגבינה",
+"question": "מה אסור לבשל יחד בסיר אחד?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a2/p0",
+"en": "a plate with a chicken schnitzel next to a glass of white milk (milk)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "כוס חלב",
+"question": "מה מתר לשתות עם שניצל עוף?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a2/p1",
+"en": "a plate with a chicken schnitzel next to a mug of chocolate milk (chocolate milk)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "שוקו",
+"question": "מה מתר לשתות עם שניצל עוף?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a2/p2",
+"en": "a plate with a chicken schnitzel next to a glass of orange juice (orange juice)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "מיץ תפוזים",
+"question": "מה מתר לשתות עם שניצל עוף?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a3/p0",
+"en": "a short-haired boy with a kippa taking a spoon from a kitchen drawer full of red-handled cutlery, a bowl of chicken soup on the table (red drawer)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "מגירה בשרית",
+"question": "מאיזו מגרה לוקחים כף למרק עוף?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a3/p1",
+"en": "a short-haired boy with a kippa taking a spoon from a kitchen drawer full of blue-handled cutlery, a bowl of chicken soup on the table (blue drawer)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "מגירה חלבית",
+"question": "מאיזו מגרה לוקחים כף למרק עוף?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a3/p2",
+"en": "a spoon standing in an open yogurt cup next to a bowl of chicken soup (yogurt spoon)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "כף של יוגורט",
+"question": "מאיזו מגרה לוקחים כף למרק עוף?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a4/p0",
+"en": "a short-haired boy with a kippa washing a pot in a kitchen sink that has a blue dish rack and a blue sponge (blue sink)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "כיור חלבי",
+"question": "במטבח שני כיורים. איפה שוטפים סיר שבשלו בו פסטה בגבינה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a4/p1",
+"en": "a short-haired boy with a kippa washing a pot in a kitchen sink that has a red dish rack and a red sponge (red sink)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "כיור בשרי",
+"question": "במטבח שני כיורים. איפה שוטפים סיר שבשלו בו פסטה בגבינה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a4/p2",
+"en": "a short-haired boy with a kippa putting a pot into a sink already full of greasy roasting pans and meat dishes (with meat pots)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "עם סירי בשר",
+"question": "במטבח שני כיורים. איפה שוטפים סיר שבשלו בו פסטה בגבינה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a5/p0",
+"en": "a shiny red apple on a white plate (apple)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "תפוח",
+"question": "איזה מאכל הוא פרוה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a5/p1",
+"en": "a wedge of yellow cheese on a white plate (cheese)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "גבינה",
+"question": "איזה מאכל הוא פרוה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a5/p2",
+"en": "slices of sausage on a white plate (sausage)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "נקניק",
+"question": "איזה מאכל הוא פרוה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a6/p0",
+"en": "a short-haired boy with a kippa pouring milk into a glass at a dinner table with a roast chicken (drinking)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "שותים מעט",
+"question": "אוכלים עוף בארוחת שבת, ואחיך הקטן הביא לשלחן קרטון חלב. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a6/p1",
+"en": "a short-haired boy with a kippa putting a milk carton back into the refrigerator while his father and brothers with kippot eat chicken at the table (back to fridge)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "מחזירים למקרר",
+"question": "אוכלים עוף בארוחת שבת, ואחיך הקטן הביא לשלחן קרטון חלב. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a6/p2",
+"en": "a milk carton standing right next to a roast chicken on a dinner table with Shabbat candles (next to the chicken)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "ליד העוף",
+"question": "אוכלים עוף בארוחת שבת, ואחיך הקטן הביא לשלחן קרטון חלב. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a7/p0",
+"en": "a short-haired boy with a kippa brushing his teeth at a bathroom sink (brushing)",
+"topic": "🍽️ הלכות כשרות › דיני ההפסקה",
+"caption": "מצחצח שיניים",
+"question": "אחרי פיצה בגבינה, נעם רוצה לאכל קציצה. מה הוא עושה קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a7/p1",
+"en": "a short-haired boy with a kippa biting a meatball right after a slice of cheese pizza on the same plate (right away)",
+"topic": "🍽️ הלכות כשרות › דיני ההפסקה",
+"caption": "אוכל מיד",
+"question": "אחרי פיצה בגבינה, נעם רוצה לאכל קציצה. מה הוא עושה קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a7/p2",
+"en": "a short-haired boy with a kippa wiping his mouth with a paper napkin (napkin)",
+"topic": "🍽️ הלכות כשרות › דיני ההפסקה",
+"caption": "מנגב במפית",
+"question": "אחרי פיצה בגבינה, נעם רוצה לאכל קציצה. מה הוא עושה קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a8/p0",
+"en": "a short-haired boy with a kippa eating an ice cream cone at a table with an empty schnitzel plate (eats now)",
+"topic": "🍽️ הלכות כשרות › דיני ההפסקה",
+"caption": "אוכל מיד",
+"question": "בצהרים אכל דוד שניצל, ועכשו מציעים לו גלידה חלבית. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a8/p1",
+"en": "a short-haired boy with a kippa rinsing his mouth with a cup of water, an ice cream cone waiting on the table (rinsing)",
+"topic": "🍽️ הלכות כשרות › דיני ההפסקה",
+"caption": "שוטף את הפה",
+"question": "בצהרים אכל דוד שניצל, ועכשו מציעים לו גלידה חלבית. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a8/p2",
+"en": "a short-haired boy with a kippa smiling patiently and looking at a wall clock, an ice cream cone waiting in the open freezer (waiting)",
+"topic": "🍽️ הלכות כשרות › דיני ההפסקה",
+"caption": "מחכה לפי המנהג",
+"question": "בצהרים אכל דוד שניצל, ועכשו מציעים לו גלידה חלבית. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a9/p0",
+"en": "a father with a kippa pouring milk from a carton into a bowl of dough (milk)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "חלב",
+"question": "אבא לש בצק ללחמניות לכל השבוע. במה הוא לש אותו?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a9/p1",
+"en": "a father with a kippa adding a spoon of meat fat into a bowl of dough (meat fat)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "שומן בשר",
+"question": "אבא לש בצק ללחמניות לכל השבוע. במה הוא לש אותו?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a9/p2",
+"en": "a father with a kippa pouring water from a glass jug into a bowl of dough (water)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "מים",
+"question": "אבא לש בצק ללחמניות לכל השבוע. במה הוא לש אותו?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a10/p0",
+"en": "two short-haired boys with kippot eating together from one shared plate in the middle of a table (sharing)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "מאותה צלחת",
+"question": "שני חברים יושבים ליד אותו שלחן: אחד אוכל פסטה בגבינה, והשני – קציצות. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a10/p1",
+"en": "two short-haired boys with kippot eating at one table, one of them sitting on a separate bright placemat (separate placemat)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "מפה נפרדת",
+"question": "שני חברים יושבים ליד אותו שלחן: אחד אוכל פסטה בגבינה, והשני – קציצות. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/a10/p2",
+"en": "two short-haired boys with kippot at a table passing forkfuls of food to each other (swapping bites)",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "מחליפים ביסים",
+"question": "שני חברים יושבים ליד אותו שלחן: אחד אוכל פסטה בגבינה, והשני – קציצות. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/b1",
+"en": "a home kitchen with a pot of meatballs in a creamy sauce on the stove",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "",
+"question": "בטעות התבשלו קציצות בשר ברטב של שמנת. מה עושים בתבשיל?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/b2",
+"en": "a father with a kippa stirring a steaming pot of meat stew with a metal spoon in a home kitchen",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "",
+"question": "אבא ערב תבשיל בשר רותח, ובטעות ערב בכף מתכת חלבית נקיה. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/b3",
+"en": "a dinner table with a big bowl of colorful vegetable salad, a platter of roast chicken and a short-haired boy with a kippa",
+"topic": "🍽️ הלכות כשרות › דיני ההפסקה",
+"caption": "",
+"question": "בארוחת בשר אכל איתן רק סלט, שלקחו ממנו במזלגות בשריים. מתי מתר לו לאכל גבינה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/b4",
+"en": "a Shabbat table with a pot of cholent stew with potatoes, challah and lit candles",
+"topic": "🍽️ הלכות כשרות › דיני ההפסקה",
+"caption": "",
+"question": "בשבת אכל יונתן מן החמין רק תפוחי אדמה, שהתבשלו עם הבשר. מה דינו?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/b5",
+"en": "a kitchen counter with a microwave oven and a plate of chicken patties beside it",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "",
+"question": "בבית יש מיקרוגל אחד, ורוצים לחמם בו קציצות עוף. איך עושים זאת?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/b6",
+"en": "a short-haired boy with a kippa sitting at a kitchen table in the late afternoon with a wall clock behind him",
+"topic": "🍽️ הלכות כשרות › דיני ההפסקה",
+"caption": "",
+"question": "אחרי שעבר זמן ההמתנה, מצא אליה חתיכת בשר קטנה בין שניו. מה הוא עושה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/b7",
+"en": "a father with a kippa and his young short-haired son with a kippa smiling together at a kitchen table",
+"topic": "🍽️ הלכות כשרות › דיני ההפסקה",
+"caption": "",
+"question": "למה לא מחיבים ילד בן חמש להמתין זמן ארך כמו אביו?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/b8",
+"en": "a dinner table after a meal with a bread basket and an empty serving platter",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "",
+"question": "בארוחת בשר נשארה פרוסת לחם, שנגעו בה בידים שמנות מן העוף. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/kashrut-03/b9",
+"en": "a clean kitchen counter with a large bowl of chopped vegetable salad and several spoons lying beside it, no people",
+"topic": "🍽️ הלכות כשרות › בשר בחלב",
+"caption": "",
+"question": "נעה מכינה סלט ירקות בקערה בשרית. באיזו כף נכון לערבב אותו?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a1/p0",
+"en": "a father with a kippa in a kitchen holding up a new wooden cooking spoon (wooden spoon)",
+"topic": "🍽️ הלכות כשרות › טבילת כלים",
+"caption": "כף עץ",
+"question": "אבא קנה כלים חדשים שיצרו אצל גוים. איזה מהם צריך טבילה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a1/p1",
+"en": "a father with a kippa in a kitchen holding up a new shiny metal cooking pot (metal pot)",
+"topic": "🍽️ הלכות כשרות › טבילת כלים",
+"caption": "סיר מתכת",
+"question": "אבא קנה כלים חדשים שיצרו אצל גוים. איזה מהם צריך טבילה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a1/p2",
+"en": "a father with a kippa in a kitchen holding up a new plastic cup (plastic cup)",
+"topic": "🍽️ הלכות כשרות › טבילת כלים",
+"caption": "כוס פלסטיק",
+"question": "אבא קנה כלים חדשים שיצרו אצל גוים. איזה מהם צריך טבילה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a2/p0",
+"en": "a boy with a kippa at a Shabbat table passing a full glass of red juice directly above a braided challah to his brother (over the challah)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "מעל החלה",
+"question": "על שלחן השבת מנחת חלה, ודני מעביר כוס מיץ מלאה לאחיו. איך נכון להעביר?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a2/p1",
+"en": "a boy with a kippa at a Shabbat table setting a full glass of red juice down on top of a braided challah (glass on challah)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "כוס על החלה",
+"question": "על שלחן השבת מנחת חלה, ודני מעביר כוס מיץ מלאה לאחיו. איך נכון להעביר?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a2/p2",
+"en": "a boy with a kippa at a Shabbat table carefully passing a full glass of red juice around the side of a braided challah, far from it (around the challah)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "מסביב לחלה",
+"question": "על שלחן השבת מנחת חלה, ודני מעביר כוס מיץ מלאה לאחיו. איך נכון להעביר?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a3/p0",
+"en": "a father with a kippa and his son packing leftover party food into containers and placing them in an open refrigerator (into the fridge)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "למקרר ולחלוקה",
+"question": "אחרי בר המצוה של אחיך נשאר הרבה אכל טעים. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a3/p1",
+"en": "a boy with a kippa scraping a big tray of good leftover food into a trash can (into the trash)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "לפח",
+"question": "אחרי בר המצוה של אחיך נשאר הרבה אכל טעים. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a3/p2",
+"en": "a messy party table at night with uncovered trays of leftover food and no one around (left on the table)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "נשאר על השולחן",
+"question": "אחרי בר המצוה של אחיך נשאר הרבה אכל טעים. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a4/p0",
+"en": "a boy with a kippa brushing bread crumbs off a dining table onto the floor with his hand (onto the floor)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "לרצפה",
+"question": "בסוף הארוחה יש פרורים על השלחן. מה הדרך הנכונה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a4/p1",
+"en": "a boy with a kippa brushing bread crumbs from a dining table into his cupped hand above a small trash bin (into the bin)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "לפח",
+"question": "בסוף הארוחה יש פרורים על השלחן. מה הדרך הנכונה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a4/p2",
+"en": "a boy with a kippa wiping a dining table with a dripping wet cloth right over large pieces of bread (wet cloth)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "מטלית רטובה",
+"question": "בסוף הארוחה יש פרורים על השלחן. מה הדרך הנכונה?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a5/p0",
+"en": "a father with a kippa wiping his hands on his apron next to a cutting board with raw chicken (wiping on apron)",
+"topic": "🍽️ הלכות כשרות › סכנות",
+"caption": "מנגב בסינר",
+"question": "אבא חתך עוף חי, ועכשו הוא רוצה להכין סלט. מה עליו לעשות קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a5/p1",
+"en": "a father with a kippa starting to chop cucumbers right next to a cutting board with raw chicken (chopping right away)",
+"topic": "🍽️ הלכות כשרות › סכנות",
+"caption": "חותך ירקות מיד",
+"question": "אבא חתך עוף חי, ועכשו הוא רוצה להכין סלט. מה עליו לעשות קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a5/p2",
+"en": "a father with a kippa washing his hands with soap and foam at the kitchen sink (soap and water)",
+"topic": "🍽️ הלכות כשרות › סכנות",
+"caption": "סבון ומים",
+"question": "אבא חתך עוף חי, ועכשו הוא רוצה להכין סלט. מה עליו לעשות קדם?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a6/p0",
+"en": "a boy with a kippa in a grocery store holding a small bag of candies marked with a simple round stamp symbol and no readable text (kosher stamp)",
+"topic": "🍽️ הלכות כשרות › תעשית המזון",
+"caption": "סמל כשרות",
+"question": "בחנות יש שלושה סוגי סכריות. איזו שקית כדאי לקנות?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a6/p1",
+"en": "a boy with a kippa in a grocery store holding a very bright rainbow-colored bag of candies with no symbol and no text (most colorful)",
+"topic": "🍽️ הלכות כשרות › תעשית המזון",
+"caption": "הכי צבעונית",
+"question": "בחנות יש שלושה סוגי סכריות. איזו שקית כדאי לקנות?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a6/p2",
+"en": "a boy with a kippa in a grocery store holding a huge bag of candies with no symbol and no text (biggest bag)",
+"topic": "🍽️ הלכות כשרות › תעשית המזון",
+"caption": "הכי גדולה",
+"question": "בחנות יש שלושה סוגי סכריות. איזו שקית כדאי לקנות?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a7/p0",
+"en": "a boy with a kippa carefully cutting a good warm coat into rags with scissors Absolutely NO letters, words or writing anywhere, no labels on any bin. (cuts)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "גוזר לסמרטוטים",
+"question": "המעיל של משה קטן עליו, אבל הוא עוד יפה ושלם. מה הכי טוב לעשות?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a7/p1",
+"en": "a boy with a kippa dropping a good warm coat into a plain grey trash can Absolutely NO letters, words or writing anywhere, no labels on any bin. (trash)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "זורק לפח",
+"question": "המעיל של משה קטן עליו, אבל הוא עוד יפה ושלם. מה הכי טוב לעשות?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a7/p2",
+"en": "a father and son with kippot handing a folded good warm coat to a needy man with a kippa at his door Absolutely NO letters, words or writing anywhere, no labels on any bin. (gives)",
+"topic": "🍽️ הלכות כשרות › עצי פרי ובל תשחית",
+"caption": "נותן לאחרים",
+"question": "המעיל של משה קטן עליו, אבל הוא עוד יפה ושלם. מה הכי טוב לעשות?",
+"section": ""
+},
+{
+"id": "hq/kashrut-04/a8/p0",
+"en": "a boy with a kippa at a Shabbat table putting a piece of meat onto his plate that still has fish on it (same plate)",
+"topic": "🍽️ הלכות כשרות › סכנות",
+"caption": "אותה צלחת",
+"question": "בסעודה אכלת דג, ועכשו מגישים בשר. מה עושים?",
+"section": ""
+}
+]

@@ -1,0 +1,3066 @@
+[
+{
+"id": "hq/berachot-01/a1/p0",
+"en": "a tall glass of white milk standing on a wooden kitchen table (milk)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "כוס חלב",
+"question": "על איזה מאכל מברכים \"המוציא לחם מן הארץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a1/p1",
+"en": "a fresh slice of brown bread lying on a wooden kitchen table (bread)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "פרוסת לחם",
+"question": "על איזה מאכל מברכים \"המוציא לחם מן הארץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a1/p2",
+"en": "a shiny red apple lying on a wooden kitchen table (apple)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "תפוח אדום",
+"question": "על איזה מאכל מברכים \"המוציא לחם מן הארץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a2/p0",
+"en": "a bunch of purple grapes on a white plate (grapes)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "אשכול ענבים",
+"question": "על איזה מאכל מברכים \"שהכל נהיה בדברו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a2/p1",
+"en": "a slice of sponge cake on a white plate (cake)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "פרוסת עוגה",
+"question": "על איזה מאכל מברכים \"שהכל נהיה בדברו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a2/p2",
+"en": "a piece of roasted meat on a white plate (meat)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "חתיכת בשר",
+"question": "על איזה מאכל מברכים \"שהכל נהיה בדברו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a3/p0",
+"en": "a boy with a kippa holding a red apple and saying a blessing out loud, his mouth open, eyes focused (saying aloud)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "אומר בקול",
+"question": "איך אומרים ברכה על תפוח?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a3/p1",
+"en": "a boy with a kippa holding a red apple, his lips tightly closed, a thought bubble with a heart above his head (only thinking)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "רק חושב",
+"question": "איך אומרים ברכה על תפוח?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a3/p2",
+"en": "a boy with a kippa holding a red apple in one hand while busily stacking dishes with the other hand (stacking dishes)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "מסדר צלחות",
+"question": "איך אומרים ברכה על תפוח?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a4/p0",
+"en": "a father with a kippa holding up a loaf of bread, his mouth open in the middle of speaking, his son beside him already calling out with a raised hand (too early)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "באמצע הברכה",
+"question": "אבא מברך \"המוציא\". מתי עונים \"אמן\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a4/p1",
+"en": "a father with a kippa already chewing bread while dishes are passed around the table, his son calling out late with a raised hand (too late)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "כשכבר אוכלים",
+"question": "אבא מברך \"המוציא\". מתי עונים \"אמן\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a4/p2",
+"en": "a father with a kippa just lowering the bread after finishing the blessing, his son answering right away with a warm smile (right after)",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "מיד בסוף",
+"question": "אבא מברך \"המוציא\". מתי עונים \"אמן\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a5/p0",
+"en": "a boy with a kippa pouring water on his hand from a two-handled washing cup over a sink (washing cup)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "נטלה",
+"question": "במה נוטלים ידים לפני אכילת לחם?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a5/p1",
+"en": "a boy with a kippa pouring water on his hand from a clear plastic bag full of water (plastic bag)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "שקית ניילון",
+"question": "במה נוטלים ידים לפני אכילת לחם?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a5/p2",
+"en": "a boy with a kippa holding his hands under a running sink faucet (faucet)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "ברז הכיור",
+"question": "במה נוטלים ידים לפני אכילת לחם?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a6/p0",
+"en": "a two-handled washing cup filled with orange juice (orange juice)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "מיץ תפוזים",
+"question": "באילו מים מתר לטל ידים?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a6/p1",
+"en": "a two-handled washing cup filled with clear clean water (clear water)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "מים צלולים",
+"question": "באילו מים מתר לטל ידים?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a6/p2",
+"en": "a two-handled washing cup filled with cloudy soapy water, a pile of dirty dishes beside it (dishwater)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "מים משטיפת כלים",
+"question": "באילו מים מתר לטל ידים?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a7/p0",
+"en": "water poured from a two-handled washing cup onto a boy's RIGHT hand, a big arrow pointing to the right hand (right hand)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "יד ימין",
+"question": "איזו יד נוטלים ראשונה לפני הסעודה?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a7/p1",
+"en": "water poured onto both of a boy's hands held together at the same time (both together)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "שתיהן יחד",
+"question": "איזו יד נוטלים ראשונה לפני הסעודה?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a7/p2",
+"en": "water poured from a two-handled washing cup onto a boy's LEFT hand, a big arrow pointing to the left hand (left hand)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "יד שמאל",
+"question": "איזו יד נוטלים ראשונה לפני הסעודה?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a8/p0",
+"en": "a boy with a kippa drying his hands with a towel, the washing cup put away (after drying)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "אחרי המגבת",
+"question": "מתי מברכים \"על נטילת ידים\" לפני הסעודה?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a8/p1",
+"en": "a boy with a kippa holding a FULL two-handled washing cup, his hands still completely dry (before water)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "לפני המים",
+"question": "מתי מברכים \"על נטילת ידים\" לפני הסעודה?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/a8/p2",
+"en": "a boy with a kippa holding up his WET hands, water drops dripping, a towel hanging untouched beside him (wet hands)",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "ידיים רטובות",
+"question": "מתי מברכים \"על נטילת ידים\" לפני הסעודה?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/b1",
+"en": "a boy with a kippa sitting at a kitchen table holding a red apple, about to say a blessing, a bowl of fruit on the table, warm morning light",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "",
+"question": "אריאל ברך על תפוח ושכח לומר \"מלך העולם\". מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/b2",
+"en": "two brothers with kippot in a cozy kitchen, the older boy sitting beside his little brother who holds a cookie, a plate of cookies on the table",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "",
+"question": "איתן אינו אוכל. אחיו הקטן רוצה לאכל עוגיה, ועוד לא יודע לברך. מה יעשה איתן?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/b3",
+"en": "an older boy with a kippa sitting next to his baby brother in a high chair, small pieces of bread on the tray, a sunny kitchen, only boys, no women",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "",
+"question": "אלי מאכיל את אחיו התינוק בפרורי לחם, והוא עצמו לא אוכל. האם אלי צריך לטל ידים?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/b4",
+"en": "a boy with a kippa standing at a washing station with a two-handled washing cup and a towel, looking at a small bandage on his finger",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "",
+"question": "ליוסף יש פלסטר על פצע באצבע, וכואב לו להוריד אותו. איך יטל ידים לפני הסעודה?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/b5",
+"en": "two brothers with kippot near a washing station with a towel hanging on a hook, one boy drying his hands, the other reaching out toward him",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "",
+"question": "יוסף נטל את שתי ידיו ונגב אותן. אחיו, שעוד לא נטל, לחץ לו את היד. מה על יוסף לעשות?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/b6",
+"en": "a boy with a kippa sitting at a set family dinner table after washing his hands, a covered loaf of bread in front of him, his younger brother leaning toward him to talk, only a father and sons, no women",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "",
+"question": "בין נגוב הידים לברכת \"המוציא\" שאל אותו אחיו מה קרה במשחק. מה נכון לעשות?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/b7",
+"en": "a kitchen table with a bowl of red apples and a small empty plate beside it, soft daylight, no people",
+"topic": "🍎 הלכות ברכות › פתיחה",
+"caption": "",
+"question": "שירה רוצה לברך על תפוח, וראשה אינו מכסה. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-01/b8",
+"en": "a two-handled washing cup and a folded towel on the edge of a sink, no people",
+"topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+"caption": "",
+"question": "לרבקה יש לק על הצפרנים, והוא התחיל להתקלף. היא מקפידה שלא ללכת כך. מה תעשה לפני נטילת ידים לסעודה?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a1/p0",
+"en": "a baker with a kippa taking golden loaves of bread out of a stone oven (baker)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "אופה ליד התנור",
+"question": "מי באמת \"מוציא לחם מן הארץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a1/p1",
+"en": "a farmer with a kippa harvesting wheat in a golden field (farmer)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "חקלאי בשדה",
+"question": "מי באמת \"מוציא לחם מן הארץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a1/p2",
+"en": "a golden wheat field under a bright sun with soft rain falling from a cloud and glowing light from the sky, no people (heaven)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "שמש וגשם מהשמים",
+"question": "מי באמת \"מוציא לחם מן הארץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a2/p0",
+"en": "a boy with a kippa holding a round bread with both hands, all ten fingers on the bread (two hands)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "בשתי ידיים",
+"question": "איך טוב לאחז את הלחם בשעת \"המוציא\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a2/p1",
+"en": "a boy with a kippa holding a round bread in one hand, his other hand in his pocket (one hand)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "ביד אחת",
+"question": "איך טוב לאחז את הלחם בשעת \"המוציא\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a2/p2",
+"en": "a round bread lying on a plate on the table, a boy with a kippa sitting beside it with his hands folded (on plate)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "על הצלחת",
+"question": "איך טוב לאחז את הלחם בשעת \"המוציא\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a3/p0",
+"en": "a boy with a kippa holding two different bread rolls, one in each hand (both)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "אחת בכל יד",
+"question": "יש לחמנית חטה ולחמנית שעורה. על איזו מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a3/p1",
+"en": "a golden wheat bread roll on a plate next to a stalk of wheat (wheat)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "לחמניית חיטה",
+"question": "יש לחמנית חטה ולחמנית שעורה. על איזו מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a3/p2",
+"en": "a darker barley bread roll on a plate next to a stalk of barley with long whiskers (barley)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "לחמניית שעורה",
+"question": "יש לחמנית חטה ולחמנית שעורה. על איזו מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a4/p0",
+"en": "a large loaf of bread with several slices already cut from it (cut loaf)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "לחם גדול חתוך",
+"question": "יש לחם גדול שכבר חתכו ממנו, ולחמניה קטנה שלמה. על מה מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a4/p1",
+"en": "a single slice of bread on a plate (one slice)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "פרוסה אחת",
+"question": "יש לחם גדול שכבר חתכו ממנו, ולחמניה קטנה שלמה. על מה מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a4/p2",
+"en": "a small whole round bread roll, uncut (whole roll)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "לחמנייה שלמה",
+"question": "יש לחם גדול שכבר חתכו ממנו, ולחמניה קטנה שלמה. על מה מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a5/p0",
+"en": "a boy with a kippa at the dinner table taking a bite from a piece of bread (eating)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "טועם מהלחם",
+"question": "דני ברך \"המוציא\". מה הוא עושה מיד אחרי הברכה?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a5/p1",
+"en": "a boy with a kippa at the dinner table holding bread and talking excitedly to his father (talking)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "מדבר עם אבא",
+"question": "דני ברך \"המוציא\". מה הוא עושה מיד אחרי הברכה?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a5/p2",
+"en": "a boy with a kippa leaving the dinner table to play with a ball (playing)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "הולך לשחק",
+"question": "דני ברך \"המוציא\". מה הוא עושה מיד אחרי הברכה?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a6/p0",
+"en": "a small bowl of coarse white salt on a dinner table next to a loaf of bread (salt)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "קערת מלח",
+"question": "מה מניחים על שלחן הסעודה, כמו שהיו שמים על הקרבנות?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a6/p1",
+"en": "a small bowl of white sugar cubes on a dinner table (sugar)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "קוביות סוכר",
+"question": "מה מניחים על שלחן הסעודה, כמו שהיו שמים על הקרבנות?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a6/p2",
+"en": "a vase of colorful flowers on a dinner table (flowers)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "אגרטל פרחים",
+"question": "מה מניחים על שלחן הסעודה, כמו שהיו שמים על הקרבנות?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a7/p0",
+"en": "a plate of rice with roasted chicken (rice and chicken)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "אורז ועוף",
+"question": "באמצע הסעודה – על איזה מאכל צריך לברך ברכה משלו?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a7/p1",
+"en": "a slice of red watermelon on a plate (watermelon)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "פלח אבטיח",
+"question": "באמצע הסעודה – על איזה מאכל צריך לברך ברכה משלו?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a7/p2",
+"en": "a bowl of fresh green vegetable salad (salad)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "סלט ירקות",
+"question": "באמצע הסעודה – על איזה מאכל צריך לברך ברכה משלו?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a8/p0",
+"en": "a clear glass of water on a dinner table (only men and boys with short hair and kippot; no women, no girls, no long-haired children) (water)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "כוס מים",
+"question": "איזה משקה בסעודה לא נפטר ב\"המוציא\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a8/p1",
+"en": "a glass of orange juice on a dinner table (only men and boys with short hair and kippot; no women, no girls, no long-haired children) (juice)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "כוס מיץ",
+"question": "איזה משקה בסעודה לא נפטר ב\"המוציא\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/a8/p2",
+"en": "a silver kiddush cup filled with red wine on a dinner table (only men and boys with short hair and kippot; no women, no girls, no long-haired children) (wine)",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "גביע יין",
+"question": "איזה משקה בסעודה לא נפטר ב\"המוציא\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/b1",
+"en": "a boy with a kippa at a dinner table holding a piece of bread he has just broken, a salt bowl at the far end of the table, his brother sitting beside him, only a father and sons, no women",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "",
+"question": "שמואל ברך \"המוציא\", ולפני שטעם אמר לאחיו: \"תעביר לי את המלח\". מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/b2",
+"en": "a Shabbat table with two braided challahs under an embroidered cover, a knife beside them, silver candlesticks with flames, a father with a kippa and his sons standing around the table, only a father and sons, no women",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "",
+"question": "ביום חל מתחילים לחתך לחם גדול לפני הברכה. למה בשבת לא חותכים את החלה לפני הברכה?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/b3",
+"en": "a festive bar mitzvah hall with many round tables and bread on each table, men and boys with kippot washing hands at a washing station at the side, a large Star of David decoration on the wall, only men and boys, no women",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "",
+"question": "בסעודת בר מצוה גדולה נטלו אורחים רבים ידים. איך עדיף לברך \"המוציא\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/b4",
+"en": "a festive dinner table with bread, a plate of melon slices and a bowl of salad, a father with a kippa and his sons sitting together, only a father and sons, no women",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "",
+"question": "בתחלת הסעודה, אחרי \"המוציא\", הגישו חתיכות מלון. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/b5",
+"en": "a family dinner at home, a smiling neighbor man with a kippa at the open door holding a hot covered pot, a father and sons at the table turning to look, only men and boys, no women",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "",
+"question": "באמצע הסעודה באו חברים והביאו סיר קוגל, שלא חשבת עליו בשעת \"המוציא\". מה עושים?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/b6",
+"en": "a hungry boy with a kippa standing in a kitchen looking at a bowl of salad on the counter, a clock on the wall, a dinner table being set with bread in the background",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "",
+"question": "דוד רעב, והסעודה עם הלחם תתחיל בעוד כמה דקות. למה עדיף שלא יטעם עכשו מהסלט?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/b7",
+"en": "a Shabbat table at the end of the meal with a plate of cake slices, a father and his young son with kippot sitting at the table",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "",
+"question": "בסוף סעודת שבת הגישו עוגה. נעם עוד לא החליט אם אצלו עוגה היא חלק מהסעודה או קנוח. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-02/b8",
+"en": "a festive dinner table with a plate of jelly doughnuts and a lit Hanukkah menorah on the windowsill, a boy with a kippah looking at the doughnuts",
+"topic": "🍎 הלכות ברכות › ברכת המוציא",
+"caption": "",
+"question": "בחנכה, בסוף הסעודה ולפני ברכת המזון, הגישו ספגניות. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a1/p0",
+"en": "a group of ancient Israelite men and boys in simple robes walking across a shallow river into a green land with fields and olive trees (only men and boys with short hair and kippot; no women, no girls, no long-haired children) (entering the land)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "נכנסים לארץ",
+"question": "באיזה זמן תקן משה רבנו את ברכת \"הזן\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a1/p1",
+"en": "the Holy Temple in Jerusalem: a grand white and gold stone building with wide courtyards and steps, on a mountain, no dome (only men and boys with short hair and kippot; no women, no girls, no long-haired children) (the Temple)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "בית המקדש",
+"question": "באיזה זמן תקן משה רבנו את ברכת \"הזן\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a1/p2",
+"en": "white flakes of manna falling from the sky onto the desert sand around tents, a boy in ancient robes gathering them into a basket (only men and boys with short hair and kippot; no women, no girls, no long-haired children) (manna)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "המן במדבר",
+"question": "באיזה זמן תקן משה רבנו את ברכת \"הזן\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a2/p0",
+"en": "a festive Shabbat table with two lit candles and two covered challot (Shabbat table)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "שולחן שבת",
+"question": "היום שבת. איזו תוספת אומרים בברכת המזון?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a2/p1",
+"en": "a lit Hanukkah menorah standing in a window at night (Hanukkah menorah)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "חנוכייה דולקת",
+"question": "היום שבת. איזו תוספת אומרים בברכת המזון?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a2/p2",
+"en": "a thin new crescent moon in the evening sky above Jerusalem stone houses (new moon)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "ירח חדש",
+"question": "היום שבת. איזו תוספת אומרים בברכת המזון?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a3/p0",
+"en": "a boy with a kippa holding a small blessing booklet in one hand while stacking dirty plates with the other hand (stacking plates)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "מסדר צלחות",
+"question": "שלושה ילדים מברכים ברכת המזון. מי מברך כמו שצריך?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a3/p1",
+"en": "a boy with a kippa sitting calmly at the table, eyes on a small open blessing booklet, focused (sitting focused)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "יושב ומרוכז",
+"question": "שלושה ילדים מברכים ברכת המזון. מי מברך כמו שצריך?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a3/p2",
+"en": "a boy with a kippa walking around the living room while reading from a small booklet (walking around)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "מסתובב בבית",
+"question": "שלושה ילדים מברכים ברכת המזון. מי מברך כמו שצריך?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a4/p0",
+"en": "a dining table after a weekday meal with a big sharp uncovered knife lying in the center (sharp knife)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "סכין חדה",
+"question": "הסעודה נגמרה. מה נכון להשאיר על השלחן בזמן ברכת המזון?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a4/p1",
+"en": "a dining table with orange and banana peels scattered on it (fruit peels)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "קליפות",
+"question": "הסעודה נגמרה. מה נכון להשאיר על השלחן בזמן ברכת המזון?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a4/p2",
+"en": "a dining table with a few slices of bread left in a bread basket (bread basket)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "לחם בסלסלה",
+"question": "הסעודה נגמרה. מה נכון להשאיר על השלחן בזמן ברכת המזון?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a5/p0",
+"en": "a boy with a kippa hurrying back through the door into the kitchen toward the table where he ate (back to kitchen)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "חוזר למטבח",
+"question": "אהרן אכל ארוחה במטבח, יצא לחצר – ונזכר שעוד לא ברך. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a5/p1",
+"en": "a boy with a kippa standing in the backyard reading from a small booklet, a ball on the grass (blessing in yard)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "מברך בחצר",
+"question": "אהרן אכל ארוחה במטבח, יצא לחצר – ונזכר שעוד לא ברך. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a5/p2",
+"en": "a boy with a kippa in the backyard shrugging and kicking a ball (playing ball)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "משחק בכדור",
+"question": "אהרן אכל ארוחה במטבח, יצא לחצר – ונזכר שעוד לא ברך. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a6/p0",
+"en": "a restaurant where men with kippot each sit alone at separate small tables, not talking to each other (separate tables)",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "שולחנות נפרדים",
+"question": "באיזה מצב חיבים לזמן?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a6/p1",
+"en": "a small group, only a father and his sons, sitting together around one table eating bread and talking happily, no women (eating together)",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "אוכלים יחד",
+"question": "באיזה מצב חיבים לזמן?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a6/p2",
+"en": "a single boy with a kippa sitting alone on a park bench eating a sandwich (alone in park)",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "לבד בגן",
+"question": "באיזה מצב חיבים לזמן?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a7/p0",
+"en": "a man with a kippa just stepping in through the front door, holding car keys (neighbor at door)",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "שכן בפתח",
+"question": "לסעודת שבת הגיע אורח. למי נוהגים לתת לזמן?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a7/p1",
+"en": "a smiling bearded guest with a black hat sitting at a Shabbat table (the guest)",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "האורח",
+"question": "לסעודת שבת הגיע אורח. למי נוהגים לתת לזמן?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a7/p2",
+"en": "a very young boy with a kippa sitting on a booster seat at the table (youngest son)",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "הבן הקטן",
+"question": "לסעודת שבת הגיע אורח. למי נוהגים לתת לזמן?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a8/p0",
+"en": "a boy's fingertips held downward over a small bowl, a little water poured on them from a small cup (fingertips)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "קצות האצבעות",
+"question": "הנוהגים לטל מים אחרונים – איך נוטלים?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a8/p1",
+"en": "water splashing from a cup onto the tiled floor beside the table (on the floor)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "על הרצפה",
+"question": "הנוהגים לטל מים אחרונים – איך נוטלים?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/a8/p2",
+"en": "a boy washing both arms up to the elbows under a big tap (up to elbows)",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "עד המרפק",
+"question": "הנוהגים לטל מים אחרונים – איך נוטלים?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/b1",
+"en": "a Shabbat afternoon table in late golden sunlight, a few men and boys with kippot finishing a light meal, small blessing booklets lying on the table",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "",
+"question": "בסעודה השלישית של שבת שכח יונתן לומר \"רצה\", ונזכר רק אחרי שסים את כל ברכת המזון. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/b2",
+"en": "a boy with a kippa sitting on a couch after lunch, scratching his head and trying to remember something, a cleared dining table behind him",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "",
+"question": "ראובן אכל ארוחת צהרים גדולה ושבע. אחרי זמן קצר הוא אינו זוכר אם ברך. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/b3",
+"en": "a small group of boys with kippot at a wooden table: some have finished eating and hold small blessing booklets, one is still eating a sandwich",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "",
+"question": "שלושה חברים אכלו לחם יחד. שנים סימו ורוצים לזמן, והשלישי עוד אוכל. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/b4",
+"en": "a long festive table with men and boys with kippot, some plates with bread and others with fruit and cups of juice",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "",
+"question": "בסעודה גדולה שבעה אכלו לחם, ושלושה אכלו רק פרות ושתו מיץ. איך מזמנים?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/b5",
+"en": "a festive Shabbat table after the meal, a father with a kippa holding a small blessing booklet and raising his hand to begin, his sons around him, only a father and sons, no women",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "",
+"question": "בסעודת שבת יושבים אבא ושני בנים גדולים אחרי בר מצוה, וגם אמא והאחיות. אבא מזמן. מי עונה?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/b6",
+"en": "a boy with a kippa opening a door into a dining room where a small group of men and boys sit around a table, about to bless after the meal",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "",
+"question": "דוד נכנס לחדר בדיוק כשהמזמן אמר \"נברך שאכלנו משלו\". דוד לא אכל אתם. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/b7",
+"en": "a classroom party table with bread rolls, plates and cups, colorful paper decorations, no people",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "",
+"question": "שלש חברות אכלו יחד לחם במסבת כתה. מה נכון שיעשו בברכת המזון?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/b8",
+"en": "a family dinner table with a basket of bread and three plates, empty chairs, no people",
+"topic": "🍎 הלכות ברכות › זמון",
+"caption": "",
+"question": "מיכל אכלה לחם עם אבא ועם אחיה הגדול, שכבר אחרי בר מצוה. אין שם עוד אף אחד. האם מזמנים?",
+"section": ""
+},
+{
+"id": "hq/berachot-03/b9",
+"en": "a small closed prayer booklet lying next to a plate with bread crumbs on a set table, no people",
+"topic": "🍎 הלכות ברכות › ברכת המזון",
+"caption": "",
+"question": "אחותו של איתן שואלת: \"גם בנות חיבות לברך ברכת המזון?\" מה התשובה?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a1/p0",
+"en": "a bowl of white rice and a green rice plant (rice)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "אורז",
+"question": "איזה מהם הוא אחד מחמשת מיני הדגן?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a1/p1",
+"en": "golden oat stalks next to a bowl of rolled oats (oats)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "שיבולת שועל",
+"question": "איזה מהם הוא אחד מחמשת מיני הדגן?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a1/p2",
+"en": "yellow corn cobs with green husks (corn)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "תירס",
+"question": "איזה מהם הוא אחד מחמשת מיני הדגן?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a2/p0",
+"en": "a slice of chocolate cake on a plate (chocolate cake)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "עוגת שוקולד",
+"question": "על מה מברכים \"בורא פרי האדמה\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a2/p1",
+"en": "a plate of cooked noodles (noodles)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "אטריות",
+"question": "על מה מברכים \"בורא פרי האדמה\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a2/p2",
+"en": "a handful of raw golden wheat kernels in a boy's open palm, wheat stalks behind (wheat kernels)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "גרעיני חיטה",
+"question": "על מה מברכים \"בורא פרי האדמה\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a3/p0",
+"en": "a big bowl of cooked Israeli ptitim pearl pasta (ptitim)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "פתיתים",
+"question": "על איזה מאכל מברכים \"מזונות\" גם כשאוכלים ממנו ארוחה שלמה?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a3/p1",
+"en": "slices of bread on a wooden board (bread slices)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "פרוסות לחם",
+"question": "על איזה מאכל מברכים \"מזונות\" גם כשאוכלים ממנו ארוחה שלמה?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a3/p2",
+"en": "a round pita bread (pita)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "פיתה",
+"question": "על איזה מאכל מברכים \"מזונות\" גם כשאוכלים ממנו ארוחה שלמה?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a4/p0",
+"en": "a single slice of bread on a plate (bread slice)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "פרוסת לחם",
+"question": "איזה מאפה הוא \"פת הבאה בכסנין\", שמברכים עליו \"מזונות\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a4/p1",
+"en": "a plate of triangle hamantaschen cookies filled with poppy seed and jam (hamantaschen)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "אוזני המן",
+"question": "איזה מאפה הוא \"פת הבאה בכסנין\", שמברכים עליו \"מזונות\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a4/p2",
+"en": "a plain round bread roll on a plate (bread roll)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "לחמנייה",
+"question": "איזה מאפה הוא \"פת הבאה בכסנין\", שמברכים עליו \"מזונות\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a5/p0",
+"en": "a fresh loaf of bread (bread)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "לחם",
+"question": "ספגניות מטגנות בשמן עמק. למה הן דומות בדינן?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a5/p1",
+"en": "a baked sponge cake on a plate (baked cake)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "עוגה אפויה",
+"question": "ספגניות מטגנות בשמן עמק. למה הן דומות בדינן?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a5/p2",
+"en": "round doughnuts frying in a deep pot of bubbling oil on a stove (frying in oil)",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "טיגון בשמן",
+"question": "ספגניות מטגנות בשמן עמק. למה הן דומות בדינן?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a6/p0",
+"en": "a glass of orange juice next to fresh oranges (any boy has SHORT hair and a kippa; no long-haired children, no women, no girls) (orange juice)",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "מיץ תפוזים",
+"question": "על איזה משקה מברכים \"בורא פרי הגפן\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a6/p1",
+"en": "a glass of apple juice next to red apples (any boy has SHORT hair and a kippa; no long-haired children, no women, no girls) (apple juice)",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "מיץ תפוחים",
+"question": "על איזה משקה מברכים \"בורא פרי הגפן\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a6/p2",
+"en": "a glass of purple grape juice next to a bunch of grapes (any boy has SHORT hair and a kippa; no long-haired children, no women, no girls) (grape juice)",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "מיץ ענבים",
+"question": "על איזה משקה מברכים \"בורא פרי הגפן\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a7/p0",
+"en": "a fresh bunch of green grapes on a plate (any boy has SHORT hair and a kippa; no long-haired children, no women, no girls) (grapes)",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "אשכול ענבים",
+"question": "על מה מברכים \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a7/p1",
+"en": "a glass of purple grape juice (any boy has SHORT hair and a kippa; no long-haired children, no women, no girls) (grape juice)",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "מיץ ענבים",
+"question": "על מה מברכים \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a7/p2",
+"en": "a glass of orange juice (any boy has SHORT hair and a kippa; no long-haired children, no women, no girls) (orange juice)",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "מיץ תפוזים",
+"question": "על מה מברכים \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a8/p0",
+"en": "a boy with a kippa drinking a cup of water right away with a smile, a table with cups behind him (drinking at once)",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "שותה מיד",
+"question": "בקדוש שבבית הכנסת שמע יוסי את הקדוש ושתה מיץ ענבים. עכשו הוא רוצה כוס מים מן השלחן. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a8/p1",
+"en": "a boy with a kippa holding a cup of water, eyes closed, saying a blessing (blessing over water)",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "מברך על המים",
+"question": "בקדוש שבבית הכנסת שמע יוסי את הקדוש ושתה מיץ ענבים. עכשו הוא רוצה כוס מים מן השלחן. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/a8/p2",
+"en": "a boy with a kippa holding up a cup of purple grape juice again, saying a blessing (blessing grape juice)",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "מברך על מיץ ענבים",
+"question": "בקדוש שבבית הכנסת שמע יוסי את הקדוש ושתה מיץ ענבים. עכשו הוא רוצה כוס מים מן השלחן. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/b1",
+"en": "a schoolyard at recess, a boy with a kippa sitting on a bench holding a large golden pastry, other boys playing in the background",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "",
+"question": "בהפסקה אכל עמיחי בורקס גבינה גדול, כמו שאוכלים בין הארוחות. מה ברך לפניו?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/b2",
+"en": "a festive hall with long tables covered with platters of crackers, cakes, meat and salads, men and boys with kippot celebrating, a Star of David decoration on the wall",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "",
+"question": "במסבת בר מצוה הגישו קרקרים ועוגות בלי לחם, יחד עם בשר וסלטים. כלם אכלו הרבה ושבעו. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/b3",
+"en": "a weekday dinner table with a large baked noodle kugel in a baking dish, a father and his sons with kippot, no women",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "",
+"question": "ביום חל אכל מאיר לארוחת ערב רק קוגל אטריות – הרבה, עד ששבע. מה יברך אחריו?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/b4",
+"en": "a Shabbat dinner table with challah and a bottle of grape juice, a boy with a kippa pouring purple grape juice into his cup",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "",
+"question": "באמצע הסעודה, אחרי שברך \"המוציא\", מזג יהונתן כוס מיץ ענבים. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/b5",
+"en": "a synagogue social hall after Shabbat morning prayers, a table with cakes, cups and bottles of drinks, men and boys with kippot standing around it, a Star of David on the wall",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "",
+"question": "בקדוש שבבית הכנסת שמע אתי את הקדוש, אבל לא טעם מכוס הקדוש. עכשו הוא רוצה מיץ תפוזים. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/b6",
+"en": "a festive Shabbat table with two different bottles of red wine and silver cups, two bearded men with kippot smiling at each other",
+"topic": "🍎 הלכות ברכות › ברכת היין",
+"caption": "",
+"question": "למה תקנו \"הטוב והמטיב\" רק על סוג נוסף של יין, ולא על סוג נוסף של לחם?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/b7",
+"en": "a frying pan with golden slices of bread fried in egg on a stove, a boy with a kippah holding an empty plate",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "",
+"question": "לארוחת בקר טגנו בבית פרוסות לחם שלמות בביצה. מה מברכים עליהן?",
+"section": ""
+},
+{
+"id": "hq/berachot-04/b8",
+"en": "a boy with a kippah sitting on a picnic blanket in a green park, eating slices of cake from a box",
+"topic": "🍎 הלכות ברכות › חמשת מיני דגן",
+"caption": "",
+"question": "בטיול אכל שמשון, בן תשע, רק עוגה – עד ששבע כמו מארוחה. מבגר היה צריך לאכל הרבה יותר כדי לשבע. מה יברך שמשון בסוף?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a1/p0",
+"en": "a single shiny red tomato on a wooden table (tomato)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "עגבנייה",
+"question": "על איזה פרי מברכים \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a1/p1",
+"en": "a single red apple with a green leaf on a wooden table (apple)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "תפוח",
+"question": "על איזה פרי מברכים \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a1/p2",
+"en": "a single long green cucumber on a wooden table (cucumber)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "מלפפון",
+"question": "על איזה פרי מברכים \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a2/p0",
+"en": "a single ripe yellow banana on a plate, no people at all (banana)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "בננה",
+"question": "על איזה פרי מברכים \"בורא פרי האדמה\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a2/p1",
+"en": "a bunch of purple grapes on a plate, no people at all (grapes)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "ענבים",
+"question": "על איזה פרי מברכים \"בורא פרי האדמה\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a2/p2",
+"en": "a single green pear on a plate, no people at all (pear)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "אגס",
+"question": "על איזה פרי מברכים \"בורא פרי האדמה\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a3/p0",
+"en": "a yellow corn cob on a plate (corn)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "תירס",
+"question": "על מה מברכים \"שהכל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a3/p1",
+"en": "a small bowl of almonds (almonds)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "שקדים",
+"question": "על מה מברכים \"שהכל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a3/p2",
+"en": "a few white button mushrooms on a plate (mushrooms)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "פטריות",
+"question": "על מה מברכים \"שהכל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a4/p0",
+"en": "a sweaty boy with a kippa after running outside in a park, drinking a big glass of water (after running)",
+"topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+"caption": "אחרי ריצה",
+"question": "מתי שותים מים בלי לברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a4/p1",
+"en": "a boy with a kippa sitting at a table holding a small pill and a small glass of water, a medicine box beside him (pill)",
+"topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+"caption": "בולע כדור",
+"question": "מתי שותים מים בלי לברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a4/p2",
+"en": "a boy with a kippa under a bright hot sun, wiping his forehead, drinking water from a bottle (hot day)",
+"topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+"caption": "יום חם",
+"question": "מתי שותים מים בלי לברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a5/p0",
+"en": "a plate of golden french fries (fries)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "ציפס",
+"question": "איזה מאכל מתפוחי אדמה ברכתו \"שהכל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a5/p1",
+"en": "a bowl of creamy mashed potatoes (mashed)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "פירה",
+"question": "איזה מאכל מתפוחי אדמה ברכתו \"שהכל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a5/p2",
+"en": "a whole raw unpeeled potato with a bite taken out of it, on a cutting board (raw potato)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "תפוח אדמה חי",
+"question": "איזה מאכל מתפוחי אדמה ברכתו \"שהכל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a6/p0",
+"en": "a peeled orange split into segments on a plate (orange)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "תפוז קלוף",
+"question": "על מה מברכים \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a6/p1",
+"en": "a tall glass of orange juice (juice)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "מיץ תפוזים",
+"question": "על מה מברכים \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a6/p2",
+"en": "a bar of chocolate with a few squares broken off (chocolate)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "שוקולד",
+"question": "על מה מברכים \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a7/p0",
+"en": "a boy with a kippa holding a big colorful round lollipop candy (puffs)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "סוכריה",
+"question": "על איזה מאכל מברכים \"בורא פרי האדמה\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a7/p1",
+"en": "a bowl of chopped vegetable salad with diced tomatoes and cucumbers (salad)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "סלט ירקות",
+"question": "על איזה מאכל מברכים \"בורא פרי האדמה\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a7/p2",
+"en": "a boy with a kippa holding a glass of white milk (cornflakes)",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "כוס חלב",
+"question": "על איזה מאכל מברכים \"בורא פרי האדמה\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a8/p0",
+"en": "a boy with a kippa putting a whole orange into an open refrigerator (fridge)",
+"topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+"caption": "למקרר",
+"question": "אבי רוצה לאכל תפוז. מה יעשה לפני הברכה?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a8/p1",
+"en": "a boy with a kippa holding up a whole orange to show his little brother, who also wears a kippa (showing)",
+"topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+"caption": "מראה לאח",
+"question": "אבי רוצה לאכל תפוז. מה יעשה לפני הברכה?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/a8/p2",
+"en": "a boy with a kippa peeling an orange at the table, orange peels on a plate (peeling)",
+"topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+"caption": "מקלף",
+"question": "אבי רוצה לאכל תפוז. מה יעשה לפני הברכה?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/b1",
+"en": "a boy with a kippa at a kitchen table holding a green cucumber, looking surprised with his hand on his forehead, a bowl of fruit and vegetables on the table",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "",
+"question": "ארי ברך \"בורא פרי העץ\" על מלפפון, ואז נזכר שטעה. מה עליו לעשות?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/b2",
+"en": "a boy with a kippa at a sunny breakfast table, a halved grapefruit on a plate in front of him, a spoon in his hand",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "",
+"question": "דני ברך \"העץ\" ואכל אשכולית. בסוף נשאר מיץ בצלחת, והוא רוצה לשתות אותו. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/b3",
+"en": "a festive table with a plate of cookies, a bunch of green grapes and slices of red watermelon, a boy with a kippa sitting and looking at them thoughtfully",
+"topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+"caption": "",
+"question": "לפני יוסף עוגיה, ענבים ואבטיח, והוא רוצה לאכל מכלם עכשו. על מה יברך ראשון?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/b4",
+"en": "a bowl of brown dates and a bowl of red apples on a table in a sunny room, a boy with a kippa reaching toward the table",
+"topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+"caption": "",
+"question": "לפני דוד תמרים ותפוחים, ושניהם חביבים עליו בשוה. איך יברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/b5",
+"en": "a boy with a kippa sitting at a kitchen table holding a red apple close to his mouth, turning his head to ask his father, a bearded man with a kippa standing at the sink",
+"topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+"caption": "",
+"question": "שמעון ברך על תפוח, ולפני שנגס שאל: \"שטפתם אותו?\" מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/b6",
+"en": "a boy with a kippa walking along a quiet neighborhood street toward a friend's house, holding a small open box of cherry tomatoes",
+"topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+"caption": "",
+"question": "איתן ברך \"האדמה\" על עגבניות שרי בבית, והלך עם הקפסה לבית חברו. שם הוא רוצה להמשיך לאכל. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/b7",
+"en": "a plate of cooked white rice with a spoon on a kitchen table, no people",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "",
+"question": "לארוחת צהרים אכלה הדסה צלחת ארז מבשל. מה תברך לפניו ואחריו?",
+"section": ""
+},
+{
+"id": "hq/berachot-05/b8",
+"en": "a plate of golden grated-potato latkes on a table next to a lit Hanukkah menorah, a boy with a kippah reaching for one",
+"topic": "🍎 הלכות ברכות › ברכת הפרות ושהכל",
+"caption": "",
+"question": "בחנכה אכל יהודה לביבות מתפוחי אדמה מגרדים, ורואים בהן חתיכות של תפוח אדמה. מה ברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a1/p0",
+"en": "a single red apple on a plate (apple)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "תפוח",
+"question": "אחרי איזה פרי מברכים \"על העץ\" (מעין שלש)?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a1/p1",
+"en": "a few ripe purple figs, one cut open, on a plate (figs)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "תאנים",
+"question": "אחרי איזה פרי מברכים \"על העץ\" (מעין שלש)?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a1/p2",
+"en": "a single green pear on a plate (pear)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "אגס",
+"question": "אחרי איזה פרי מברכים \"על העץ\" (מעין שלש)?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a2/p0",
+"en": "a single ripe yellow banana on a plate (banana)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "בננה",
+"question": "אחרי איזה מאכל מברכים \"בורא נפשות\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a2/p1",
+"en": "a small bowl of brown dates (dates)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "תמרים",
+"question": "אחרי איזה מאכל מברכים \"בורא נפשות\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a2/p2",
+"en": "a slice of chocolate cake on a plate (cake)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "עוגה",
+"question": "אחרי איזה מאכל מברכים \"בורא נפשות\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a3/p0",
+"en": "a single tiny crumb of cake on a big white plate (crumb)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "פירור קטן",
+"question": "אחרי כמה אכל מברכים ברכה אחרונה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a3/p1",
+"en": "a single grain of cooked rice on a big white plate (one grain)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "גרגיר אורז",
+"question": "אחרי כמה אכל מברכים ברכה אחרונה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a3/p2",
+"en": "a half of a hard boiled egg next to a piece of cake of the same size, on a white plate (half egg)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "כחצי ביצה",
+"question": "אחרי כמה אכל מברכים ברכה אחרונה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a4/p0",
+"en": "a tall glass of orange juice (any boy has SHORT hair and a kippa; no long-haired children, no women, no girls) (juice)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "מיץ תפוזים",
+"question": "איזה מהם נחשב אכל ולא משקה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a4/p1",
+"en": "a bowl with scoops of ice cream and a spoon (any boy has SHORT hair and a kippa; no long-haired children, no women, no girls) (ice cream)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "גלידה",
+"question": "איזה מהם נחשב אכל ולא משקה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a4/p2",
+"en": "a clear glass of water (any boy has SHORT hair and a kippa; no long-haired children, no women, no girls) (water)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "מים",
+"question": "איזה מהם נחשב אכל ולא משקה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a5/p0",
+"en": "a boy with a kippa in pajamas sitting on his bed at night, moon in the dark window (night)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "לפני השינה",
+"question": "מתי צריך לברך את הברכה האחרונה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a5/p1",
+"en": "a boy with a kippa waking up in the morning, sunrise through the window (next morning)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "למחרת בבוקר",
+"question": "מתי צריך לברך את הברכה האחרונה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a5/p2",
+"en": "a boy with a kippa sitting at the table right after eating, an empty plate before him, holding a small blessing card (after eating)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "מיד בסוף האכילה",
+"question": "מתי צריך לברך את הברכה האחרונה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a6/p0",
+"en": "a bowl of small toasted pasta pearls with a little ketchup on top (pasta)",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "הפתיתים",
+"question": "רוני אוכל פתיתים עם קטשופ. על מה יברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a6/p1",
+"en": "a red ketchup bottle alone on the table (ketchup)",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "הקטשופ",
+"question": "רוני אוכל פתיתים עם קטשופ. על מה יברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a6/p2",
+"en": "a bowl of plain pasta pearls and a ketchup bottle standing apart from each other (both)",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "כל אחד לחוד",
+"question": "רוני אוכל פתיתים עם קטשופ. על מה יברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a7/p0",
+"en": "a round hard candy cut in half showing a small almond inside (candy)",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "סוכרייה עם שקד",
+"question": "איזה ממתק ברכתו \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a7/p1",
+"en": "a small bowl of whole almonds coated in brown chocolate (coated almonds)",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "שקדים בשוקולד",
+"question": "איזה ממתק ברכתו \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a7/p2",
+"en": "a bar of chocolate with pieces of nuts inside it (nut chocolate)",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "שוקולד אגוזים",
+"question": "איזה ממתק ברכתו \"בורא פרי העץ\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a8/p0",
+"en": "a bowl of chopped vegetable salad with a few black olives on top (salad)",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "סלט עם זיתים",
+"question": "על איזה מאכל מברכים \"מזונות\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a8/p1",
+"en": "a golden breaded chicken schnitzel on a plate (schnitzel)",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "שניצל",
+"question": "על איזה מאכל מברכים \"מזונות\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/a8/p2",
+"en": "a plate of white rice mixed with raisins (rice)",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "אורז עם צימוקים",
+"question": "על איזה מאכל מברכים \"מזונות\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/b1",
+"en": "a boy with a kippa sitting at a table after a snack, small plates with a few date pits and apple cores, a small blessing card in his hand",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "",
+"question": "אליה אכל כזית תמרים וכזית תפוחים. איזו ברכה אחרונה יברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/b2",
+"en": "a kitchen table with a bowl of green grapes and a sliced cucumber on a cutting board, a boy with a kippa sitting and thinking with his chin on his hand",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "",
+"question": "משה אכל כזית ענבים וכזית מלפפון, וברך רק \"בורא נפשות\". מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/b3",
+"en": "a boy with a kippa sitting at a desk doing homework, a tall glass of juice beside his notebook, a wall clock in the background (any boy has SHORT hair and a kippa; no long-haired children, no women, no girls)",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "",
+"question": "נעם שתה כוס מיץ גדולה בלגימות קטנות, לאט לאט, במשך שעה שלמה. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/b4",
+"en": "a golden baked vegetable pie in a round baking dish on a kitchen counter, a bag of flour and fresh vegetables next to it",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "",
+"question": "בפשטידת ירקות שמו מעט קמח, רק כדי שהיא תדבק ולא תתפרק. מה מברכים עליה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/b5",
+"en": "a boy with a kippa outside an ice cream shop on a sunny day, holding an ice cream in a crunchy wafer cone",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "",
+"question": "עקיבא אוכל גלידה בגביע טעים ופריך, והוא נהנה גם מהגביע. מה יברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/b6",
+"en": "a boy with a kippa at a kitchen table spreading a thick layer of chocolate spread on a cracker with a knife, a jar of spread beside him",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "",
+"question": "יהודה מרח שכבה עבה של ממרח שוקולד על קרקר, כדי שהקרקר יהיה טעים. מה יברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/b7",
+"en": "a boy with a kippa and short hair holding a single green grape between two fingers, a bunch of grapes in a bowl on the kitchen table",
+"topic": "🍎 הלכות ברכות › ברכה אחרונה",
+"caption": "",
+"question": "יוסף אכל ענב אחד בלבד, ולא יותר. מה הדין לגבי ברכה אחרונה?",
+"section": ""
+},
+{
+"id": "hq/berachot-06/b8",
+"en": "a bowl of clear golden soup with only a few small pieces of carrot, a spoon beside it, on a wooden table in a simple Israeli kitchen",
+"topic": "🍎 הלכות ברכות › עקר וטפל",
+"caption": "",
+"question": "בצלחת מרק, ובו הרבה נוזלים ומעט מאוד ירקות. מה מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a1/p0",
+"en": "a boy with a kippa sitting at a table holding a slice of bread, about to eat it (slice of bread)",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "פרוסת לחם",
+"question": "באיזה מצב ״המוציא״ היא ברכה לבטלה?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a1/p1",
+"en": "a boy with a kippa sitting at a bare table with an empty plate, no bread anywhere in the room (no bread)",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "צלחת ריקה",
+"question": "באיזה מצב ״המוציא״ היא ברכה לבטלה?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a1/p2",
+"en": "a boy with a kippa at a Shabbat table with two braided challah loaves and candlesticks (challah)",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "חלות של שבת",
+"question": "באיזה מצב ״המוציא״ היא ברכה לבטלה?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a2/p0",
+"en": "an older boy with a kippa smiling and answering out loud toward his little brother, who holds a cup of water (answering)",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "עונה לאחיו",
+"question": "אחיו הקטן של דני, בן שש, ברך יפה ״שהכל״ על מים. מה יעשה דני?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a2/p1",
+"en": "an older boy with a kippa with a finger on his lips, silent, turning away from his little brother who holds a cup of water (silent)",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "שותק",
+"question": "אחיו הקטן של דני, בן שש, ברך יפה ״שהכל״ על מים. מה יעשה דני?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a2/p2",
+"en": "an older boy with a kippa taking the cup of water from his little brother and holding it up himself (takes the cup)",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "לוקח את הכוס",
+"question": "אחיו הקטן של דני, בן שש, ברך יפה ״שהכל״ על מים. מה יעשה דני?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a3/p0",
+"en": "a Shabbat table with only a father and boys with kippot, each boy holding his own small roll and murmuring alone, not looking at each other (only a father and sons, every boy with SHORT hair and a kippa; no women, no girls, no long-haired children) (each alone)",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "כל אחד לבד",
+"question": "בסעודת שבת המשפחה יושבת יחד. מי מברך ״המוציא״?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a3/p1",
+"en": "a Shabbat table with only a father and boys with kippot, where the smallest boy lifts the challah while the others watch (only a father and sons, every boy with SHORT hair and a kippa; no women, no girls, no long-haired children) (smallest boy)",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "הקטן מרים את החלה",
+"question": "בסעודת שבת המשפחה יושבת יחד. מי מברך ״המוציא״?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a3/p2",
+"en": "a Shabbat table with only a father and boys with kippot, the bearded father lifting the two challah loaves while the boys listen happily (only a father and sons, every boy with SHORT hair and a kippa; no women, no girls, no long-haired children) (father for all)",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "אבא מרים את החלות",
+"question": "בסעודת שבת המשפחה יושבת יחד. מי מברך ״המוציא״?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a4/p0",
+"en": "a boy with a kippa scattering grain to chickens in the yard of his house, next to a small chicken coop (our chickens)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "התרנגולות שלנו",
+"question": "אסור לטעם כלום לפני שמאכילים את בעלי החיים. את אילו?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a4/p1",
+"en": "pigeons pecking in a public park with benches and trees (park pigeons)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "יונים בגן",
+"question": "אסור לטעם כלום לפני שמאכילים את בעלי החיים. את אילו?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a4/p2",
+"en": "colorful fish swimming in the open sea near rocks (sea fish)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "דגים בים",
+"question": "אסור לטעם כלום לפני שמאכילים את בעלי החיים. את אילו?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a5/p0",
+"en": "a bowl of soft sticky brown dates (dates)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "תמרים",
+"question": "מה מתר לזרק לחבר מעבר לשלחן?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a5/p1",
+"en": "a bowl of walnuts in their hard shells (walnuts)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "אגוזים בקליפה",
+"question": "מה מתר לזרק לחבר מעבר לשלחן?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a5/p2",
+"en": "a bowl of soft ripe purple figs (figs)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "תאנים",
+"question": "מה מתר לזרק לחבר מעבר לשלחן?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a6/p0",
+"en": "a boy with a kippa passing a full glass of grape juice right over an open basket of sliced bread (over the bread)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "כוס מעל הלחם",
+"question": "איזה ילד שומר על הלחם?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a6/p1",
+"en": "a boy with a kippa putting a dirty plate with leftovers on top of a loaf of bread (dirty plate)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "צלחת על הלחם",
+"question": "איזה ילד שומר על הלחם?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a6/p2",
+"en": "a boy with a kippa carefully carrying a full glass around the edge of the table, far from the bread basket (around the side)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "כוס מצד השולחן",
+"question": "איזה ילד שומר על הלחם?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a7/p0",
+"en": "a boy with a kippa sweeping bread crumbs from the table into his hand and dropping them into a small kitchen bin (into the bin)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "אוסף לפח",
+"question": "אחרי הארוחה נשארו פרורי לחם על השלחן. מה נכון לעשות?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a7/p1",
+"en": "a boy with a kippa brushing bread crumbs off the table so they fall onto the floor (onto the floor)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "מנער לרצפה",
+"question": "אחרי הארוחה נשארו פרורי לחם על השלחן. מה נכון לעשות?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a7/p2",
+"en": "a boy with a kippa leaving a pile of bread pieces on the ground beside big street garbage bins (by street bins)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "ליד פחי הרחוב",
+"question": "אחרי הארוחה נשארו פרורי לחם על השלחן. מה נכון לעשות?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a8/p0",
+"en": "a boy with a kippa putting a bitten slice of bread back into the shared bread basket (bitten back)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "מחזיר לסל",
+"question": "יואב רוצה רק חצי פרוסה. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a8/p1",
+"en": "a boy with a kippa cutting a slice of bread in half with a knife, leaving the other half in the basket (cuts half)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "חותך חצי",
+"question": "יואב רוצה רק חצי פרוסה. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/a8/p2",
+"en": "a boy with a kippa handing his bitten slice of bread to the boy sitting next to him (gives bitten)",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "נותן לחבר",
+"question": "יואב רוצה רק חצי פרוסה. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/b1",
+"en": "two brothers with kippot sitting at a kitchen table with a plate of cookies, warm afternoon light",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "",
+"question": "נתן לא זוכר אם כבר ברך על העוגיה שבידו. אחיו עומד לברך ״מזונות״ על עוגיה. מה כדאי לעשות?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/b2",
+"en": "a Saturday night family scene with only a father and boys with kippot around a table with a braided havdalah candle, a spice box and a cup, dark sky in the window",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "",
+"question": "במוצאי שבת, לפני ההבדלה, ברך איתן ״שהכל״ על מיץ – ואז נזכר. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/b3",
+"en": "a schoolyard at recess with boys with kippot standing and talking, colorful candies in a small bag on a bench",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "",
+"question": "גד לקח סכריה מחבר בלי רשות. האם יברך עליה?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/b4",
+"en": "a warm family dinner table with only men and boys: a father and sons with kippot and a smiling guest man, dishes of food on the table",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "",
+"question": "אורח שאינו רגיל לברך יושב אצלכם לארוחה. מה נכון לעשות?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/b5",
+"en": "a family dinner table at the end of the meal with only a father and boys with kippot, a boy looking at a big serving dish of food",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "",
+"question": "בסוף הארוחה שמואל רוצה עוד מנה, אף שכבר אכל הרבה. מה העצה הטובה?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/b6",
+"en": "a table with a big bowl of hummus in the middle and pita breads, men and boys with kippot sitting around it",
+"topic": "🍎 הלכות ברכות › דרך ארץ",
+"caption": "",
+"question": "באמצע השלחן קערת חומוס גדולה. מתי מתר לטבל בה את הפתה?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/b7",
+"en": "an open prayer book with blank pages on a wooden table beside a small bowl of fresh fruit and a cup of water, soft morning light, no people",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "",
+"question": "מצות מאה ברכות בכל יום – למה נשים אינן חיבות בה?",
+"section": ""
+},
+{
+"id": "hq/berachot-07/b8",
+"en": "a boy with a kippa and short hair sitting at a kitchen table, listening attentively to a small old-fashioned radio on the shelf",
+"topic": "🍎 הלכות ברכות › כללי ברכות",
+"caption": "",
+"question": "דני שומע ברדיו, בשדור חי, חזן שמסים ברכה. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a1/p0",
+"en": "a single yellow lemon on a small plate (lemon)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "לימון",
+"question": "על מה מברכים ״בורא עצי בשמים״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a1/p1",
+"en": "a fragrant green myrtle branch with small leaves held in a hand (myrtle)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "ענף הדס",
+"question": "על מה מברכים ״בורא עצי בשמים״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a1/p2",
+"en": "a white narcissus flower with a soft green stem in a small pot (narcissus)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "פרח נרקיס",
+"question": "על מה מברכים ״בורא עצי בשמים״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a2/p0",
+"en": "a bar of scented bath soap on a soap dish next to a sink (soap)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "סבון רחצה",
+"question": "על איזה ריח טוב מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a2/p1",
+"en": "an air freshener spray can on a shelf in a clean bathroom (air freshener)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "מטהר אוויר",
+"question": "על איזה ריח טוב מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a2/p2",
+"en": "a blooming white jasmine bush in a home garden, a boy with a kippa leaning to smell it (jasmine)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "שיח יסמין בגינה",
+"question": "על איזה ריח טוב מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a3/p0",
+"en": "a boy with a kippa leaning close to smell white blossoms on an orange tree branch, eyes closed (smelling a blossom)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "מריח פרח",
+"question": "שמואל עובר ליד פרדס פורח. מתי יברך על הריח?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a3/p1",
+"en": "a boy with a kippa walking along a path past an orange orchard, looking straight ahead (walking past)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "עובר בשביל",
+"question": "שמואל עובר ליד פרדס פורח. מתי יברך על הריח?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a3/p2",
+"en": "a boy with a kippa picking a ripe orange from a tree to eat it (picking an orange)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "קוטף תפוז",
+"question": "שמואל עובר ליד פרדס פורח. מתי יברך על הריח?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a4/p0",
+"en": "fresh warm loaves of bread coming out of an oven, steam rising (warm bread)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "לחם חם",
+"question": "על איזה ריח טוב לא מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a4/p1",
+"en": "a coffee shop counter with a coffee grinder grinding beans, a man with a kippa behind the counter (coffee)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "טחינת קפה",
+"question": "על איזה ריח טוב לא מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a4/p2",
+"en": "a green rosemary branch held in a hand (rosemary)",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "ענף רוזמרין",
+"question": "על איזה ריח טוב לא מברכים?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a5/p0",
+"en": "a bright lightning flash in a dark stormy sky over fields (lightning)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "ברק",
+"question": "על מה מברכים ״זוכר הברית״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a5/p1",
+"en": "fruit trees covered with white and pink blossoms in spring (blossoming trees)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "עצים פורחים",
+"question": "על מה מברכים ״זוכר הברית״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a5/p2",
+"en": "a colorful rainbow in the sky after rain over green hills (rainbow)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "קשת בענן",
+"question": "על מה מברכים ״זוכר הברית״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a6/p0",
+"en": "a calm orange sunset over the sea (sunset)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "שקיעה",
+"question": "על מה נוהגים לברך ״שכחו וגבורתו מלא עולם״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a6/p1",
+"en": "a boy with a kippa at a window covering his ears during a loud storm, dark heavy clouds outside (thunder)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "רעם חזק",
+"question": "על מה נוהגים לברך ״שכחו וגבורתו מלא עולם״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a6/p2",
+"en": "a rainbow over a village after rain (rainbow)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "קשת",
+"question": "על מה נוהגים לברך ״שכחו וגבורתו מלא עולם״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a7/p0",
+"en": "an apple tree covered with white-pink blossoms in spring (blossoming apple tree)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "עץ תפוח פורח",
+"question": "על איזה עץ מברכים ברכת האילנות?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a7/p1",
+"en": "a tall green pine tree with cones, no flowers (pine tree)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "עץ אורן",
+"question": "על איזה עץ מברכים ברכת האילנות?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a7/p2",
+"en": "an apple tree full of big red ripe apples, no flowers (ripe apples)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "תפוחים גדולים",
+"question": "על איזה עץ מברכים ברכת האילנות?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a8/p0",
+"en": "a lion resting on a rock in a zoo enclosure (lion)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "אריה",
+"question": "בגן החיות. על איזו חיה מברכים ״משנה הבריות״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a8/p1",
+"en": "an elephant lifting a branch with its trunk in a zoo enclosure (elephant)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "פיל",
+"question": "בגן החיות. על איזו חיה מברכים ״משנה הבריות״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/a8/p2",
+"en": "a zebra standing in a zoo enclosure (zebra)",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "זברה",
+"question": "בגן החיות. על איזו חיה מברכים ״משנה הבריות״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/b1",
+"en": "a seaside town with houses right next to the beach of the Mediterranean Sea, a boy with a kippa walking on the promenade",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "",
+"question": "אריאל גר על חוף הים התיכון. החדש היה עסוק, ולא הביט בים שלושים יום. כשיראה אותו – מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/b2",
+"en": "a wide Israeli landscape with a large blue lake surrounded by hills under a clear sky",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "",
+"question": "על איזה מקום לא מברכים ״עושה מעשה בראשית״?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/b3",
+"en": "a dark stormy sky over a village in the evening, rain falling, a boy with a kippa looking out of a window",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "",
+"question": "באמצע סופה ראה עובדיה ברק וברך. אחר כך ראה עוד הרבה ברקים מאותם עננים. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/b4",
+"en": "an elderly rabbi with a white beard and a black hat walking into a yeshiva hall, students with kippot standing up respectfully",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "",
+"question": "אחד מגדולי התורה של הדור בקר בישיבה. מה מברכים כשרואים אותו?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/b5",
+"en": "a father and his son, both with kippot, standing by a quiet mountain road, the father pointing at the place with emotion",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "",
+"question": "לאבא של אלי נעשה נס גדול, והוא נצל מסכנה. כשאלי מגיע למקום – מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/b6",
+"en": "a boy with a kippa holding a fragrant myrtle branch near his face while another boy with a kippa talks to him",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "",
+"question": "שמעון ברך ״בורא עצי בשמים״ על הדס. לפני שהריח, ענה לחבר על שאלה. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/b7",
+"en": "a boy with a kippa and short hair smelling a fresh green mint sprig from a flower pot on a sunny balcony",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "",
+"question": "אביתר קטף עלה של נענע כדי להריח אותו. איזו ברכה עדיף שיברך?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/b8",
+"en": "a small elegant glass perfume bottle standing on a wooden dresser beside a folded scarf and a vase of flowers, soft morning light, no people at all",
+"topic": "🍎 הלכות ברכות › ברכת הריח",
+"caption": "",
+"question": "שירה מבשמת את עצמה לפני שמחה משפחתית. על איזה ריח היא מברכת?",
+"section": ""
+},
+{
+"id": "hq/berachot-08/b9",
+"en": "heavy rain falling on a street of stone houses in Israel after a dry season, raindrops splashing up from puddles, a boy with a kippa looking out happily from a window, green hills behind",
+"topic": "🍎 הלכות ברכות › ברכות הראיה",
+"caption": "",
+"question": "אחרי חרף של בצרת התחיל סוף סוף לרדת גשם. מתי אומרים את ברכת ההודאה על הגשמים?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a1/p0",
+"en": "a happy man with a kippa in a clothing shop holding up a new shirt, only the one man in this panel (new shirt)",
+"topic": "🍎 הלכות ברכות › ברכת הגומל",
+"caption": "חולצה חדשה",
+"question": "מי צריך לברך \"הגומל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a1/p1",
+"en": "a man with a kippa napping on a couch in the afternoon, sunlight through the window, only the one man in this panel (afternoon nap)",
+"topic": "🍎 הלכות ברכות › ברכת הגומל",
+"caption": "שנת צהריים",
+"question": "מי צריך לברך \"הגומל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a1/p2",
+"en": "a smiling healthy man with a kippa walking out of the doors of a hospital into the sunshine, carrying a small bag, only the one man in this panel (leaving hospital)",
+"topic": "🍎 הלכות ברכות › ברכת הגומל",
+"caption": "יוצא מבית החולים",
+"question": "מי צריך לברך \"הגומל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a2/p0",
+"en": "a full group of men with kippot standing in a synagogue with a Star of David on the ark, one man in the middle speaking with a grateful face (minyan)",
+"topic": "🍎 הלכות ברכות › ברכת הגומל",
+"caption": "מניין בבית הכנסת",
+"question": "בפני מי מברכים \"הגומל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a2/p1",
+"en": "a man with a kippa standing alone in a quiet bedroom, talking to himself, only the one man in this panel (alone)",
+"topic": "🍎 הלכות ברכות › ברכת הגומל",
+"caption": "לבד בחדר",
+"question": "בפני מי מברכים \"הגומל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a2/p2",
+"en": "a man with a kippa talking to his single friend on a park bench (one friend)",
+"topic": "🍎 הלכות ברכות › ברכת הגומל",
+"caption": "עם חבר אחד",
+"question": "בפני מי מברכים \"הגומל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a3/p0",
+"en": "a single yellow banana on a plate (banana)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "בננה",
+"question": "על איזה פרי מברכים \"שהחינו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a3/p1",
+"en": "a bowl of fresh shiny red cherries with green stems, spring blossoms around (cherries)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "דובדבנים טריים",
+"question": "על איזה פרי מברכים \"שהחינו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a3/p2",
+"en": "a brown potato on a wooden board (potato)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "תפוח אדמה",
+"question": "על איזה פרי מברכים \"שהחינו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a4/p0",
+"en": "a pair of plain new socks on a table (socks)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "גרביים",
+"question": "על מה מברכים \"שהחינו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a4/p1",
+"en": "a supermarket cart full of everyday groceries: bread, milk, vegetables (groceries)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "קניות של אוכל",
+"question": "על מה מברכים \"שהחינו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a4/p2",
+"en": "a smiling boy with a kippa holding up a beautiful new white Shabbat shirt (new shirt)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "חולצת שבת חדשה",
+"question": "על מה מברכים \"שהחינו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a5/p0",
+"en": "a happy boy with a kippa about to take the very first bite of a fresh ripe peach, eyes shining (first bite)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "ביס ראשון",
+"question": "מתי נוהגים לברך \"שהחינו\" על פרי חדש?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a5/p1",
+"en": "a boy with a kippa eating a peach again, a plate with an old peach pit from yesterday beside him (again)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "אוכל שוב",
+"question": "מתי נוהגים לברך \"שהחינו\" על פרי חדש?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a5/p2",
+"en": "a small hard green unripe peach still hanging on a tree branch (unripe)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "פרי ירוק על העץ",
+"question": "מתי נוהגים לברך \"שהחינו\" על פרי חדש?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a6/p0",
+"en": "two boys with kippot waving goodbye at a school gate, a small calendar page above showing yesterday (yesterday)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "נפגשו אתמול",
+"question": "אליהו פגש חבר טוב ושמח מאוד. מתי יברך \"שהחינו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a6/p1",
+"en": "two boys with kippot running to hug each other joyfully at a bus station, a big calendar above with many pages flying away (long time)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "לא נפגשו הרבה זמן",
+"question": "אליהו פגש חבר טוב ושמח מאוד. מתי יברך \"שהחינו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a6/p2",
+"en": "two boys with kippot sitting side by side at the same desk in class, as every day (every day)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "יושבים יחד כל יום",
+"question": "אליהו פגש חבר טוב ושמח מאוד. מתי יברך \"שהחינו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a7/p0",
+"en": "a boy with a kippa walking a few steps from his house to a small grocery shop next door (grocery)",
+"topic": "🍎 הלכות ברכות › תפלת הדרך",
+"caption": "למכולת ליד הבית",
+"question": "מתי אומרים \"תפלת הדרך\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a7/p1",
+"en": "a boy with a kippa in pajamas in bed at night, moon in the window (bedtime)",
+"topic": "🍎 הלכות ברכות › תפלת הדרך",
+"caption": "לפני השינה",
+"question": "מתי אומרים \"תפלת הדרך\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a7/p2",
+"en": "a father and his sons with kippot sitting in a family car on an open highway between green hills, leaving the city behind (trip)",
+"topic": "🍎 הלכות ברכות › תפלת הדרך",
+"caption": "נסיעה לעיר אחרת",
+"question": "מתי אומרים \"תפלת הדרך\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a8/p0",
+"en": "a proud father with a kippa helping his young son put on a new warm coat in a clothing shop, both smiling (new coat)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "מעיל חדש לבן",
+"question": "באיזה מקרה מברכים \"הטוב והמטיב\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a8/p1",
+"en": "a boy with a kippa sitting alone at a table eating a fresh fruit (new fruit)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "פרי חדש",
+"question": "באיזה מקרה מברכים \"הטוב והמטיב\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/a8/p2",
+"en": "two boys with kippot hugging hello in a schoolyard (friend)",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "פגישה עם חבר",
+"question": "באיזה מקרה מברכים \"הטוב והמטיב\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/b1",
+"en": "a synagogue with a Star of David on the ark, men with kippot standing around the bimah while a Torah scroll is being read, morning light",
+"topic": "🍎 הלכות ברכות › ברכת הגומל",
+"caption": "",
+"question": "אבא של אביגדור הבריא לגמרי ממחלה מסכנת ביום שני. קריאת התורה הבאה היא ביום חמישי. מה נכון לעשות?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/b2",
+"en": "a father and his sons with kippot hiking on a sunny rocky trail among bushes and hills, carrying backpacks and water bottles",
+"topic": "🍎 הלכות ברכות › ברכת הגומל",
+"caption": "",
+"question": "בטיול עבר אבא של מאיר ליד נחש. הוא נבהל מאוד, אבל הנחש לא התקרב אליו. האם יברך \"הגומל\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/b3",
+"en": "a happy father with a kippa and his sons unpacking a new wooden dining table in their living room, sunlight through the window",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "",
+"question": "יהודה אינו בטוח אם עליו לברך \"שהחינו\" או \"הטוב והמטיב\". מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/b4",
+"en": "a man with a kippa sitting at a wooden desk at home reading a letter with a calm thoughtful face, a window with soft clouds behind him",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "",
+"question": "נתנאל קוה לזכות בפרס כספי גדול, ונודע לו שלא זכה. הוא עצוב. האם יברך \"דין האמת\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/b5",
+"en": "two boys with kippot greeting each other warmly at a sunny bus station, backpacks on their shoulders",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "",
+"question": "אלישיב לא ראה את חברו הטוב חדשים רבים, אבל בחדש האחרון שוחחו שיחה אישית בטלפון. כשנפגשו – מה הדין?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/b6",
+"en": "a tailor shop: a boy with a kippa trying on a new dark suit in front of a tall mirror while an older tailor with a kippa and a measuring tape checks the sleeves",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "",
+"question": "לכבוד בר המצוה קנה שלמה חליפה, אבל צריך לקצר את שרווליה. מתי יברך \"שהחינו\"?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/b7",
+"en": "the women's gallery of a simple synagogue seen from below, wooden lattice screen, a Star of David window, empty benches, no people at all",
+"topic": "🍎 הלכות ברכות › ברכת הגומל",
+"caption": "",
+"question": "אשה נצלה מתאונה מסכנת, והיא רוצה לברך \"הגומל\". איך תעשה זאת?",
+"section": ""
+},
+{
+"id": "hq/berachot-09/b8",
+"en": "a new festive Shabbat dress hanging on a wooden hanger on a closet door, a pair of small shoes below it, soft light, no people at all",
+"topic": "🍎 הלכות ברכות › ברכות ההודאה והשמחה",
+"caption": "",
+"question": "נועה, בת שבע, קבלה שמלת שבת חדשה, והיא והוריה שמחים בה. מי מברך, ומה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a1/p0",
+"en": "an ancient Jewish priest in white robes and a white turban looking at many large clay oil jars standing in a row in a plain stone temple hall (many jars)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "הרבה כדים",
+"question": "מה מצאו החשמונאים במקדש אחרי הנצחון?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a1/p1",
+"en": "an ancient Jewish priest in white robes and a white turban joyfully holding up one small sealed clay oil jug in a plain stone temple hall (one sealed jug)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "פך אחד חתום",
+"question": "מה מצאו החשמונאים במקדש אחרי הנצחון?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a1/p2",
+"en": "an ancient Jewish priest in white robes and a white turban looking sadly at a cracked broken clay barrel with oil spilled on the stone floor (broken barrel)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "חבית שבורה",
+"question": "מה מצאו החשמונאים במקדש אחרי הנצחון?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a2/p0",
+"en": "a wall calendar page with one single day circled, next to a small clay oil jug (one day)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "יום אחד",
+"question": "כמה ימים דלקה המנורה במקדש מפך השמן?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a2/p1",
+"en": "a wall calendar page with a short row of days circled, next to a small clay oil jug (a week)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "שבעה ימים",
+"question": "כמה ימים דלקה המנורה במקדש מפך השמן?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a2/p2",
+"en": "a wall calendar page with a long row of days circled, next to a small clay oil jug glowing with light (eight days)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "שמונה ימים",
+"question": "כמה ימים דלקה המנורה במקדש מפך השמן?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a3/p0",
+"en": "an old bearded Jewish man with a head covering bravely raising his arm and calling his young adult sons to stand with him in an ancient stone village square, only men (standing up)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "קם ונלחם",
+"question": "מה עשה מתתיהו כשהיונים באו לכפר מודיעין?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a3/p1",
+"en": "an old bearded Jewish man with a head covering walking away on a dusty road carrying a bundle, leaving his village, only the one man in this panel (running away)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "בורח",
+"question": "מה עשה מתתיהו כשהיונים באו לכפר מודיעין?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a3/p2",
+"en": "an old bearded Jewish man with a head covering bowing his head down in front of ancient Greek soldiers with helmets, only men (giving in)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "מסכים",
+"question": "מה עשה מתתיהו כשהיונים באו לכפר מודיעין?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a4/p0",
+"en": "a boy with a kippa in a warm coat and scarf walking home on a dark cold winter evening, a thin crescent moon in the sky, plain Israeli stone houses, no tower, no dome, no cross (winter night)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "לילה של חורף",
+"question": "מתי חלה חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a4/p1",
+"en": "a boy with a kippa eating watermelon on a bright hot sunny summer day (summer)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "קיץ חם",
+"question": "מתי חלה חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a4/p2",
+"en": "a boy with a kippa walking in a field full of blooming spring flowers (spring)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "אביב",
+"question": "מתי חלה חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a5/p0",
+"en": "a boy with a kippa sitting at a table after a meal with bread crumbs, reading from a small blank booklet (after bread)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "אחרי לחם",
+"question": "איפה מוסיפים ״על הנסים״ בחנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a5/p1",
+"en": "a boy with a kippa sitting at a table after eating a piece of cake, reading from a small blank card (after cake)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "אחרי עוגה",
+"question": "איפה מוסיפים ״על הנסים״ בחנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a5/p2",
+"en": "a boy with a kippa covering his eyes with his right hand in prayer (covering eyes)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "מכסה עיניים",
+"question": "איפה מוסיפים ״על הנסים״ בחנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a6/p0",
+"en": "a man with a kippa in a synagogue sitting and resting his forehead on his arm in quiet prayer, only the one man in this panel (head on arm)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "ראש על היד",
+"question": "מה אומרים בבית הכנסת בכל בקר של חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a6/p1",
+"en": "men with kippot in a synagogue standing and singing joyfully together holding prayer books, only men (singing)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "שרים בשמחה",
+"question": "מה אומרים בבית הכנסת בכל בקר של חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a6/p2",
+"en": "men with kippot in a synagogue before dawn with serious sad faces, dark windows, only men (before dawn)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "לפני עלות השחר",
+"question": "מה אומרים בבית הכנסת בכל בקר של חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a7/p0",
+"en": "a plate of triangle shaped filled cookies on a table (triangle cookies)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "אוזני המן",
+"question": "איזה מאכל נוהגים לאכל בחנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a7/p1",
+"en": "a plate with flat square crackers of matzah on a table (matzah)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "מצה",
+"question": "איזה מאכל נוהגים לאכל בחנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a7/p2",
+"en": "a plate of round jelly doughnuts dusted with powdered sugar on a table (doughnuts)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "סופגניות",
+"question": "איזה מאכל נוהגים לאכל בחנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a8/p0",
+"en": "a father with a kippa and his sons at a table piled high with many doughnuts, eating, only a father and sons (many doughnuts)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "הרבה סופגניות",
+"question": "מה הופך סעודת חנכה לסעודת מצוה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a8/p1",
+"en": "a father with a kippa and his sons at a festive table with an open book, singing and talking happily, only a father and sons (torah and songs)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "דברי תורה ושירים",
+"question": "מה הופך סעודת חנכה לסעודת מצוה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a8/p2",
+"en": "a very long table crowded with many men with kippot eating, only men (many guests)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "הרבה אורחים",
+"question": "מה הופך סעודת חנכה לסעודת מצוה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a9/p0",
+"en": "a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, with a few of the lights burning (few lights)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "שלושה נרות",
+"question": "בלילה השלישי של חנכה – כמה נרות מדליקים, בלי השמש?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a9/p1",
+"en": "a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, with all eight lights burning (all lights)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "שמונה נרות",
+"question": "בלילה השלישי של חנכה – כמה נרות מדליקים, בלי השמש?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a9/p2",
+"en": "a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, with most of the lights burning (most lights)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "שישה נרות",
+"question": "בלילה השלישי של חנכה – כמה נרות מדליקים, בלי השמש?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a10/p0",
+"en": "ancient men planting grapevines in rows on a hillside, only men (vineyard)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "כרם",
+"question": "מה בנו המתיונים ליד בית המקדש?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a10/p1",
+"en": "ancient Jewish men with head coverings sitting and studying from scrolls in a plain stone study hall, only men (study hall)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "בית מדרש",
+"question": "מה בנו המתיונים ליד בית המקדש?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/a10/p2",
+"en": "an ancient open-air stone stadium with two men wrestling and a crowd of men watching, only men (stadium)",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "איצטדיון",
+"question": "מה בנו המתיונים ליד בית המקדש?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/b1",
+"en": "an ancient parchment scroll partly unrolled on a wooden table beside a small clay oil lamp, warm light, no writing visible",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "",
+"question": "במגלת תענית נכתבו הרבה ימים טובים. למה רק חנכה נשארה אחרי החרבן?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/b2",
+"en": "a festive table set for a holiday dinner with a plate of doughnuts and an open book, a hanukkah menorah glowing on a windowsill behind it, no people",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "",
+"question": "בפורים יש מצוה לעשות סעודה. למה בחנכה אין חובה כזו?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/b3",
+"en": "a boy with a kippa standing in prayer with a closed prayer book in a quiet synagogue, only the one boy in this scene",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "",
+"question": "אבי שכח ״על הנסים״ בשמונה עשרה, ונזכר אחרי ״ברוך אתה ה׳״ בסוף ברכת מודים. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/b4",
+"en": "a kitchen in the evening with potato pancakes frying in a pan on the stove, a full laundry basket waiting in the corner, a hanukkah menorah glowing on the windowsill, no people",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "",
+"question": "בזמן שהנרות דולקים, אמא של איתן לא מכבסת – אבל מטגנת לביבות. מה ההסבר?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/b5",
+"en": "a simple poor home at night with one small oil lamp burning on a windowsill, a plain wooden chair, plain Israeli stone houses outside, no tower, no dome, no cross, no people",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "לעני אין כסף לקנות נרות חנכה. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/b6",
+"en": "a father with a kippa and his son with a kippa standing beside a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, the father holding a match, only a father and son",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "נר חנכה היא מצוה מדברי חכמים. איך אפשר לברך עליה ״וצונו״?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/b7",
+"en": "a cozy home window at night with a lit hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, seen from the street, plain Israeli stone houses, no tower, no dome, no cross, no people",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "האם גם נשים חיבות במצות נר חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-01/b8",
+"en": "a dark winter night street of plain Israeli stone houses, no tower, no dome, no cross, with small warm hanukkah lights glowing in several windows and a thin crescent moon",
+"topic": "🕎 הלכות חנכה › ימי החנכה",
+"caption": "",
+"question": "חנכה חלה בלילות הכי חשוכים בשנה. מה זה מלמד אותנו?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a1/p0",
+"en": "three hanukkah menorahs side by side, each with lights in one straight row, all at the same height, plus a separate shamash, the first one full of lights and the next ones with fewer and fewer lights (going down)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "מתחילים בשמונה",
+"question": "איך נוהגים כל ישראל, כמו בית הלל?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a1/p1",
+"en": "three hanukkah menorahs side by side, each with lights in one straight row, all at the same height, plus a separate shamash, the first one with very few lights and the next ones with more and more lights (going up)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "מתחילים באחד",
+"question": "איך נוהגים כל ישראל, כמו בית הלל?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a1/p2",
+"en": "three hanukkah menorahs side by side, each with lights in one straight row, all at the same height, plus a separate shamash, all three completely full of lights (always full)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "תמיד שמונה",
+"question": "איך נוהגים כל ישראל, כמו בית הלל?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a2/p0",
+"en": "a father with a kippa lighting one hanukkah menorah while his three sons with kippot stand and watch, only a father and sons (father only)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "רק אבא",
+"question": "בבית אשכנזי יש אבא ושלשה בנים מעל גיל שש. מי מדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a2/p1",
+"en": "a teenage boy with a kippa lighting one hanukkah menorah while his father and younger brothers watch, only a father and sons (oldest son)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "רק הבן הגדול",
+"question": "בבית אשכנזי יש אבא ושלשה בנים מעל גיל שש. מי מדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a2/p2",
+"en": "a father and three sons, all with kippot, each lighting his own hanukkah menorah, the menorahs standing apart from each other on a long windowsill, only a father and sons (each his own)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "כל אחד חנוכייה",
+"question": "בבית אשכנזי יש אבא ושלשה בנים מעל גיל שש. מי מדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a3/p0",
+"en": "a father with a kippa lighting a hanukkah menorah while his sons with kippot stand around him, only a father and sons (father lights)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "אבא מדליק",
+"question": "בבית ספרדי – מי מדליק את נרות המצוה בשביל כל בני הבית?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a3/p1",
+"en": "a little boy with a kippa reaching up to light a hanukkah menorah alone (little boy)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "הבן הקטן",
+"question": "בבית ספרדי – מי מדליק את נרות המצוה בשביל כל בני הבית?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a3/p2",
+"en": "a visiting man with a kippa and a coat lighting a hanukkah menorah in someone else's home, only the one man in this panel (guest)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "האורח",
+"question": "בבית ספרדי – מי מדליק את נרות המצוה בשביל כל בני הבית?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a4/p0",
+"en": "several candles squeezed tightly together so their flames merge into one big flame like a small bonfire (one big flame)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "להבה אחת",
+"question": "איזו חנכיה מסדרת כראוי?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a4/p1",
+"en": "a hanukkah menorah with lights in one straight row, all at the same height, with clear space between each light, plus a separate shamash (neat row)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "שורה עם רווח",
+"question": "איזו חנכיה מסדרת כראוי?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a4/p2",
+"en": "candles scattered randomly on a tray at many different heights, some leaning (scattered)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "מפוזרים",
+"question": "איזו חנכיה מסדרת כראוי?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a5/p0",
+"en": "a row of lit candles at the same height with one extra candle standing in the middle of the row at exactly the same height (in the middle)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "באמצע השורה",
+"question": "איפה נהגו להניח את השמש?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a5/p1",
+"en": "a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash raised clearly higher than the others (raised high)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "גבוה מהנרות",
+"question": "איפה נהגו להניח את השמש?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a5/p2",
+"en": "a row of lit candles at the same height with one extra candle pressed tightly against the first candle (squeezed close)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "צמוד לנר",
+"question": "איפה נהגו להניח את השמש?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a6/p0",
+"en": "a boy with a kippa sitting quietly and gazing at the lit hanukkah menorah on the windowsill (gazing)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "מסתכל בנרות",
+"question": "מה אסור לעשות לאור נרות החנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a6/p1",
+"en": "a father and sons with kippot singing happily next to a lit hanukkah menorah, only a father and sons (singing)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "שרים ליד הנרות",
+"question": "מה אסור לעשות לאור נרות החנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a6/p2",
+"en": "a boy with a kippa holding an open book close to the lit hanukkah menorah to read by its light (reading)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "קורא לאור הנרות",
+"question": "מה אסור לעשות לאור נרות החנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a7/p0",
+"en": "an electric hanukkah menorah with small light bulbs in one straight row, all at the same height, plus a separate shamash bulb (electric)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "נורות חשמל",
+"question": "באיזו חנכיה הכי מהדר להדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a7/p1",
+"en": "a small flashlight shining on a table (flashlight)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "פנס כיס",
+"question": "באיזו חנכיה הכי מהדר להדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a7/p2",
+"en": "a hanukkah menorah of small glass cups with olive oil and floating wicks, lights in one straight row, all at the same height, plus a separate shamash (olive oil)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "שמן זית",
+"question": "באיזו חנכיה הכי מהדר להדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a8/p0",
+"en": "a father with a kippa about to light the very first light of a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, his sons beside him, only a father and sons (first night)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "הנר הראשון",
+"question": "בלילה הראשון מברכים שלש ברכות. מה הברכה השלישית?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a8/p1",
+"en": "a father with a kippa holding two braided challah loaves at a table, only a father and sons (bread)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "לחם",
+"question": "בלילה הראשון מברכים שלש ברכות. מה הברכה השלישית?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a8/p2",
+"en": "a father with a kippa holding up a braided havdalah candle with a flame, only a father and sons (havdalah candle)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "נר הבדלה",
+"question": "בלילה הראשון מברכים שלש ברכות. מה הברכה השלישית?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a9/p0",
+"en": "a hand with a lit shamash candle lighting the newly added light first, the other light still unlit, on a hanukkah menorah with lights in one straight row, all at the same height (new light first)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "הנר החדש",
+"question": "בלילה השני – איזה נר מדליקים ראשון?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a9/p1",
+"en": "a hand with a lit shamash candle lighting the older light first, the newly added light still unlit, on a hanukkah menorah with lights in one straight row, all at the same height (old light first)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "הנר של אתמול",
+"question": "בלילה השני – איזה נר מדליקים ראשון?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a9/p2",
+"en": "two hands each with a match lighting two lights of a hanukkah menorah at the same moment (both together)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "שניהם יחד",
+"question": "בלילה השני – איזה נר מדליקים ראשון?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a10/p0",
+"en": "two boys with kippot playing with toy cars on the floor in another room while their father lights a menorah far away, only a father and sons (playing)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "משחקים",
+"question": "אבא מדליק נרות חנכה. מה עושים הבנים?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a10/p1",
+"en": "a father with a kippa lighting a hanukkah menorah while his sons with kippot stand close beside him with hands folded, listening, only a father and sons (listening)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "שומעים ועונים אמן",
+"question": "אבא מדליק נרות חנכה. מה עושים הבנים?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/a10/p2",
+"en": "a boy with a kippa tugging his father's sleeve and talking to him while the father holds a lit match by a menorah, only a father and sons (interrupting)",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "מדברים באמצע",
+"question": "אבא מדליק נרות חנכה. מה עושים הבנים?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/b1",
+"en": "a kitchen table in the late afternoon with a bowl of apples and carrots, a loaf of bread, and an unlit hanukkah menorah waiting on the windowsill, the sky outside turning orange, no people",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "חצי שעה לפני זמן ההדלקה נעם רעב. מה מתר לו לאכל?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/b2",
+"en": "a hanukkah menorah lying tipped over on its side on a windowsill with its little lights out and thin smoke rising, no people",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "אבא הדליק נרות שיכולים לדלק חצי שעה. אחרי חמש דקות החנכיה נפלה בטעות, והנרות כבו. מה הדין?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/b3",
+"en": "an open balcony on a windy evening with trees bending in the wind and a hanukkah menorah on the railing with its lights blown out, plain Israeli stone houses, no tower, no dome, no cross, no people",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "משה הדליק במרפסת פתוחה ביום של רוח חזקה, והנרות כבו מיד. מה יעשה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/b4",
+"en": "a large hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, burning by the southern wall of a synagogue with a holy ark and a Star of David, no church, no bell tower, no people",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "אבא הדליק בבית הכנסת בכל הברכות. מה יעשה כשיחזר הביתה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/b5",
+"en": "a synagogue on a Friday afternoon with a golden sunset through the windows and a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, a Star of David on the wall, no church, no bell tower, a few men with kippot, only men",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "בערב שבת חנכה, בבית כנסת שמתפללים בו מנחה סמוך לשקיעה. מתי מדליקים שם?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/b6",
+"en": "a hanukkah menorah with lights in one straight row, all at the same height, with a few lights burning and the raised shamash candle blown out with a wisp of smoke, a box of matches lying on the table beside it, no people",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "באמצע ההדלקה כבה השמש, ויש גפרורים על השלחן. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/b7",
+"en": "a table with two Shabbat candlesticks on one side and a hanukkah menorah of small oil cups with wicks on the other side, a bottle of oil between them, no people",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "למה שמן שפסול לנר שבת כשר לנר חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/b8",
+"en": "a father with a kippa and his young son with a kippa standing by a window, two separate hanukkah menorahs placed far apart from each other on the windowsill, only a father and son",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "בבית ספרדי אבא מדליק לכלם, ואליהו בן שמונה רוצה חנכיה משלו. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/b9",
+"en": "a large community hall decorated for a Hanukkah party with a big hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, on a stage, rows of chairs with men, only men",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "במסבת חנכה בעיריה יש הרבה אנשים שאולי לא הדליקו בביתם. מה כדאי לעשות?",
+"section": ""
+},
+{
+"id": "hq/chanuka-02/b10",
+"en": "a windowsill at night with two separate hanukkah menorahs standing far apart, a big one and a small one decorated with painted flowers, each with lights in one straight row, all at the same height, plus a separate shamash, no people",
+"topic": "🕎 הלכות חנכה › הדלקת נרות חנכה",
+"caption": "",
+"question": "בבית אשכנזי, נועה בת שמונה רוצה להדליק חנכיה משלה. מה כתוב בספר?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a1/p0",
+"en": "an old one-story plain Israeli stone house with a small oil lamp burning in a little glass box beside the front door outside, plain Israeli stone houses, no tower, no dome, no cross, no people (by the door)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "על הפתח",
+"question": "איפה תקנו חכמים להניח את נר חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a1/p1",
+"en": "a flat roof of a plain Israeli stone house with a small oil lamp burning on the roof edge, no tower, no dome, no cross, no people (on the roof)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "על הגג",
+"question": "איפה תקנו חכמים להניח את נר חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a1/p2",
+"en": "a small home kitchen with a small oil lamp burning on the counter next to pots, no people (in the kitchen)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "במטבח",
+"question": "איפה תקנו חכמים להניח את נר חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a2/p0",
+"en": "a front door of a plain stone house with a mezuzah case on the doorpost and a glass box with hanukkah lights hanging right next to the mezuzah on the same doorpost, no people (next to mezuzah)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "ליד המזוזה",
+"question": "באיזה צד של הפתח מניחים את נר חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a2/p1",
+"en": "a front door of a plain stone house with a mezuzah case on the doorpost and a glass box with hanukkah lights placed high above the door frame, no people (above the door)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "מעל הדלת",
+"question": "באיזה צד של הפתח מניחים את נר חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a2/p2",
+"en": "a front door of a plain stone house with a mezuzah case on one doorpost and a glass box with hanukkah lights standing on the opposite side of the doorway, facing the mezuzah, no people (opposite the mezuzah)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "מול המזוזה",
+"question": "באיזה צד של הפתח מניחים את נר חנכה?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a3/p0",
+"en": "a glass box with hanukkah lights placed directly on the ground beside a front door, no people (on the ground)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "על הרצפה",
+"question": "באיזה גבה מצוה להניח את החנכיה ליד הפתח?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a3/p1",
+"en": "a glass box with hanukkah lights standing on a low stool at about knee height beside a front door, no people (knee height)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "בגובה הברך",
+"question": "באיזה גבה מצוה להניח את החנכיה ליד הפתח?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a3/p2",
+"en": "a glass box with hanukkah lights hanging high above a front door frame, no people (above the door)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "מעל הדלת",
+"question": "באיזה גבה מצוה להניח את החנכיה ליד הפתח?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a4/p0",
+"en": "a boy with a kippa placing a hanukkah menorah on a nightstand in a closed bedroom with curtains drawn (bedroom)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "חדר השינה",
+"question": "דוד גר בבנין דירות. איפה הכי טוב להדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a4/p1",
+"en": "a boy with a kippa placing a hanukkah menorah on a shelf in a small dark storage room full of boxes (storage room)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "מחסן",
+"question": "דוד גר בבנין דירות. איפה הכי טוב להדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a4/p2",
+"en": "a boy with a kippa placing a hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, on the windowsill of an apartment window facing a street with plain Israeli stone buildings, no tower, no dome, no cross (street window)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "חלון לרחוב",
+"question": "דוד גר בבנין דירות. איפה הכי טוב להדליק?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a5/p0",
+"en": "a simple plain tin hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash (simple tin)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "חנוכייה פשוטה",
+"question": "איזו חנכיה לא כדאי להניח בחלון?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a5/p1",
+"en": "a hanukkah menorah with a tall solid decorative back wall behind the lights that hides them from one side (tall back)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "עם גב גבוה",
+"question": "איזו חנכיה לא כדאי להניח בחלון?",
+"section": ""
+},
+{
+"id": "hq/chanuka-03/a5/p2",
+"en": "an open silver hanukkah menorah with lights in one straight row, all at the same height, plus a separate shamash, no back wall (open silver)",
+"topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+"caption": "כסף פתוחה",
+"question": "איזו חנכיה לא כדאי להניח בחלון?",
+"section": ""
+}
+]
