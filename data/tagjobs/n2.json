@@ -1,0 +1,730 @@
+[
+ {
+  "id": "hq/berachot-01/b11",
+  "en": "a boy with a kippa and his father with a kippa walking along a dirt hiking path, far ahead a small stone drinking fountain with a tap, backpacks, sunny hills",
+  "topic": "🍎 הלכות ברכות › נטילת ידים לסעודה",
+  "caption": "",
+  "question": "בטיול רעב איתמר, ואין לו מים. בהמשך השביל, כשלשה קילומטרים לפניו, יש ברז. מה יעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/berachot-03/b12",
+  "en": "a festive long table with men and boys with kippot, a small cup of red grape juice poured in front of each seat, one man holding a silver cup, no wine bottles",
+  "topic": "🍎 הלכות ברכות › זמון",
+  "caption": "",
+  "question": "בסוף הזמון ברך המזמן על הכוס, והאורחים רוצים לטעם ממנה. מה הדרך המהדרת ביותר?",
+  "section": ""
+ },
+ {
+  "id": "hq/berachot-05/b11",
+  "en": "a family dinner table with a plate of fish and a bar of chocolate on a small dish, a boy with a kippa holding a fork, warm kitchen light",
+  "topic": "🍎 הלכות ברכות › כללי ברכה ראשונה",
+  "caption": "",
+  "question": "יהונתן ברך ״שהכל״ על חתיכת דג, בלי לחשב על שום דבר אחר. על השלחן לפניו יש גם שוקולד. מה הדין?",
+  "section": ""
+ },
+ {
+  "id": "hq/berachot-07/b10",
+  "en": "a wedding hall table with plates of food, an elderly grandfather with a kippa and a white beard eating, a boy with a kippa beside him holding a phone lowered at his side with a considerate face, only men and boys",
+  "topic": "🍎 הלכות ברכות › דרך ארץ",
+  "caption": "",
+  "question": "בחתנה של הדוד רוצה מאיר לצלם בטלפון את סבא בדיוק כשהוא נוגס בעוף. מה נכון?",
+  "section": ""
+ },
+ {
+  "id": "hq/berachot-08/b12",
+  "en": "a zoo path with a colorful parrot on a perch in the foreground and a peacock with open tail feathers in a farther enclosure, a smiling boy with a kippa",
+  "topic": "🍎 הלכות ברכות › ברכות הראיה",
+  "caption": "",
+  "question": "בגן החיות ראה נתנאל תכי צבעוני ומרהיב, וברך. אחר כך, בפנה אחרת, ראה טוס נאה במיחד. מה הדין?",
+  "section": ""
+ },
+ {
+  "id": "hq/chanuka-03/b10",
+  "en": "motzaei Shabbat at a grandfather's home, a grandfather with a kippa and white beard lighting a Chanukah menorah by the window, his grandsons with kippot watching, a packed suitcase by the door, plain Israeli stone houses, no tower, no dome, no cross outside",
+  "topic": "🕎 הלכות חנכה › דיני המקום והזמן",
+  "caption": "",
+  "question": "משפחת לוי שבתה אצל סבא, ותחזר הביתה במוצאי שבת מאחר מאוד, כשאין אנשים ברחוב. איפה כדאי להם להדליק?",
+  "section": ""
+ },
+ {
+  "id": "hq/chavero-02/b10",
+  "en": "a boy with a kippa telling an excited story with wide arm gestures to a circle of friends with kippot sitting on the grass during a school trip, trees and hills",
+  "topic": "🤝 בין אדם לחברו › אמירת אמת",
+  "caption": "",
+  "question": "בספור על הטיול מגזים אלישיב: ״ראיתי נמר וברחתי ממנו!״ – כדי שיתפעלו ממנו. ״זה לא מזיק לאף אחד״, הוא אומר. מה נכון?",
+  "section": ""
+ },
+ {
+  "id": "hq/chavero-06/b9",
+  "en": "a group of boys with kippot standing near a tour bus at a scenic viewpoint on a school trip, one boy firmly shaking his head and raising his palm, no cigarettes visible",
+  "topic": "🤝 בין אדם לחברו › הלכות שמירת הנפש",
+  "caption": "",
+  "question": "בטיול השנתי הביא ילד מן השכבה סיגריה, והוא משכנע את כלם: ״רק לנסות פעם אחת!״ מה נכון לפי התורה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kashrut-02/b9",
+  "en": "a raw kosher chicken on a cutting board in a home kitchen, a small knife beside it, a father with a kippa and a boy with a kippa looking closely",
+  "topic": "🍽️ הלכות כשרות",
+  "caption": "",
+  "question": "אבא מכין עוף כשר לשבת, ואבי רואה בו נקדה של דם קרוש ממש. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kashrut-03/b12",
+  "en": "a home gas stove with a frying pan of meatballs on a burner, and one meatball fallen onto the metal surface under the burner grate, no people",
+  "topic": "🍽️ הלכות כשרות › בשר בחלב",
+  "caption": "",
+  "question": "בזמן הבשול נפלה קציצה מן המחבת על משטח המתכת שמתחת לחצובה. מה הדין?",
+  "section": ""
+ },
+ {
+  "id": "hq/kashrut-05/b14",
+  "en": "a sunny Jerusalem balcony with an empty flower pot, a small bag of soil and several flower seed packets showing pictures of flowers and no writing, a boy with a kippa kneeling beside it, plain Israeli stone houses in the background, no tower, no dome, no cross",
+  "topic": "🍽️ הלכות כשרות",
+  "caption": "",
+  "question": "במרפסת בביתו שבירושלים רוצה עזיאל לשתל עציץ. מה מתר לו לזרע בו יחד?",
+  "section": ""
+ },
+ {
+  "id": "hq/kashrut-05/b18",
+  "en": "a kindergarten table with many small braided challah dough rolls on a baking tray, each with a small blank paper tag beside it, no people",
+  "topic": "🍽️ הלכות כשרות › חלה",
+  "caption": "",
+  "question": "בגן לש כל ילד חלה קטנה, ומדביקים עליה פתק עם שמו. כל הקמח יחד הוא כמות גדולה. מה הדין?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-01/a1/p1",
+  "en": "a simple kitchen table with several plain chairs, one empty, a boy with a kippa pulling out a chair (kitchen chair)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "כיסא במטבח",
+  "question": "באיזה כסא אסור ליוסי לשבת?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-01/a2/p2",
+  "en": "a boy with a kippa sitting at his desk raising one hand in a wait gesture toward his father with a kippa at the door (wait gesture)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "מסמן לחכות",
+  "question": "אבא נכנס לחדר כדי לבקש משהו מאלי. מה יעשה אלי?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-01/a4/p0",
+  "en": "a boy with a kippa holding a ringing phone and shaking his sleeping father with a kippa on the sofa (waking)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "מעיר מיד",
+  "question": "אבא נרדם על הספה. מישהו מתקשר אליו ואומר \"דחוף\", אבל לא אומר למה. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-01/a5/p1",
+  "en": "early morning, a boy with a kippa closing the bedroom door quietly while his father with a kippa sleeps, a tallit bag on the chair (letting sleep)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "נותן לישון",
+  "question": "אתמול בקש אבא: \"הער אותי בבקר לתפלת שחרית\". מה יעשה נעם בבקר?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-01/a6/p2",
+  "en": "a man in ancient Roman clothes standing in a herd of cattle beside a completely red young cow (red heifer)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "פרה אדומה",
+  "question": "דמא בן נתינה לא העיר את אביו הישן, והפסיד הון גדול. איזה שכר נתן לו ה׳ בשנה הבאה?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-01/a8/p0",
+  "en": "a grandfather with a white beard and a kippa smiling at a baby boy in a cradle while the baby's father with a kippa leans over the cradle affectionately (nickname)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "כינוי חיבה",
+  "question": "התינוק נקרא אברהם, על שם סבא – וסבא בא לבקר. איך יקראו לתינוק ליד סבא?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-01/a9/p1",
+  "en": "two boys with kippot jumping on a bed in a room next to a closed bedroom door (jumping)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "קופצים על המיטה",
+  "question": "בשבת אחר הצהרים ההורים נחים. איך ישחקו הילדים?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-01/b3",
+  "en": "a calm boy with a kippa sitting on the steps outside his house, taking a deep breath with his hand on his chest, a quiet evening street with plain Israeli stone houses, no text",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "למה החמירה התורה במקלל את הוריו יותר מן המכה אותם?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-01/b7",
+  "en": "two boys with kippot playing marbles together in a schoolyard, a school building with plain stone walls behind them, no text",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "לחברו של אלחנן קוראים קלמן – כמו לאבא של אלחנן. אבא לא נמצא. מה הדין?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-02/a1/p1",
+  "en": "a boy with a kippa standing in a kitchen doorway shrugging his shoulders, an unset table behind him (shrugging)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "מושך בכתפיים",
+  "question": "אמא בקשה מדני לערך את השלחן לארוחת הערב. היא חזקה ויכולה לעשות זאת לבד. מה עושה דני?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-02/a2/p2",
+  "en": "a boy with a kippa taking coins from his younger brother's open money box while the brother with a kippa watches (brother's money)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "הכסף של אחיו",
+  "question": "אבא שולח את שמואל לקנות חלב ולחם, ויש לאבא כסף. באיזה כסף ישלם שמואל?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-02/a4/p0",
+  "en": "a boy with a kippa with a grumpy frowning face carrying a cup of tea toward an empty armchair in the living room (grumpy)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "פנים זועפות",
+  "question": "אמא בקשה מיהודה להביא לה כוס תה. איך מגישים?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-02/a5/p1",
+  "en": "an ancient village scene, an old man with a kippa easily turning a tiny toy-sized stone mill with one finger (light mill)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "ריחיים קלים",
+  "question": "בן אחד הכניס את אביו לטחן ברחים – וזכה לגן עדן. למה?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-02/a6/p2",
+  "en": "a boy with a kippa carrying dirty dishes from a dinner table to the sink while his uncle with a kippa wipes the table (helping)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "מפנה שולחן",
+  "question": "יוסף מתארח שבוע שלם בבית דודו. הארוחה נגמרה. מה יעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-02/a8/p0",
+  "en": "an ancient dining room, a grown son with a kippa waving his hand dismissively and with an angry rude face, NO speech bubble and no words anywhere to his old father with a kippa sitting before a plate of roast chicken (rude words)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "דיבור מזלזל",
+  "question": "בן אחד האכיל את אביו תרנגולים מפטמים ויקרים – ונענש. למה?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-02/a9/p1",
+  "en": "one tall older boy with a kippa standing alone beside a family bookshelf (firstborn only)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "רק הבכור",
+  "question": "מי חיב במצות כבוד הורים?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-02/b3",
+  "en": "a busy family home on a Friday afternoon, a boy with a kippa sweeping the floor and another boy with a kippa folding laundry, a father with a kippa washing dishes at the sink, only men and boys, no text",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "מאין לומדים שילדים חיבים לעזר בבית, גם כשההורים חזקים ויכולים לבד?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-02/b7",
+  "en": "a boy with a kippa standing quietly with lowered eyes and calm face in a schoolyard, a few friends with kippot around him, plain stone school building, no text",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "אבא כעס והעליב את עמית לפני חבריו. מה יעשה עמית לפי ההלכה?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-03/a1/p1",
+  "en": "a boy with a kippa at the front door taking his warm coat from a coat hook (takes coat)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "לוקח מעיל",
+  "question": "אמא אומרת לאורי בן התשע: \"קר בחוץ, קח מעיל\". לאורי לא קר. מה יעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-03/a2/p2",
+  "en": "a boy with a kippa speaking politely to his father with a kippa at the kitchen table, both calm and smiling (polite talk)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "שואל בנימוס",
+  "question": "אבא אמר שהאוטובוס יוצא בשלש, ונעם חושב שבארבע. מה יעשה נעם?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-03/a4/p0",
+  "en": "one grandfather with a white beard and a kippa standing alone on a porch (one side)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "רק מצד אבא",
+  "question": "את אילו סבים וסבתות מצוה לכבד?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-03/a5/p1",
+  "en": "a boy with a kippa and his little toddler brother with a kippa playing blocks on the rug (little brother)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "אח קטן",
+  "question": "מלבד ההורים והסבים – את מי עוד מצוה לכבד בבית?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-03/a6/p2",
+  "en": "a boy with a kippa standing with arms crossed and an angry frown, a thought bubble above him showing a dark storm cloud (angry thought)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "סתם כועס",
+  "question": "אבא חזר עיף מהעבודה וענה לדני בקצר רוח. מה נכון שדני יחשב?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-03/a8/p0",
+  "en": "a boy with a kippa warmly greeting his uncle with a kippa at the front door and taking his coat (welcoming)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "מקבל בכבוד",
+  "question": "דוד משה בא לבקר. מה נכון לעשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-03/b2",
+  "en": "two neighboring houses of plain Israeli stone with a low garden fence between them, a boy with a kippa and a neighbor man with a kippa shaking hands warmly over the fence, no text",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "אבא רב עם השכן ואמר לבנו: \"אל תדבר אתו\". הבן רוצה להתפיס עם השכן. מה הדין?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-03/b6",
+  "en": "a family breakfast table in the morning with bread, cheese and vegetables, a bar mitzvah age boy with a kippa sitting at the table with a closed prayer book beside his plate, no text",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "יחיאל בר מצוה רוצה להתענות תענית נדבה, והוריו מבקשים שלא יתענה. מה טוב יותר?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/a1/p0",
+  "en": "a home on Friday afternoon, a father with a kippa arranging white festive tablecloths and chairs for an event, the sun low in the window (Friday preparations)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "יום שישי",
+  "question": "היום השמיני לתינוק חל בשבת. מתי עושים את הברית?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/a2/p1",
+  "en": "a young student with a kippa sitting at a desk studying from a thick textbook (student)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "בחור שלומד",
+  "question": "איזה מוהל כדאי להזמין לברית?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/a3/p2",
+  "en": "men with kippot walking out of a hall door into a sunny courtyard (going outside)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "יוצאים לחוץ",
+  "question": "מה עושים האורחים בשעת המילה?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/a5/p0",
+  "en": "a young man with a kippa holding a big camera, taking photos at a festive event (photographer)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "הצלם",
+  "question": "את מי מכבדים בדרך כלל להיות סנדק?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/a6/p1",
+  "en": "a simple family kitchen table with a pot of soup and bowls, a father and son with kippot (regular dinner)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "ארוחת ערב",
+  "question": "הסעודה שאחרי הברית היא:",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/a7/p2",
+  "en": "a small pile of folded paper banknotes on a wooden table, no readable writing (banknotes)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "שטרות",
+  "question": "במה אפשר לפדות את הבן הבכור?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/a9/p0",
+  "en": "a festive table with dairy food: cheese, yogurt, quiche and salads (dairy meal)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "ארוחה חלבית",
+  "question": "פדיון הבן חל בתשעת הימים. מה מגישים בסעודה?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/a10/p1",
+  "en": "only two men with kippot standing together in an empty hall (two men)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "שני אנשים",
+  "question": "כמה אנשים משתדלים שיהיו לפחות בברית?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/b3",
+  "en": "an elderly grandfather with a kippa and a white beard looking at an airplane in the sky through the window of an airport hall, holding a small suitcase",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "הסבים גרים רחוק ויגיעו רק בעוד שבוע. מתי עושים את הברית?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/b7",
+  "en": "a rabbi with a beard and a kippa holding a silver cup of grape juice and reciting a blessing with eyes closed, in a festive hall, men with kippot around him",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "מתי קוראים לתינוק את שמו?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-04/b11",
+  "en": "an elderly man with a white beard and a kippa kindly handing a small silver tray with silver coins back to a young father with a kippa, both smiling, at a festive table",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "הכהן קבל את דמי הפדיון. מה מתר לו לעשות בהם?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-05/a1/p2",
+  "en": "a man with a kippa sitting quietly by a window, listening seriously on his phone, calm thoughtful face (serious news)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "בשורה עצובה",
+  "question": "מתי אומרים ״ברוך דין האמת״?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-05/a3/p0",
+  "en": "two men with kippot laughing loudly with wide open mouths in a living room (laughing loudly)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "צוחקים בקול",
+  "question": "איך מדברים בבית האבלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-05/a4/p1",
+  "en": "a boy with a kippa holding a bunch of colorful party balloons at a doorway (balloons)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "בלונים",
+  "question": "איך נכנסים לבית האבלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-05/a5/p2",
+  "en": "two men with kippot looking at price tags in a supermarket aisle (prices)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "מחירים",
+  "question": "על מה טוב לדבר עם האבלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-05/a7/p0",
+  "en": "a festive decorated layer cake with cream on a plate (festive cake)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "עוגה חגיגית",
+  "question": "מה נוהגים להגיש לאבלים בארוחה הראשונה?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-05/a8/p1",
+  "en": "a colorful party lantern with bright flashing colors (colorful lantern)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "פנס צבעוני",
+  "question": "מה נוהגים להדליק בבית האבלים בכל שבעת הימים?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-05/a9/p2",
+  "en": "a boy with a kippa putting a coin into a charity box on a synagogue shelf next to holy books (charity box)",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "קופת צדקה",
+  "question": "מה אפשר לעשות לעלוי נשמת הנפטר?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-05/b4",
+  "en": "a small group of men with kippot sitting around a table in a living room learning together from open holy books, a memorial candle on a shelf",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "למה לומדים משניות דוקא בבית האבלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-05/b8",
+  "en": "a man with a kippa putting coins into a charity box at the entrance of a synagogue with a Star of David on the wall, morning light",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "ביום השנה – מה העקר היום במקום הנרות שהיו מדליקים בבית הכנסת?",
+  "section": ""
+ },
+ {
+  "id": "hq/nashim-01/b9",
+  "en": "a quiet home corner in warm late-afternoon light, a closed prayer book resting on a small wooden table beside a window, a round wall clock, no people, no text",
+  "topic": "🌸 תפלת בנות",
+  "caption": "",
+  "question": "שירה רוצה להתפלל מנחה, ואין לה זמן לומר ״אשרי״. מה נכון?",
+  "section": ""
+ },
+ {
+  "id": "hq/nashim-03/b11",
+  "en": "a public park with wooden benches and a paved path, green lawns and trees, a dog-waste bag dispenser on a short pole, no people, no animals, no text",
+  "topic": "🌸 תפלת בנות › מקום התפלה",
+  "caption": "",
+  "question": "בגנה הצבורית, שמטילים בה הרבה עם כלבים, התפללה רעות מנחה בלי לבדק. אחר כך ראתה צואת כלב מסריחה בתוך ארבע אמות שלה. מה הדין?",
+  "section": ""
+ },
+ {
+  "id": "hq/nashim-03/b15",
+  "en": "a closed prayer book on a wooden lectern in a quiet room, morning light through a window, a ribbon bookmark hanging from the book, no people, no text",
+  "topic": "🌸 תפלת בנות › הזכרת גשמים ובקשתם",
+  "caption": "",
+  "question": "באמצע ״רפאנו״ נזכרה שירה שדלגה על ברכת ״סלח לנו״. מה תעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/noraim-01/b9",
+  "en": "early morning before dawn in a small synagogue with a Star of David on the holy ark, men with kippot standing and saying selichot from small prayer books, one man glancing at the wall clock, no text",
+  "topic": "🎺 ראש השנה ויום הכפורים › סליחות ותפלות",
+  "caption": "",
+  "question": "בבית הכנסת הזמן לסליחות קצר הבקר. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/noraim-05/b12",
+  "en": "a classroom in a boys' school, one boy with a kippa standing and offering his hand to another boy with a kippa, classmates with kippot watching warmly from their desks, nothing written on the board",
+  "topic": "🎺 ראש השנה ויום הכפורים › הלכות יום הכפורים",
+  "caption": "",
+  "question": "דני העליב את אביגדור לפני כל הכתה. איך כדאי לו לבקש סליחה?",
+  "section": ""
+ },
+ {
+  "id": "hq/noraim-05/b16",
+  "en": "a synagogue on Yom Kippur during the Musaf prayer, men with kippot and white tallitot kneeling with their faces toward a cloth spread on the floor, a Star of David on the holy ark, only men",
+  "topic": "🎺 ראש השנה ויום הכפורים › הלכות יום הכפורים",
+  "caption": "",
+  "question": "בכל השנה לא נופלים על הרצפה בתפלה. למה ביום הכפורים כן משתחוים?",
+  "section": ""
+ },
+ {
+  "id": "hq/pesach-02/b13",
+  "en": "a synagogue at night with a Star of David on the holy ark, a man with a kippa holding a candle and searching under the benches, a boy with a kippa holding a paper bag, a forgotten snack wrapper under a bench",
+  "topic": "🍷 הלכות פסח › בדיקת חמץ",
+  "caption": "",
+  "question": "למה צריך לבדק חמץ גם בבית כנסת שלא אוכלים בו?",
+  "section": ""
+ },
+ {
+  "id": "hq/pesach-05/b11",
+  "en": "a Passover seder table late at night, a young boy with a kippa sleepy and leaning on his father's arm, the father with a kippa pointing to the matzah and bitter herbs on the seder plate, cups of grape juice",
+  "topic": "🍷 הלכות פסח › ההגדה",
+  "caption": "",
+  "question": "הילדים מתחילים להרדם באמצע ההגדה. מה כדאי להגיד להם?",
+  "section": ""
+ },
+ {
+  "id": "hq/pesach-06/b11",
+  "en": "a boy with a kippa calmly eating a piece of matzah at a seder table, an older brother with a kippa nervously looking at a wristwatch, the father with a kippa smiling reassuringly",
+  "topic": "🍷 הלכות פסח › ליל הסדר",
+  "caption": "",
+  "question": "שמואל אוכל את המצה לאט, ומפחד שלא סים בזמן. מה נכון?",
+  "section": ""
+ },
+ {
+  "id": "hq/purim-03/b13",
+  "en": "a festive Purim meal at midday on a Friday, a family table with challah and colorful dishes, men and boys with kippot in costumes, a clock on the wall showing late morning, Shabbat candlesticks waiting unlit on a side table, no wine, grape juice only",
+  "topic": "🎭 הלכות פורים › מצוות השמחה והחסד",
+  "caption": "",
+  "question": "פורים חל ביום ששי. מתי כדאי להתחיל את סעודת פורים?",
+  "section": ""
+ },
+ {
+  "id": "hq/shabbat-06/b10",
+  "en": "a Shabbat table with a plate of baked fish and a fork beside it, a boy with a kippa eating calmly",
+  "topic": "🕯️ הלכות שבת › בורר",
+  "caption": "",
+  "question": "דני אוכל דג בסעודת שבת, ומרגיש בו עצמות קטנות. מה מתר לו?",
+  "section": ""
+ },
+ {
+  "id": "hq/shabbat-07/b15",
+  "en": "a white Shabbat shirt hanging on the back of a chair with a small feather resting on its sleeve, soft morning light, no people",
+  "topic": "🕯️ הלכות שבת › מלאכות הבגד",
+  "caption": "",
+  "question": "לפני התפלה ראה איתן נוצה קטנה ואבק על חלצת השבת שלו. מה מתר לו?",
+  "section": ""
+ },
+ {
+  "id": "hq/shabbat-09/b10",
+  "en": "an aquarium with goldfish on a wooden dresser, one small goldfish lying on the wet table beside it, a boy with a kippa leaning toward it with a worried face",
+  "topic": "🕯️ הלכות שבת › בעלי חיים",
+  "caption": "",
+  "question": "דג זהב קפץ בשבת מן האקוריום אל השלחן, והוא מפרפר. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/shabbat-09/b14",
+  "en": "a quiet residential street on a cool Shabbat afternoon, a man with a kippa walking a dog on a short leash held close, plain Israeli stone houses, no tower, no dome, no cross",
+  "topic": "🕯️ הלכות שבת › בעלי חיים",
+  "caption": "",
+  "question": "בחרף, בשכונה שאין בה ערוב, רוצה שמואל לצאת בשבת עם הכלב שלו. מה נכון?",
+  "section": ""
+ },
+ {
+  "id": "hq/shabbat-10/b11",
+  "en": "a living room floor with pieces of a broken drinking glass near a soft rug and a baby's rattle toy, Shabbat candlesticks on the table, no people",
+  "topic": "🕯️ הלכות שבת › מקצה",
+  "caption": "",
+  "question": "כוס זכוכית נשברה בשבת על הרצפה, והתינוק זוחל בסלון. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/shabbat-12/b8",
+  "en": "a bedroom on Shabbat morning with a boy with a kippa gently stretching his arms by the window, a rolled-up exercise mat lying unused in the corner",
+  "topic": "🕯️ הלכות שבת › חולה שאינו מסכן",
+  "caption": "",
+  "question": "יוסף רגיל לעשות כל בקר שכיבות סמיכה לאמון כשר. מה יעשה בשבת?",
+  "section": ""
+ },
+ {
+  "id": "hq/sukkot-01/b13",
+  "en": "a joyful night celebration of Simchat Beit HaShoeva in a synagogue courtyard, men and boys with kippot dancing in a circle, lights strung overhead, plain Israeli stone houses, no tower, no dome, no cross, only men and boys",
+  "topic": "🌿 הלכות סכות › חג הסכות",
+  "caption": "",
+  "question": "למה עורכים היום שמחת בית השואבה בלילות חל המועד?",
+  "section": ""
+ },
+ {
+  "id": "hq/tefila-02/a7/p0",
+  "en": "a boy with a kippa standing in prayer with a siddur in front of a large wall mirror in a bedroom, his reflection visible in the mirror, only the one boy (mirror)",
+  "topic": "🙏 הלכות תפלה › מקום התפלה",
+  "caption": "מול מראה",
+  "question": "איפה נכון לדני לעמד בתפלת שמונה עשרה?",
+  "section": ""
+ },
+ {
+  "id": "hq/tefila-02/a8/p1",
+  "en": "a boy with a kippa standing in prayer with a siddur in the middle of a wide open empty field, a few men hikers walking past far away (open field)",
+  "topic": "🙏 הלכות תפלה › מקום התפלה",
+  "caption": "בשדה פתוח",
+  "question": "בטיול הגיע זמן מנחה. איפה עדיף שאבי יתפלל שמונה עשרה?",
+  "section": ""
+ },
+ {
+  "id": "hq/tefila-02/b11",
+  "en": "outside a small plain stone synagogue building with a Star of David above the door, a boy with a kippa standing with a siddur in the courtyard beside the building, morning light, plain Israeli stone houses, no tower, no dome, no cross",
+  "topic": "🙏 הלכות תפלה › מקום התפלה",
+  "caption": "",
+  "question": "בית הכנסת תפוס על ידי מנין אחר, ובצלאל מתפלל בחוץ. איפה אסור לו לעמד, ולמה?",
+  "section": ""
+ },
+ {
+  "id": "hq/tefila-03/b8",
+  "en": "a synagogue during morning prayer, men and boys with kippot and tallitot standing together for Kedusha, one boy who arrived late holding an open siddur joins them, a Star of David on the ark",
+  "topic": "🙏 הלכות תפלה › ברכות קריאת שמע",
+  "caption": "",
+  "question": "אריה אחר, והוא באמצע ברכות קריאת שמע כשהחזן מגיע לקדשה. מה יעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/tefila-04/b12",
+  "en": "a synagogue, a boy with a kippa and tallit who finished praying standing still holding a siddur, right behind him a man with a tallit still standing in silent prayer",
+  "topic": "🙏 הלכות תפלה › תפלת עמידה",
+  "caption": "",
+  "question": "נתנאל גמר את העמידה, ומיד מאחוריו, קרוב מאוד, עומד איש שעוד מתפלל. מה יעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/tefila-06/b9",
+  "en": "a synagogue in the evening with lamps lit, men and boys with kippot standing in silent prayer, a boy with a kippa just coming in through the door holding a siddur, a Star of David on the ark",
+  "topic": "🙏 הלכות תפלה › תפלת מעריב",
+  "caption": "",
+  "question": "אלעזר נכנס לערבית בדיוק כשהצבור מתחיל שמונה עשרה. מה יעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/zmanim-03/b10",
+  "en": "a small bar mitzvah celebration in a synagogue hall, a thirteen year old boy with a kippa holding a new tefillin bag and smiling, men with kippot singing around the table with arms on shoulders, no musicians",
+  "topic": "📅 ראש חדש, ספירת העמר והצומות › מנהגי שלשת השבועות",
+  "caption": "",
+  "question": "יום ההלדת השלש עשרה של עזריה חל בשלשת השבועות, לפני ראש חדש אב. מה הדין?",
+  "section": ""
+ },
+ {
+  "id": "hq/zmanim-03/b14",
+  "en": "a home garden in summer, a father with a kippa watering the lawn with a hose and a boy with a kippa planting a small fruit tree sapling, plain Israeli stone houses, no tower, no dome, no cross",
+  "topic": "📅 ראש חדש, ספירת העמר והצומות › מנהגי שלשת השבועות",
+  "caption": "",
+  "question": "בתשעת הימים רוצה משפחת כהנא לטפל בגנה. מה מתר להם?",
+  "section": ""
+ },
+ {
+  "id": "hq/zmanim-04/b13",
+  "en": "a festive Shabbat lunch table in summer with challah, fish and meat dishes, a father and sons with kippot singing Shabbat songs happily, no wine, grape juice only",
+  "topic": "📅 ראש חדש, ספירת העמר והצומות › הלכות תשעה באב",
+  "caption": "",
+  "question": "תשעה באב חל השנה בשבת. איך נראית הסעודה בשבת הזאת?",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-mk/cx-birthday",
+  "en": "A birthday party at home: boys with kippot around a table with a big cake with candles, balloons and party hats. Only boys.",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-mk/cx-chef",
+  "en": "A cheerful cook with a kippa and an apron in a big kitchen stirring large pots for a festive meal. Only men.",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-mk/cx-deep_breath",
+  "en": "A boy with a kippa standing in a green field with his eyes closed and chest raised, taking a deep breath of fresh morning air, arms open.",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-mk/cx-five_coins",
+  "en": "Exactly FIVE large ancient silver coins arranged in a row on a dark red velvet cloth on a table, shining. No letters on the coins (only simple decorations). No people.",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-mk/cx-hospital_visit",
+  "en": "A man with a kippa visiting a sick man with a kippa lying in a hospital bed, bringing him a bag of fruit; the sick man smiles weakly. Only men.",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-mk/cx-serve_tea",
+  "en": "A boy with a kippa carefully carrying a cup of hot tea on a small tray and serving it to his father with a kippa who sits reading in an armchair. Warm home.",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "",
+  "section": ""
+ },
+ {
+  "id": "hq/mishpacha-mk/cx-wedding_dance",
+  "en": "Men with kippot dancing happily in a circle at a wedding hall, holding hands and shoulders, lively music mood. Only men.",
+  "topic": "👨‍👩‍👧 כבוד הורים ומשפחה",
+  "caption": "",
+  "question": "",
+  "section": ""
+ }
+]

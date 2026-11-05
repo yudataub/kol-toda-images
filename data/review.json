@@ -7200,5 +7200,2483 @@
  "hq/tzniut-mk/cx-roasted_grain": {
   "status": "ok",
   "note": "נבדק בעין 4–5.11.2026 (סדרת צניעות), בלי דמויות"
+ },
+ "hq/berachot-01/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-01/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-01/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-01/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-03/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-03/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-03/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-04/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-05/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-05/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-05/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-05/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-06/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-07/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-07/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-07/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-08/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-08/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-08/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-09/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-09/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/berachot-09/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/chanuka-03/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/chavero-01/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/chavero-01/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/chavero-01/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/chavero-02/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/chavero-02/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/chavero-02/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/chavero-04/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/chavero-06/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/chavero-06/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-01/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-01/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-02/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-02/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-03/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-03/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-03/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-04/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-04/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-05/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-05/b14": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-05/b15": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-05/b16": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-05/b17": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-05/b18": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-05/b19": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/kashrut-06/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a1/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a1/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a1/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a2/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a2/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a2/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a3": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a3/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a3/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a3/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a4": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a4/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a4/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a4/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a5": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a5/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a5/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a5/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a6": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a6/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a6/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a6/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a7/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a7/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a7/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a8/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a8/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a8/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a9/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a9/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/a9/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/b1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/b2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/b3": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/b4": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/b5": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/b6": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/b7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-01/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a1/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a1/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a1/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a2/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a2/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a2/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a3": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a3/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a3/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a3/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a4": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a4/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a4/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a4/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a5": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a5/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a5/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a5/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a6": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a6/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a6/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a6/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a7/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a7/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a7/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a8/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a8/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a8/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a9/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a9/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/a9/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/b1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/b2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/b3": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/b4": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/b5": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/b6": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/b7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-02/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a1/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a1/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a1/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a2/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a2/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a2/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a3": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a3/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a3/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a3/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a4": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a4/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a4/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a4/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a5": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a5/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a5/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a5/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a6": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a6/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a6/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a6/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a7/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a7/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a7/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a8/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a8/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/a8/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/b1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/b2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/b3": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/b4": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/b5": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/b6": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/b7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-03/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a1/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a1/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a1/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a2/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a2/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a2/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a3": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a3/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a3/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a3/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a4": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a4/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a4/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a4/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a5": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a5/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a5/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a5/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a6": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a6/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a6/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a6/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a7/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a7/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a7/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a8/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a8/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a8/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a9/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a9/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a9/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a10/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a10/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/a10/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b3": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b4": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b5": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b6": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-04/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a1/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a1/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a1/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a2/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a2/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a2/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a3": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a3/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a3/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a3/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a4": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a4/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a4/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a4/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a5": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a5/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a5/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a5/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a6": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a6/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a6/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a6/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a7/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a7/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a7/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a8/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a8/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a8/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a9/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a9/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/a9/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/b1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/b2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/b3": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/b4": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/b5": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/b6": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/b7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-05/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mitzvot-04/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-01/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-01/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-03/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-03/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-03/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-03/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-03/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-03/b14": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-03/b15": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-03/b16": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-03/b17": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/nashim-04/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/noraim-01/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/noraim-02/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/noraim-05/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/noraim-05/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/noraim-05/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/noraim-05/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/noraim-05/b14": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/noraim-05/b15": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/noraim-05/b16": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-02/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-02/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-02/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-02/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-04/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-04/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-04/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-05/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-05/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-05/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-05/b14": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-06/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-06/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/pesach-06/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/purim-03/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/purim-03/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-01/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-03/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-06/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-06/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-06/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-07/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-07/b14": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-07/b15": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-08/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-08/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-08/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-09/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-09/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-09/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-09/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-09/b14": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-10/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-10/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-10/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-10/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-10/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-11/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-12/b7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/shabbat-12/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/sukkot-01/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/sukkot-01/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/sukkot-01/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/sukkot-01/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/sukkot-02/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-01/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-01/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/a7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/a7/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/a7/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/a7/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/a8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/a8/p0": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/a8/p1": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/a8/p2": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-02/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-03/b7": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-03/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-03/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-04/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-04/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-04/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-04/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-05/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-06/b8": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/tefila-06/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-02/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-02/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-03/b9": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-03/b10": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-03/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-03/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-03/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-03/b14": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-03/b15": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-04/b11": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-04/b12": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/zmanim-04/b13": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-b_escort": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-b_ner_neshama": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-b_pidyon": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-birthday": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-blocks_knock": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-boy_hiding": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-check": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-chef": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-contract": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-contradict": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-covenant_stars": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-deep_breath": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-elijah_chair": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-elijah_cup": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-father_chair": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-five_coins": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-five_rocks": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-gift_box": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-help_coat": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-hospital_visit": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-iluy": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-nichum": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-sandak": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-serve_tea": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-stairs": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-think_good": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-throne": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-wedding_dance": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-weigh_fruit": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-wine_bracha": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
+ },
+ "hq/mishpacha-mk/cx-write_words": {
+  "status": "ok",
+  "flags": [],
+  "note": "eye-checked 5.11",
+  "by": "claude-vision"
  }
 }
