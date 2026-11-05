@@ -54,6 +54,8 @@ def hq():
                 base = dict(source="hq", engine="gemini", style="cartoon", topic=topic, topic_key="%s:%s" % (series, ch or ""),
                             quiz=qid, quiz_page="https://www.kol-toda.co.il/halacha-quiz/%s.html" % qid,
                             reviewed=os.path.exists(pub), has_text=False)
+                if not x.get("art") and (L["key"] == "b" or qid.endswith("-mk")):   # חידוני מושגים (-mk): תמונות מועתקות מחידונים אחרים / לוחות מורכבים – נקלטות ב-hq_cx()
+                    continue
                 if L["key"] == "b":
                     art = x["art"] if isinstance(x["art"], str) else " ".join(x["art"])
                     items.append(dict(base, id="hq/%s/%s" % (qid, stem), kind="scene", en=art,
@@ -73,6 +75,47 @@ def hq():
                                           he_ctx={"caption": plain(caps[k]) if k < len(caps) else "",
                                                   "quiz_title": ctx["quiz_title"], "chapter_title": chap, "question": ctx["question"]},
                                           files={"master": master, "clean": orig if os.path.exists(orig) else ""}))
+    return items + hq_cx(series_title)
+
+
+def _cx_jobs():
+    """תיאורי התמונות (באנגלית) מסקריפטי cx_*_images.py של החידונים: {שם: תיאור}. רק קבצים עם JOBS ו-__main__."""
+    import importlib.util
+    jobs = {}
+    for f in glob.glob(os.path.join(QUIZ, "cx_*_images.py")):
+        src = open(f, encoding="utf-8").read()
+        if "JOBS" not in src or "__main__" not in src:
+            continue
+        spec = importlib.util.spec_from_file_location(os.path.basename(f)[:-3], f)
+        mod = importlib.util.module_from_spec(spec)
+        try:
+            spec.loader.exec_module(mod)
+            for k, v in getattr(mod, "JOBS", {}).items():
+                jobs.setdefault(k, v)
+        except Exception:
+            pass
+    return jobs
+
+
+def hq_cx(series_title):
+    """תמונות בודדות שנוצרו לחידוני המושגים (img/<quiz>/cx-*.png|jpg, Codex/Gemini) – בלי כיתוב, לשימוש חוזר."""
+    jobs, items = _cx_jobs(), []
+    for f in sorted(glob.glob(os.path.join(QUIZ, "img", "*", "cx-*.*"))):
+        if not f.lower().endswith((".png", ".jpg")):
+            continue
+        qid, name = os.path.basename(os.path.dirname(f)), os.path.basename(f)[3:-4]
+        if f.lower().endswith(".jpg") and os.path.exists(f[:-4] + ".png"):
+            continue
+        qf = os.path.join(QUIZ, "quizzes", qid + ".json")
+        q = json.load(open(qf, encoding="utf-8")) if os.path.exists(qf) else {}
+        series = q.get("series") or qid.rsplit("-", 1)[0]
+        items.append(dict(source="hq", engine="codex" if f.endswith(".png") else "gemini", style="watercolor",
+                          topic=[t for t in ("הלכה", series_title.get(series, series)) if t], topic_key="%s:" % series,
+                          quiz=qid, quiz_page="https://www.kol-toda.co.il/halacha-quiz/%s.html" % qid,
+                          reviewed=False, has_text=False, id="hq/%s/cx-%s" % (qid, name), kind="scene",
+                          en=jobs.get(name, name.replace("_", " ")),
+                          he_ctx={"book": plain(q.get("book")), "quiz_title": plain(q.get("title"))},
+                          files={"master": f, "web_url": ""}))
     return items
 
 

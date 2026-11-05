@@ -1,0 +1,882 @@
+[
+{
+"id": "hq/tzniut-06/b7",
+"en": "a powerful waterfall pouring into a river between sturdy rocks, an old stone water mill beside it, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "למה יצר העריות חזק כל כך, וקשה להתגבר עליו?",
+"section": ""
+},
+{
+"id": "hq/tzniut-06/b8",
+"en": "a potter's workshop with a cracked broken clay jar next to a sturdy finished clay jar on a wooden shelf, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "מה ההבדל בין שמוש ״רעוע״ ביצר לבין שמוש בונה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a1/p0",
+"en": "an old open stone well in a village square with no fence around it at all, no people, no mannequins, no hands (open well)",
+"topic": "🌷 הלכות צניעות",
+"caption": "באר בלי גדר",
+"question": "מה למדו חז״ל בספרא מן המלים ״לא תקרבו״?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a1/p1",
+"en": "an old stone well surrounded by a sturdy wooden fence at a safe distance, flowers around, no people, no mannequins, no hands (fenced well)",
+"topic": "🌷 הלכות צניעות",
+"caption": "באר מוקפת גדר",
+"question": "מה למדו חז״ל בספרא מן המלים ״לא תקרבו״?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a1/p2",
+"en": "an old stone well with a wooden plank laid right across its open mouth, no people, no mannequins, no hands (plank over well)",
+"topic": "🌷 הלכות צניעות",
+"caption": "קרש מעל פי הבאר",
+"question": "מה למדו חז״ל בספרא מן המלים ״לא תקרבו״?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a2/p0",
+"en": "an old brass balance scale on a wooden table, tipped strongly down on its right side, no people, no mannequins, no hands (tipped right)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מאזניים נוטים לצד אחד",
+"question": "על מי מטל אסור הנגיעה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a2/p1",
+"en": "an old brass balance scale on a wooden table, tipped strongly down on its left side, no people, no mannequins, no hands (tipped left)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מאזניים נוטים לצד השני",
+"question": "על מי מטל אסור הנגיעה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a2/p2",
+"en": "an old brass balance scale on a wooden table, both pans perfectly level and balanced, no people, no mannequins, no hands (balanced)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מאזניים מאוזנים",
+"question": "על מי מטל אסור הנגיעה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a3/p0",
+"en": "a city bus standing at a bus stop on a sunny morning with its front door open, seen from outside, windows reflecting the sky so nothing is visible inside, no people, no mannequins, no hands, no text, no numbers (bus with open door)",
+"topic": "🌷 הלכות צניעות",
+"caption": "אוטובוס עם דלת פתוחה",
+"question": "האוטובוס של מיכל לבית הספר צפוף מאוד, ואין דרך אחרת. מה הדין, לפי הרב פיינשטיין?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a3/p1",
+"en": "a city bus seen from outside with all its doors firmly closed, windows reflecting the sky, no people, no mannequins, no hands, no text, no numbers (closed bus)",
+"topic": "🌷 הלכות צניעות",
+"caption": "אוטובוס עם דלתות סגורות",
+"question": "האוטובוס של מיכל לבית הספר צפוף מאוד, ואין דרך אחרת. מה הדין, לפי הרב פיינשטיין?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a3/p2",
+"en": "a long empty sidewalk stretching far into the distance with a schoolbag resting on a bench, no people, no mannequins, no hands (long sidewalk)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מדרכה ארוכה וריקה",
+"question": "האוטובוס של מיכל לבית הספר צפוף מאוד, ואין דרך אחרת. מה הדין, לפי הרב פיינשטיין?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a4/p0",
+"en": "the open rear door of a bus at a bus stop, seen from inside the empty bus, no people, no mannequins, no hands, no text (open rear door)",
+"topic": "🌷 הלכות צניעות",
+"caption": "דלת אחורית פתוחה",
+"question": "באוטובוס יש שני מקומות פנויים: מקום ליד גבר, וספסל ריק לגמרי. מה רצוי שאילה תעשה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a4/p1",
+"en": "inside an empty city bus, a double seat where the window side holds a man's black hat and a leather briefcase, the aisle seat free, no people, no mannequins, no hands, no text (seat beside hat and briefcase)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מושב ליד כובע ותיק",
+"question": "באוטובוס יש שני מקומות פנויים: מקום ליד גבר, וספסל ריק לגמרי. מה רצוי שאילה תעשה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a4/p2",
+"en": "inside an empty city bus, a completely empty double seat by the window in morning light, no people, no mannequins, no hands, no text (empty double seat)",
+"topic": "🌷 הלכות צניעות",
+"caption": "ספסל ריק",
+"question": "באוטובוס יש שני מקומות פנויים: מקום ליד גבר, וספסל ריק לגמרי. מה רצוי שאילה תעשה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a5/p0",
+"en": "a wooden garden gate standing wide open, no people, no mannequins, no hands (wide open gate)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שער פתוח לרווחה",
+"question": "בשכונה של נועה, נער רוצה לתת לה ״כיף״ – ״סתם, בלי כונה״. מה הדין למעשה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a5/p1",
+"en": "a wooden garden gate swinging half open in the wind, no people, no mannequins, no hands (half open gate)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שער חצי פתוח",
+"question": "בשכונה של נועה, נער רוצה לתת לה ״כיף״ – ״סתם, בלי כונה״. מה הדין למעשה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a5/p2",
+"en": "a closed wooden garden gate with a small lock, a lush blooming garden behind it, no people, no mannequins, no hands (closed guarded gate)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שער סגור לגן פורח",
+"question": "בשכונה של נועה, נער רוצה לתת לה ״כיף״ – ״סתם, בלי כונה״. מה הדין למעשה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a6/p0",
+"en": "a neat new office desk on a first workday morning with a sealed welcome envelope and a small potted plant on it, no people, no mannequins, no hands, no text (desk with envelope)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מעטפה על שולחן חדש",
+"question": "דינה מתחילה לעבד במשרד, והמנהל עלול להושיט לה יד. מה כדאי לה לעשות?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a6/p1",
+"en": "an hourglass with sand running on an empty office desk, no people, no mannequins, no hands, no text (hourglass)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שעון חול",
+"question": "דינה מתחילה לעבד במשרד, והמנהל עלול להושיט לה יד. מה כדאי לה לעשות?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a6/p2",
+"en": "an empty office with the chair pushed away from the desk and the door closed, no people, no mannequins, no hands, no text (empty office)",
+"topic": "🌷 הלכות צניעות",
+"caption": "משרד ריק",
+"question": "דינה מתחילה לעבד במשרד, והמנהל עלול להושיט לה יד. מה כדאי לה לעשות?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a7/p0",
+"en": "a sparkling diamond lying among grey pebbles on a gravel road, no people, no mannequins, no hands (diamond among pebbles)",
+"topic": "🌷 הלכות צניעות",
+"caption": "יהלום בין אבנים",
+"question": "הספר משוה את קדשת המגע ליהלום. איך שומרים על יהלום?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a7/p1",
+"en": "a sparkling diamond in a small open velvet jewelry box inside a closed safe, no people, no mannequins, no hands (diamond in a box)",
+"topic": "🌷 הלכות צניעות",
+"caption": "יהלום בקופסה סגורה",
+"question": "הספר משוה את קדשת המגע ליהלום. איך שומרים על יהלום?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a7/p2",
+"en": "a heap of sparkling diamonds spilled across an open outdoor market table, no people, no mannequins, no hands, no text (diamonds on a market table)",
+"topic": "🌷 הלכות צניעות",
+"caption": "יהלומים על דוכן בשוק",
+"question": "הספר משוה את קדשת המגע ליהלום. איך שומרים על יהלום?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a8/p0",
+"en": "an empty bus seat seen from the aisle of an empty city bus, no people, no mannequins, no hands, no text (empty seat)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מושב פנוי",
+"question": "אשה התישבה ליד הגרש״ז אויערבאך באוטובוס. מה הוא עשה, כדי לא להעליב אותה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a8/p1",
+"en": "a bus window with a view of a sunny street, an empty seat beside it, no people, no mannequins, no hands, no text (bus window)",
+"topic": "🌷 הלכות צניעות",
+"caption": "חלון אוטובוס",
+"question": "אשה התישבה ליד הגרש״ז אויערבאך באוטובוס. מה הוא עשה, כדי לא להעליב אותה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a8/p2",
+"en": "a red stop-request button on a yellow pole inside an empty bus, a bus stop visible through the open door, no people, no mannequins, no hands, no text (stop button)",
+"topic": "🌷 הלכות צניעות",
+"caption": "כפתור עצירה",
+"question": "אשה התישבה ליד הגרש״ז אויערבאך באוטובוס. מה הוא עשה, כדי לא להעליב אותה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a9/p0",
+"en": "a large open umbrella sheltering an empty park bench from heavy rain, no people, no mannequins, no hands (umbrella over bench)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מטריה מגינה על ספסל",
+"question": "פרופסורית שאלה את הרב שטמלר למה הוא לא מושיט לה יד. מה היתה תשובתו?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a9/p1",
+"en": "a ringing alarm clock on a busy desk, no people, no mannequins, no hands, no text (alarm clock)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שעון מעורר",
+"question": "פרופסורית שאלה את הרב שטמלר למה הוא לא מושיט לה יד. מה היתה תשובתו?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/a9/p2",
+"en": "a heavy door slammed shut in a dim corridor, no people, no mannequins, no hands, no text (slammed door)",
+"topic": "🌷 הלכות צניעות",
+"caption": "דלת סגורה בחוזקה",
+"question": "פרופסורית שאלה את הרב שטמלר למה הוא לא מושיט לה יד. מה היתה תשובתו?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/b1",
+"en": "an old study hall table with two large open holy books side by side, bookshelves behind and a Star of David on the wall, no people, no mannequins, no hands, no text",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "מה המחלקת בין הרמב״ם לרמב״ן באסור נגיעה בעריות?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/b2",
+"en": "a large old open book of Jewish law on a wooden lectern in soft window light, no people, no mannequins, no hands, no text",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "כדעת מי פוסק השלחן ערוך, ומה יוצא למעשה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/b3",
+"en": "a candle-lit wooden table with several old holy books stacked and one open, no people, no mannequins, no hands, no text",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "למה הש״ך חולק על הבית יוסף בנגיעה שאינה של חבה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/b4",
+"en": "a quiet beit midrash at evening with rows of wooden tables, open books and warm lamps, a Star of David on the wall, no people, no mannequins, no hands, no text",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "מה דעת הבית שמואל בנגיעה שאינה של חבה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/b5",
+"en": "a city bus driving along a sunny Israeli street with plain stone houses, seen from outside, windows reflecting the sky so nobody is visible, no tower, no dome, no cross, no people, no mannequins, no hands, no text, no numbers",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "למה, לפי הרב פיינשטיין, מתר לנסע באוטובוס צפוף?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/b6",
+"en": "the inside of an empty city bus with rows of double seats in morning light, no people, no mannequins, no hands, no text",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "מה ההבדל בין דחק באוטובוס לבין ישיבה על ספסל אחד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/b7",
+"en": "a neat office desk with a small potted plant and a closed notebook, a window with a view of green trees, no people, no mannequins, no hands, no text",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "מה כותב הרב פיינשטיין על המקלים להחזיר יד לאשה שמושיטה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/b8",
+"en": "a modern university campus with plain stone buildings, green trees and empty benches, no tower, no dome, no cross, no people, no mannequins, no hands, no text",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "מה רצה הרב שטמלר להסביר בשאלה ששאל את הפרופסורית?",
+"section": ""
+},
+{
+"id": "hq/tzniut-07/b9",
+"en": "a bus stop shelter on a quiet Israeli street with a city bus driving away in the distance, plain stone houses, no tower, no dome, no cross, no people, no mannequins, no hands, no text, no numbers",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "מה מלמד הספור על הגרש״ז שירד מן האוטובוס?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a1/p0",
+"en": "an apartment front door firmly closed and locked, a key turned in the lock, a small table with math notebooks inside, no people, no mannequins, no hands (locked door)",
+"topic": "🌷 הלכות צניעות",
+"caption": "דלת נעולה במפתח",
+"question": "מורה פרטי בא ללמד את נועה חשבון, וההורים יצאו לכמה שעות. איזה מצב מונע יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a1/p1",
+"en": "an apartment front door wide open to a quiet sunny residential street with plain Israeli stone houses, a small table with math notebooks visible just inside, no people, no mannequins, no hands (door open to the street)",
+"topic": "🌷 הלכות צניעות",
+"caption": "דלת פתוחה לרחוב",
+"question": "מורה פרטי בא ללמד את נועה חשבון, וההורים יצאו לכמה שעות. איזה מצב מונע יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a1/p2",
+"en": "a living room with all the window shutters pulled down and closed, dim light, a small table with math notebooks, no people, no mannequins, no hands (closed shutters)",
+"topic": "🌷 הלכות צניעות",
+"caption": "תריסים מוגפים",
+"question": "מורה פרטי בא ללמד את נועה חשבון, וההורים יצאו לכמה שעות. איזה מצב מונע יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a2/p0",
+"en": "a study table with two chairs and open books placed right in front of a large clear ground-floor window facing a sunny street, no people, no mannequins, no hands (table by the window)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שולחן מול חלון לרחוב",
+"question": "השעור של אפרת עם המורה מתקים בחדר עם חלון. באיזה חדר החלון מועיל?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a2/p1",
+"en": "a room with a window completely covered by a thick closed curtain, a study table with books, no people, no mannequins, no hands (closed curtain)",
+"topic": "🌷 הלכות צניעות",
+"caption": "חלון עם וילון סגור",
+"question": "השעור של אפרת עם המורה מתקים בחדר עם חלון. באיזה חדר החלון מועיל?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a2/p2",
+"en": "a study table with books hidden in a far corner of a room behind a tall bookcase, out of sight of the window, no people, no mannequins, no hands (hidden corner)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שולחן בפינה נסתרת",
+"question": "השעור של אפרת עם המורה מתקים בחדר עם חלון. באיזה חדר החלון מועיל?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a3/p0",
+"en": "a baby crib with a soft blanket and a colorful baby rattle in a quiet nursery, no people, no mannequins, no hands, no dolls (baby crib)",
+"topic": "🌷 הלכות צניעות",
+"caption": "עריסה ורעשן",
+"question": "אביגיל עושה בייביסיטר אצל שכנים, והאבא של המשפחה חוזר הביתה לפני האמא. מי יכול להיות ״שומר״?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a3/p1",
+"en": "a child's room with a small bicycle, a toy train and colorful building blocks on the rug, toys of a seven-year-old, no people, no mannequins, no hands, no dolls (toys of a seven-year-old)",
+"topic": "🌷 הלכות צניעות",
+"caption": "צעצועים של ילד בן שבע",
+"question": "אביגיל עושה בייביסיטר אצל שכנים, והאבא של המשפחה חוזר הביתה לפני האמא. מי יכול להיות ״שומר״?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a3/p2",
+"en": "a tidy empty living room with all the toys put away in a closed box, no people, no mannequins, no hands, no dolls (empty room)",
+"topic": "🌷 הלכות צניעות",
+"caption": "חדר ריק",
+"question": "אביגיל עושה בייביסיטר אצל שכנים, והאבא של המשפחה חוזר הביתה לפני האמא. מי יכול להיות ״שומר״?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a4/p0",
+"en": "a dark child's bedroom at night with one small bed and a soft night light, a toy truck on the floor, no people, no mannequins, no hands, no dolls (one bed)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מיטה אחת",
+"question": "בלילה, בשעה שרגילים לישן, מה צריך כדי שלא יהיה יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a4/p1",
+"en": "a dark living room at night with a moon in the window and no beds at all, no people, no mannequins, no hands, no dolls (no beds)",
+"topic": "🌷 הלכות צניעות",
+"caption": "חדר בלי מיטות",
+"question": "בלילה, בשעה שרגילים לישן, מה צריך כדי שלא יהיה יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a4/p2",
+"en": "a dark children's bedroom at night with two small beds side by side and a soft night light, toy cars on the floor, no people, no mannequins, no hands, no dolls (two beds)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שתי מיטות",
+"question": "בלילה, בשעה שרגילים לישן, מה צריך כדי שלא יהיה יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a5/p0",
+"en": "a warm home kitchen with a pot of soup cooking on the stove, steam rising, an apron hanging on a chair and a tea cup on the table, as if someone of the family is at home, no people, no mannequins, no hands (busy family kitchen)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מטבח של בית מלא",
+"question": "רותי הולכת לשעור פרטי בבית המורה. באיזה מצב מתר לה להיות שם?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a5/p1",
+"en": "a closed and locked front door of a silent empty house, a key turned in the lock, no people, no mannequins, no hands (locked empty house)",
+"topic": "🌷 הלכות צניעות",
+"caption": "בית ריק ודלת נעולה",
+"question": "רותי הולכת לשעור פרטי בבית המורה. באיזה מצב מתר לה להיות שם?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a5/p2",
+"en": "a cat sleeping alone on a sofa in a silent empty living room, no people, no mannequins, no hands (only a cat)",
+"topic": "🌷 הלכות צניעות",
+"caption": "רק חתול על הספה",
+"question": "רותי הולכת לשעור פרטי בבית המורה. באיזה מצב מתר לה להיות שם?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a6/p0",
+"en": "a small empty minibus driving alone on a dark empty country road at night, no street lights, no other cars, no people, no mannequins, no hands (dark empty road)",
+"topic": "🌷 הלכות צניעות",
+"caption": "כביש חשוך וריק",
+"question": "בערב, שירה היא האחרונה בהסעה ונשארה לבד עם הנהג. באיזו דרך הנסיעה מתרת?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a6/p1",
+"en": "an empty minibus parked in a hidden dark corner of a deserted parking lot, no people, no mannequins, no hands (hidden parking lot)",
+"topic": "🌷 הלכות צניעות",
+"caption": "חניה נסתרת",
+"question": "בערב, שירה היא האחרונה בהסעה ונשארה לבד עם הנהג. באיזו דרך הנסיעה מתרת?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a6/p2",
+"en": "an empty minibus on a brightly lit city street in the evening with street lights and several other cars passing, plain Israeli stone houses, no people, no mannequins, no hands (lit street with cars)",
+"topic": "🌷 הלכות צניעות",
+"caption": "רחוב מואר עם מכוניות",
+"question": "בערב, שירה היא האחרונה בהסעה ונשארה לבד עם הנהג. באיזו דרך הנסיעה מתרת?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a7/p0",
+"en": "an empty car on a dark road at night with its interior light switched on, the inside of the car clearly visible, headlights of another car in the distance, no people, no mannequins, no hands (light inside the car)",
+"topic": "🌷 הלכות צניעות",
+"caption": "אור דולק בתוך המכונית",
+"question": "מכוניות עוברות כל כמה דקות, אבל הכביש חשוך. מה אפשר לעשות כדי להקל?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a7/p1",
+"en": "an empty car speeding fast on a dark road at night with motion blur, no people, no mannequins, no hands (driving fast)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מכונית נוסעת מהר",
+"question": "מכוניות עוברות כל כמה דקות, אבל הכביש חשוך. מה אפשר לעשות כדי להקל?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a7/p2",
+"en": "an empty car with fully dark tinted closed windows on a dark road at night, the inside not visible, no people, no mannequins, no hands (dark closed windows)",
+"topic": "🌷 הלכות צניעות",
+"caption": "חלונות כהים וסגורים",
+"question": "מכוניות עוברות כל כמה דקות, אבל הכביש חשוך. מה אפשר לעשות כדי להקל?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a8/p0",
+"en": "an empty dark medical clinic corridor with the clinic door closed and locked, all waiting chairs empty, no people, no mannequins, no hands (empty locked clinic)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מרפאה ריקה ונעולה",
+"question": "להלה יש תור אצל רופא. איזה מצב עוזר שלא יהיה יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a8/p1",
+"en": "a bright clinic waiting room with a school backpack and a water bottle left on a chair right next to the doctor's room door, the door not locked, no people, no mannequins, no hands (someone waiting by the door)",
+"topic": "🌷 הלכות צניעות",
+"caption": "תיק של חברה ליד הדלת",
+"question": "להלה יש תור אצל רופא. איזה מצב עוזר שלא יהיה יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a8/p2",
+"en": "a clinic waiting room at night with the lights mostly off and a wall clock showing a very late hour, all chairs empty, no people, no mannequins, no hands (very late appointment)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שעה מאוחרת בלילה",
+"question": "להלה יש תור אצל רופא. איזה מצב עוזר שלא יהיה יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a9/p0",
+"en": "a wooden bench beside a path in a green public park at midday, sunny, no people, no mannequins, no hands (park bench)",
+"topic": "🌷 הלכות צניעות",
+"caption": "ספסל בפארק",
+"question": "באיזה מקום עלול להיות אסור יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a9/p1",
+"en": "a small shop with a big glass display window facing a sunny street, plain Israeli stone houses, no people, no mannequins, no hands (shop window)",
+"topic": "🌷 הלכות צניעות",
+"caption": "חנות עם חלון ראווה",
+"question": "באיזה מקום עלול להיות אסור יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a9/p2",
+"en": "a closed basement storage room with a heavy shut door, boxes and shelves, a single dim bulb, no windows, no people, no mannequins, no hands (closed basement storeroom)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מחסן סגור במרתף",
+"question": "באיזה מקום עלול להיות אסור יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a10/p0",
+"en": "a room door left slightly ajar with a thin strip of light from the hallway, no people, no mannequins, no hands (door slightly open)",
+"topic": "🌷 הלכות צניעות",
+"caption": "דלת פתוחה מעט",
+"question": "הדלת סגורה ולא נעולה, ויש סכוי מועט שמישהו יכנס. מה ראוי לעשות?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a10/p1",
+"en": "a room door shut tight with a key turned in the lock, no people, no mannequins, no hands (locked door)",
+"topic": "🌷 הלכות צניעות",
+"caption": "דלת נעולה",
+"question": "הדלת סגורה ולא נעולה, ויש סכוי מועט שמישהו יכנס. מה ראוי לעשות?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/a10/p2",
+"en": "a dark room with the light switch off and the lamp off, no people, no mannequins, no hands (lights off)",
+"topic": "🌷 הלכות צניעות",
+"caption": "אור כבוי",
+"question": "הדלת סגורה ולא נעולה, ויש סכוי מועט שמישהו יכנס. מה ראוי לעשות?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b1",
+"en": "a heavy closed wooden door in a quiet hallway with soft light coming from under it, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "למה יחוד אסור גם כשלא קרה שום דבר?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b2",
+"en": "an open old Talmud volume on a wooden table in a quiet study hall with tall bookshelves and a Star of David on the wall, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "מה ההלכה ביחוד עם אחת מן העריות, כמו אשת איש?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b3",
+"en": "a simple round wall clock with a second hand on a plain wall above a closed door, no numbers, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "למה לפעמים גם כמה שניות הן אסור יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b4",
+"en": "two thick old holy books lying open side by side on a wooden lectern in a synagogue with a Star of David on the wall, no text visible, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "מה המחלקת באשה אחת עם שני גברים כשרים?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b5",
+"en": "a quiet residential street at night with a crescent moon, plain Israeli stone houses with most windows dark, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "לפי הרמ״א, מה משתנה בלילה, בשעה שרגילים לישן?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b6",
+"en": "a closed but unlocked office door with the key hanging on a hook beside it, a quiet hallway, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "דלת סגורה ולא נעולה, ויש סכוי מועט שיכנס אדם. מה הטעם של המקלים?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b7",
+"en": "a bright room seen from a sunny street through a large clear window, a study table with books inside clearly visible, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "בחדר של השעור הפרטי יש חלון לרחוב. מתי הוא מועיל כמו פתח פתוח?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b8",
+"en": "an office doorway with the door half open, a hallway beyond it with a water cooler and a coat rack, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "למה שומר שנכנס ויוצא מועיל – ואולי אפלו יותר?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b9",
+"en": "a calm clinic waiting room with two empty chairs side by side, two handbags resting on them, a potted plant, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "למה אפשר ללכת לרופא עם חברה נשואה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b10",
+"en": "an empty guard post room at night with a desk, a radio, a thermos and a window to a lit fence outside, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "חילת במשמרת לילה. באיזה הרכב אפשר להקל?",
+"section": ""
+},
+{
+"id": "hq/tzniut-08/b11",
+"en": "an empty bright doctor's examination room with a stethoscope on the desk and the door standing open to the corridor, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "למה יש צד להחמיר ביחוד עם רופא?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a1/p0",
+"en": "a cafe table with two coffee cups and a plate of cookies set for a long chat, no people, no mannequins, no hands (cafe table)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שולחן בבית קפה",
+"question": "רות מחכה בתחנה, ורוצה לשאל את הנהג אם האוטובוס מגיע לעיר שלה. איך נכון לדבר?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a1/p1",
+"en": "a city bus with its front door open at a clean sunny bus stop shelter, plain Israeli stone houses, no people, no mannequins, no hands (bus at the stop)",
+"topic": "🌷 הלכות צניעות",
+"caption": "אוטובוס בתחנה",
+"question": "רות מחכה בתחנה, ורוצה לשאל את הנהג אם האוטובוס מגיע לעיר שלה. איך נכון לדבר?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a1/p2",
+"en": "colorful party confetti, party poppers and balloons scattered on a table, no people, no mannequins, no hands (confetti and balloons)",
+"topic": "🌷 הלכות צניעות",
+"caption": "קונפטי ובלונים",
+"question": "רות מחכה בתחנה, ורוצה לשאל את הנהג אם האוטובוס מגיע לעיר שלה. איך נכון לדבר?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a2/p0",
+"en": "a clipboard with an empty schedule grid, a pen and a small toy bus model on a desk, no text, no people, no mannequins, no hands (planning clipboard)",
+"topic": "🌷 הלכות צניעות",
+"caption": "לוח תכנון ועט",
+"question": "שירה מתאמת עם מדריך משבט הבנים את ההסעה לפעלה המשתפת. איזו שיחה מתאימה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a2/p1",
+"en": "a smartphone lying on a desk with its screen glowing with many red heart shapes, no text, no people, no mannequins, no hands (phone with hearts)",
+"topic": "🌷 הלכות צניעות",
+"caption": "טלפון עם לבבות",
+"question": "שירה מתאמת עם מדריך משבט הבנים את ההסעה לפעלה המשתפת. איזו שיחה מתאימה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a2/p2",
+"en": "a smartphone glowing on a bedside table in a dark bedroom at night, a clock showing a very late hour, no people, no mannequins, no hands (phone late at night)",
+"topic": "🌷 הלכות צניעות",
+"caption": "טלפון בלילה מאוחר",
+"question": "שירה מתאמת עם מדריך משבט הבנים את ההסעה לפעלה המשתפת. איזו שיחה מתאימה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a3/p0",
+"en": "an empty cinema hall with rows of red seats, two seats far apart from each other marked with a jacket on each, no people, no mannequins, no hands (seats far apart)",
+"topic": "🌷 הלכות צניעות",
+"caption": "כיסאות רחוקים בקולנוע",
+"question": "בנים מהשכונה מציעים לבנות מהכתה לצאת יחד לסרט. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a3/p1",
+"en": "a cozy living room table set with a board game, a bowl of popcorn and juice glasses for a fun evening at home, no people, no mannequins, no hands (game evening at home)",
+"topic": "🌷 הלכות צניעות",
+"caption": "ערב משחקים בבית",
+"question": "בנים מהשכונה מציעים לבנות מהכתה לצאת יחד לסרט. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a3/p2",
+"en": "two cinema tickets with no text and a big box of popcorn on a cinema seat, no people, no mannequins, no hands (cinema tickets)",
+"topic": "🌷 הלכות צניעות",
+"caption": "כרטיסים ופופקורן",
+"question": "בנים מהשכונה מציעים לבנות מהכתה לצאת יחד לסרט. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a4/p0",
+"en": "a desk with a school presentation project: colored paper, glue, scissors and a laptop with a blank screen, no people, no mannequins, no hands (school project)",
+"topic": "🌷 הלכות צניעות",
+"caption": "פרויקט על השולחן",
+"question": "יעל ותלמיד מהשכבה מכינים יחד מצגה. הוא מציע לדבר בטלפון כל ערב, שעות. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a4/p1",
+"en": "a smartphone on a bedside table under a window with a crescent moon, dark room, no people, no mannequins, no hands (phone at night)",
+"topic": "🌷 הלכות צניעות",
+"caption": "טלפון בלילה",
+"question": "יעל ותלמיד מהשכבה מכינים יחד מצגה. הוא מציע לדבר בטלפון כל ערב, שעות. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a4/p2",
+"en": "a wall calendar with every single evening circled in red, a smartphone lying below it, no text, no people, no mannequins, no hands (every evening circled)",
+"topic": "🌷 הלכות צניעות",
+"caption": "לוח שנה מסומן בכל ערב",
+"question": "יעל ותלמיד מהשכבה מכינים יחד מצגה. הוא מציע לדבר בטלפון כל ערב, שעות. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a5/p0",
+"en": "two empty chairs facing each other across a small table with an open notebook, a conversation corner in a bright room, no people, no mannequins, no hands (chairs for a talk)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שני כיסאות לשיחה",
+"question": "חברה אומרת: ״הזמנים השתנו – אז גם בלבוש אפשר להקל״. על מה נאמר שהמציאות השתנתה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a5/p1",
+"en": "a modest long skirt and a long-sleeved blouse hanging on hangers, no people, no mannequins, no hands (clothes on hangers)",
+"topic": "🌷 הלכות צניעות",
+"caption": "בגדים על קולב",
+"question": "חברה אומרת: ״הזמנים השתנו – אז גם בלבוש אפשר להקל״. על מה נאמר שהמציאות השתנתה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a5/p2",
+"en": "a tall stack of many old holy books on a wooden table, no text visible, no people, no mannequins, no hands (stack of books)",
+"topic": "🌷 הלכות צניעות",
+"caption": "ערימת ספרים",
+"question": "חברה אומרת: ״הזמנים השתנו – אז גם בלבוש אפשר להקל״. על מה נאמר שהמציאות השתנתה?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a6/p0",
+"en": "a full water bottle and a hiking backpack on a bench, no people, no mannequins, no hands (water bottle)",
+"topic": "🌷 הלכות צניעות",
+"caption": "בקבוק מים ותיק",
+"question": "הכתה יוצאת לטיול מחוץ לעיר. מה אומרים בתחלת הדרך?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a6/p1",
+"en": "a small closed prayer booklet with a plain decorative cover and no text, resting on a bus seat by the window, green hills of the Land of Israel outside, no people, no mannequins, no hands (prayer booklet on the bus)",
+"topic": "🌷 הלכות צניעות",
+"caption": "תפילון באוטובוס",
+"question": "הכתה יוצאת לטיול מחוץ לעיר. מה אומרים בתחלת הדרך?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a6/p2",
+"en": "a plain empty bus seat with nothing on it, no people, no mannequins, no hands (empty seat)",
+"topic": "🌷 הלכות צניעות",
+"caption": "כיסא ריק",
+"question": "הכתה יוצאת לטיול מחוץ לעיר. מה אומרים בתחלת הדרך?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a7/p0",
+"en": "a pair of short shorts lying on a rock on a sunny hiking trail, no people, no mannequins, no hands (shorts)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מכנסיים קצרים",
+"question": "בטיול חם מאוד. איזה לבוש מתאים?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a7/p1",
+"en": "a sleeveless top lying on a rock on a sunny hiking trail, no people, no mannequins, no hands (sleeveless top)",
+"topic": "🌷 הלכות צניעות",
+"caption": "חולצה בלי שרוולים",
+"question": "בטיול חם מאוד. איזה לבוש מתאים?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a7/p2",
+"en": "a long modest skirt, a long-sleeved light blouse, a sun hat and sturdy hiking boots laid neatly on a rock on a sunny hiking trail, no people, no mannequins, no hands (long skirt and hiking boots)",
+"topic": "🌷 הלכות צניעות",
+"caption": "חצאית ארוכה ונעלי הליכה",
+"question": "בטיול חם מאוד. איזה לבוש מתאים?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a8/p0",
+"en": "a fork in a hiking trail, one path turning inland into green hills with a trail marker post painted with colored stripes, no text, no people, no mannequins, no hands (trail turning inland)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שביל שפונה להרים",
+"question": "באמצע המסלול רואים מרחוק חוף מערב. מה עושות?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a8/p1",
+"en": "a pair of binoculars lying on a rock, pointed toward a distant beach with colorful umbrellas, no people, no mannequins, no hands (binoculars toward the beach)",
+"topic": "🌷 הלכות צניעות",
+"caption": "משקפת מול החוף",
+"question": "באמצע המסלול רואים מרחוק חוף מערב. מה עושות?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a8/p2",
+"en": "stone steps leading down from a cliff to a beach with colorful umbrellas, no people, no mannequins, no hands (steps down to the beach)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מדרגות לחוף",
+"question": "באמצע המסלול רואים מרחוק חוף מערב. מה עושות?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a9/p0",
+"en": "a picnic spot by a stream left dirty with plastic bags, bottles and wrappers scattered on the grass, no people, no mannequins, no hands (litter left behind)",
+"topic": "🌷 הלכות צניעות",
+"caption": "פסולת על הדשא",
+"question": "אחרי הפיקניק ליד הנחל – מה עושות עם הפסלת?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a9/p1",
+"en": "a clean picnic spot by a stream with a tied full trash bag ready to be taken away, no people, no mannequins, no hands (tied trash bag)",
+"topic": "🌷 הלכות צניעות",
+"caption": "שקית אשפה קשורה",
+"question": "אחרי הפיקניק ליד הנחל – מה עושות עם הפסלת?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a9/p2",
+"en": "plastic bottles floating in a clear stream between rocks, no people, no mannequins, no hands (bottles in the stream)",
+"topic": "🌷 הלכות צניעות",
+"caption": "בקבוקים בנחל",
+"question": "אחרי הפיקניק ליד הנחל – מה עושות עם הפסלת?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a10/p0",
+"en": "a lonely roadside bench beside a dark empty desert road at night, no street lights, no cars, no people, no mannequins, no hands (dark isolated road)",
+"topic": "🌷 הלכות צניעות",
+"caption": "כביש מבודד וחשוך",
+"question": "באיזה מקום בטיול צריך לשים לב במיחד לדיני יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a10/p1",
+"en": "a brightly lit busy road junction at evening with traffic lights and many passing cars, no people, no mannequins, no hands (lit busy junction)",
+"topic": "🌷 הלכות צניעות",
+"caption": "צומת מואר",
+"question": "באיזה מקום בטיול צריך לשים לב במיחד לדיני יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/a10/p2",
+"en": "an open visitor center building of plain stone with its lights on and doors open, a parking lot with cars in front, no people, no mannequins, no hands (open visitor center)",
+"topic": "🌷 הלכות צניעות",
+"caption": "מרכז מבקרים פתוח",
+"question": "באיזה מקום בטיול צריך לשים לב במיחד לדיני יחוד?",
+"section": ""
+},
+{
+"id": "hq/tzniut-09/b1",
+"en": "an ancient stone road junction among hills in the Land of Israel at sunrise, two dirt paths splitting in different directions, no signs, no people, no mannequins, no hands",
+"topic": "🌷 הלכות צניעות",
+"caption": "",
+"question": "מה טענה ברוריה כלפי רבי יוסי הגלילי?",
+"section": ""
+}
+]
