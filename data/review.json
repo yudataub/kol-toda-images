@@ -9678,5 +9678,2195 @@
   "flags": [],
   "note": "eye-checked 5.11",
   "by": "claude-vision"
+ },
+ "bk/shidduchin-cover": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 6.11.2026",
+  "by": "agent-vision"
+ },
+ "bk/shidduchin-trough": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 6.11.2026",
+  "by": "agent-vision"
+ },
+ "bk/shidduchin-road": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 6.11.2026",
+  "by": "agent-vision"
+ },
+ "bk/shidduchin-tent": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 6.11.2026",
+  "by": "agent-vision"
+ },
+ "bk/ketuvim-home": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (אריח כתובים בעמוד הבית)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-01": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-02": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-03": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-04": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-05": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-06": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-07": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-08": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-09": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-10": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-11": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-12": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-13": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-14": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-15": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-16": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-17": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-18": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-19": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-20": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-21": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-22": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-23": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-24": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-25": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-26": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-27": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-28": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-29": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-30": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-31": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-32": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-33": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-34": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-35": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-36": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-37": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-38": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-39": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-40": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-41": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-42": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-43": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-44": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-45": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-46": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-47": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-48": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-49": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/mishlei-50": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11.2026 (משחקי משלי, 7 יוצרו מחדש)",
+  "by": "agent-vision"
+ },
+ "bk/shas-brachot": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-peah": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-demai": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-kilayim": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-sheviit": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-terumot": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-maasrot": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-maaser-sheni": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-challah": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-orlah": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-bikkurim": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-shabbat": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-eruvin": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-pesachim": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-shekalim": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-yoma": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-sukkah": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-beitzah": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-rosh-hashanah": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-taanit": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-megillah": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-moed-katan": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-chagigah": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-yevamot": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-ketubot": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-nedarim": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-nazir": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-sotah": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-gittin": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-kiddushin": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-bava-kamma": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-bava-metzia": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-bava-batra": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-sanhedrin": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-makkot": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-shevuot": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-eduyot": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-avodah-zarah": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-avot": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/shas-horayot": {
+  "status": "ok",
+  "flags": [],
+  "note": "נבדק בעין 8.11 (גיליון); כתובות ומגילה נערכו",
+  "by": "claude"
+ },
+ "bk/2026-11-08-navi-yehoshua": {
+  "status": "ok"
+ },
+ "bk/2026-11-08-navi-shoftim": {
+  "status": "ok"
+ },
+ "bk/2026-11-08-navi-melachim": {
+  "status": "ok"
+ },
+ "bk/2026-11-08-megila-rut": {
+  "status": "ok"
+ },
+ "bk/2026-11-08-megila-ester": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-02": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-03": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-04": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-05": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-06": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-07": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-08": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-09": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-10": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-11": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-12": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-13": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-14": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-15": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-16": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-17": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-18": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-19": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-20": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-21": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-22": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-23": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-24": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-25": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-26": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-27": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-28": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-29": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-30": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-31": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-32": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-33": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-34": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-35": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-36": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-37": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-38": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-39": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-40": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-41": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-42": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-43": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-44": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-45": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-46": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-47": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-48": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-49": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-50": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-01": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-02": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-03": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-04": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-05": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-06": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-07": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-08": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-09": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-10": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-11": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-12": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-13": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-14": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-15": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-16": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-17": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-18": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-19": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-20": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-21": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-22": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-23": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-24": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-25": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-26": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-27": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-28": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-29": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-30": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-31": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-32": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-33": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-34": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-35": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-36": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-37": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-38": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-39": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-40": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-41": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-42": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-43": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-44": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-45": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-46": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-47": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-48": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-49": {
+  "status": "ok"
+ },
+ "bk/tanach-shoftim-50": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-01": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-02": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-03": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-04": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-05": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-06": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-07": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-08": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-09": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-10": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-11": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-12": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-13": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-14": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-15": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-16": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-17": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-18": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-19": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-20": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-21": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-22": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-23": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-24": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-25": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-26": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-27": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-28": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-29": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-30": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-31": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-32": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-33": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-34": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-35": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-36": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-37": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-38": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-39": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-40": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-41": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-42": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-43": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-44": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-45": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-46": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-47": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-48": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-49": {
+  "status": "ok"
+ },
+ "bk/tanach-shmuel-50": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-01": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-02": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-03": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-04": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-05": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-06": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-07": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-08": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-09": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-10": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-11": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-12": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-13": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-14": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-15": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-16": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-17": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-18": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-19": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-20": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-21": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-22": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-23": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-24": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-25": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-26": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-27": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-28": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-29": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-30": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-31": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-32": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-33": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-34": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-35": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-36": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-37": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-38": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-39": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-40": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-41": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-42": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-43": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-44": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-45": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-46": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-47": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-48": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-49": {
+  "status": "ok"
+ },
+ "bk/tanach-melachim-50": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-01": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-02": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-03": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-04": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-05": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-06": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-07": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-08": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-09": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-10": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-11": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-12": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-13": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-14": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-15": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-16": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-17": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-18": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-19": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-20": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-21": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-22": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-23": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-24": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-25": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-26": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-27": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-28": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-29": {
+  "status": "ok"
+ },
+ "bk/tanach-rut-30": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-01": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-02": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-03": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-04": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-05": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-06": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-07": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-08": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-09": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-10": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-11": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-12": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-13": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-14": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-15": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-16": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-17": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-18": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-19": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-20": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-21": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-22": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-23": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-24": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-25": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-26": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-27": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-28": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-29": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-30": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-31": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-32": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-33": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-34": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-35": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-36": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-37": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-38": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-39": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-40": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-41": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-42": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-43": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-44": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-45": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-46": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-47": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-48": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-49": {
+  "status": "ok"
+ },
+ "bk/tanach-ester-50": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-01": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-02": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-03": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-04": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-05": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-06": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-07": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-08": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-09": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-10": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-11": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-12": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-13": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-14": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-15": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-16": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-17": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-18": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-19": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-20": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-21": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-22": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-23": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-24": {
+  "status": "ok"
+ },
+ "bk/tanach-eicha-25": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-01": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-02": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-03": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-04": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-05": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-06": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-07": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-08": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-09": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-10": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-11": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-12": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-13": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-14": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-15": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-16": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-17": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-18": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-19": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-20": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-21": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-22": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-23": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-24": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-25": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-26": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-27": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-28": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-29": {
+  "status": "ok"
+ },
+ "bk/tanach-shir-30": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-01": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-02": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-03": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-04": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-05": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-06": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-07": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-08": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-09": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-10": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-11": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-12": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-13": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-14": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-15": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-16": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-17": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-18": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-19": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-20": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-21": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-22": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-23": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-24": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-25": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-26": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-27": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-28": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-29": {
+  "status": "ok"
+ },
+ "bk/tanach-kohelet-30": {
+  "status": "ok"
+ },
+ "bk/tanach-yehoshua-01": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-01": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-02": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-03": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-04": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-05": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-06": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-07": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-08": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-09": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-10": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-11": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-12": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-13": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-14": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-15": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-16": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-17": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-18": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-19": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-20": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-21": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-22": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-23": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-24": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-25": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-26": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-27": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-28": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-29": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-30": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-31": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-32": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-33": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-34": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-35": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-36": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-37": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-38": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-39": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-40": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-41": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-42": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-43": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-44": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-45": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-46": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-47": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-48": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-49": {
+  "status": "ok"
+ },
+ "bk/tanach-iyov-50": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-01": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-02": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-03": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-04": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-05": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-06": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-07": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-08": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-09": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-10": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-11": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-12": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-13": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-14": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-15": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-16": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-17": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-18": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-19": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-20": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-21": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-22": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-23": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-24": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-25": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-26": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-27": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-28": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-29": {
+  "status": "ok"
+ },
+ "bk/tanach-daniel-30": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-01": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-02": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-03": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-04": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-05": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-06": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-07": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-08": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-09": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-10": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-11": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-12": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-13": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-14": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-15": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-16": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-17": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-18": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-19": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-20": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-21": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-22": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-23": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-24": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-25": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-26": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-27": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-28": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-29": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-30": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-31": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-32": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-33": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-34": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-35": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-36": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-37": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-38": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-39": {
+  "status": "ok"
+ },
+ "bk/tanach-ezra-40": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-01": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-02": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-03": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-04": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-05": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-06": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-07": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-08": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-09": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-10": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-11": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-12": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-13": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-14": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-15": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-16": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-17": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-18": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-19": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-20": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-21": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-22": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-23": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-24": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-25": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-26": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-27": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-28": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-29": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-30": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-31": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-32": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-33": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-34": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-35": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-36": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-37": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-38": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-39": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-40": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-41": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-42": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-43": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-44": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-45": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-46": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-47": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-48": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-49": {
+  "status": "ok"
+ },
+ "bk/tanach-dh-50": {
+  "status": "ok"
  }
 }

@@ -11,6 +11,10 @@ QUIZ = r"C:\Users\User\torah-game\halacha-quiz"
 BOOK = r"C:\Users\User\torah-game\halacha-book-b"
 PUB = r"C:\kol-toda-build\kol\out\halacha-files"          # העותק של ריפו התמונות (kol/offload.py)
 PUB_URL = "https://yudataub.github.io/kol-toda-halacha/"
+# מקור חיים (מדור נפרד /mekor-haim-quiz/, 5.11): התמונות עברו ל-kol-toda-img. ליד כל תמונה יש <שם>.json (gen_images.write_meta):
+# origin "library" = הורכבה/הועתקה מפריטים שכבר בספרייה – לא נקלטת שוב; origin "generated" = תמונה חדשה (engine: gemini/codex).
+MK_PUB = r"C:\kol-toda-build\kol\out\img-files"
+MK_URL = "https://yudataub.github.io/kol-toda-img/"
 NIK = re.compile(r"[\u0591-\u05C7]")
 
 
@@ -47,13 +51,22 @@ def hq():
                 ch = keys[0][0] if keys else None
                 chap = plain(titles.get("%s:%d" % (book, ch), "")) if ch else ""
                 topic = [t for t in ("הלכה", series_title.get(series, series), chap) if t]
-                pub = os.path.join(PUB, "halacha-quiz", "img", "%s-%s.webp" % (qid, stem))
-                web = PUB_URL + "halacha-quiz/img/%s-%s.webp" % (qid, stem)
+                meta = {}
+                if series == "mekorhaim":
+                    mp = master[:-4] + ".json"
+                    meta = json.load(open(mp, encoding="utf-8")) if os.path.exists(mp) else {}
+                    if meta.get("origin") != "generated":
+                        continue          # הורכבה או הועתקה מהספרייה – הפריטים המקוריים כבר בה
+                    pub = os.path.join(MK_PUB, "mekor-haim-quiz", "img", "%s-%s.webp" % (qid, stem))
+                    web = MK_URL + "mekor-haim-quiz/img/%s-%s.webp" % (qid, stem)
+                else:
+                    pub = os.path.join(PUB, "halacha-quiz", "img", "%s-%s.webp" % (qid, stem))
+                    web = PUB_URL + "halacha-quiz/img/%s-%s.webp" % (qid, stem)
                 ctx = {"book": plain(q.get("book")), "quiz_title": plain(q.get("title")), "subtitle": plain(q.get("subtitle")),
                        "question": plain(x.get("prompt")), "chapter_title": chap}
-                base = dict(source="hq", engine="gemini", style="cartoon", topic=topic, topic_key="%s:%s" % (series, ch or ""),
-                            quiz=qid, quiz_page="https://www.kol-toda.co.il/halacha-quiz/%s.html" % qid,
-                            reviewed=os.path.exists(pub), has_text=False)
+                base = dict(source="hq", engine=meta.get("engine") or "gemini", style="cartoon", topic=topic, topic_key="%s:%s" % (series, ch or ""),
+                            quiz=qid, quiz_page="https://www.kol-toda.co.il/%s/%s.html" % ("mekor-haim-quiz" if meta else "halacha-quiz", qid),
+                            reviewed=bool(meta.get("reviewed")) if meta else os.path.exists(pub), has_text=False)
                 if not x.get("art") and (L["key"] == "b" or qid.endswith("-mk")):   # חידוני מושגים (-mk): תמונות מועתקות מחידונים אחרים / לוחות מורכבים – נקלטות ב-hq_cx()
                     continue
                 if L["key"] == "b":
@@ -158,7 +171,7 @@ def hb(by_id):
 
 
 OG = r"C:\og-ai"
-TN = r"C:\Users\User\OneDrive\Documents\מסמכים\משחקים\YUDA\איורי סיפורי התנאים"
+TN = r"C:\YUDA\איורי סיפורי התנאים"
 
 
 def og():
@@ -204,4 +217,18 @@ def tn():
                                   files={"master": path, "web_url": ""}))
             cur, i = None, j
         i += 1
+    return items
+
+
+def bookgen():
+    """תמונות שנוצרו לספרים (Gemini) ונבדקו בעין. הרשימה ב-data/book_images.json: [{id, file, en, book}]."""
+    mp = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "book_images.json")
+    if not os.path.exists(mp):
+        return []
+    items = []
+    for j in json.load(open(mp, encoding="utf-8")):
+        if os.path.exists(j["file"]):
+            items.append(dict(id="bk/" + j["id"], source="bk", engine="gemini", style="painterly", kind="scene", en=j["en"],
+                              he_ctx={"book": j["book"]}, topic=["ספרים", j["book"]], topic_key="book", reviewed=False,
+                              has_text=False, files={"master": j["file"], "web_url": j.get("web_url", "")}))   # 9.11: game pictures already on the site's image repo – the gallery links there, no second copy
     return items
