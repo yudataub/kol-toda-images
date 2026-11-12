@@ -1,64 +1,3384 @@
 [
 {
-"id": "bk/shema-05-c1",
-"en": "a boy wearing a kippah standing on a hilltop at sunrise holding a closed velvet bag of tefillin close to his heart, a wide valley with a small synagogue with a Star of David below, sun and soft clouds, no letters, no text",
-"topic": "ספרי לימוד – קריאת שמע",
+"id": "hq/siddur-01/a1/p0",
+"en": "a boy wearing a kippah standing outside with his hand on his heart and a calm, trusting smile, white clouds and a bright sun behind him, only the one boy in this panel, no text (strengthening faith)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מחזק אמונה",
+"question": "מה המטרה העקרית של התפלה, לפי המבי״ט?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a1/p1",
+"en": "a boy wearing a kippah happily holding a big wrapped gift box in both hands, only the one boy in this panel, no text (getting what we want)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מקבל מתנה",
+"question": "מה המטרה העקרית של התפלה, לפי המבי״ט?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a1/p2",
+"en": "a boy wearing a kippah running fast with a closed prayer book with a blank cover under his arm, only the one boy in this panel, no text, no letters (finishing quickly)",
+"topic": "🙏 פרקי התפלה",
+"caption": "גומר מהר",
+"question": "מה המטרה העקרית של התפלה, לפי המבי״ט?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a2/p0",
+"en": "a boy wearing a kippah looking at a big pile of shiny gold coins on a table, only the one boy in this panel, no text (money)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כסף",
+"question": "אל מי פונים בתפלה וממי מבקשים עזרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a2/p1",
+"en": "a boy wearing a kippah holding a green four-leaf clover and looking at it hopefully, only the one boy in this panel, no text (luck)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מזל",
+"question": "אל מי פונים בתפלה וממי מבקשים עזרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a2/p2",
+"en": "a boy wearing a kippah standing outdoors with his eyes closed and his hands together near his chest, under a bright sun and white clouds, only the one boy in this panel, no text (asking only from Hashem)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מבקש מה׳",
+"question": "אל מי פונים בתפלה וממי מבקשים עזרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a3/p0",
+"en": "a pair of brown children's shoes standing side by side on a wooden floor, no people, no text (shoes)",
+"topic": "🙏 פרקי התפלה",
+"caption": "נעליים",
+"question": "הבעל שם טוב אמר: אחרי התפלה צריך להיות שונה מלפניה. מה אמור להשתנות?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a3/p1",
+"en": "a boy wearing a kippah with a glowing warm smile, both hands over his heart, standing in a sunny synagogue with a Star of David on the wall, only the one boy in this panel, no text (my heart)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הלב",
+"question": "הבעל שם טוב אמר: אחרי התפלה צריך להיות שונה מלפניה. מה אמור להשתנות?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a3/p2",
+"en": "a school backpack standing alone on a wooden chair, no people, no text (backpack)",
+"topic": "🙏 פרקי התפלה",
+"caption": "תיק",
+"question": "הבעל שם טוב אמר: אחרי התפלה צריך להיות שונה מלפניה. מה אמור להשתנות?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a4/p0",
+"en": "a boy wearing a kippah shouting loudly with his mouth wide open and his arms stretched out, only the one boy in this panel, no text (a loud voice)",
+"topic": "🙏 פרקי התפלה",
+"caption": "צועק",
+"question": "שני חולים התפללו וכונו, ורק אחד נרפא. לפי רבי אליהו לפיאן, מה היה חסר לשני?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a4/p1",
+"en": "a boy wearing a kippah struggling to hold a gigantic closed book with a blank cover that is bigger than he is, only the one boy in this panel, no text, no letters (a huge prayer book)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ספר ענק",
+"question": "שני חולים התפללו וכונו, ורק אחד נרפא. לפי רבי אליהו לפיאן, מה היה חסר לשני?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a4/p2",
+"en": "a boy wearing a kippah in a quiet room with his eyes closed and a confident smile, his hand on his heart, sunshine through the window, only the one boy in this panel, no text (believing he will be answered)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מאמין",
+"question": "שני חולים התפללו וכונו, ורק אחד נרפא. לפי רבי אליהו לפיאן, מה היה חסר לשני?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a5/p0",
+"en": "an ancient bearded man in simple robes standing in prayer in the early morning at the same flat stone beside an old tree, a worn patch of ground under his feet, only the one man in this panel, no text (the same place)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אותו מקום",
+"question": "לאיזה מקום הלך אברהם אבינו בבקר להתפלל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a5/p1",
+"en": "a bearded man wearing a kippah looking around uncertainly, shown as three small scenes of a field, a hill and a courtyard, only the one man, no text (a new place each day)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מקום חדש",
+"question": "לאיזה מקום הלך אברהם אבינו בבקר להתפלל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a5/p2",
+"en": "a bearded man wearing a kippah walking on a very long winding road far away toward the horizon with a walking stick, only the one man in this panel, no text (far away)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רחוק",
+"question": "לאיזה מקום הלך אברהם אבינו בבקר להתפלל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a6/p0",
+"en": "a big school dining hall with long empty tables and benches, no people, no text (dining hall)",
+"topic": "🙏 פרקי התפלה",
+"caption": "חדר אוכל",
+"question": "כיצד נקרא בית הכנסת, לפי הנביא יחזקאל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a6/p1",
+"en": "a small beautiful synagogue building with a Star of David above the door and warm light in the windows, no people, no text (a small temple)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מקדש מעט",
+"question": "כיצד נקרא בית הכנסת, לפי הנביא יחזקאל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a6/p2",
+"en": "a playground with a slide, swings and a sandbox, no people, no text (playground)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מגרש משחקים",
+"question": "כיצד נקרא בית הכנסת, לפי הנביא יחזקאל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a7/p0",
+"en": "a boy wearing a kippah standing in a synagogue with a drifting thought cloud above his head that shows a sandwich and an apple, he looks dreamy, no text (thinking about lunch)",
+"topic": "🙏 פרקי התפלה",
+"caption": "חושב על אוכל",
+"question": "מה כדאי לחשב לפני שמתחילים להתפלל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a7/p1",
+"en": "a boy wearing a kippah standing straight and still with his hands folded in front of him, a serious respectful face, facing a tall closed carved wooden door, only the one boy in this panel, no text (standing before the King)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עומד לפני המלך",
+"question": "מה כדאי לחשב לפני שמתחילים להתפלל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a7/p2",
+"en": "a boy wearing a kippah glancing up at a plain wall clock without numbers, bored, no text (waiting for it to end)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מחכה שיגמר",
+"question": "מה כדאי לחשב לפני שמתחילים להתפלל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a8/p0",
+"en": "a boy wearing a kippah running very fast with a blurred motion trail behind him, only the one boy in this panel, no text (in a rush)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ממהר",
+"question": "איך מתפללים לפי ההלכה?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a8/p1",
+"en": "a boy wearing a kippah dragging a heavy sack with a tired sigh, his shoulders low, only the one boy in this panel, no text (like a heavy burden)",
+"topic": "🙏 פרקי התפלה",
+"caption": "סוחב משא",
+"question": "איך מתפללים לפי ההלכה?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a8/p2",
+"en": "a poor bearded man in worn clothes standing quietly at a doorway with his open hands held out gently, a calm humble face, only the one man in this panel, no text (gently like at a door)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מבקש בנחת",
+"question": "איך מתפללים לפי ההלכה?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a9/p0",
+"en": "a boy wearing a kippah sitting quietly on a bench in a synagogue with his eyes closed and his hands on his knees, a peaceful face, only the one boy in this panel, no text (sitting and focusing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "יושב ומכוון",
+"question": "מה עושים לפי הרמב״ם קצת לפני התפלה?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a9/p1",
+"en": "a boy wearing a kippah kicking a football in a yard, only the one boy in this panel, no text (playing ball)",
+"topic": "🙏 פרקי התפלה",
+"caption": "משחק",
+"question": "מה עושים לפי הרמב״ם קצת לפני התפלה?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a9/p2",
+"en": "a boy wearing a kippah at a table piled high with a huge meal of bread, soup, fruit and drinks, only the one boy in this panel, no text (a big meal)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אוכל",
+"question": "מה עושים לפי הרמב״ם קצת לפני התפלה?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a10/p0",
+"en": "a boy wearing a kippah stamping his foot with a red angry face and clenched fists, only the one boy in this panel, no text (getting angry)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כועס",
+"question": "התפללת ועדין לא נענית. מה עושים לפי חז״ל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a10/p1",
+"en": "a boy wearing a kippah walking away with his back turned and a closed prayer book with a blank cover left on a bench, only the one boy in this panel, no text (giving up)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מפסיק",
+"question": "התפללת ועדין לא נענית. מה עושים לפי חז״ל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/a10/p2",
+"en": "a boy wearing a kippah praying again at sunrise, standing patiently with an open prayer book with blank pages, a hopeful face, only the one boy in this panel, no text (praying again)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מתפלל שוב",
+"question": "התפללת ועדין לא נענית. מה עושים לפי חז״ל?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/b1",
+"en": "Isaac, a young bearded man in simple ancient robes, standing alone in a field at dusk with his hands lifted in prayer, a tent behind him, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה, לפי המדרש והזהר, המתינו האבות והאמהות שנים לילדים?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/b2",
+"en": "a boy wearing a kippah sitting by himself on a bench in a quiet synagogue, looking thoughtfully at an open prayer book with blank pages, soft light from the windows, a Star of David on the wall, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה למד רבי יחזקאל לוינשטיין על הקשר בין הצרה לתפלה?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/b3",
+"en": "a green garden snake resting on a sunny rock next to a pile of small fruits, no people, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה אומרים שקללת הנחש היא שמזונו מצוי עמו תמיד?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/b4",
+"en": "a boy wearing a kippah standing on a small hill at sunrise looking toward the horizon with a patient hopeful face, a closed prayer book with a blank cover in his hands, only the one boy, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "התפללת הרבה על דבר ועדין לא קבלת אותו. מה חושבים עכשו?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/b5",
+"en": "a boy wearing a kippah standing in a synagogue with his arms open wide and a joyful smile, golden light from the high windows, a Star of David on the wall, only the one boy, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה בתפלה מקדימים שבחים לבקשות, לפי הלקוטי הלכות?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/b6",
+"en": "Abraham, a bearded man in simple ancient robes, kneeling beside a small altar of stones with his hands raised in prayer under a wide sky with sun and white clouds, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה מזכירים בתחלת התפלה כדי לחזק שה׳ ישמע גם אותנו?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/b7",
+"en": "a boy wearing a kippah finishing a prayer with a big happy smile and his eyes closed, a closed prayer book with a blank cover in his hands, a sunny synagogue window behind him, only the one boy, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "אתה בסוף ברכה בתפלה. מה כדאי לחשב ולשמח לפי החנוך?",
+"section": ""
+},
+{
+"id": "hq/siddur-01/b8",
+"en": "a tired boy wearing a kippah with a hiking backpack sitting down to rest on a rock by a path, drinking water and breathing calmly, only the one boy, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "חזרת עיף ומבלבל מטיול קשה. מה עושים לפני שמתפללים, לפי הרמב״ם?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a1/p0",
+"en": "a rooster crowing on a wooden fence at sunrise, sun and white clouds, no text (rooster)",
+"topic": "🙏 פרקי התפלה",
+"caption": "התרנגול",
+"question": "הברכה הראשונה מודה על כך שה׳ נתן בינה ל…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a1/p1",
+"en": "a brown cow standing in a green meadow, no text (cow)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הפרה",
+"question": "הברכה הראשונה מודה על כך שה׳ נתן בינה ל…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a1/p2",
+"en": "a white fluffy sheep standing in a green meadow, no text (sheep)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הכבש",
+"question": "הברכה הראשונה מודה על כך שה׳ נתן בינה ל…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a2/p0",
+"en": "a boy wearing a kippah putting on a white shirt, a bed behind him, only the one boy, no text (getting dressed)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מלביש ערומים",
+"question": "קמים בבקר והעינים נפקחות ורואות את השמש. איזו ברכה מברכים?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a2/p1",
+"en": "a boy wearing a kippah standing up straight and tall after bending over, arms stretched up, only the one boy, no text (standing straight)",
+"topic": "🙏 פרקי התפלה",
+"caption": "זוקף כפופים",
+"question": "קמים בבקר והעינים נפקחות ורואות את השמש. איזו ברכה מברכים?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a2/p2",
+"en": "a boy wearing a kippah in bed opening his eyes wide in the morning, sunshine through the window, only the one boy, no text (opening eyes)",
+"topic": "🙏 פרקי התפלה",
+"caption": "פוקח עורים",
+"question": "קמים בבקר והעינים נפקחות ורואות את השמש. איזו ברכה מברכים?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a3/p0",
+"en": "a boy wearing a kippah putting on a jacket by the door, only the one boy, no text (getting dressed)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מלביש ערומים",
+"question": "הילד עומד על אדמה חזקה שליד הים. על מה מודים בברכה?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a3/p1",
+"en": "a boy wearing a kippah standing safely on firm green ground by the edge of a calm blue sea, only the one boy, no text (firm ground)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רוקע הארץ",
+"question": "הילד עומד על אדמה חזקה שליד הים. על מה מודים בברכה?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a3/p2",
+"en": "a boy wearing a kippah rubbing his eyes with both hands after waking, only the one boy, no text (opening eyes)",
+"topic": "🙏 פרקי התפלה",
+"caption": "פוקח עורים",
+"question": "הילד עומד על אדמה חזקה שליד הים. על מה מודים בברכה?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a4/p0",
+"en": "a boy wearing a kippah walking along a winding path in a green field, only the one boy, no text (steps on a path)",
+"topic": "🙏 פרקי התפלה",
+"caption": "המכין מצעדי גבר",
+"question": "הילד יוצא מן המטה שבה שכב כל הלילה. איזו ברכה מברכים?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a4/p1",
+"en": "a table with bread, fruit and a pitcher of water next to a folded blanket and a pair of shoes, no text (all my needs)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שעשה לי כל צרכי",
+"question": "הילד יוצא מן המטה שבה שכב כל הלילה. איזו ברכה מברכים?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a4/p2",
+"en": "a boy wearing a kippah stretching freely as he gets out of a bed with a rumpled blanket, morning light, only the one boy, no text (freed from bed)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מתיר אסורים",
+"question": "הילד יוצא מן המטה שבה שכב כל הלילה. איזו ברכה מברכים?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a5/p0",
+"en": "a sunny table set with bread, fruit and water, with folded clothes and a small house in the background, no text (all my needs)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שעשה לי כל צרכי",
+"question": "על איזו ברכה מודים שיש בעולם אכל, בגדים ובית – כל מה שצריך?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a5/p1",
+"en": "a boy wearing a kippah bending over to tie his shoe, only the one boy, no text (bending over)",
+"topic": "🙏 פרקי התפלה",
+"caption": "זוקף כפופים",
+"question": "על איזו ברכה מודים שיש בעולם אכל, בגדים ובית – כל מה שצריך?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a5/p2",
+"en": "a boy wearing a kippah waking up and opening his eyes, only the one boy, no text (opening eyes)",
+"topic": "🙏 פרקי התפלה",
+"caption": "פוקח עורים",
+"question": "על איזו ברכה מודים שיש בעולם אכל, בגדים ובית – כל מה שצריך?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a6/p0",
+"en": "a tiny very short stone path leading to a small door in a hedge, no text (short path)",
+"topic": "🙏 פרקי התפלה",
+"caption": "דרך קצרה",
+"question": "מבקשים בברכה ׳המכין מצעדי גבר׳ שנלך ב…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a6/p1",
+"en": "a boy wearing a kippah walking calmly on a smooth safe path through a sunny green field, only the one boy, no text (safe path)",
+"topic": "🙏 פרקי התפלה",
+"caption": "דרך בטוחה",
+"question": "מבקשים בברכה ׳המכין מצעדי גבר׳ שנלך ב…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a6/p2",
+"en": "a boy wearing a kippah racing fast on a scooter along a road, only the one boy, no text (fast road)",
+"topic": "🙏 פרקי התפלה",
+"caption": "דרך מהירה",
+"question": "מבקשים בברכה ׳המכין מצעדי גבר׳ שנלך ב…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a7/p0",
+"en": "a boy wearing a kippah running fast across a field, only the one boy, no text (running fast)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לרוץ מהר",
+"question": "בברכה הראשונה מבקשים שה׳ יכין את השכל שלנו…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a7/p1",
+"en": "a boy wearing a kippah sleeping deeply in a bed with a blue blanket, only the one boy, no text (sleeping more)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לישון יותר",
+"question": "בברכה הראשונה מבקשים שה׳ יכין את השכל שלנו…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a7/p2",
+"en": "a boy wearing a kippah handing back a dropped book to another boy wearing a kippah in a schoolyard, no text (choosing good)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לבחור בטוב",
+"question": "בברכה הראשונה מבקשים שה׳ יכין את השכל שלנו…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a8/p0",
+"en": "a boy wearing a kippah with his hand on his heart, eyes closed, calm face, a closed prayer book with a blank cover in front of him, only the one boy, no text (heart's intention)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כוונת הלב",
+"question": "לפי ספר סדר היום, מה העקר בכל ברכה?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a8/p1",
+"en": "a boy wearing a kippah shouting loudly with his mouth wide open, only the one boy, no text (loud voice)",
+"topic": "🙏 פרקי התפלה",
+"caption": "קול חזק",
+"question": "לפי ספר סדר היום, מה העקר בכל ברכה?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a8/p2",
+"en": "a boy wearing a kippah talking very fast, wind lines around him, only the one boy, no text (talking fast)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לדבר מהר",
+"question": "לפי ספר סדר היום, מה העקר בכל ברכה?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a9/p0",
+"en": "two feet in sandals standing on grass, no text (feet)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הרגליים",
+"question": "מבקשים שה׳ יפקח גם את עיני…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a9/p1",
+"en": "a boy wearing a kippah sitting thoughtfully with a finger on his forehead, a glowing lightbulb above his head, only the one boy, no text (eyes of the mind)",
+"topic": "🙏 פרקי התפלה",
+"caption": "השכל",
+"question": "מבקשים שה׳ יפקח גם את עיני…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a9/p2",
+"en": "a big smile with white teeth drawn as a cartoon, no text (teeth)",
+"topic": "🙏 פרקי התפלה",
+"caption": "השיניים",
+"question": "מבקשים שה׳ יפקח גם את עיני…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a10/p0",
+"en": "a boy wearing a kippah buttoning a shirt, only the one boy, no text (getting dressed)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מלביש ערומים",
+"question": "הילד קם ועומד זקוף וגאה. איזו ברכה מברכים?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a10/p1",
+"en": "a boy wearing a kippah stretching in bed with a rumpled blanket, only the one boy, no text (freed from bed)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מתיר אסורים",
+"question": "הילד קם ועומד זקוף וגאה. איזו ברכה מברכים?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/a10/p2",
+"en": "a boy wearing a kippah standing straight and proud with his chest out, in a sunny room, only the one boy, no text (standing tall)",
+"topic": "🙏 פרקי התפלה",
+"caption": "זוקף כפופים",
+"question": "הילד קם ועומד זקוף וגאה. איזו ברכה מברכים?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/b1",
+"en": "a tired boy wearing a kippah with a backpack sitting on a bench in the evening, then a bright sunrise behind him, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "הילד חזר עיף מיום למודים ארך. על מה מודים בברכת ׳הנותן ליעף כח׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/b2",
+"en": "a strong old stone synagogue with a Star of David on its wall, standing firm while the clouds break and the sun shines, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי סדר היום, מה היא ׳הגבורה׳ שבה ה׳ אוזר את ישראל?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/b3",
+"en": "a boy wearing a kippah putting on a tallit katan with tzitzit in a bright bedroom, soft golden light around him, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "על מה ה׳ ׳עוטר אותנו בתפארה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/b4",
+"en": "a boy wearing a kippah sitting on the edge of his bed in the early morning with a closed prayer book on his lap, soft sunrise through the window, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "אחרי ׳המעביר שנה׳ מבקשים בתפלה שה׳…",
+"section": ""
+},
+{
+"id": "hq/siddur-02/b5",
+"en": "two boys wearing kippot meeting in a school corridor, one gently smiling and calmly offering his hand to shake the other's hand, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "בבקר בקשנו ׳חן וחסד׳. עכשו חבר דחף אותי במסדרון. מה כדאי לזכר?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/b6",
+"en": "a boy wearing a kippah in the morning holding a prayer book with a blank cover, pausing and looking down thoughtfully, a toy car left aside on a table, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "אני אומר ברכת השחר מהר, והמחשבה שלי במשחק. מה כדאי לעשות?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/b7",
+"en": "a smiling bearded father wearing a kippah handing a wrapped gift box with a ribbon to his son wearing a kippah, both holding the box with their own hands, only these two people, in a sunny study room with bookshelves, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי קהלות יעקב, על מה הברכה ׳אשר בחר בנו ונתן לנו את תורתו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-02/b8",
+"en": "the Ramban, a wise old bearded sage in simple ancient robes and a kippah, sitting with an open book with blank pages in a stone study hall in soft morning light, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי הרמב״ן, מה פרוש ׳שם׳ ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a1/p0",
+"en": "a bearded man wearing a kippah telling a story to three boys wearing kippot who sit on the floor around him, no text (stories)",
+"topic": "🙏 פרקי התפלה",
+"caption": "סיפורים",
+"question": "מה הם פסוקי דזמרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a1/p1",
+"en": "a group of cheerful boys wearing kippot singing happily with open mouths in a synagogue with a Star of David on the wall, holding blank prayer books, no letters, no text (songs of praise)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שירי שבח",
+"question": "מה הם פסוקי דזמרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a1/p2",
+"en": "a bearded man wearing a kippah standing with his palms open and eyes closed in a quiet request, a table with bread beside him, only the one man in this panel, no text (requests)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בקשות",
+"question": "מה הם פסוקי דזמרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a2/p0",
+"en": "a boy wearing a kippah standing on a green hill at sunrise, looking at mountains, trees, a river and white clouds, only the one boy in this panel, no text (the whole world)",
+"topic": "🙏 פרקי התפלה",
+"caption": "העולם",
+"question": "ב׳ברוך שאמר׳ מודים לה׳ על מה?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a2/p1",
+"en": "a few workers wearing hard hats building a big stone bridge over a river, no text (a bridge)",
+"topic": "🙏 פרקי התפלה",
+"caption": "גשר",
+"question": "ב׳ברוך שאמר׳ מודים לה׳ על מה?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a2/p2",
+"en": "a bearded painter wearing a kippah painting at an easel with a blank canvas, only the one man in this panel, no text (a painting)",
+"topic": "🙏 פרקי התפלה",
+"caption": "תמונה",
+"question": "ב׳ברוך שאמר׳ מודים לה׳ על מה?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a3/p0",
+"en": "a boy wearing a kippah sleeping in his bed under a blanket, moon and stars seen through the window, only the one boy in this panel, no text (every night)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כל לילה",
+"question": "את ההלל, שהוא שמחה על נס, אומרים…",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a3/p1",
+"en": "a boy wearing a kippah waking up in his bed and stretching, morning sunlight through the window, only the one boy in this panel, no text (every morning)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כל בוקר",
+"question": "את ההלל, שהוא שמחה על נס, אומרים…",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a3/p2",
+"en": "a Hanukkah menorah with all candles lit on a windowsill at evening, no people, no text (special days)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ימים מיוחדים",
+"question": "את ההלל, שהוא שמחה על נס, אומרים…",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a4/p0",
+"en": "a boy wearing a kippah raising a golden trophy high with a big smile, only the one boy in this panel, no text (a big victory)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ניצחון",
+"question": "על מה משבחים בפסוקי דזמרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a4/p1",
+"en": "a happy boy wearing a kippah at a breakfast table with bread, fruit and a glass of water, a sunny window behind him, his hands open in thanks, no text (everyday good)",
+"topic": "🙏 פרקי התפלה",
+"caption": "טוב של כל יום",
+"question": "על מה משבחים בפסוקי דזמרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a4/p2",
+"en": "a boy wearing a kippah opening a wrapped gift box with a ribbon, surprised and smiling, only the one boy in this panel, no text (new gifts)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מתנות",
+"question": "על מה משבחים בפסוקי דזמרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a5/p0",
+"en": "a group of boys wearing kippot singing joyfully with their arms raised in the air, outdoors on a sunny day, no text (praise God)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שבחו",
+"question": "מה פרוש המלה ׳הללויה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a5/p1",
+"en": "two boys wearing kippot shaking hands and smiling in greeting, no text (peace be upon you)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שלום",
+"question": "מה פרוש המלה ׳הללויה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a5/p2",
+"en": "a boy wearing a kippah waving hello at a window while the morning sun rises, only the one boy in this panel, no text (good morning)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בוקר טוב",
+"question": "מה פרוש המלה ׳הללויה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a6/p0",
+"en": "a boy wearing a kippah yawning and slumping at a table, looking lazy and tired, only the one boy in this panel, no text (lazily)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עצלות",
+"question": "׳עבדו את ה׳…׳ – איך?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a6/p1",
+"en": "a boy wearing a kippah with crossed arms and an angry frown, only the one boy in this panel, no text (angrily)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כעס",
+"question": "׳עבדו את ה׳…׳ – איך?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a6/p2",
+"en": "a boy wearing a kippah smiling widely and happily holding a closed prayer book with a blank cover, only the one boy in this panel, no text (joyfully)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שמחה",
+"question": "׳עבדו את ה׳…׳ – איך?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a7/p0",
+"en": "a boy wearing a kippah standing very still with a finger on his lips, in a quiet room, only the one boy in this panel, no text (in silence)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בשתיקה",
+"question": "׳באו לפניו…׳ – איך באים לפני ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a7/p1",
+"en": "a few boys wearing kippot singing together in a synagogue with a Star of David on the wall, smiling, no letters, no text (singing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בשירה",
+"question": "׳באו לפניו…׳ – איך באים לפני ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a7/p2",
+"en": "a boy wearing a kippah running very fast along a path, no text (running)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בריצה",
+"question": "׳באו לפניו…׳ – איך באים לפני ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a8/p0",
+"en": "a shepherd man wearing a kippah with a wooden staff carefully giving water to his sheep on a green hill, only the one man in this panel, no text (caring and feeding)",
+"topic": "🙏 פרקי התפלה",
+"caption": "משגיח ומפרנס",
+"question": "מה ה׳ עושה לצאן שלו?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a8/p1",
+"en": "a shepherd man wearing a kippah looking away at the horizon while his sheep wander in different directions, only the one man in this panel, no text (forgetting)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שוכח",
+"question": "מה ה׳ עושה לצאן שלו?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a8/p2",
+"en": "a shepherd man wearing a kippah walking away over a hill with his back turned, a few sheep standing alone, only the one man in this panel, no text (running away)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בורח",
+"question": "מה ה׳ עושה לצאן שלו?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a9/p0",
+"en": "a boy wearing a kippah standing at a big wooden gate offering a handful of coins, the gate closed, only the one boy in this panel, no text (money)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כסף",
+"question": "מהו ׳המפתח׳ לשערי ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a9/p1",
+"en": "a boy wearing a kippah running quickly toward a big wooden gate, only the one boy in this panel, no text (speed)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מהירות",
+"question": "מהו ׳המפתח׳ לשערי ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a9/p2",
+"en": "a boy wearing a kippah standing at a big wooden gate that is opening, his hand on his heart and a thankful smile, only the one boy in this panel, no text (thanks)",
+"topic": "🙏 פרקי התפלה",
+"caption": "תודה",
+"question": "מהו ׳המפתח׳ לשערי ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a10/p0",
+"en": "a quiet field at sunset with the sun touching the horizon, no people, no text (until evening)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עד הערב",
+"question": "׳כי טוב ה׳, לעולם חסדו׳ – עד מתי?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a10/p1",
+"en": "a long winding road stretching far to the horizon under a bright sun and white clouds, no people, no text (forever)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לעד",
+"question": "׳כי טוב ה׳, לעולם חסדו׳ – עד מתי?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/a10/p2",
+"en": "a single flower in a small pot on a windowsill in the sunlight, no people, no text (one day)",
+"topic": "🙏 פרקי התפלה",
+"caption": "יום אחד",
+"question": "׳כי טוב ה׳, לעולם חסדו׳ – עד מתי?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/b1",
+"en": "a boy wearing a kippah sitting at a table on an ordinary morning, a window with blue sky behind him, looking thoughtfully at a closed book with a blank cover, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה אומרים פסוקי דזמרה כל יום, אבל את ההלל רק בימים מיחדים?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/b2",
+"en": "a boy wearing a kippah crouching in a garden and looking closely at a flower and a small ant through a magnifying glass, amazed, only the one boy in this panel, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי המלב״ים, מה קורה כשדור אחר דור משבח את מעשי ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/b3",
+"en": "a boy wearing a kippah standing in a synagogue with a closed prayer book with a blank cover held against his chest, looking up with a calm smile, a Star of David on the wall, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "איזו מלה חוזרת ב׳ברוך שאמר׳ בכמה צורות, ועל מה היא מרמזת?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/b4",
+"en": "a boy wearing a kippah walking on a quiet street in the morning, looking up with a happy smile at trees and birds, only the one boy in this panel, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי הבאור, מי מצליח לשבח את ה׳ גם ביום רגיל, בלי נס?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/b5",
+"en": "a boy wearing a kippah eating breakfast with bread and fruit at a sunny kitchen table, smiling thankfully, only the one boy in this panel, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "היום היה בקר רגיל ולא קרה שום דבר מיחד. על מה מודים במזמור לתודה?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/b6",
+"en": "a sunrise over green hills with a long road leading to the horizon, a small group of boys wearing kippot walking along it, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "חז״ל אמרו שכל השירות יתבטלו חוץ ממזמור לתודה. מדוע?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/b7",
+"en": "a man wearing a kippah sitting on a rock on a beach with a small thorn in his foot, watching a distant ship sail away on the sea, calm sunny sky, only the one man in this panel, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "קוץ נכנס לאיש ברגל והוא לא עלה לספינה, והיא טבעה. מה לומדים מ׳דעו כי ה׳ הוא אלהים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-03/b8",
+"en": "a boy wearing a kippah sitting quietly in a synagogue with his chin on his hand, a small smile slowly appearing, a Star of David on the wall, sunlight from the windows, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "הלכת לבית הכנסת, ואין לך חשק לשיר או להתפלל טוב. מה כדאי לחשב לפי ׳באו לפניו ברננה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a1/p0",
+"en": "a boy wearing a kippah singing joyfully with his face up to the sun and white clouds, mouth open in song, only the one boy in this panel, no text (singing praise)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שירה",
+"question": "מה פרוש המלה ׳הללויה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a1/p1",
+"en": "a boy wearing a kippah standing quietly with his eyes closed and his hands together in front of him, only the one boy in this panel, no text (asking quietly)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בקשה",
+"question": "מה פרוש המלה ׳הללויה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a1/p2",
+"en": "a boy wearing a kippah dancing happily in a sunny field, arms spread wide, only the one boy in this panel, no text (dancing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ריקוד",
+"question": "מה פרוש המלה ׳הללויה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a2/p0",
+"en": "green mountains and a calm blue sea under a sunny sky with white clouds, no people, no text (the whole creation)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הבריאה",
+"question": "דני מצא את המשקפים שאבדו לו ואמר ׳תודה, ה׳׳. על איזו השגחה הוא מודה?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a2/p1",
+"en": "a big group of men and boys all wearing kippot dancing together in a circle outdoors, no women, no text (the Jewish people)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עם ישראל",
+"question": "דני מצא את המשקפים שאבדו לו ואמר ׳תודה, ה׳׳. על איזו השגחה הוא מודה?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a2/p2",
+"en": "a happy boy wearing a kippah holding a pair of round eyeglasses in his hand and smiling, only the one boy in this panel, no text (him personally)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מצא משקפיים",
+"question": "דני מצא את המשקפים שאבדו לו ואמר ׳תודה, ה׳׳. על איזו השגחה הוא מודה?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a3/p0",
+"en": "a rich man in fine clothes and a kippah holding a bag of coins, only the one man in this panel, no text (the rich man)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הנדיב",
+"question": "נדיב עשיר הבטיח לעזר למשפחה. על מי המזמור אומר לסמך באמת?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a3/p1",
+"en": "a boy wearing a kippah standing outside looking up toward the sun and white clouds with his hand on his heart and a trusting smile, only the one boy in this panel, no text (trusting in Hashem)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בוטח בה׳",
+"question": "נדיב עשיר הבטיח לעזר למשפחה. על מי המזמור אומר לסמך באמת?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a3/p2",
+"en": "a big pile of shiny gold coins on a wooden table, no people, no text (the money)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הכסף",
+"question": "נדיב עשיר הבטיח לעזר למשפחה. על מי המזמור אומר לסמך באמת?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a4/p0",
+"en": "a group of friendly boys all wearing kippot laughing together, no text (his friends)",
+"topic": "🙏 פרקי התפלה",
+"caption": "חברים",
+"question": "מה פרוש המלה ׳עשתנתיו׳ בפסוק?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a4/p1",
+"en": "a nice stone house with a red roof and a garden, no people, no text (his houses)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בתים",
+"question": "מה פרוש המלה ׳עשתנתיו׳ בפסוק?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a4/p2",
+"en": "a boy wearing a kippah at a table drawing a plan of a house on a blank sheet of paper with a pencil, thinking, only the one boy in this panel, no letters, no text (his plans)",
+"topic": "🙏 פרקי התפלה",
+"caption": "תוכניות",
+"question": "מה פרוש המלה ׳עשתנתיו׳ בפסוק?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a5/p0",
+"en": "an ancient traveler wearing a kippah and simple robes walking alone with a wooden staff on a dusty path toward distant hills at sunset, only the one man in this panel, no text (Yaakov)",
+"topic": "🙏 פרקי התפלה",
+"caption": "יעקב",
+"question": "מי הלך ללבן בלי כלום ובטח בה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a5/p1",
+"en": "a strong ancient hunter wearing a kippah holding a bow in a field, only the one man in this panel, no text (Esav)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עשו",
+"question": "מי הלך ללבן בלי כלום ובטח בה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a5/p2",
+"en": "an ancient shepherd wearing a kippah standing among a flock of sheep, only the one man in this panel, no text (Lavan)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לבן",
+"question": "מי הלך ללבן בלי כלום ובטח בה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a6/p0",
+"en": "a wide dry brown desert land with rocks and bushes filling the whole panel, a pale sandy sky low at the horizon, no sea, no people, no text (only the land)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק יבשה",
+"question": "מה עשה ה׳ לפי המזמור?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a6/p1",
+"en": "a beautiful landscape with a blue sky, sun and white clouds above, green hills, and a blue sea, no people, no text (sky, land and sea)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שמים, ארץ וים",
+"question": "מה עשה ה׳ לפי המזמור?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a6/p2",
+"en": "the open blue sea with waves filling the whole panel up to a thin light-blue horizon line, no land, no people, no text (only the sea)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק ים",
+"question": "מה עשה ה׳ לפי המזמור?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a7/p0",
+"en": "a boy wearing a kippah standing tall and smiling with his shoulders straight under a sunny sky with white clouds, only the one boy in this panel, no text (straightened up)",
+"topic": "🙏 פרקי התפלה",
+"caption": "זוקף",
+"question": "׳ה׳ זוקף כפופים׳. ילד שפוף ועצוב מקשי – מה ה׳ עושה לו?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a7/p1",
+"en": "a boy wearing a kippah sitting alone on a bench in an empty park, looking down, only the one boy in this panel, no text (left alone)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לבד",
+"question": "׳ה׳ זוקף כפופים׳. ילד שפוף ועצוב מקשי – מה ה׳ עושה לו?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a7/p2",
+"en": "a boy wearing a kippah seen from behind walking away down a long empty road, only the one boy in this panel, no text (abandoned)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עוזב",
+"question": "׳ה׳ זוקף כפופים׳. ילד שפוף ועצוב מקשי – מה ה׳ עושה לו?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a8/p0",
+"en": "a boy wearing a kippah sleeping in a bed with a blanket, only the one boy in this panel, no text (go to sleep)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שינה",
+"question": "לפעמים ה׳ ממתין עד שאדם רעב לפני שנותן לו לחם. למה?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a8/p1",
+"en": "a boy wearing a kippah sitting at a table with an empty plate, eyes closed and hands together, praying quietly, only the one boy in this panel, no text (pray well)",
+"topic": "🙏 פרקי התפלה",
+"caption": "תפילה",
+"question": "לפעמים ה׳ ממתין עד שאדם רעב לפני שנותן לו לחם. למה?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a8/p2",
+"en": "a boy wearing a kippah standing at a kitchen stove stirring a pot, only the one boy in this panel, no text (learn to cook)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בישול",
+"question": "לפעמים ה׳ ממתין עד שאדם רעב לפני שנותן לו לחם. למה?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a9/p0",
+"en": "green mountains and hills with fruit trees full of fruit and tall cedar trees, no people, no text (mountains and fruit trees)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הרים ועצים",
+"question": "מי עוד מהלל את ה׳ במזמור ׳הללו את ה׳ מן השמים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a9/p1",
+"en": "a group of men and boys all wearing kippot singing together outdoors, no women, no text (only people)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בני אדם",
+"question": "מי עוד מהלל את ה׳ במזמור ׳הללו את ה׳ מן השמים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a9/p2",
+"en": "a big bright blue sky filling the whole panel, with a shining sun and several fluffy white clouds, no land, no people, no text (only the sky)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שמיים",
+"question": "מי עוד מהלל את ה׳ במזמור ׳הללו את ה׳ מן השמים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a10/p0",
+"en": "a boy wearing a kippah blowing a shofar outdoors on a sunny day, only the one boy in this panel, no text (shofar)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שופר",
+"question": "באיזה כלי מהללים את ה׳ במזמור האחרון?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a10/p1",
+"en": "an electric guitar leaning on an amplifier, no people, no text (electric guitar)",
+"topic": "🙏 פרקי התפלה",
+"caption": "גיטרה",
+"question": "באיזה כלי מהללים את ה׳ במזמור האחרון?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/a10/p2",
+"en": "a grand piano in an empty room, no people, no text (grand piano)",
+"topic": "🙏 פרקי התפלה",
+"caption": "פסנתר",
+"question": "באיזה כלי מהללים את ה׳ במזמור האחרון?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/b1",
+"en": "a boy wearing a kippah carrying a very heavy box up a staircase while another boy wearing a kippah helps him from below, a bright sunny day, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה ההבדל בין ׳תשועה׳ ל׳עזרה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/b2",
+"en": "a calm sea, green mountains and a sky with sun and white clouds seen from a high hill, a boy wearing a kippah standing on the hill looking out, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה כדאי לבטח בה׳ ולא רק בנדיבים?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/b3",
+"en": "an ancient traveler wearing a kippah and simple robes sitting calmly by a small campfire on a hill at night, a walking staff beside him, dark starry sky with a moon, no beams of light, no rays from the sky, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "הפסוק אומר ׳אשרי שאל יעקב בעזרו׳. מה מתרץ החיד״א?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/b4",
+"en": "a boy wearing a kippah sitting at a desk with open notebooks with blank pages, a friendly boy wearing a kippah sitting beside him pointing at a page, soft evening lamp light, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מחר אני חושש ממבחן, וחבר מצלח הבטיח לעזר לי. מה כדאי לחשב?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/b5",
+"en": "a boy wearing a kippah sitting at a set table with bread on a plate, his eyes closed and his hands together before eating, warm light from a window, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה לפעמים ה׳ ממתין עד שאדם רעב, ורק אחר כך נותן לו לחם?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/b6",
+"en": "a boy wearing a kippah looking at a bicycle with a flat tire in a sunny yard, a calm smile on his face and a hand on his heart, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "תכננתי יום משלם, והכל השתבש. מה כדאי לחשב לפי ׳אבדו עשתנתיו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/b7",
+"en": "a flock of small birds eating seeds on the ground in a sunny yard while a boy wearing a kippah watches them from the doorway of his house, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "המזמור אומר שה׳ ׳נותן לבהמה לחמה׳. למה אינו מכין לנו אכל ליד הדלת?",
+"section": ""
+},
+{
+"id": "hq/siddur-04/b8",
+"en": "a boy wearing a kippah on a hill at dawn watching the sun rise over the mountains, the pale moon still visible in the sky, clouds, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה אומר הפסוק ׳חק נתן ולא יעבור׳ על השמש והירח?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a1/p0",
+"en": "a bright orange campfire with flames burning on a pile of logs, no people, no text (fire)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אש",
+"question": "בתורה כתוב שה׳ ׳ויפח באפיו נשמת חיים׳. מה נפח ה׳ באדם?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a1/p1",
+"en": "a boy wearing a kippah standing in a green field at sunrise taking a deep breath of fresh air with his eyes closed and his hand on his chest, only the one boy in this panel, no text (a soul)",
+"topic": "🙏 פרקי התפלה",
+"caption": "נשמה",
+"question": "בתורה כתוב שה׳ ׳ויפח באפיו נשמת חיים׳. מה נפח ה׳ באדם?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a1/p2",
+"en": "a heap of brown dust on the ground in a sunny field, no people, no text (dust)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עפר",
+"question": "בתורה כתוב שה׳ ׳ויפח באפיו נשמת חיים׳. מה נפח ה׳ באדם?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a2/p0",
+"en": "a lion standing proudly on a rock in the sun, no people, no text (lion)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אריה",
+"question": "מי נקרא ׳כל חי׳, כי כלולה בו כל החיות?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a2/p1",
+"en": "a smiling boy wearing a kippah standing with open arms in a sunny garden, only the one boy in this panel, no text (a person)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אדם",
+"question": "מי נקרא ׳כל חי׳, כי כלולה בו כל החיות?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a2/p2",
+"en": "a big green tree with a thick trunk in a sunny field, no people, no text (tree)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עץ",
+"question": "מי נקרא ׳כל חי׳, כי כלולה בו כל החיות?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a3/p0",
+"en": "a boy wearing a kippah laughing happily and jumping in a sunny park, only the one boy in this panel, no text (joy)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שמחה",
+"question": "כשהדאגה נכנסת אל הלב, הגר״א קורא לזה…",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a3/p1",
+"en": "a bicycle with a flat tire lying on a path and a boy wearing a kippah standing next to it looking at it, no text (trouble outside)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בעיה מבחוץ",
+"question": "כשהדאגה נכנסת אל הלב, הגר״א קורא לזה…",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a3/p2",
+"en": "a worried boy wearing a kippah sitting alone with his hand pressed on his heart and a troubled face, only the one boy in this panel, no text (worry in the heart)",
+"topic": "🙏 פרקי התפלה",
+"caption": "דאגה בלב",
+"question": "כשהדאגה נכנסת אל הלב, הגר״א קורא לזה…",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a4/p0",
+"en": "a wooden table full of bread, fruit, a jug of water and a folded warm blanket, a sunny window, no people, no text (everything needed)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כל מה שצריך",
+"question": "׳ומפרנס׳ – מה ה׳ נותן לנו?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a4/p1",
+"en": "a big pile of colorful candies and lollipops on a table, no people, no text (only sweets)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק ממתקים",
+"question": "׳ומפרנס׳ – מה ה׳ נותן לנו?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a4/p2",
+"en": "a completely empty wooden table in a bare room, no people, no text (nothing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שום דבר",
+"question": "׳ומפרנס׳ – מה ה׳ נותן לנו?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a5/p0",
+"en": "a night watchman wearing a kippah holding a lantern and standing awake on a hill, watching over a quiet sleeping town under many stars, only the one man in this panel, no text (always watching)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שומר בלילה",
+"question": "׳וה׳ ער לא ינום ולא יישן׳. מה זה אומר?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a5/p1",
+"en": "a cozy bed with a blanket and a pillow next to a dark window with a crescent moon, no people, no text (sleeping at night)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ישן",
+"question": "׳וה׳ ער לא ינום ולא יישן׳. מה זה אומר?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a5/p2",
+"en": "a sunny day over a small town, with a tall empty lookout tower, no people, no text (only by day)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק ביום",
+"question": "׳וה׳ ער לא ינום ולא יישן׳. מה זה אומר?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a6/p0",
+"en": "a boy wearing a kippah dancing happily with his arms raised in a living room, only the one boy in this panel, no text (dancing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לרקוד",
+"question": "׳והמשיח אלמים׳. מה נותן ה׳ לתינוק שמתחיל לדבר?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a6/p1",
+"en": "a boy wearing a kippah with a finger pressed on his closed lips, being quiet, only the one boy in this panel, no text (silence)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שתיקה",
+"question": "׳והמשיח אלמים׳. מה נותן ה׳ לתינוק שמתחיל לדבר?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a6/p2",
+"en": "a toddler boy wearing a small kippah smiling and speaking his first words to his bearded father who listens with joy, no text (speaking)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לדבר",
+"question": "׳והמשיח אלמים׳. מה נותן ה׳ לתינוק שמתחיל לדבר?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a7/p0",
+"en": "a wide blue sea with big rolling waves under the sun and white clouds, no people, no text (the sea)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הים",
+"question": "׳אלו פינו מלא שירה כ…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a7/p1",
+"en": "a tiny narrow stream trickling between small stones in a meadow, no people, no text (a small stream)",
+"topic": "🙏 פרקי התפלה",
+"caption": "נחל קטן",
+"question": "׳אלו פינו מלא שירה כ…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a7/p2",
+"en": "a single glass of water standing on a wooden table, no people, no text (a glass of water)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כוס מים",
+"question": "׳אלו פינו מלא שירה כ…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a8/p0",
+"en": "a slow green turtle walking on the grass, no people, no text (turtles)",
+"topic": "🙏 פרקי התפלה",
+"caption": "צב",
+"question": "׳ורגלינו קלות כ…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a8/p1",
+"en": "a graceful deer leaping through a sunny green meadow, no people, no text (deer)",
+"topic": "🙏 פרקי התפלה",
+"caption": "איילות",
+"question": "׳ורגלינו קלות כ…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a8/p2",
+"en": "a heavy brown bear walking on all fours in a forest, no people, no text (bears)",
+"topic": "🙏 פרקי התפלה",
+"caption": "דוב",
+"question": "׳ורגלינו קלות כ…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a9/p0",
+"en": "a boy wearing a kippah standing with his hands behind his back, only his mouth open in singing, his body still, only the one boy in this panel, no text (only the mouth)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק הפה",
+"question": "כיצד מודים לה׳ ׳בכל האברים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a9/p1",
+"en": "a joyful boy wearing a kippah singing with open mouth, raised arms and one foot lifted in a happy step, whole body joyful, only the one boy in this panel, no text (the whole body)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כל הגוף",
+"question": "כיצד מודים לה׳ ׳בכל האברים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a9/p2",
+"en": "a boy wearing a kippah with his mouth closed and only his two hands raised up, only the one boy in this panel, no text (only the hands)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק הידיים",
+"question": "כיצד מודים לה׳ ׳בכל האברים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a10/p0",
+"en": "a boy wearing a kippah sleeping peacefully in bed under a blanket, only the one boy in this panel, no text (to sleep)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לישון",
+"question": "לפי הרמב״ן, למה ברא ה׳ את העולם?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a10/p1",
+"en": "a strong boy wearing a kippah lifting a heavy dumbbell proudly, only the one boy in this panel, no text (to be strong)",
+"topic": "🙏 פרקי התפלה",
+"caption": "להיות חזקים",
+"question": "לפי הרמב״ן, למה ברא ה׳ את העולם?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/a10/p2",
+"en": "a boy wearing a kippah with open hands and a grateful smile looking at a sunrise over green hills and a river, only the one boy in this panel, no text (to give thanks)",
+"topic": "🙏 פרקי התפלה",
+"caption": "להודות",
+"question": "לפי הרמב״ן, למה ברא ה׳ את העולם?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/b1",
+"en": "a boy wearing a kippah waking up in his bed in the morning, stretching with a smile as sunlight enters the window, a closed prayer book with a blank cover on the shelf, no text, no letters",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי הרקח, למה תקנו אנשי כנסת הגדולה לומר ׳נשמת׳ אחרי השנה?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/b2",
+"en": "a group of boys wearing kippot standing together in a bright synagogue singing joyfully from closed books with blank covers, a Star of David on the wall, no text, no letters",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "הגמרא בפסחים קוראת ל׳נשמת׳ ׳ברכת השיר׳. מה פרוש השם?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/b3",
+"en": "a night sky over a small quiet town with lit windows, a lit lantern on a hilltop watchtower and bright stars, no people, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה אומר ה׳בני יששכר׳ על ׳לא ינום ולא יישן׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/b4",
+"en": "an ancient king wearing a crown asleep on a throne in a stone hall while a servant wearing simple robes stands awake beside him holding a lamp, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "איזה הבדל יש, לפי המדרש, בין מלך בשר ודם לבין ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/b5",
+"en": "two boys wearing kippot sitting together at a desk in a school study room, one explaining an open notebook with blank pages to the other who smiles gratefully, no text, no letters",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "חבר עזר לך להבין שעור קשה. מה עושה מי שמקים ׳ולך לבדך אנחנו מודים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/b6",
+"en": "a boy wearing a kippah standing at a crossroads in a green field at sunrise, looking back toward a path that leads to a small synagogue with a Star of David, a hopeful smile, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "אתה מרגיש שהתרחקת ממצוה ורוצה לחזר אליה. מה פרוש הרצון הזה?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/b7",
+"en": "an old bearded man wearing a kippah and his grandson wearing a kippah sitting at a Shabbat table with bread, a sunny window behind them, the grandfather telling a story with gentle hand movements, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה מספרים ב׳נשמת׳ על הגאלה ממצרים ועל הפרנסה ברעב?",
+"section": ""
+},
+{
+"id": "hq/siddur-05/b8",
+"en": "a boy wearing a kippah in a schoolyard calmly walking away with a peaceful face while another boy wearing a kippah stands behind him with an angry face, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "חבר קרא לך בשמות, ואתה רוצה להיות ׳חסיד׳ לפי הרקח. מה תעשה?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a1/p0",
+"en": "close-up of a boy wearing a kippah opening his eyes wide in wonder, no text (eyes)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עיניים",
+"question": "בתחלת שמונה עשרה אומרים ׳אדני שפתי תפתח׳. מה מבקשים שה׳ יפתח?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a1/p1",
+"en": "close-up of a boy wearing a kippah with a calm smile about to speak, his lips slightly open, no text (lips)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שפתיים",
+"question": "בתחלת שמונה עשרה אומרים ׳אדני שפתי תפתח׳. מה מבקשים שה׳ יפתח?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a1/p2",
+"en": "a boy wearing a kippah holding both open hands forward with palms up, no text (hands)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ידיים",
+"question": "בתחלת שמונה עשרה אומרים ׳אדני שפתי תפתח׳. מה מבקשים שה׳ יפתח?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a2/p0",
+"en": "a boy wearing a kippah jumping high in the air in a room, no text (jumping)",
+"topic": "🙏 פרקי התפלה",
+"caption": "קופצים",
+"question": "מה עושים כשאומרים את המלה ׳ברוך׳ בברכה הראשונה?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a2/p1",
+"en": "a boy wearing a kippah sitting on a chair with his hands on his knees, no text (sitting)",
+"topic": "🙏 פרקי התפלה",
+"caption": "יושבים",
+"question": "מה עושים כשאומרים את המלה ׳ברוך׳ בברכה הראשונה?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a2/p2",
+"en": "a boy wearing a kippah standing in a synagogue bent over at the waist in prayer, hands at his sides, only the one boy in this panel, no text (bowing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כורעים",
+"question": "מה עושים כשאומרים את המלה ׳ברוך׳ בברכה הראשונה?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a3/p0",
+"en": "a wooden broom leaning against a wall, no people, no text (broom)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מטאטא",
+"question": "בסוף הברכה הראשונה אומרים ׳מגן אברהם׳. איזה חפץ הוא ׳מגן׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a3/p1",
+"en": "a round wooden shield with a metal rim lying on a wooden table, no people, no text (shield)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מגן",
+"question": "בסוף הברכה הראשונה אומרים ׳מגן אברהם׳. איזה חפץ הוא ׳מגן׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a3/p2",
+"en": "a tall wooden ladder leaning against a stone wall, no people, no text (ladder)",
+"topic": "🙏 פרקי התפלה",
+"caption": "סולם",
+"question": "בסוף הברכה הראשונה אומרים ׳מגן אברהם׳. איזה חפץ הוא ׳מגן׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a4/p0",
+"en": "a happy boy wearing a kippah with a huge smile and open arms, standing in a sunny synagogue, only the one boy in this panel, no text (joy)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שמחה",
+"question": "מי שחושב על גדלת ה׳, ועל כך שהוא בחר בנו, מרגיש…",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a4/p1",
+"en": "a scared boy wearing a kippah hiding behind a door, no text (fear)",
+"topic": "🙏 פרקי התפלה",
+"caption": "פחד",
+"question": "מי שחושב על גדלת ה׳, ועל כך שהוא בחר בנו, מרגיש…",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a4/p2",
+"en": "a bored boy wearing a kippah resting his chin on his hand and staring at a wall, no text (boredom)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שעמום",
+"question": "מי שחושב על גדלת ה׳, ועל כך שהוא בחר בנו, מרגיש…",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a5/p0",
+"en": "a boy wearing a kippah hugging a pile of toys close to his chest, turning away from others, only the one boy in this panel, no text (only himself)",
+"topic": "🙏 פרקי התפלה",
+"caption": "חושב רק על עצמו",
+"question": "מה עושה מי שהולך בדרך אברהם אבינו?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a5/p1",
+"en": "an angry boy wearing a kippah with clenched fists and a frown, only the one boy in this panel, no text (angry)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כועס על כולם",
+"question": "מה עושה מי שהולך בדרך אברהם אבינו?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a5/p2",
+"en": "a boy wearing a kippah helping an elderly bearded man wearing a kippah carry a heavy bag along a path, smiling, no text (helping)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עוזר לאחרים",
+"question": "מה עושה מי שהולך בדרך אברהם אבינו?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a6/p0",
+"en": "drops of morning dew on a green leaf, no people, no text (dew)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הטל",
+"question": "בחרף אומרים בברכה השניה: ׳משיב הרוח ומוריד…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a6/p1",
+"en": "heavy rain falling on a green field with dark clouds, no people, no text (rain)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הגשם",
+"question": "בחרף אומרים בברכה השניה: ׳משיב הרוח ומוריד…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a6/p2",
+"en": "a snowy field with snow-covered trees, no people, no text (snow)",
+"topic": "🙏 פרקי התפלה",
+"caption": "השלג",
+"question": "בחרף אומרים בברכה השניה: ׳משיב הרוח ומוריד…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a7/p0",
+"en": "a boy wearing a kippah helping another boy wearing a kippah get up from the ground on a path, holding his hand, smiling, no text (helping up)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עוזר לנופל לקום",
+"question": "ב׳גבורות׳ אומרים ׳סומך נופלים׳. מה עושה ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a7/p1",
+"en": "a boy wearing a kippah pushing another boy wearing a kippah who is standing, no text (pushing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "דוחף את מי שעומד",
+"question": "ב׳גבורות׳ אומרים ׳סומך נופלים׳. מה עושה ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a7/p2",
+"en": "a boy wearing a kippah walking away from a fallen boy wearing a kippah who sits on the ground, no text (leaving)",
+"topic": "🙏 פרקי התפלה",
+"caption": "משאיר את הנופל",
+"question": "ב׳גבורות׳ אומרים ׳סומך נופלים׳. מה עושה ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a8/p0",
+"en": "a very tall snowy mountain under a blue sky, no people, no text (very big)",
+"topic": "🙏 פרקי התפלה",
+"caption": "גדול מאוד",
+"question": "׳קדוש׳ פרושו…",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a8/p1",
+"en": "one single golden goblet alone on a velvet cushion in the middle of an empty bright room, no people, no text (set apart)",
+"topic": "🙏 פרקי התפלה",
+"caption": "נבדל ומיוחד",
+"question": "׳קדוש׳ פרושו…",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a8/p2",
+"en": "a strong bearded man wearing a kippah lifting a heavy stone, only the one man in this panel, no text (very strong)",
+"topic": "🙏 פרקי התפלה",
+"caption": "חזק מאוד",
+"question": "׳קדוש׳ פרושו…",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a9/p0",
+"en": "a boy wearing a kippah standing quietly in a synagogue with closed eyes and feet together, only the one boy in this panel, no text (standing and focusing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עומדים ומתכוונים",
+"question": "לפני שאומרים ׳קדוש׳, איך מתכוננים?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a9/p1",
+"en": "a boy wearing a kippah running in a synagogue yard while talking, no text (running and talking)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רצים ומדברים",
+"question": "לפני שאומרים ׳קדוש׳, איך מתכוננים?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a9/p2",
+"en": "a boy wearing a kippah eating a sandwich and drinking from a cup at a table, no text (eating)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אוכלים ושותים",
+"question": "לפני שאומרים ׳קדוש׳, איך מתכוננים?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a10/p0",
+"en": "a boy wearing a kippah shouting angrily with his mouth wide open, only the one boy in this panel, no text (shouting)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בצעקות",
+"question": "השפתים שנפתחו לתפלה – במה כדאי להשתמש בהן גם אחר כך?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a10/p1",
+"en": "two boys wearing kippot whispering secretly about a third boy who stands far away, sly looks, no text (gossip)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בלשון הרע",
+"question": "השפתים שנפתחו לתפלה – במה כדאי להשתמש בהן גם אחר כך?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/a10/p2",
+"en": "two boys wearing kippot talking kindly and smiling together on a bench, no text (kind words)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בדיבורים טובים",
+"question": "השפתים שנפתחו לתפלה – במה כדאי להשתמש בהן גם אחר כך?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/b1",
+"en": "a boy wearing a kippah standing quietly in a synagogue with a closed prayer book in his hands, eyes closed, calm face, warm light from the windows, a Star of David on the wall, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי יערות דבש, מה רצוי יותר לפני ה׳ בשמונה עשרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/b2",
+"en": "a boy wearing a kippah on a school playground at the end of recess, standing alone with his hand on his chin, thinking quietly, other boys wearing kippot playing far behind, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "בהפסקה דברת הרבה דברים בטלים. מה כדאי לחשב לפני ׳אדני שפתי תפתח׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/b3",
+"en": "a bearded man wearing a kippah and a tallit bending forward at the waist in prayer in a quiet synagogue, a Star of David on the wall, only the one man in this scene, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה כורעים ב׳ברוך׳ וזוקפים בשם ה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/b4",
+"en": "a happy boy wearing a kippah in a sunny synagogue, arms slightly open and a big smile, a Star of David on the wall, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה גורם לשמחה בתחלת שמונה עשרה?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/b5",
+"en": "a kind boy wearing a kippah handing a cup of water to a tired bearded traveler wearing a kippah, in a sunny garden with a tent in the background, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי יערות דבש, מה צריך לעשות מי שאומר ׳מגן אברהם׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/b6",
+"en": "two boys wearing kippot shaking hands and smiling at a school desk, one of them holding a pencil case he just returned, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "חבר שפגע בך אתמול עזר לך היום. מה לומדים ממדות ה׳ ב׳זוכר חסדי אבות׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/b7",
+"en": "a boy wearing a kippah standing in a green garden at sunrise, morning dew sparkling on the leaves, smiling and looking up at the sun and white clouds, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי יערות דבש, מה הקשר בין תשובה ל׳מחיה מתים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-06/b8",
+"en": "a boy wearing a kippah at a simple table eating a plain slice of bread and an apple with a calm satisfied smile, a plate of sweets pushed aside, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "הרמב״ן (ביערות דבש): מה פרוש להתקדש בדברים המתרים?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a1/p0",
+"en": "a boy wearing a kippah sitting at a desk with a thoughtful smile, an open book with blank pages in front of him, a small desk lamp, only the one boy in this panel, no text (understanding)",
+"topic": "🙏 פרקי התפלה",
+"caption": "דעה ובינה",
+"question": "מהי הבקשה הראשונה בברכת ׳אתה חונן׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a1/p1",
+"en": "a heap of shiny gold and silver coins on a wooden table, no people, no text (money and gold)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כסף וזהב",
+"question": "מהי הבקשה הראשונה בברכת ׳אתה חונן׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a1/p2",
+"en": "an old man with a white beard and a kippah smiling in a garden chair holding a cane, only the one man in this panel, no text (long life)",
+"topic": "🙏 פרקי התפלה",
+"caption": "חיים ארוכים",
+"question": "מהי הבקשה הראשונה בברכת ׳אתה חונן׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a2/p0",
+"en": "a boy wearing a kippah resting in bed with a blanket and a thermometer, a glass of water on the table, only the one boy in this panel, no text (healing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רפואה",
+"question": "בברכת ׳השיבנו׳ מבקשים מה׳ עזרה ב…",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a2/p1",
+"en": "a wooden basket full of bread rolls and fruit on a kitchen table, no people, no text (livelihood)",
+"topic": "🙏 פרקי התפלה",
+"caption": "פרנסה",
+"question": "בברכת ׳השיבנו׳ מבקשים מה׳ עזרה ב…",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a2/p2",
+"en": "a boy wearing a kippah standing at a fork in a path and turning back toward a synagogue with a Star of David on its wall, sunshine and white clouds, only the one boy in this panel, no text (returning)",
+"topic": "🙏 פרקי התפלה",
+"caption": "תשובה",
+"question": "בברכת ׳השיבנו׳ מבקשים מה׳ עזרה ב…",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a3/p0",
+"en": "a boy wearing a kippah running quickly past with a blurred motion, looking straight ahead, only the one boy in this panel, no text (skipping quickly)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מדלגים מהר",
+"question": "בברכת ׳סלח לנו׳ חושבים על מה שעשינו, ו…",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a3/p1",
+"en": "a boy wearing a kippah sitting quietly with his head lowered and his hand on his heart, a sorry expression, only the one boy in this panel, no text (truly sorry)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מצטערים באמת",
+"question": "בברכת ׳סלח לנו׳ חושבים על מה שעשינו, ו…",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a3/p2",
+"en": "two boys wearing kippot chatting and laughing on a bench in a schoolyard, no text (telling friends)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מספרים לחברים",
+"question": "בברכת ׳סלח לנו׳ חושבים על מה שעשינו, ו…",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a4/p0",
+"en": "a boy wearing a kippah lying alone in bed hugging his blanket, only the one boy in this panel, no text (only myself)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק על עצמנו",
+"question": "על מי מתפללים בברכת ׳רפאנו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a4/p1",
+"en": "a quiet room with several boys wearing kippot resting in separate beds, a male doctor with a stethoscope walking between them, only males, no text (all the sick)",
+"topic": "🙏 פרקי התפלה",
+"caption": "על כל החולים",
+"question": "על מי מתפללים בברכת ׳רפאנו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a4/p2",
+"en": "a father with a beard and a kippah sitting on a sofa next to his sick young son wearing a kippah wrapped in a blanket, no text (only family)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק על המשפחה",
+"question": "על מי מתפללים בברכת ׳רפאנו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a5/p0",
+"en": "a pile of colorful toys: wooden blocks, a ball and a toy train on a rug, no people, no text (new toys)",
+"topic": "🙏 פרקי התפלה",
+"caption": "משחקים חדשים",
+"question": "מה מבקשים בברכת ׳ברך עלינו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a5/p1",
+"en": "a wooden table with a loaf of bread, apples and grapes, no people, no text (bread and livelihood)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לחם ופרנסה",
+"question": "מה מבקשים בברכת ׳ברך עלינו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a5/p2",
+"en": "a neatly folded new coat and a pair of shiny shoes on a chair, no people, no text (new clothes)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בגדים חדשים",
+"question": "מה מבקשים בברכת ׳ברך עלינו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a6/p0",
+"en": "a green field in gentle rain with puddles, no people, no text (rain in its season)",
+"topic": "🙏 פרקי התפלה",
+"caption": "גשם בעתו",
+"question": "מה מבקשים בברכת ׳תקע בשופר גדול׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a6/p1",
+"en": "white shirts and a few kippot folded neatly on a bed, no people, no text (holiday clothes)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בגדי חג",
+"question": "מה מבקשים בברכת ׳תקע בשופר גדול׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a6/p2",
+"en": "many men and boys wearing kippot walking from every direction on roads toward a city on a hill, only males, no text (all the Jews in the land)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כל היהודים בארץ",
+"question": "מה מבקשים בברכת ׳תקע בשופר גדול׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a7/p0",
+"en": "King David and his son King Solomon, two kings in royal robes with simple crowns standing together in a palace garden, no text (David and Solomon)",
+"topic": "🙏 פרקי התפלה",
+"caption": "דוד ושלמה",
+"question": "לפי המדרש, מי הם ׳שופטינו כבראשונה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a7/p1",
+"en": "Moses holding a staff and his brother Aaron in priestly robes standing together at the foot of a desert mountain, no text (Moses and Aaron)",
+"topic": "🙏 פרקי התפלה",
+"caption": "משה ואהרן",
+"question": "לפי המדרש, מי הם ׳שופטינו כבראשונה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a7/p2",
+"en": "Abraham with a long white beard standing beside his son Isaac in the desert near tents, no text (Abraham and Isaac)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אברהם ויצחק",
+"question": "לפי המדרש, מי הם ׳שופטינו כבראשונה׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a8/p0",
+"en": "an ancient tall stepped brick tower rising in a flat desert, no people, no text (Babylon)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בבל",
+"question": "על איזו עיר מצוים להתפלל שתבנה? ׳שאלו שלום…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a8/p1",
+"en": "three great pyramids in the desert under a clear sky, no people, no text (Egypt)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מצרים",
+"question": "על איזו עיר מצוים להתפלל שתבנה? ׳שאלו שלום…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a8/p2",
+"en": "the ancient golden stone walls of Jerusalem with a big gate and olive trees, no domes, no towers, no people, no text (Jerusalem)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ירושלים",
+"question": "על איזו עיר מצוים להתפלל שתבנה? ׳שאלו שלום…׳",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a9/p0",
+"en": "a huge tree standing suddenly in a moonlit field with a night sky, no people, no text (suddenly in one night)",
+"topic": "🙏 פרקי התפלה",
+"caption": "פתאום בלילה",
+"question": "איך תבוא הגאלה, כמו שצמח גדל?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a9/p1",
+"en": "three clay pots in a row on a windowsill with a seedling that grows bigger from the first to the last, sunshine, no people, no text (slowly growing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לאט לאט",
+"question": "איך תבוא הגאלה, כמו שצמח גדל?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a9/p2",
+"en": "a bare brown field of dry soil with nothing growing, no people, no text (nothing changes)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בלי שינוי",
+"question": "איך תבוא הגאלה, כמו שצמח גדל?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a10/p0",
+"en": "a boy wearing a kippah looking for a lost shoe and a pencil case next to his school bag, small everyday things, only the one boy in this panel, no text (any need)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כל צורך",
+"question": "בברכת ׳שמע קולנו׳ אפשר לבקש על…",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a10/p1",
+"en": "a huge mountain and a big ship on a wide sea, no people, no text (only huge things)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק דברים גדולים",
+"question": "בברכת ׳שמע קולנו׳ אפשר לבקש על…",
+"section": ""
+},
+{
+"id": "hq/siddur-07/a10/p2",
+"en": "a bearded man in a suit and a kippah holding a briefcase, only the one man in this panel, no text (only adult matters)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק עניני מבוגרים",
+"question": "בברכת ׳שמע קולנו׳ אפשר לבקש על…",
+"section": ""
+},
+{
+"id": "hq/siddur-07/b1",
+"en": "a boy wearing a kippah in a synagogue sitting thoughtfully at a table with a closed prayer book with a blank cover, warm light from the windows, a Star of David on the wall, only the one boy in this panel, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה בקשת הדעה באה ראשונה בין הבקשות?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/b2",
+"en": "a boy wearing a kippah sitting alone on the steps of a study hall with his head slightly lowered and his hand on his heart, a calm sorry expression, soft evening light, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה לומדת המשנה ברורה על ברכת ׳סלח לנו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/b3",
+"en": "a wide landscape at sunrise with hills and an old walled city in the distance, a group of men and boys wearing kippot standing on a hill looking at it, sun and white clouds only in the sky, only males, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה מבקשים גאלה ב׳ראה בענינו׳ ׳למען שמך׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/b4",
+"en": "a boy wearing a kippah standing next to an empty school desk in a classroom, looking at the empty chair with a caring face and his hand on his heart, only the one boy in this panel, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "חבר בכתה חולה, ואתה לא מכיר אותו טוב. מה עושים ב׳רפאנו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/b5",
+"en": "a wooden table set with bread, fruit and a cup, a boy wearing a kippah sitting before it with his eyes closed and his hands together, a sunny window, only the one boy in this panel, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה מבקשים בברכת ׳ברך עלינו׳ לגבי האכל?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/b6",
+"en": "a lush orchard in Israel at sunrise with trees full of ripe pomegranates and figs, a boy wearing a kippah picking a fruit with a smile, only the one boy in this panel, sun and white clouds only in the sky, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה, לפי הגמרא, באה ׳תקע בשופר׳ אחרי ברכת השנים?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/b7",
+"en": "a prophet with a gray beard pouring oil from an animal horn onto the head of a young king kneeling in ancient robes, an ancient stone courtyard, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה לומדים מכך שדוד ושלמה נמשחו בקרן?",
+"section": ""
+},
+{
+"id": "hq/siddur-07/b8",
+"en": "two boys wearing kippot sitting side by side on a bench in a synagogue yard, each with a closed prayer book with a blank cover, one looking at the other with a warm friendly smile, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "קשה לך לבקש מה׳ על משהו שחסר לך. מה עצה יפה?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a1/p0",
+"en": "a rain cloud pouring rain over green fields, a farmer wearing a kippah looking up happily, only the one man in this panel, no text (rain)",
+"topic": "🙏 פרקי התפלה",
+"caption": "גשם",
+"question": "ב׳רצה׳ אומרים לה׳: ׳ולתפלתם שעה׳. מה מבקשים?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a1/p1",
+"en": "a boy wearing a kippah praying quietly with eyes closed and his hand on his heart, warm sunshine through the window, a closed blank prayer book, only the one boy in this panel, no text (accepted prayer)",
+"topic": "🙏 פרקי התפלה",
+"caption": "תפילה מתקבלת",
+"question": "ב׳רצה׳ אומרים לה׳: ׳ולתפלתם שעה׳. מה מבקשים?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a1/p2",
+"en": "a male doctor wearing a kippah and a white coat gently checking a sick boy wearing a kippah lying in bed, no text (healing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רפואה",
+"question": "ב׳רצה׳ אומרים לה׳: ׳ולתפלתם שעה׳. מה מבקשים?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a2/p0",
+"en": "the ancient Temple in Jerusalem, a golden stone building with a large courtyard and men in white priestly robes, sunny, no text (the Temple)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בית המקדש",
+"question": "׳והשב את העבודה לדביר ביתך׳ – לאיזה מקום מבקשים לחזר?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a2/p1",
+"en": "a school building with boys wearing kippot walking in with backpacks, no text (school)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בית ספר",
+"question": "׳והשב את העבודה לדביר ביתך׳ – לאיזה מקום מבקשים לחזר?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a2/p2",
+"en": "a cozy family home with a front door and a small garden, no people, no text (home)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בית",
+"question": "׳והשב את העבודה לדביר ביתך׳ – לאיזה מקום מבקשים לחזר?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a3/p0",
+"en": "a boy wearing a kippah planting a small tree sapling in a sunny garden, fruit trees in blossom around, only the one boy in this panel, no text (tree planting)",
+"topic": "🙏 פרקי התפלה",
+"caption": "נטיעת עץ",
+"question": "מתי מוסיפים ב׳רצה׳ את ׳יעלה ויבוא׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a3/p1",
+"en": "a campfire at night with boys wearing kippot sitting around it, a toy bow and arrow on the ground, no text (bonfire)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מדורה",
+"question": "מתי מוסיפים ב׳רצה׳ את ׳יעלה ויבוא׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a3/p2",
+"en": "a thin new crescent moon over dark hills and a calm starry night sky, no people, no text (new moon)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מולד הירח",
+"question": "מתי מוסיפים ב׳רצה׳ את ׳יעלה ויבוא׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a4/p0",
+"en": "a festive Shabbat table with two lit candles and two covered challah loaves, no people, no text (holidays only)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק בחגים",
+"question": "׳ועל נסיך שבכל יום עמנו׳ – מתי ה׳ עושה לנו טובות?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a4/p1",
+"en": "a boy wearing a kippah opening his bedroom window at sunrise and smiling at the new day, only the one boy in this panel, no text (every day)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כל יום",
+"question": "׳ועל נסיך שבכל יום עמנו׳ – מתי ה׳ עושה לנו טובות?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a4/p2",
+"en": "a wall calendar with a single day circled in red, blank squares, no numbers, no letters, no text (once a year)",
+"topic": "🙏 פרקי התפלה",
+"caption": "פעם בשנה",
+"question": "׳ועל נסיך שבכל יום עמנו׳ – מתי ה׳ עושה לנו טובות?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a5/p0",
+"en": "a boy wearing a kippah with his hand on his heart and a warm calm smile, only the one boy in this panel, no text (feeling in the heart)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מרגיש בלב",
+"question": "השכל שלי יודע שה׳ מזיז את ידי, אבל הלב לא מרגיש את זה. מה מבקשים?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a5/p1",
+"en": "a strong boy wearing a kippah proudly showing his arm muscle, only the one boy in this panel, no text (strong)",
+"topic": "🙏 פרקי התפלה",
+"caption": "חזק",
+"question": "השכל שלי יודע שה׳ מזיז את ידי, אבל הלב לא מרגיש את זה. מה מבקשים?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a5/p2",
+"en": "a boy wearing a kippah kicking a football on a grassy field, only the one boy in this panel, no text (playing more)",
+"topic": "🙏 פרקי התפלה",
+"caption": "משחק",
+"question": "השכל שלי יודע שה׳ מזיז את ידי, אבל הלב לא מרגיש את זה. מה מבקשים?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a6/p0",
+"en": "boys wearing kippot playing ball together in a sunny park, no text (playing outside)",
+"topic": "🙏 פרקי התפלה",
+"caption": "משחקים",
+"question": "ב׳מודים דרבנן׳ מבקשים לשוב ׳לחצרות קדשך׳. בשביל מה?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a6/p1",
+"en": "a boy wearing a kippah rushing, looking at a clock on the wall and quickly flipping the blank pages of a small book, closed mouth, no text (rushing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ממהר",
+"question": "ב׳מודים דרבנן׳ מבקשים לשוב ׳לחצרות קדשך׳. בשביל מה?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a6/p2",
+"en": "a boy wearing a kippah learning calmly in a study hall with his hand on his heart, warm light, only the one boy in this panel, no text (whole heart)",
+"topic": "🙏 פרקי התפלה",
+"caption": "לב שלם",
+"question": "ב׳מודים דרבנן׳ מבקשים לשוב ׳לחצרות קדשך׳. בשביל מה?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a7/p0",
+"en": "a huge army of ancient Greek soldiers with spears and shields standing in rows, no text (the Greeks)",
+"topic": "🙏 פרקי התפלה",
+"caption": "היוונים",
+"question": "ב׳על הנסים׳ של חנכה: מי היו ׳המעטים׳ שנצחו?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a7/p1",
+"en": "Mattityahu, an old bearded priest in simple robes, with his sons beside him, a small group of Jewish men holding swords at a mountain pass, no text (Mattityahu and his sons)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מתתיהו ובניו",
+"question": "ב׳על הנסים׳ של חנכה: מי היו ׳המעטים׳ שנצחו?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a7/p2",
+"en": "an ancient Persian king sitting on a golden throne with a crown, only the king, no queen, no text (King Achashverosh)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אחשורוש",
+"question": "ב׳על הנסים׳ של חנכה: מי היו ׳המעטים׳ שנצחו?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a8/p0",
+"en": "a father wearing a kippah gently hugging his small son wearing a kippah, warm light, no text (mercy)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רחמים",
+"question": "׳הטוב כי לא כלו רחמיך׳ – מה אצל ה׳ לעולם לא נגמר?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a8/p1",
+"en": "a clear stream of water flowing between green hills, no people, no text (water)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מים",
+"question": "׳הטוב כי לא כלו רחמיך׳ – מה אצל ה׳ לעולם לא נגמר?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a8/p2",
+"en": "a boy wearing a kippah flying a kite on a windy hill with white clouds, only the one boy in this panel, no text (air)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אוויר",
+"question": "׳הטוב כי לא כלו רחמיך׳ – מה אצל ה׳ לעולם לא נגמר?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a9/p0",
+"en": "a tall stack of gold coins on a wooden table, no people, no text (money)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כסף",
+"question": "באיזו מלה נגמרת ברכת כהנים?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a9/p1",
+"en": "a grey rain cloud with raindrops over a field, no people, no text (rain)",
+"topic": "🙏 פרקי התפלה",
+"caption": "גשם",
+"question": "באיזו מלה נגמרת ברכת כהנים?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a9/p2",
+"en": "two boys wearing kippot shaking hands and smiling after an argument, no text (peace)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שלום",
+"question": "באיזו מלה נגמרת ברכת כהנים?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a10/p0",
+"en": "a boy wearing a kippah sitting alone on a bench far from the others, only the one boy in this panel, no text (each one alone)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כל אחד לבד",
+"question": "ב׳שים שלום׳ מבקשים: ׳ברכנו אבינו...׳ – איך?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a10/p1",
+"en": "a group of boys wearing kippot standing in a circle with arms around each other's shoulders, smiling, no text (all together)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כולנו כאחד",
+"question": "ב׳שים שלום׳ מבקשים: ׳ברכנו אבינו...׳ – איך?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/a10/p2",
+"en": "a few tall grown men with beards and kippot standing in a row, no children, no text (only the big ones)",
+"topic": "🙏 פרקי התפלה",
+"caption": "רק הגדולים",
+"question": "ב׳שים שלום׳ מבקשים: ׳ברכנו אבינו...׳ – איך?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/b1",
+"en": "a boy wearing a kippah praying calmly by a sunny window, hand on his heart, a closed blank prayer book beside him, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה מבקשים כשאומרים ׳מהרה באהבה תקבל ברצון׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/b2",
+"en": "a view of the old city of Jerusalem with golden stone walls at sunrise, a few men wearing kippot walking on a path, sun and white clouds, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "את מי מבקשים שה׳ יזכר ב׳יעלה ויבוא׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/b3",
+"en": "a huge sturdy boulder standing firm on a green hill above a village, sunshine and white clouds, no people, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה פרוש ׳צורנו, צור חיינו, מגן ישענו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/b4",
+"en": "a boy wearing a kippah sitting at a table with bread, a bowl of fruit and a glass of water, his hands open in thanks, warm light, only the one boy, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "אתה אוכל ארוחה טובה ואומר ׳מודים׳. מה כדאי להרגיש?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/b5",
+"en": "a boy wearing a kippah in a quiet room looking at his own raised hand with wonder, the other hand on his heart, soft sunlight, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "השכל שלך יודע שה׳ מזיז את ידך, אבל הלב מרגיש שאתה עושה זאת לבד. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/b6",
+"en": "a small group of bearded Jewish men in simple robes holding an open blank scroll high on a hilltop at dawn, a large army far in the distance, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי ׳על הנסים׳, מה רצתה מלכות יון לעשות לעם ישראל?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/b7",
+"en": "a boy wearing a kippah in a doorway reaching out his hand to his younger brother wearing a kippah, both smiling after a quarrel, morning light, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "רבת עם אחיך בבקר, ועוד מעט אתה מתפלל ׳שים שלום׳. מה כדאי לזכר?",
+"section": ""
+},
+{
+"id": "hq/siddur-08/b8",
+"en": "a group of boys wearing kippot sitting together in a circle on the grass, talking and smiling warmly, sun and white clouds, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "למה בברכת כהנים נאמר דוקא על השלום ׳וישם לך׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a1/p0",
+"en": "a boy wearing a kippah holding up one finger, smiling, only the one boy in this panel, plain background, no text (one)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אצבע אחת",
+"question": "כמה פעמים ביום אומרים את ׳תהלה לדוד׳ (אשרי)?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a1/p1",
+"en": "a boy wearing a kippah holding up two fingers, smiling, only the one boy in this panel, plain background, no text (two)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שתי אצבעות",
+"question": "כמה פעמים ביום אומרים את ׳תהלה לדוד׳ (אשרי)?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a1/p2",
+"en": "a boy wearing a kippah holding up three fingers, smiling, only the one boy in this panel, plain background, no text (three)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שלוש אצבעות",
+"question": "כמה פעמים ביום אומרים את ׳תהלה לדוד׳ (אשרי)?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a2/p0",
+"en": "an open wooden treasure chest full of gold coins with a boy wearing a kippah standing beside it, no text (rich)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ארגז זהב",
+"question": "מה מבטח למי שאומר אשרי שלש פעמים ביום?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a2/p1",
+"en": "a boy wearing a kippah walking happily on a golden path through a green garden toward warm sunshine and white clouds, only the one boy, no text (in the world to come)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שביל לגן",
+"question": "מה מבטח למי שאומר אשרי שלש פעמים ביום?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a2/p2",
+"en": "a boy wearing a kippah standing alone on a podium holding a golden trophy and smiling, no crowd, no text (famous)",
+"topic": "🙏 פרקי התפלה",
+"caption": "גביע זהב",
+"question": "מה מבטח למי שאומר אשרי שלש פעמים ביום?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a3/p0",
+"en": "a long neat row of identical blank wooden tiles lined up in order on a table, nothing written on them, no text (in order)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שורה מסודרת",
+"question": "באיזה סדר כתוב המזמור ׳אשרי׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a3/p1",
+"en": "wooden blocks arranged like stairs from the smallest on the left to the biggest on the right, plain blocks, no text (by size)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מהקטן לגדול",
+"question": "באיזה סדר כתוב המזמור ׳אשרי׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a3/p2",
+"en": "plain blank wooden tiles scattered messily all over a table in every direction, no text (no order)",
+"topic": "🙏 פרקי התפלה",
+"caption": "פזורים בבלגן",
+"question": "באיזה סדר כתוב המזמור ׳אשרי׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a4/p0",
+"en": "a big fancy house with a boy wearing a kippah standing proudly at the front door, no text (rich at home)",
+"topic": "🙏 פרקי התפלה",
+"caption": "בית גדול",
+"question": "מה פרוש ׳אשרי יושבי ביתך׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a4/p1",
+"en": "a tired boy wearing a kippah yawning in an armchair at home, no text (tired at home)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ילד מפהק",
+"question": "מה פרוש ׳אשרי יושבי ביתך׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a4/p2",
+"en": "a few smiling boys wearing kippot sitting happily on benches in a synagogue with a Star of David on the wall, closed prayer books, only boys, no text (happy in the house of God)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ילדים שמחים בבית כנסת",
+"question": "מה פרוש ׳אשרי יושבי ביתך׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a5/p0",
+"en": "a boy wearing a kippah with arms crossed and a sulking face, only the one boy in this panel, no text (complaining)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ילד מקמט פנים",
+"question": "מה עושים כשאומרים ׳ארוממך אלוהי המלך׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a5/p1",
+"en": "a boy wearing a kippah with arms raised joyfully toward a bright sky with sun and white clouds, only the one boy, no text (praising)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ילד מרים ידיים",
+"question": "מה עושים כשאומרים ׳ארוממך אלוהי המלך׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a5/p2",
+"en": "a boy wearing a kippah holding out an open hand toward a pile of coins, only the one boy, no text (asking for money)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ילד מושיט יד לכסף",
+"question": "מה עושים כשאומרים ׳ארוממך אלוהי המלך׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a6/p0",
+"en": "a stern father with a beard and a kippah standing with crossed arms looking at his young son wearing a kippah, no text (strict)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אבא קפדן",
+"question": "ה׳ ׳חנון ורחום׳. איך הוא מתנהג אלינו?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a6/p1",
+"en": "a father with a beard and a kippah yawning with a bored face next to his young son wearing a kippah, no text (bored)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אבא משועמם",
+"question": "ה׳ ׳חנון ורחום׳. איך הוא מתנהג אלינו?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a6/p2",
+"en": "a father with a beard and a kippah warmly hugging his young son wearing a kippah in a sunny room, both smiling, no text (with mercy)",
+"topic": "🙏 פרקי התפלה",
+"caption": "אבא מחבק",
+"question": "ה׳ ׳חנון ורחום׳. איך הוא מתנהג אלינו?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a7/p0",
+"en": "a wooden table with fresh bread, a bunch of grapes, an apple and a pitcher of water, no people, no text (the food)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שולחן עם אוכל",
+"question": "מה ה׳ נותן לכל חי ׳בעתו׳, בזמן המתאים?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a7/p1",
+"en": "a stack of blank test papers and a pencil on a school desk, no people, no text (the tests)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ערימת מבחנים",
+"question": "מה ה׳ נותן לכל חי ׳בעתו׳, בזמן המתאים?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a7/p2",
+"en": "a boy wearing a kippah fast asleep in bed with a smile and a soft dreamy cloud above his head, only the one boy, no text (the dreams)",
+"topic": "🙏 פרקי התפלה",
+"caption": "ילד חולם",
+"question": "מה ה׳ נותן לכל חי ׳בעתו׳, בזמן המתאים?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a8/p0",
+"en": "a man wearing a kippah walking away with his back turned from a boy sitting on the ground, no text (ignores)",
+"topic": "🙏 פרקי התפלה",
+"caption": "הולך ומתעלם",
+"question": "מה עושה ה׳ לנפלים? ׳סומך ה׳ לכל הנפלים׳",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a8/p1",
+"en": "a man wearing a kippah kindly holding the hand of a boy wearing a kippah who fell, helping him stand up, outdoors, no text (supports)",
+"topic": "🙏 פרקי התפלה",
+"caption": "עוזר לקום",
+"question": "מה עושה ה׳ לנפלים? ׳סומך ה׳ לכל הנפלים׳",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a8/p2",
+"en": "a man wearing a kippah standing far away at the side of a path with his arms crossed watching a boy sitting on the ground, no text (waits aside)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מחכה מרחוק",
+"question": "מה עושה ה׳ לנפלים? ׳סומך ה׳ לכל הנפלים׳",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a9/p0",
+"en": "a boy wearing a kippah entering a synagogue door in the early morning sun, holding a closed prayer book, only the one boy, no text (at the beginning)",
+"topic": "🙏 פרקי התפלה",
+"caption": "נכנס בבוקר",
+"question": "מתי אומרים ׳עלינו לשבח׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a9/p1",
+"en": "a Shabbat table with a braided challah covered by a cloth and a silver kiddush cup, no people, no text (only on Shabbat)",
+"topic": "🙏 פרקי התפלה",
+"caption": "שולחן שבת",
+"question": "מתי אומרים ׳עלינו לשבח׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a9/p2",
+"en": "a boy wearing a kippah closing his prayer book with a satisfied smile at the end of prayer, in a synagogue with a Star of David window, only the one boy, no text (at the end of prayer)",
+"topic": "🙏 פרקי התפלה",
+"caption": "סוגר את הסידור",
+"question": "מתי אומרים ׳עלינו לשבח׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a10/p0",
+"en": "a boy wearing a kippah jumping high in the air with a big smile, only the one boy, no text (jumping)",
+"topic": "🙏 פרקי התפלה",
+"caption": "קופץ",
+"question": "מה עושים כשאומרים ׳ואנחנו כורעים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a10/p1",
+"en": "a man wearing a kippah in a synagogue bent over at the waist in prayer, calm face, only the one man, no text (bowing)",
+"topic": "🙏 פרקי התפלה",
+"caption": "כורע",
+"question": "מה עושים כשאומרים ׳ואנחנו כורעים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/a10/p2",
+"en": "a boy wearing a kippah clapping his hands with a big smile, only the one boy, no text (clapping)",
+"topic": "🙏 פרקי התפלה",
+"caption": "מוחא כפיים",
+"question": "מה עושים כשאומרים ׳ואנחנו כורעים׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/b1",
+"en": "a boy wearing a kippah in a library holding two closed books, one thick and one thin, looking thoughtful, blank covers, no letters, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "הגמרא שואלת: למה לא בחרו ב׳אשרי תמימי דרך׳, שגם הוא כתוב לפי האלףבית?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/b2",
+"en": "a boy wearing a kippah sitting in a synagogue with his eyes closed and a calm smile, hands resting on a closed prayer book with blank cover, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "לפי המפרשים, למה אומרים את אשרי שלש פעמים ביום?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/b3",
+"en": "a boy wearing a kippah at a wooden desk practicing a musical instrument with great determination, sunlight from a window, sheet music with blank staff lines, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "כתוב ׳ומשביע לכל חי רצון׳, אבל לא לכלם יש כל מה שהם רוצים. איך אפשר להבין?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/b4",
+"en": "a boy wearing a kippah standing at a fork in a country path under sun and white clouds, one path leads to a green hill and the other to a sandy field, he is thinking, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "בלעם שמע קדם ׳לא תלך עמהם׳ ואחר כך ׳קום לך אתם׳. מה למדו מזה חז״ל?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/b5",
+"en": "a boy wearing a kippah sitting at a family lunch table with his father who has a beard and a kippah, both talking and smiling over bread and soup, only men and a boy, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "בפסוק ׳הדר כבוד הודך ודברי נפלאתיך אשיחה׳, מה דוד מלמד אותנו?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/b6",
+"en": "three boys wearing kippot sitting together on a school yard bench during a break, one boy is telling a story with a bright smile while the others listen, sunny day, only boys, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "בהפסקה החברים מספרים רק חדשות רעות. מה תעשה לפי דוד?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/b7",
+"en": "a boy wearing a kippah standing in a synagogue near the door with a closed prayer book, looking tired but deciding to stay a moment, soft evening light through a Star of David window, only the one boy, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "בסוף התפלה אתה כבר עיף ורוצה לצאת מהר. מה עושים ב׳עלינו׳?",
+"section": ""
+},
+{
+"id": "hq/siddur-09/b8",
+"en": "a boy wearing a kippah holding a small wooden puzzle piece that fits into a large puzzle on a table, smiling, sunny room, only the one boy, no text",
+"topic": "🙏 פרקי התפלה",
+"caption": "",
+"question": "מה פרוש ׳שלא שם חלקנו כהם וגורלנו ככל המונם׳?",
+"section": ""
+},
+{
+"id": "bk/siddur-01-c1",
+"en": "a boy wearing a kippah standing outdoors with his hand on his heart and a calm trusting smile, bright sun and white clouds behind him, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
 "caption": "",
 "question": "",
 "section": ""
 },
 {
-"id": "bk/shema-05-c2",
-"en": "a cheerful collage-like room scene: on the wall a plain silver mezuzah case on a doorpost, on the table a closed velvet tefillin bag and a closed prayer book with a blank cover, a boy wearing a kippah looking at them with a smile, morning light, no letters, no text",
-"topic": "ספרי לימוד – קריאת שמע",
+"id": "bk/siddur-01-c2",
+"en": "a boy wearing a kippah finishing his prayer in a sunny synagogue, hands on his heart, a peaceful glowing face, a Star of David on the wall, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
 "caption": "",
 "question": "",
 "section": ""
 },
 {
-"id": "bk/shema-05-c3",
-"en": "a father with a beard and kippah sitting on a sofa with his small son wearing a kippah on his lap, the father gently teaching him to say his first words, both smiling, warm home light, no letters, no text",
-"topic": "ספרי לימוד – קריאת שמע",
+"id": "bk/siddur-01-c3",
+"en": "a boy wearing a kippah at sunrise, at noon and at sunset, shown as three small scenes of the same boy praying by a window, sun and white clouds, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
 "caption": "",
 "question": "",
 "section": ""
 },
 {
-"id": "bk/shema-05-c4",
-"en": "a boy wearing a kippah in three small moments side by side: thinking with his hand on his head, speaking with his mouth open reading from a closed book, and touching a plain mezuzah case on a doorpost, warm colors, no letters, no text",
-"topic": "ספרי לימוד – קריאת שמע",
+"id": "bk/siddur-01-c4",
+"en": "a boy wearing a kippah lying in bed hopeful but weak while a bearded man wearing a kippah, his father, sits beside him quietly holding a closed book with a blank cover, warm window light, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
 "caption": "",
 "question": "",
 "section": ""
 },
 {
-"id": "bk/shema-05-c5",
-"en": "a boy wearing a kippah standing before a grand golden palace gate with a flag, his hand on his heart, looking up with a happy proud smile, sun and white clouds, no crosses, no text",
-"topic": "ספרי לימוד – קריאת שמע",
+"id": "bk/siddur-01-c5",
+"en": "H: Abraham, an ancient bearded man in simple robes, standing at dawn at the same flat stone beside an old tree, hands lifted in prayer, a worn patch of ground at his feet, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
 "caption": "",
 "question": "",
 "section": ""
 },
 {
-"id": "bk/shema-05-c6",
-"en": "a boy wearing a kippah lying on the grass at night looking up at a huge sky full of stars that has no end, a small campfire glow nearby, peaceful wonder, no text",
-"topic": "ספרי לימוד – קריאת שמע",
+"id": "bk/siddur-01-c6",
+"en": "a small beautiful synagogue building with a Star of David above the door and warm light in the windows, a few boys wearing kippot walking toward the door, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
 "caption": "",
 "question": "",
 "section": ""
 },
 {
-"id": "bk/shema-05-c7",
-"en": "a boy wearing a kippah hugging himself happily in a sunny meadow full of flowers, his eyes closed with a loving smile, sun and white clouds, no text",
-"topic": "ספרי לימוד – קריאת שמע",
+"id": "bk/siddur-01-c7",
+"en": "a boy wearing a kippah standing straight and still before a tall carved wooden door, hands folded, a serious respectful face, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
 "caption": "",
 "question": "",
 "section": ""
 },
 {
-"id": "bk/shema-05-c8",
-"en": "a boy wearing a kippah and his father with a beard and kippah walking together toward a small synagogue with a Star of David at sunrise, the father with a tallit bag under his arm, the boy looking up at him with joy, no letters, no text",
-"topic": "ספרי לימוד – קריאת שמע",
+"id": "bk/siddur-01-c8",
+"en": "a poor bearded man in worn clothes standing quietly at a doorway with open hands held out gently, a humble calm face, only the one man, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-01-c9",
+"en": "a boy wearing a kippah sitting on a bench in a quiet synagogue with his eyes closed, hands on his knees, breathing calmly before praying, a Star of David on the wall, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-02-c1",
+"en": "a bright morning scene: a boy wearing a kippah waking up in his bed as the sun rises through the window, a closed prayer book with a blank cover on the bedside table, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-02-c2",
+"en": "a rooster crowing on a wooden fence at sunrise in a farmyard, sun and white clouds in the sky, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-02-c3",
+"en": "a boy wearing a kippah opening his eyes wide in bed with morning sunlight on his face, a window showing blue sky and clouds, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-02-c4",
+"en": "a boy wearing a kippah stretching happily as he gets out of a bed with a rumpled blanket, morning light, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-02-c5",
+"en": "a boy wearing a kippah getting dressed in a white shirt and tallit katan with tzitzit in a tidy sunny bedroom, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-02-c6",
+"en": "a boy wearing a kippah standing up straight and tall with his arms stretched up, a sunny window behind him, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-02-c7",
+"en": "a boy wearing a kippah walking on firm green ground beside a calm blue lake, trees and white clouds, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-02-c8",
+"en": "a boy wearing a kippah walking along a winding path in a green field toward the morning sun, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-02-c9",
+"en": "a table with bread, fruit, a pitcher of water, folded clothes and a pair of shoes in a sunny room, a small house seen through the window, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-03-c1",
+"en": "a boy wearing a kippah standing at the open arched gate of a sunny stone courtyard, looking in toward a small synagogue with a Star of David on its wall, a warm welcoming path, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-03-c2",
+"en": "a boy wearing a kippah standing on a green hill at sunrise, looking out over mountains, a river, trees and white clouds in a bright sky, arms open wide in wonder, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-03-c3",
+"en": "left side a boy wearing a kippah eating breakfast and smiling on an ordinary morning, right side a Hanukkah menorah with all candles lit on a windowsill, a soft divider between the two scenes, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-03-c4",
+"en": "an open book with blank pages resting on a wooden table, sunlight on it, with six small simple musical instruments around it: a lyre, a drum, a flute, a trumpet, a small harp and cymbals, no people, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-03-c5",
+"en": "a group of boys wearing kippot singing happily together in a synagogue with a Star of David on the wall, one boy holding an open prayer book with blank pages, warm golden light from the windows, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-03-c6",
+"en": "a smiling boy wearing a kippah carrying a stack of closed books with blank covers, walking cheerfully along a path with flowers and sunshine, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-03-c7",
+"en": "a shepherd man wearing a kippah with a wooden staff on a green hill, gently leading a flock of white sheep toward a stream, a boy wearing a kippah walking beside him, white clouds, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-03-c8",
+"en": "a boy wearing a kippah standing in front of a big wooden gate with a golden key in his hand, his other hand on his heart and a thankful smile, the gate slowly opening to a garden, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-03-c9",
+"en": "a long winding road under a bright sun and white clouds stretching far to the horizon, a boy wearing a kippah walking on it with a smile, flowers on both sides, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-04-c1",
+"en": "a boy wearing a kippah standing outdoors at sunrise with his arms raised and a joyful singing face, sun and white clouds above green hills, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-04-c2",
+"en": "a boy wearing a kippah in the foreground, a group of men and boys in kippot dancing behind him, and a wide landscape of green hills and a blue sea behind them under the sun and white clouds, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-04-c3",
+"en": "a boy wearing a kippah in his bedroom early morning, sitting on the edge of the bed with a quiet smile and his hand on his heart, sun shining through the window, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-04-c4",
+"en": "a boy wearing a kippah in a lively sunny schoolyard, standing with a happy face and one hand on his heart as if everything around him was made just for him, only boys in kippot in the background, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-04-c5",
+"en": "a rich man in fine clothes and a kippah standing next to a large house holding a bag of coins, a boy wearing a kippah beside him looking up at the sun and white clouds with trust, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-04-c6",
+"en": "an ancient traveler wearing a kippah with a wooden staff standing on a hill path at dusk with open fields ahead, calm and trusting, stars beginning to appear, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-04-c7",
+"en": "a wide view of a blue sea, green mountains and a sky with sun and white clouds, a boy wearing a kippah standing on a rock looking out with wonder, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-04-c8",
+"en": "nine glowing colorful puzzle pieces arranged in a three by three grid on a wooden table, each piece with a simple picture: a bread loaf, an open eye, a hand lifting a bent plant, a house, a sun, a tree, a bird, a heart, a crown, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-04-c9",
+"en": "a golden crown resting on a stone ledge above the old city walls of Jerusalem at sunset, a boy wearing a kippah and his bearded father wearing a kippah looking up at it from below, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-05-c1",
+"en": "a boy wearing a kippah standing in a green field at sunrise with his eyes closed, taking a deep calm breath of fresh air with his hand on his chest, a soft breeze moving the grass, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-05-c2",
+"en": "a smiling boy wearing a kippah standing with open arms in a lush sunny garden full of flowers, birds and a tree, he is joyful and full of life, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-05-c3",
+"en": "a boy wearing a kippah sitting at a table full of good things: bread, fruit, a jug of water and a warm blanket beside him, a sunny window, calm and safe, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-05-c4",
+"en": "a night watchman wearing a kippah holding a lantern and standing awake on a hill, watching over a quiet town of sleeping houses under many stars, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-05-c5",
+"en": "a toddler boy wearing a small kippah speaking his first words to his bearded father wearing a kippah who listens with a happy smile, a sunny living room, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-05-c6",
+"en": "a wide blue sea with big rolling waves under the sun and white clouds, a boy wearing a kippah standing on the beach with his arms open wide singing joyfully, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-05-c7",
+"en": "a joyful boy wearing a kippah singing with an open mouth, raised arms and one foot lifted in a happy step, in a sunny green meadow, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-05-c8",
+"en": "a bright synagogue with a Star of David on the wall, a few men wearing kippot standing together singing from closed books with blank covers, warm light from the windows, no text, no letters",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-05-c9",
+"en": "a boy wearing a kippah with open hands and a grateful smile looking at a sunrise over green hills and a river, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-06-c1",
+"en": "a boy wearing a kippah standing in a quiet sunlit synagogue before prayer, hands folded in front of him, calm face, a Star of David on the wall, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-06-c2",
+"en": "a bearded man wearing a kippah and a tallit bending at the waist in prayer in a quiet synagogue, then in a second moment standing straight again, a Star of David on the wall, only the one man in this scene, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-06-c3",
+"en": "a round wooden shield with a metal rim leaning against an ancient stone tent doorway at sunrise, a bearded shepherd wearing a headcloth standing beside it welcoming guests, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-06-c4",
+"en": "a boy wearing a kippah with a happy smile standing in a sunny synagogue, hands open, sunbeams through the windows, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-06-c5",
+"en": "a boy wearing a kippah handing a loaf of bread to a tired elderly bearded man wearing a kippah on a village path, both smiling, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-06-c6",
+"en": "a boy wearing a kippah helping another boy wearing a kippah up from the ground in a green park after a fall, a rain cloud giving way to the sun in the sky, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-06-c7",
+"en": "morning dew drops sparkling on green leaves and grass at sunrise in a field, a boy wearing a kippah kneeling and looking at a leaf with wonder, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-06-c8",
+"en": "one single golden goblet standing alone on a velvet cushion in the center of a bright empty hall, soft golden light, no people, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-06-c9",
+"en": "a boy wearing a kippah standing straight and still in a synagogue with closed eyes and feet together, concentrating deeply, a Star of David on the wall, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-07-c1",
+"en": "a boy wearing a kippah sitting at a desk by a sunny window, an open book with blank pages in front of him, a thoughtful bright smile, a small lamp glowing, only the one boy, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-07-c2",
+"en": "a boy wearing a kippah walking back along a quiet sunny path toward a synagogue with a Star of David on its wall, looking toward it with hope and a gentle smile, soft white clouds above, only the one boy, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-07-c3",
+"en": "a wide landscape at sunrise with hills and an old walled city in the distance, a group of men and boys wearing kippot standing on a hill looking toward it, sun and soft white clouds only in the sky, only males, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-07-c4",
+"en": "a quiet room with several boys wearing kippot resting in separate beds under blankets, a male doctor with a stethoscope walking gently between them, warm light, only males, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-07-c5",
+"en": "a wooden table with fresh bread, apples, grapes and a pitcher of water, a boy wearing a kippah standing before it with his eyes closed and his hands together in thanks, a sunny window, only the one boy, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-07-c6",
+"en": "a boy wearing a kippah standing on a hill blowing a big curved ram's horn, many men and boys wearing kippot walking from every direction on roads toward a city on a hill, sunrise, only males, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-07-c7",
+"en": "H: King David and his son King Solomon, two kings in royal robes with simple crowns, standing together in a palace garden, with Moses and Aaron in ancient robes beside them, only men, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-07-c8",
+"en": "the ancient golden stone walls of Jerusalem at sunrise with a big gate and olive trees, a boy wearing a kippah looking up at them with his hand on his heart, no domes, no church towers, only the one boy, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-07-c9",
+"en": "a boy wearing a kippah in a synagogue, hands raised gently in prayer, a small everyday school bag and a pencil case on a bench beside him, warm light from the windows, a Star of David on the wall, only the one boy, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-08-c1",
+"en": "a boy wearing a kippah praying quietly in a sunny synagogue with a Star of David on the wall, hand on his heart, a closed blank prayer book on the stand, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-08-c2",
+"en": "a thin new crescent moon over the hills of Jerusalem at dusk, a boy wearing a kippah looking up with a gentle smile, soft clouds, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-08-c3",
+"en": "a boy wearing a kippah at sunrise in a garden thanking with open hands, his breakfast of bread and fruit on a table beside him, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-08-c4",
+"en": "a boy wearing a kippah looking at his own raised hand with wonder, the other hand on his heart, warm sunlight in a quiet room, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-08-c5",
+"en": "boys wearing kippot standing together in a synagogue with a Star of David on the wall, all bowing slightly in thanks, warm light, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-08-c6",
+"en": "a small menorah with lit candles in a window at dusk, a boy wearing a kippah and his father with a beard and kippah watching it, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-08-c7",
+"en": "a boy wearing a kippah on a sunny hill at sunrise smiling gratefully, sun and white clouds, a flowing stream below, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-08-c8",
+"en": "an old kohen with a white beard in a white robe and prayer shawl raising his hands in blessing over a group of men and boys wearing kippot in a synagogue with a Star of David, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-08-c9",
+"en": "a clay jar full of golden grain standing whole on a table next to a cracked jar spilling grain, two boys wearing kippot shaking hands in the background, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-09-c1",
+"en": "a boy wearing a kippah standing in a sunny doorway holding up three fingers and smiling, behind him three small scenes of a sunrise, a bright midday sun and a golden sunset over hills, only the one boy, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-09-c2",
+"en": "a row of plain blank wooden tiles lined up neatly on a wooden table, a boy wearing a kippah pointing along the row with a happy smile, nothing written on the tiles, no letters, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-09-c3",
+"en": "a few smiling boys wearing kippot sitting on wooden benches in a beautiful synagogue with a Star of David window, closed prayer books with blank covers, warm light, only boys, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-09-c4",
+"en": "H: King David as a young man with a crown and simple robes standing on a hill at sunrise with his arms raised toward the bright sky with sun and white clouds, a harp beside him, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-09-c5",
+"en": "a father with a beard and a kippah warmly hugging his young son wearing a kippah in a sunny room, a gentle smile on both faces, a plate of fruit on the table, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-09-c6",
+"en": "a wooden table full of fresh bread, grapes, apples, a pitcher of water and a bowl of olives, a boy wearing a kippah looking at it with gratitude, sunny window behind, only the one boy, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-09-c7",
+"en": "men and a boy wearing kippot standing in a synagogue near the door at the end of prayer, closing their prayer books with blank covers and smiling, soft evening light through a window with a Star of David, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-09-c8",
+"en": "men and a boy wearing kippot in a synagogue bent over at the waist in prayer, calm faces, a Star of David window glowing softly, blank prayer books, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/siddur-09-c9",
+"en": "a boy wearing a kippah on a hilltop at sunrise looking out over a wide green valley with a river, sun and white clouds, arms spread wide with hope and a smile, only the one boy, no text",
+"topic": "ספרי לימוד – פרקי התפילה",
 "caption": "",
 "question": "",
 "section": ""

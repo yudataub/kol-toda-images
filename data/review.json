@@ -12120,5 +12120,608 @@
   "flags": [],
   "note": "",
   "by": "claude-eye"
+ },
+ "bk/tanach-yeshayahu-01": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-02": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-03": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-04": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-05": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-06": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-07": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-08": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-09": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-10": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-11": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-12": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-13": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-14": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-15": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-16": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-17": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-18": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-19": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-20": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-21": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-22": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-23": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-24": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-25": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-26": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-27": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-28": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-29": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-30": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-31": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-32": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-33": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-34": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-35": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-36": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-37": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-38": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-39": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-40": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-41": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-42": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-43": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-44": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-45": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-46": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-47": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-48": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-49": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu-50": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-01": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-02": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-03": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-04": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-05": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-06": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-07": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-08": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-09": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-10": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-11": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-12": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-13": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-14": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-15": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-16": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-17": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-18": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-19": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-20": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-21": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-22": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-23": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-24": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-25": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-26": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-27": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-28": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-29": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-30": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-31": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-32": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-33": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-34": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-35": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-36": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-37": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-38": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-39": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-40": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-41": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-42": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-43": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-44": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-45": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-46": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-47": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-48": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-49": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu-50": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-01": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-02": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-03": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-04": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-05": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-06": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-07": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-08": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-09": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-10": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-11": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-12": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-13": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-14": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-15": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-16": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-17": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-18": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-19": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-20": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-21": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-22": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-23": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-24": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-25": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-26": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-27": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-28": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-29": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-30": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-31": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-32": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-33": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-34": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-35": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-36": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-37": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-38": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-39": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel-40": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-01": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-02": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-03": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-04": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-05": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-06": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-07": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-08": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-09": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-10": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-11": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-12": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-13": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-14": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-15": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-16": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-17": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-18": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-19": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-20": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-21": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-22": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-23": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-24": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-25": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-26": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-27": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-28": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-29": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-30": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-31": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-32": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-33": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-34": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-35": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-36": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-37": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-38": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-39": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-40": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-41": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-42": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-43": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-44": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-45": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-46": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-47": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-48": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-49": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-50": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-51": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-52": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-53": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-54": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-55": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-56": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar-57": {
+  "status": "ok"
+ },
+ "bk/tanach-yeshayahu": {
+  "status": "ok"
+ },
+ "bk/tanach-yirmiyahu": {
+  "status": "ok"
+ },
+ "bk/tanach-yechezkel": {
+  "status": "ok"
+ },
+ "bk/tanach-treasar": {
+  "status": "ok"
  }
 }
