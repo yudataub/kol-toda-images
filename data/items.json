@@ -385398,6 +385398,1573 @@
 "style": "cartoon",
 "topic": [
 "הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/shema-05/a1",
+"kind": "triptych",
+"en": "a door frame of a house with a small mezuzah case on the right side, a boy wearing a kippah touching it with his fingers, no text | a plain beige rug on a floor, no text | a window with a curtain, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "בבית כותבים את פרשת שמע על...",
+"chapter_title": "",
+"captions": [
+"מזוזה",
+"שטיח",
+"וילון"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a1.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-a1.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a1/p0",
+"parent": "hq/shema-05/a1",
+"kind": "panel",
+"panel": 0,
+"en": "a door frame of a house with a small mezuzah case on the right side, a boy wearing a kippah touching it with his fingers, no text (mezuzah)",
+"he_ctx": {
+"caption": "מזוזה",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "בבית כותבים את פרשת שמע על..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a1.orig.jpg"
+},
+"crop": [
+697,
+54,
+987,
+520
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a1/p1",
+"parent": "hq/shema-05/a1",
+"kind": "panel",
+"panel": 1,
+"en": "a plain beige rug on a floor, no text (a rug)",
+"he_ctx": {
+"caption": "שטיח",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "בבית כותבים את פרשת שמע על..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a1.orig.jpg"
+},
+"crop": [
+367,
+54,
+656,
+520
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a1/p2",
+"parent": "hq/shema-05/a1",
+"kind": "panel",
+"panel": 2,
+"en": "a window with a curtain, no text (a curtain)",
+"he_ctx": {
+"caption": "וילון",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "בבית כותבים את פרשת שמע על..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a1.orig.jpg"
+},
+"crop": [
+36,
+54,
+325,
+520
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/shema-05/a2",
+"kind": "triptych",
+"en": "a boy wearing a kippah pointing with his finger at his own knee, curious face, no tefillin, no text | a bearded man wearing a kippah and a prayer shawl with a black tefillin box on his head and black straps, no letters, no text | a boy wearing a kippah pointing with his finger at his own shoulder, curious face, no tefillin, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "איפה מניחים את התפלין של ראש?",
+"chapter_title": "",
+"captions": [
+"ילד מצביע על הברך",
+"תפילין על הראש",
+"ילד מצביע על הכתף"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a2.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-a2.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a2/p0",
+"parent": "hq/shema-05/a2",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah pointing with his finger at his own knee, curious face, no tefillin, no text (knee)",
+"he_ctx": {
+"caption": "ילד מצביע על הברך",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "איפה מניחים את התפלין של ראש?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a2.orig.jpg"
+},
+"crop": [
+717,
+54,
+971,
+521
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a2/p1",
+"parent": "hq/shema-05/a2",
+"kind": "panel",
+"panel": 1,
+"en": "a bearded man wearing a kippah and a prayer shawl with a black tefillin box on his head and black straps, no letters, no text (tefillin on the head)",
+"he_ctx": {
+"caption": "תפילין על הראש",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "איפה מניחים את התפלין של ראש?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a2.orig.jpg"
+},
+"crop": [
+384,
+54,
+639,
+520
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a2/p2",
+"parent": "hq/shema-05/a2",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah pointing with his finger at his own shoulder, curious face, no tefillin, no text (shoulder)",
+"he_ctx": {
+"caption": "ילד מצביע על הכתף",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "איפה מניחים את התפלין של ראש?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a2.orig.jpg"
+},
+"crop": [
+52,
+54,
+306,
+521
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/shema-05/a3",
+"kind": "triptych",
+"en": "a colorful bracelet on a wrist, no text | a wristwatch lying on a table, no numbers, no text | a boy's arm with a black tefillin box on the upper arm and black straps wrapped around the forearm, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "על היד קושרים את הפרשה ב...",
+"chapter_title": "",
+"captions": [
+"צמיד צבעוני",
+"שעון יד",
+"תפילין"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a3.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-a3.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a3/p0",
+"parent": "hq/shema-05/a3",
+"kind": "panel",
+"panel": 0,
+"en": "a colorful bracelet on a wrist, no text (bracelet)",
+"he_ctx": {
+"caption": "צמיד צבעוני",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "על היד קושרים את הפרשה ב..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a3.orig.jpg"
+},
+"crop": [
+701,
+54,
+962,
+506
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a3/p1",
+"parent": "hq/shema-05/a3",
+"kind": "panel",
+"panel": 1,
+"en": "a wristwatch lying on a table, no numbers, no text (watch)",
+"he_ctx": {
+"caption": "שעון יד",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "על היד קושרים את הפרשה ב..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a3.orig.jpg"
+},
+"crop": [
+382,
+54,
+641,
+506
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a3/p2",
+"parent": "hq/shema-05/a3",
+"kind": "panel",
+"panel": 2,
+"en": "a boy's arm with a black tefillin box on the upper arm and black straps wrapped around the forearm, no letters, no text (tefillin on the arm)",
+"he_ctx": {
+"caption": "תפילין",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "על היד קושרים את הפרשה ב..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a3.orig.jpg"
+},
+"crop": [
+61,
+54,
+322,
+506
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/shema-05/a4",
+"kind": "triptych",
+"en": "a father with a beard and kippah sitting with a toddler boy on his lap, pointing at an open book with blank pages, both smiling, no text | a father with a kippah tucking a toddler boy into bed and reading a picture book, no text | a father with a beard and kippah holding a birthday cake with candles, a toddler boy next to him, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "מה אבא מלמד ילד שמתחיל לדבר?",
+"chapter_title": "",
+"captions": [
+"תורה צוה לנו משה",
+"סיפור לפני שינה",
+"שיר ליום הולדת"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a4.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-a4.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a4/p0",
+"parent": "hq/shema-05/a4",
+"kind": "panel",
+"panel": 0,
+"en": "a father with a beard and kippah sitting with a toddler boy on his lap, pointing at an open book with blank pages, both smiling, no text (father teaches toddler)",
+"he_ctx": {
+"caption": "תורה צוה לנו משה",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "מה אבא מלמד ילד שמתחיל לדבר?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a4.orig.jpg"
+},
+"crop": [
+712,
+54,
+975,
+504
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a4/p1",
+"parent": "hq/shema-05/a4",
+"kind": "panel",
+"panel": 1,
+"en": "a father with a kippah tucking a toddler boy into bed and reading a picture book, no text (bedtime story)",
+"he_ctx": {
+"caption": "סיפור לפני שינה",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "מה אבא מלמד ילד שמתחיל לדבר?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a4.orig.jpg"
+},
+"crop": [
+380,
+54,
+643,
+505
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a4/p2",
+"parent": "hq/shema-05/a4",
+"kind": "panel",
+"panel": 2,
+"en": "a father with a beard and kippah holding a birthday cake with candles, a toddler boy next to him, no text (birthday song)",
+"he_ctx": {
+"caption": "שיר ליום הולדת",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "מה אבא מלמד ילד שמתחיל לדבר?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a4.orig.jpg"
+},
+"crop": [
+47,
+54,
+311,
+504
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/shema-05/a5",
+"kind": "triptych",
+"en": "a boy wearing a kippah with his hands over his ears, no text | a boy wearing a kippah speaking happily with his mouth open, reading from an open book with blank pages, no text | a boy wearing a kippah walking on a path, looking at his feet, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "איך מקימים ״ודברת בם״?",
+"chapter_title": "",
+"captions": [
+"באוזניים",
+"בפה",
+"ברגליים"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a5.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-a5.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a5/p0",
+"parent": "hq/shema-05/a5",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah with his hands over his ears, no text (ears)",
+"he_ctx": {
+"caption": "באוזניים",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "איך מקימים ״ודברת בם״?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a5.orig.jpg"
+},
+"crop": [
+703,
+54,
+984,
+545
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a5/p1",
+"parent": "hq/shema-05/a5",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah speaking happily with his mouth open, reading from an open book with blank pages, no text (mouth)",
+"he_ctx": {
+"caption": "בפה",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "איך מקימים ״ודברת בם״?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a5.orig.jpg"
+},
+"crop": [
+371,
+54,
+668,
+544
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a5/p2",
+"parent": "hq/shema-05/a5",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah walking on a path, looking at his feet, no text (feet)",
+"he_ctx": {
+"caption": "ברגליים",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "איך מקימים ״ודברת בם״?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a5.orig.jpg"
+},
+"crop": [
+38,
+54,
+320,
+544
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/shema-05/a6",
+"kind": "triptych",
+"en": "a smiling boy wearing a kippah looking up at a big friendly palace with a flag, he feels close and happy, no text | a tiny boy wearing a kippah standing far away from a faraway castle on a distant hill, no text | a crowd of men far away waving at a palace, a boy in the corner not looking, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "לא מספיק לדעת שיש מלך. צריך להכיר שהוא...",
+"chapter_title": "",
+"captions": [
+"המלך שלי",
+"רחוק ממני",
+"מלך של אחרים"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a6.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-a6.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a6/p0",
+"parent": "hq/shema-05/a6",
+"kind": "panel",
+"panel": 0,
+"en": "a smiling boy wearing a kippah looking up at a big friendly palace with a flag, he feels close and happy, no text (my king)",
+"he_ctx": {
+"caption": "המלך שלי",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "לא מספיק לדעת שיש מלך. צריך להכיר שהוא..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a6.orig.jpg"
+},
+"crop": [
+708,
+54,
+976,
+512
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a6/p1",
+"parent": "hq/shema-05/a6",
+"kind": "panel",
+"panel": 1,
+"en": "a tiny boy wearing a kippah standing far away from a faraway castle on a distant hill, no text (far from me)",
+"he_ctx": {
+"caption": "רחוק ממני",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "לא מספיק לדעת שיש מלך. צריך להכיר שהוא..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a6.orig.jpg"
+},
+"crop": [
+378,
+54,
+646,
+513
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a6/p2",
+"parent": "hq/shema-05/a6",
+"kind": "panel",
+"panel": 2,
+"en": "a crowd of men far away waving at a palace, a boy in the corner not looking, no text (others' king)",
+"he_ctx": {
+"caption": "מלך של אחרים",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "לא מספיק לדעת שיש מלך. צריך להכיר שהוא..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a6.orig.jpg"
+},
+"crop": [
+47,
+54,
+316,
+512
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/shema-05/a7",
+"kind": "triptych",
+"en": "a small tiny pebble on a table in front of a boy wearing a kippah, no text | a long endless road stretching to the horizon between green hills under a sun and clouds, a boy wearing a kippah standing on it, no text | a boy wearing a kippah looking through binoculars at a tiny far-away dot, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "המלה ״אחד״ בקריאת שמע מלמדת שה׳ הוא...",
+"chapter_title": "",
+"captions": [
+"קטן וחלש",
+"בלי גבול",
+"רחוק מאיתנו"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a7.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-a7.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a7/p0",
+"parent": "hq/shema-05/a7",
+"kind": "panel",
+"panel": 0,
+"en": "a small tiny pebble on a table in front of a boy wearing a kippah, no text (small)",
+"he_ctx": {
+"caption": "קטן וחלש",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "המלה ״אחד״ בקריאת שמע מלמדת שה׳ הוא..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a7.orig.jpg"
+},
+"crop": [
+709,
+54,
+973,
+516
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a7/p1",
+"parent": "hq/shema-05/a7",
+"kind": "panel",
+"panel": 1,
+"en": "a long endless road stretching to the horizon between green hills under a sun and clouds, a boy wearing a kippah standing on it, no text (no limit)",
+"he_ctx": {
+"caption": "בלי גבול",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "המלה ״אחד״ בקריאת שמע מלמדת שה׳ הוא..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a7.orig.jpg"
+},
+"crop": [
+378,
+54,
+645,
+516
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a7/p2",
+"parent": "hq/shema-05/a7",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah looking through binoculars at a tiny far-away dot, no text (far away)",
+"he_ctx": {
+"caption": "רחוק מאיתנו",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "המלה ״אחד״ בקריאת שמע מלמדת שה׳ הוא..."
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a7.orig.jpg"
+},
+"crop": [
+49,
+54,
+315,
+516
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/shema-05/a8",
+"kind": "triptych",
+"en": "a bright morning sky with the sun rising behind clouds over a green hill and trees, no people, no text | two stone tablets with blank smooth surfaces standing on a rocky mountain top under sun and clouds, no letters, no text | a boy wearing a kippah reading a prayer book with his hand on his heart, smiling, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "באיזו פרשה כתוב ״ואהבת את ה׳״ לראשונה?",
+"chapter_title": "",
+"captions": [
+"בראשית",
+"עשרת הדיברות",
+"קריאת שמע"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a8.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-a8.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a8/p0",
+"parent": "hq/shema-05/a8",
+"kind": "panel",
+"panel": 0,
+"en": "a bright morning sky with the sun rising behind clouds over a green hill and trees, no people, no text (Bereshit)",
+"he_ctx": {
+"caption": "בראשית",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "באיזו פרשה כתוב ״ואהבת את ה׳״ לראשונה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a8.orig.jpg"
+},
+"crop": [
+708,
+54,
+983,
+517
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a8/p1",
+"parent": "hq/shema-05/a8",
+"kind": "panel",
+"panel": 1,
+"en": "two stone tablets with blank smooth surfaces standing on a rocky mountain top under sun and clouds, no letters, no text (the ten commandments)",
+"he_ctx": {
+"caption": "עשרת הדיברות",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "באיזו פרשה כתוב ״ואהבת את ה׳״ לראשונה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a8.orig.jpg"
+},
+"crop": [
+372,
+54,
+651,
+516
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a8/p2",
+"parent": "hq/shema-05/a8",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah reading a prayer book with his hand on his heart, smiling, no text (Shema)",
+"he_ctx": {
+"caption": "קריאת שמע",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "באיזו פרשה כתוב ״ואהבת את ה׳״ לראשונה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a8.orig.jpg"
+},
+"crop": [
+39,
+54,
+316,
+517
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/shema-05/a9",
+"kind": "triptych",
+"en": "a boy wearing a kippah plucking a flower and throwing it on the ground, petals flying, no text | a boy wearing a kippah running past a garden full of flowers without looking, no text | a boy wearing a kippah kneeling in a garden looking at a beautiful colorful flower with amazement and a big smile, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "אני רואה פרח יפה בגנה. מה כדאי לעשות?",
+"chapter_title": "",
+"captions": [
+"לקטוף אותו ולזרוק",
+"לרוץ הלאה במהירות",
+"להתפעל ולהודות"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a9.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-a9.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a9/p0",
+"parent": "hq/shema-05/a9",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah plucking a flower and throwing it on the ground, petals flying, no text (pluck and throw)",
+"he_ctx": {
+"caption": "לקטוף אותו ולזרוק",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "אני רואה פרח יפה בגנה. מה כדאי לעשות?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a9.orig.jpg"
+},
+"crop": [
+709,
+54,
+973,
+510
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a9/p1",
+"parent": "hq/shema-05/a9",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah running past a garden full of flowers without looking, no text (run on)",
+"he_ctx": {
+"caption": "לרוץ הלאה במהירות",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "אני רואה פרח יפה בגנה. מה כדאי לעשות?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a9.orig.jpg"
+},
+"crop": [
+379,
+54,
+643,
+509
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/a9/p2",
+"parent": "hq/shema-05/a9",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah kneeling in a garden looking at a beautiful colorful flower with amazement and a big smile, no text (admire and thank)",
+"he_ctx": {
+"caption": "להתפעל ולהודות",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"chapter_title": "",
+"question": "אני רואה פרח יפה בגנה. מה כדאי לעשות?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\a9.orig.jpg"
+},
+"crop": [
+50,
+54,
+314,
+509
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/b1",
+"kind": "scene",
+"en": "a boy wearing a kippah standing near a big friendly palace gate with a flag, looking proud and close, sun and clouds, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "למה לא מספיק להאמין ש״יש מלך״, ואומרים ״ה׳ אלהינו״?",
+"chapter_title": "",
+"options": [
+"כי צריך גם להכיר שהוא המלך שלי ובחר בנו",
+"כי המלך רחוק מאד ואינו משגיח על הפרטים שלנו",
+"כי רק לגדולים ולחכמים מתר להכיר את המלך",
+"כי כל העמים כבר מכירים בו בדיוק כמו אנחנו"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\b1.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-b1.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/b2",
+"kind": "scene",
+"en": "a boy wearing a kippah sitting at a table with a tasty meal, smiling and about to say a blessing, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "ילד נהנה מאד מאכל טעים, ומרגיש מתוך זה אהבה לה׳. איזה פרוש של ״בשני יצריך״ מתאים כאן?",
+"chapter_title": "",
+"options": [
+"מותרים על כל תאוה כדי לכבד את ה׳",
+"לוקחים את כח היצר ומשמשים אותו לטובה",
+"אין צרך לזכר את ה׳ בשעת האכילה",
+"מפסיקים לאכל לגמרי כדי לא להתפתות"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\b2.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-b2.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/b3",
+"kind": "scene",
+"en": "a boy wearing a kippah sitting by a window thinking, with a thought bubble showing a sunny green field and trees, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "אי אפשר לצוות על הלב ״תרגיש!״. איך אפשר להגיע לאהבה?",
+"chapter_title": "",
+"options": [
+"בוחרים מחשבות, ולאט לאט גם ההרגשה משתנה",
+"מכריחים את עצמנו להרגיש אהבה חזקה בבת אחת",
+"מחכים שהאהבה תבוא מעצמה בלי לחשב על כלום",
+"מפסיקים לחשב ועושים רק את המעשים בלי רגש"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\b3.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-b3.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/b4",
+"kind": "scene",
+"en": "a boy wearing a kippah standing on a hilltop at sunrise with arms raised in joy, sun and clouds, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "מה המשמעות של ״בכל נפשך״, לפי הפרוש ש״נפש״ היא הרצון?",
+"chapter_title": "",
+"options": [
+"שהרצון לשמח את ה׳ גדול מהרצון לחיות",
+"שהרצון לחיות חזק יותר מכל רצון אחר בעולם",
+"שרצונות שלנו אינם חשובים לה׳ בכלל",
+"שצריך לותר על כל הדברים שאוהבים"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\b4.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-b4.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/b5",
+"kind": "scene",
+"en": "two boys wearing kippot studying together at a table over an open book with blank pages, one pointing and thinking, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "רש״י: ״והיו הדברים האלה״ – מה הקשר לאהבת ה׳?",
+"chapter_title": "",
+"options": [
+"הם הדרך שמגיעה לאהבת ה׳",
+"הם רק תוצאה של האהבה, ולא דרך אליה",
+"אפשר להגיע לאהבה גם בלי ללמד כלל",
+"כל למוד, גם בלי לחשב, מגיע לאהבה מעצמו"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\b5.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-b5.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/b6",
+"kind": "scene",
+"en": "a boy wearing a kippah holding a game controller but looking toward a prayer book on a table, thinking, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "דני רוצה מאד לשחק במשחק החדש לפני התפלה. מה כדאי שיחשב עכשו?",
+"chapter_title": "",
+"options": [
+"אתפלל עכשו, ואשחק אחר כך בשמחה",
+"אותר על המשחק לתמיד, כי הוא אסור",
+"אשחק קדם, כי ה׳ ימתין לי בסבלנות",
+"מה שאני רוצה לא חשוב, רק מה שאומרים לי"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\b6.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-b6.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/b7",
+"kind": "scene",
+"en": "a boy wearing a kippah sitting up in bed, stretching with a smile, morning sun through a window, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "קשה ליוסף לקום בבקר, והמטה כל כך מתוקה. מה כדאי שיחשב?",
+"chapter_title": "",
+"options": [
+"אקום בשמחה ואתן לה׳ את היום",
+"אקום בכעס, כי חיבים ואין לי בררה אחרת",
+"אשאר עוד קצת ואחר כך אתפלל לבד",
+"אחכה שמישהו אחר יבוא ויעיר אותי"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\b7.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-b7.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"👂 קריאת שמע"
+],
+"topic_key": "shema:6",
+"quiz": "shema-05",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/shema-05.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/shema-05/b8",
+"kind": "scene",
+"en": "a boy wearing a kippah standing in a green field at dawn looking at the rising sun and clouds with wonder, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "הפרשה החשובה ביותר – איך מגיעים לאהבת ה׳",
+"subtitle": "שבע פעלות לפרשה, ״ה׳ אלהינו״, ״בכל לבבך ונפשך ומאדך״ והדרך לאהבה",
+"question": "למה בברכות קריאת שמע ״יוצר אור״ באה לפני ״אהבה רבה״?",
+"chapter_title": "",
+"options": [
+"קדם מתפעלים מהבריאה, ואחר כך מהתורה",
+"כי התורה קלה יותר להבין וללמד מהבריאה",
+"סתם מקרה, בלי שום סבה מיחדת",
+"כי הבריאה נמצאת רק בשחרית"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\shema-05\\b8.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/shema-05-b8.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
 "⚔️ ספר שופטים"
 ],
 "topic_key": "shoftim:1",
