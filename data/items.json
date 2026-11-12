@@ -138122,6 +138122,5136 @@
 "style": "cartoon",
 "topic": [
 "הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-01/a1",
+"kind": "triptych",
+"en": "a boy wearing a kippah lying in bed with a pillow pressed over his head, only the one boy in this panel, no text | a boy wearing a kippah sitting on the edge of a bed at night gently patting a small crying little brother wearing a kippah, moonlight through the window, no text | a boy wearing a kippah sitting on the floor crying with tears on his cheeks, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "האח הקטן בוכה בלילה ואני עיף. מה אפשר לעשות?",
+"chapter_title": "",
+"captions": [
+"מתעלם וישן",
+"מרגיע באהבה",
+"בוכה גם הוא"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a1.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-a1.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a1/p0",
+"parent": "hq/emuna-01/a1",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah lying in bed with a pillow pressed over his head, only the one boy in this panel, no text (ignoring and sleeping)",
+"he_ctx": {
+"caption": "מתעלם וישן",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "האח הקטן בוכה בלילה ואני עיף. מה אפשר לעשות?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a1.orig.jpg"
+},
+"crop": [
+708,
+54,
+977,
+526
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a1/p1",
+"parent": "hq/emuna-01/a1",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah sitting on the edge of a bed at night gently patting a small crying little brother wearing a kippah, moonlight through the window, no text (calming with love)",
+"he_ctx": {
+"caption": "מרגיע באהבה",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "האח הקטן בוכה בלילה ואני עיף. מה אפשר לעשות?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a1.orig.jpg"
+},
+"crop": [
+378,
+54,
+645,
+526
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a1/p2",
+"parent": "hq/emuna-01/a1",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah sitting on the floor crying with tears on his cheeks, only the one boy in this panel, no text (crying too)",
+"he_ctx": {
+"caption": "בוכה גם הוא",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "האח הקטן בוכה בלילה ואני עיף. מה אפשר לעשות?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a1.orig.jpg"
+},
+"crop": [
+47,
+54,
+313,
+527
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-01/a2",
+"kind": "triptych",
+"en": "a pair of white dice lying on a wooden table, no text | a bearded neighbor wearing a kippah leaning over a garden fence and waving, only the one man in this panel, no text | a boy wearing a kippah looking up at the bright sun and white clouds with his hand on his heart, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "מי מנסה אותנו בנסיון של עיפות וקשי?",
+"chapter_title": "",
+"captions": [
+"המקרה",
+"השכן",
+"ה׳ יתברך"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a2.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-a2.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a2/p0",
+"parent": "hq/emuna-01/a2",
+"kind": "panel",
+"panel": 0,
+"en": "a pair of white dice lying on a wooden table, no text (chance)",
+"he_ctx": {
+"caption": "המקרה",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מי מנסה אותנו בנסיון של עיפות וקשי?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a2.orig.jpg"
+},
+"crop": [
+705,
+54,
+974,
+490
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a2/p1",
+"parent": "hq/emuna-01/a2",
+"kind": "panel",
+"panel": 1,
+"en": "a bearded neighbor wearing a kippah leaning over a garden fence and waving, only the one man in this panel, no text (the neighbor)",
+"he_ctx": {
+"caption": "השכן",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מי מנסה אותנו בנסיון של עיפות וקשי?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a2.orig.jpg"
+},
+"crop": [
+377,
+54,
+646,
+490
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a2/p2",
+"parent": "hq/emuna-01/a2",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah looking up at the bright sun and white clouds with his hand on his heart, only the one boy in this panel, no text (looking up with faith)",
+"he_ctx": {
+"caption": "ה׳ יתברך",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מי מנסה אותנו בנסיון של עיפות וקשי?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a2.orig.jpg"
+},
+"crop": [
+50,
+54,
+319,
+489
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-01/a3",
+"kind": "triptych",
+"en": "a huge golden gift box with a big red ribbon that fills the whole panel, no text | a tiny small gift box with a thin ribbon on an empty wooden table, no text | a medium plain brown gift box tied with string on a wooden table, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "לפי הר״ן, מה אפשר לומר על השכר של מצות האמונה?",
+"chapter_title": "",
+"captions": [
+"הגדול ביותר",
+"הקטן ביותר",
+"כמו כל מצווה"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a3.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-a3.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a3/p0",
+"parent": "hq/emuna-01/a3",
+"kind": "panel",
+"panel": 0,
+"en": "a huge golden gift box with a big red ribbon that fills the whole panel, no text (the biggest reward)",
+"he_ctx": {
+"caption": "הגדול ביותר",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "לפי הר״ן, מה אפשר לומר על השכר של מצות האמונה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a3.orig.jpg"
+},
+"crop": [
+702,
+54,
+976,
+513
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a3/p1",
+"parent": "hq/emuna-01/a3",
+"kind": "panel",
+"panel": 1,
+"en": "a tiny small gift box with a thin ribbon on an empty wooden table, no text (the smallest reward)",
+"he_ctx": {
+"caption": "הקטן ביותר",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "לפי הר״ן, מה אפשר לומר על השכר של מצות האמונה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a3.orig.jpg"
+},
+"crop": [
+375,
+54,
+649,
+513
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a3/p2",
+"parent": "hq/emuna-01/a3",
+"kind": "panel",
+"panel": 2,
+"en": "a medium plain brown gift box tied with string on a wooden table, no text (like any mitzvah)",
+"he_ctx": {
+"caption": "כמו כל מצווה",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "לפי הר״ן, מה אפשר לומר על השכר של מצות האמונה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a3.orig.jpg"
+},
+"crop": [
+48,
+54,
+320,
+512
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-01/a4",
+"kind": "triptych",
+"en": "H: an ancient king with a beard and a golden crown playing a harp in a garden, only the one man in this panel, no text | H: an old wise sage with a long white beard in simple ancient robes sitting with an open scroll in a stone study hall, only the one man in this panel, no text | H: an old man with a white beard in simple robes holding a wooden staff, standing on a rocky mountain at sunrise, only the one man in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "מי אמר: ׳מתי יבוא מקרא זה לידי ואקימנו׳?",
+"chapter_title": "",
+"captions": [
+"דוד המלך",
+"רבי עקיבא",
+"משה רבנו"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a4.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-a4.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a4/p0",
+"parent": "hq/emuna-01/a4",
+"kind": "panel",
+"panel": 0,
+"en": "H: an ancient king with a beard and a golden crown playing a harp in a garden, only the one man in this panel, no text (King David)",
+"he_ctx": {
+"caption": "דוד המלך",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מי אמר: ׳מתי יבוא מקרא זה לידי ואקימנו׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a4.orig.jpg"
+},
+"crop": [
+715,
+54,
+970,
+529
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a4/p1",
+"parent": "hq/emuna-01/a4",
+"kind": "panel",
+"panel": 1,
+"en": "H: an old wise sage with a long white beard in simple ancient robes sitting with an open scroll in a stone study hall, only the one man in this panel, no text (Rabbi Akiva)",
+"he_ctx": {
+"caption": "רבי עקיבא",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מי אמר: ׳מתי יבוא מקרא זה לידי ואקימנו׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a4.orig.jpg"
+},
+"crop": [
+384,
+54,
+640,
+529
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a4/p2",
+"parent": "hq/emuna-01/a4",
+"kind": "panel",
+"panel": 2,
+"en": "H: an old man with a white beard in simple robes holding a wooden staff, standing on a rocky mountain at sunrise, only the one man in this panel, no text (Moses)",
+"he_ctx": {
+"caption": "משה רבנו",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מי אמר: ׳מתי יבוא מקרא זה לידי ואקימנו׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a4.orig.jpg"
+},
+"crop": [
+54,
+54,
+309,
+529
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-01/a5",
+"kind": "triptych",
+"en": "a boy wearing a kippah quickly flipping the pages of a small book without looking at it, impatient, closed mouth, no speech bubble, no text, no letters | a boy wearing a kippah turning his back to a closed book and walking away, no text | a boy wearing a kippah kneeling and helping his small brother wearing a kippah to tie his shoes, both smiling, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "מה גדול יותר: לקרא פסוק, או לקים אותו?",
+"chapter_title": "",
+"captions": [
+"קורא מהר",
+"מדלג",
+"מקיים"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a5.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-a5.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a5/p0",
+"parent": "hq/emuna-01/a5",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah quickly flipping the pages of a small book without looking at it, impatient, closed mouth, no speech bubble, no text, no letters (reading fast)",
+"he_ctx": {
+"caption": "קורא מהר",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מה גדול יותר: לקרא פסוק, או לקים אותו?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a5.orig.jpg"
+},
+"crop": [
+693,
+54,
+989,
+497
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a5/p1",
+"parent": "hq/emuna-01/a5",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah turning his back to a closed book and walking away, no text (skipping it)",
+"he_ctx": {
+"caption": "מדלג",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מה גדול יותר: לקרא פסוק, או לקים אותו?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a5.orig.jpg"
+},
+"crop": [
+363,
+54,
+660,
+497
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a5/p2",
+"parent": "hq/emuna-01/a5",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah kneeling and helping his small brother wearing a kippah to tie his shoes, both smiling, no text (doing it for real)",
+"he_ctx": {
+"caption": "מקיים",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מה גדול יותר: לקרא פסוק, או לקים אותו?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a5.orig.jpg"
+},
+"crop": [
+35,
+54,
+329,
+497
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-01/a6",
+"kind": "triptych",
+"en": "a festive morning table with bread, fruit and juice, a father wearing a kippah and two boys wearing kippot sitting around it singing happily, no women, no text | a boy wearing a kippah pushing a shopping cart in a grocery store, only the one boy in this panel, no text | a boy wearing a kippah sleeping in bed with a blanket, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "מה ראוי לעשות בבקר על שזכינו לקים מצוות כאלה?",
+"chapter_title": "",
+"captions": [
+"סעודת הודיה",
+"קניות",
+"שינה"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a6.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-a6.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a6/p0",
+"parent": "hq/emuna-01/a6",
+"kind": "panel",
+"panel": 0,
+"en": "a festive morning table with bread, fruit and juice, a father wearing a kippah and two boys wearing kippot sitting around it singing happily, no women, no text (a thanksgiving meal)",
+"he_ctx": {
+"caption": "סעודת הודיה",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מה ראוי לעשות בבקר על שזכינו לקים מצוות כאלה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a6.orig.jpg"
+},
+"crop": [
+702,
+54,
+982,
+529
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a6/p1",
+"parent": "hq/emuna-01/a6",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah pushing a shopping cart in a grocery store, only the one boy in this panel, no text (shopping)",
+"he_ctx": {
+"caption": "קניות",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מה ראוי לעשות בבקר על שזכינו לקים מצוות כאלה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a6.orig.jpg"
+},
+"crop": [
+372,
+54,
+651,
+528
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a6/p2",
+"parent": "hq/emuna-01/a6",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah sleeping in bed with a blanket, only the one boy in this panel, no text (sleeping)",
+"he_ctx": {
+"caption": "שינה",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מה ראוי לעשות בבקר על שזכינו לקים מצוות כאלה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a6.orig.jpg"
+},
+"crop": [
+42,
+54,
+320,
+528
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-01/a7",
+"kind": "triptych",
+"en": "a boy wearing a kippah hiding behind a curtain, peeking out, only the one boy in this panel, no text | a boy wearing a kippah standing tall and smiling in warm sunshine with his hand on his heart, only the one boy in this panel, no text | a boy wearing a kippah proudly showing his arm muscles, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "מה הידיעה שנותנת לך הרבה כח?",
+"chapter_title": "",
+"captions": [
+"אף אחד לא רואה",
+"מעשיי חשובים",
+"חזק מהכול"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a7.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-a7.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a7/p0",
+"parent": "hq/emuna-01/a7",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah hiding behind a curtain, peeking out, only the one boy in this panel, no text (nobody sees)",
+"he_ctx": {
+"caption": "אף אחד לא רואה",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מה הידיעה שנותנת לך הרבה כח?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a7.orig.jpg"
+},
+"crop": [
+707,
+54,
+977,
+509
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a7/p1",
+"parent": "hq/emuna-01/a7",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah standing tall and smiling in warm sunshine with his hand on his heart, only the one boy in this panel, no text (my deeds matter)",
+"he_ctx": {
+"caption": "מעשיי חשובים",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מה הידיעה שנותנת לך הרבה כח?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a7.orig.jpg"
+},
+"crop": [
+378,
+54,
+646,
+511
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a7/p2",
+"parent": "hq/emuna-01/a7",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah proudly showing his arm muscles, only the one boy in this panel, no text (stronger than all)",
+"he_ctx": {
+"caption": "חזק מהכול",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מה הידיעה שנותנת לך הרבה כח?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a7.orig.jpg"
+},
+"crop": [
+46,
+54,
+316,
+510
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-01/a8",
+"kind": "triptych",
+"en": "a sad boy wearing a kippah sitting alone on a stool facing a wall, only the one boy in this panel, no text | an empty wooden table with nothing on it, no people, no text | a boy wearing a kippah happily opening a treasure chest full of shining gold coins, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "מי שמקים ׳ואמונתך בלילות׳ – מה מחכה לו?",
+"chapter_title": "",
+"captions": [
+"עונש גדול",
+"שום דבר",
+"שכר טוב"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a8.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-a8.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a8/p0",
+"parent": "hq/emuna-01/a8",
+"kind": "panel",
+"panel": 0,
+"en": "a sad boy wearing a kippah sitting alone on a stool facing a wall, only the one boy in this panel, no text (a big punishment)",
+"he_ctx": {
+"caption": "עונש גדול",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מי שמקים ׳ואמונתך בלילות׳ – מה מחכה לו?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a8.orig.jpg"
+},
+"crop": [
+712,
+54,
+980,
+503
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a8/p1",
+"parent": "hq/emuna-01/a8",
+"kind": "panel",
+"panel": 1,
+"en": "an empty wooden table with nothing on it, no people, no text (nothing)",
+"he_ctx": {
+"caption": "שום דבר",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מי שמקים ׳ואמונתך בלילות׳ – מה מחכה לו?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a8.orig.jpg"
+},
+"crop": [
+378,
+54,
+645,
+504
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a8/p2",
+"parent": "hq/emuna-01/a8",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah happily opening a treasure chest full of shining gold coins, only the one boy in this panel, no text (a good reward)",
+"he_ctx": {
+"caption": "שכר טוב",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מי שמקים ׳ואמונתך בלילות׳ – מה מחכה לו?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a8.orig.jpg"
+},
+"crop": [
+43,
+54,
+311,
+503
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-01/a9",
+"kind": "triptych",
+"en": "a boy wearing a kippah sitting on his bed in the morning, stretching and smiling, sunrise through the window, only the one boy in this panel, no text | a boy wearing a kippah pulling the blanket over his head in bed, only the one boy in this panel, no text | a boy wearing a kippah shrugging his shoulders with empty open hands, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "השעון מצלצל, ועוד מתוק לישן. מה חושב ילד שלמד את הנושא הזה?",
+"chapter_title": "",
+"captions": [
+"מצווה גדולה",
+"חוזר לישון",
+"אין מה לעשות"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a9.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-a9.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a9/p0",
+"parent": "hq/emuna-01/a9",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah sitting on his bed in the morning, stretching and smiling, sunrise through the window, only the one boy in this panel, no text (a big mitzvah)",
+"he_ctx": {
+"caption": "מצווה גדולה",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "השעון מצלצל, ועוד מתוק לישן. מה חושב ילד שלמד את הנושא הזה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a9.orig.jpg"
+},
+"crop": [
+707,
+54,
+973,
+518
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a9/p1",
+"parent": "hq/emuna-01/a9",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah pulling the blanket over his head in bed, only the one boy in this panel, no text (back to sleep)",
+"he_ctx": {
+"caption": "חוזר לישון",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "השעון מצלצל, ועוד מתוק לישן. מה חושב ילד שלמד את הנושא הזה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a9.orig.jpg"
+},
+"crop": [
+378,
+54,
+645,
+517
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a9/p2",
+"parent": "hq/emuna-01/a9",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah shrugging his shoulders with empty open hands, only the one boy in this panel, no text (nothing to do)",
+"he_ctx": {
+"caption": "אין מה לעשות",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "השעון מצלצל, ועוד מתוק לישן. מה חושב ילד שלמד את הנושא הזה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a9.orig.jpg"
+},
+"crop": [
+51,
+54,
+315,
+518
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-01/a10",
+"kind": "triptych",
+"en": "a boy wearing a kippah standing at a window in the morning with the sun rising, only the one boy in this panel, no text | two lit Shabbat candles in silver candlesticks next to two covered challah loaves, no people, no text | a boy wearing a kippah sitting by a window at night looking at the moon and stars with his hand on his heart, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "מתי עובדים את ה׳?",
+"chapter_title": "",
+"captions": [
+"רק בבוקר",
+"רק בשבת",
+"גם בלילה"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a10.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-a10.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a10/p0",
+"parent": "hq/emuna-01/a10",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah standing at a window in the morning with the sun rising, only the one boy in this panel, no text (only in the morning)",
+"he_ctx": {
+"caption": "רק בבוקר",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מתי עובדים את ה׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a10.orig.jpg"
+},
+"crop": [
+712,
+54,
+972,
+517
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a10/p1",
+"parent": "hq/emuna-01/a10",
+"kind": "panel",
+"panel": 1,
+"en": "two lit Shabbat candles in silver candlesticks next to two covered challah loaves, no people, no text (only on Shabbat)",
+"he_ctx": {
+"caption": "רק בשבת",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מתי עובדים את ה׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a10.orig.jpg"
+},
+"crop": [
+381,
+54,
+642,
+517
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/a10/p2",
+"parent": "hq/emuna-01/a10",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah sitting by a window at night looking at the moon and stars with his hand on his heart, only the one boy in this panel, no text (also at night)",
+"he_ctx": {
+"caption": "גם בלילה",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"chapter_title": "",
+"question": "מתי עובדים את ה׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\a10.orig.jpg"
+},
+"crop": [
+49,
+54,
+313,
+516
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/b1",
+"kind": "scene",
+"en": "H: an old wise sage with a long white beard in simple ancient robes teaching in a stone study hall, a few students dozing with their heads on the table while others lean forward awake, only men, a Star of David on the wall, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "העם התנמנם בשעור. כדי לעורר אותם, מה שאל רבי עקיבא?",
+"chapter_title": "",
+"options": [
+"מה ראתה שרה אמנו שתחיה מאה עשרים ושבע שנים?",
+"מה ראה מרדכי היהודי שישב דוקא בשער המלך?",
+"מה ראתה אסתר שתמלך על מאה עשרים ושבע מדינות?",
+"מה ראה המלך אחשורוש שיעשה משתה לכל עבדיו?"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\b1.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-b1.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/b2",
+"kind": "scene",
+"en": "a golden royal crown on a velvet cushion beside an old parchment map of many lands, soft light, no people, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "לפי המדרש, למה אסתר מלכה על קכ״ז מדינות?",
+"chapter_title": "",
+"options": [
+"כי היא נכדתה של שרה שחיתה קכ״ז שנים",
+"כי היא עצמה חיתה מאה עשרים ושבע שנים בשלום",
+"כי המלך אחשורוש נתן לה את המדינות במתנה",
+"כי לאברהם היו מאה עשרים ושבע מדינות בנחלה"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\b2.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-b2.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/b3",
+"kind": "scene",
+"en": "a pair of tiny baby shoes and a small wooden toy block on a wooden floor in soft light, no people, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "מה הקשיה של החתם סופר על המדרש?",
+"chapter_title": "",
+"options": [
+"איך יכלה אסתר למלך על כל כך הרבה מדינות",
+"אם כל שנה נותנת מדינה, איזו זכות יש לשנות הקטנות",
+"למה שרה חיתה דוקא מאה עשרים ושבע שנים",
+"מדוע רבי עקיבא דרש דרשה כזו לעם"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\b3.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-b3.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/b4",
+"kind": "scene",
+"en": "a tent in the desert at night under a sky full of stars and a bright crescent moon, a small oil lamp glowing inside the open tent, no people, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "איך מתרץ החתם סופר את הקשיה, בעזרת ׳ותקם בעוד לילה׳?",
+"chapter_title": "",
+"options": [
+"שרה קמה בלילות והשלימה את שנות הקטנות",
+"כששרה היתה עוד קטנה היא קמה כל לילה ללמד תורה",
+"אברהם ושרה קמו יחד בכל לילה להכניס אורחים לאהל",
+"שרה לא ישנה בכלל אפלו לא שעה אחת מעולם"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\b4.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-b4.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/b5",
+"kind": "scene",
+"en": "a boy wearing a kippah lying in bed in the dark with his eyes open, smiling softly, moonlight through the window and stars outside, only the one boy, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "שוכבים במטה ולא נרדמים. מה אפשר לעשות, לפי החתם סופר?",
+"chapter_title": "",
+"options": [
+"לקום ולשחק בשקט עד שמתעיפים שוב",
+"לחשב מחשבות טובות, וגם השנה תהיה לשם שמים",
+"לחכות בשתיקה, כי מחשבות בלילה אינן נחשבות כלל",
+"להתחיל ללמד בקול רם כדי שכלם יתעוררו"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\b5.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-b5.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/b6",
+"kind": "scene",
+"en": "a bright sun and a bright full moon side by side over a quiet desert hill, golden sand, no people, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "למה כתוב בפסוק ׳שני חיי שרה׳ ולא ׳שנות חיי שרה׳?",
+"chapter_title": "",
+"options": [
+"כי חייה כפולים, שהרי גם הלילות שלה נחשבים",
+"כי היא חיתה פעמים ונולדה מחדש בגיל מבגר",
+"כי המלה ׳שני׳ היא רק המשך של הפסוק הקודם",
+"כי שני הבנים שלה היו גדולים בדורם"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\b6.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-b6.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/b7",
+"kind": "scene",
+"en": "a dark night sky over a quiet old town, houses with closed shutters and a few lit windows, a bright moon and stars, no people, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "לפי החתם סופר, איך רב האנשים רואים את הלילה?",
+"chapter_title": "",
+"options": [
+"כזמן שבו הכל חשוך ואסור לעשות בו מצוות",
+"כזמן שנחשב חצי יום, ואין בו עבודת ה׳",
+"כזמן שבו ה׳ אינו שומע את התפלות",
+"כזמן שחיבים בו ללמד תורה בלי הפסק"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\b7.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-b7.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-01",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-01.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-01/b8",
+"kind": "scene",
+"en": "a boy wearing pajamas and a kippah carrying a glass of water along a dim hallway at night, a small glowing night light on the wall, only the one boy, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "עובדים את ה׳ גם בלילה וגם כשקשה",
+"subtitle": "מצוות גדולות ברגעים העיפים, שרה אמנו שקמה בלילות, והלכות של מחשבה",
+"question": "קמת בלילה להביא כוס מים לאחיך הקטן. מה חושב מי שלמד ׳ותקם בעוד לילה׳?",
+"chapter_title": "",
+"options": [
+"חבל, הלילה הוא רק זמן לישן ולא יותר",
+"גם הלילה הזה נחשב לי לעבודת ה׳ ולחיים כפולים",
+"הכי טוב לחכות עד הבקר כדי שיעשו את זה אחרים",
+"אעשה את זה, אבל זה לא קשור למצוות בכלל"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-01\\b8.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-01-b8.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-02/a1",
+"kind": "triptych",
+"en": "a boy's two hands holding a wooden toy box, only hands and sleeves visible, no text | a boy wearing a kippah speaking with his mouth open, only the one boy in this panel, no text | a boy wearing a kippah with his hand on his heart and a calm smile, looking up at the sun and white clouds, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "איפה נמצאת מצות האמונה בה׳?",
+"chapter_title": "",
+"captions": [
+"ידים",
+"פה",
+"לב"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a1.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-a1.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a1/p0",
+"parent": "hq/emuna-02/a1",
+"kind": "panel",
+"panel": 0,
+"en": "a boy's two hands holding a wooden toy box, only hands and sleeves visible, no text (hands)",
+"he_ctx": {
+"caption": "ידים",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איפה נמצאת מצות האמונה בה׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a1.orig.jpg"
+},
+"crop": [
+712,
+54,
+970,
+496
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a1/p1",
+"parent": "hq/emuna-02/a1",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah speaking with his mouth open, only the one boy in this panel, no text (mouth)",
+"he_ctx": {
+"caption": "פה",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איפה נמצאת מצות האמונה בה׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a1.orig.jpg"
+},
+"crop": [
+382,
+54,
+641,
+496
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a1/p2",
+"parent": "hq/emuna-02/a1",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah with his hand on his heart and a calm smile, looking up at the sun and white clouds, only the one boy in this panel, no text (heart)",
+"he_ctx": {
+"caption": "לב",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איפה נמצאת מצות האמונה בה׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a1.orig.jpg"
+},
+"crop": [
+52,
+54,
+313,
+496
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-02/a2",
+"kind": "triptych",
+"en": "a boy wearing a kippah standing at a set table, singing from a closed small booklet with blank pages, mouth open, only the one boy in this panel, no text | a boy wearing a kippah washing his hands from a two-handled cup over a sink, only the one boy in this panel, no text | a boy wearing a kippah with his hand on his heart and a loving smile, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "איזו מצוה עושים בפה?",
+"chapter_title": "",
+"captions": [
+"ברכת המזון",
+"נטילת ידים",
+"אהבת ה׳"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a2.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-a2.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a2/p0",
+"parent": "hq/emuna-02/a2",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah standing at a set table, singing from a closed small booklet with blank pages, mouth open, only the one boy in this panel, no text (bentsching)",
+"he_ctx": {
+"caption": "ברכת המזון",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איזו מצוה עושים בפה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a2.orig.jpg"
+},
+"crop": [
+713,
+54,
+971,
+507
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a2/p1",
+"parent": "hq/emuna-02/a2",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah washing his hands from a two-handled cup over a sink, only the one boy in this panel, no text (washing hands)",
+"he_ctx": {
+"caption": "נטילת ידים",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איזו מצוה עושים בפה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a2.orig.jpg"
+},
+"crop": [
+384,
+54,
+640,
+508
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a2/p2",
+"parent": "hq/emuna-02/a2",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah with his hand on his heart and a loving smile, only the one boy in this panel, no text (loving)",
+"he_ctx": {
+"caption": "אהבת ה׳",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איזו מצוה עושים בפה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a2.orig.jpg"
+},
+"crop": [
+53,
+54,
+310,
+508
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-02/a3",
+"kind": "triptych",
+"en": "a boy wearing a kippah reciting aloud with open mouth, only the one boy in this panel, no text | a boy wearing a kippah carrying a heavy basket of food to help a neighbor, only the one boy in this panel, no text | a big red heart glowing, with soft golden light around it, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "רבנו בחיי מבאר: ׳תלמוד תורה כנגד כלם׳ – כנגד איזו מצוות?",
+"chapter_title": "",
+"captions": [
+"הדבור",
+"המעשה",
+"שבלב"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a3.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-a3.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a3/p0",
+"parent": "hq/emuna-02/a3",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah reciting aloud with open mouth, only the one boy in this panel, no text (speaking)",
+"he_ctx": {
+"caption": "הדבור",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "רבנו בחיי מבאר: ׳תלמוד תורה כנגד כלם׳ – כנגד איזו מצוות?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a3.orig.jpg"
+},
+"crop": [
+713,
+54,
+977,
+519
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a3/p1",
+"parent": "hq/emuna-02/a3",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah carrying a heavy basket of food to help a neighbor, only the one boy in this panel, no text (doing)",
+"he_ctx": {
+"caption": "המעשה",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "רבנו בחיי מבאר: ׳תלמוד תורה כנגד כלם׳ – כנגד איזו מצוות?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a3.orig.jpg"
+},
+"crop": [
+388,
+54,
+635,
+582
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a3/p2",
+"parent": "hq/emuna-02/a3",
+"kind": "panel",
+"panel": 2,
+"en": "a big red heart glowing, with soft golden light around it, no people, no text (heart)",
+"he_ctx": {
+"caption": "שבלב",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "רבנו בחיי מבאר: ׳תלמוד תורה כנגד כלם׳ – כנגד איזו מצוות?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a3.orig.jpg"
+},
+"crop": [
+46,
+54,
+311,
+519
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-02/a4",
+"kind": "triptych",
+"en": "a group of boys wearing kippot standing in a friendly circle with arms around each other's shoulders, smiling, no text | a boy wearing a kippah blowing a shofar, only the one boy in this panel, no text | a boy wearing a kippah putting on tefillin on his arm, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "איזו מצוה היא מצוה שבלב?",
+"chapter_title": "",
+"captions": [
+"אהבת ישראל",
+"תקיעת שופר",
+"הנחת תפלין"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a4.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-a4.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a4/p0",
+"parent": "hq/emuna-02/a4",
+"kind": "panel",
+"panel": 0,
+"en": "a group of boys wearing kippot standing in a friendly circle with arms around each other's shoulders, smiling, no text (loving Israel)",
+"he_ctx": {
+"caption": "אהבת ישראל",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איזו מצוה היא מצוה שבלב?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a4.orig.jpg"
+},
+"crop": [
+708,
+54,
+970,
+504
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a4/p1",
+"parent": "hq/emuna-02/a4",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah blowing a shofar, only the one boy in this panel, no text (shofar)",
+"he_ctx": {
+"caption": "תקיעת שופר",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איזו מצוה היא מצוה שבלב?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a4.orig.jpg"
+},
+"crop": [
+380,
+54,
+644,
+504
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a4/p2",
+"parent": "hq/emuna-02/a4",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah putting on tefillin on his arm, only the one boy in this panel, no text (tefillin)",
+"he_ctx": {
+"caption": "הנחת תפלין",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איזו מצוה היא מצוה שבלב?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a4.orig.jpg"
+},
+"crop": [
+52,
+54,
+316,
+504
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-02/a5",
+"kind": "triptych",
+"en": "a bearded man with kippah standing next to a tall stack of big Talmud volumes, no text on the books | two men with kippot standing side by side with equal small stars above them, no text | a bearded man with kippah, hand on his heart, looking up at the sun with a peaceful smile, only the one man in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "חבר אחד בקי בכל הש״ס ואמונתו חלשה, וחבר שני לא בקי ואמונתו חזקה. מי גדול יותר?",
+"chapter_title": "",
+"captions": [
+"הבקי בש״ס",
+"שניהם שוים",
+"בעל האמונה"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a5.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-a5.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a5/p0",
+"parent": "hq/emuna-02/a5",
+"kind": "panel",
+"panel": 0,
+"en": "a bearded man with kippah standing next to a tall stack of big Talmud volumes, no text on the books (knows the Talmud)",
+"he_ctx": {
+"caption": "הבקי בש״ס",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "חבר אחד בקי בכל הש״ס ואמונתו חלשה, וחבר שני לא בקי ואמונתו חזקה. מי גדול יותר?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a5.orig.jpg"
+},
+"crop": [
+708,
+54,
+973,
+510
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a5/p1",
+"parent": "hq/emuna-02/a5",
+"kind": "panel",
+"panel": 1,
+"en": "two men with kippot standing side by side with equal small stars above them, no text (equal)",
+"he_ctx": {
+"caption": "שניהם שוים",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "חבר אחד בקי בכל הש״ס ואמונתו חלשה, וחבר שני לא בקי ואמונתו חזקה. מי גדול יותר?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a5.orig.jpg"
+},
+"crop": [
+379,
+54,
+644,
+509
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a5/p2",
+"parent": "hq/emuna-02/a5",
+"kind": "panel",
+"panel": 2,
+"en": "a bearded man with kippah, hand on his heart, looking up at the sun with a peaceful smile, only the one man in this panel, no text (strong faith)",
+"he_ctx": {
+"caption": "בעל האמונה",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "חבר אחד בקי בכל הש״ס ואמונתו חלשה, וחבר שני לא בקי ואמונתו חזקה. מי גדול יותר?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a5.orig.jpg"
+},
+"crop": [
+50,
+54,
+317,
+509
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-02/a6",
+"kind": "triptych",
+"en": "a snowy field with snow falling and white hills, no people, no text | a green field under a dark gray rain cloud with rain falling and puddles, no people, no text | a bright sun in a clear blue sky over a field, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "מה קרה כשרב יהודה חלץ נעל אחת לקראת תענית?",
+"chapter_title": "",
+"captions": [
+"שלג",
+"גשם",
+"שמש"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a6.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-a6.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a6/p0",
+"parent": "hq/emuna-02/a6",
+"kind": "panel",
+"panel": 0,
+"en": "a snowy field with snow falling and white hills, no people, no text (snow)",
+"he_ctx": {
+"caption": "שלג",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "מה קרה כשרב יהודה חלץ נעל אחת לקראת תענית?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a6.orig.jpg"
+},
+"crop": [
+700,
+54,
+973,
+506
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a6/p1",
+"parent": "hq/emuna-02/a6",
+"kind": "panel",
+"panel": 1,
+"en": "a green field under a dark gray rain cloud with rain falling and puddles, no people, no text (rain)",
+"he_ctx": {
+"caption": "גשם",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "מה קרה כשרב יהודה חלץ נעל אחת לקראת תענית?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a6.orig.jpg"
+},
+"crop": [
+376,
+54,
+648,
+507
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a6/p2",
+"parent": "hq/emuna-02/a6",
+"kind": "panel",
+"panel": 2,
+"en": "a bright sun in a clear blue sky over a field, no people, no text (sun)",
+"he_ctx": {
+"caption": "שמש",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "מה קרה כשרב יהודה חלץ נעל אחת לקראת תענית?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a6.orig.jpg"
+},
+"crop": [
+51,
+54,
+322,
+507
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-02/a7",
+"kind": "triptych",
+"en": "a boy wearing a kippah holding a big red heart in both hands, smiling, only the one boy in this panel, no text | a pile of shiny gold coins on a table, no people, no text | a fancy festive coat hanging on a wooden hanger, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "הגמרא אומרת: ׳הקדוש ברוך הוא לבא בעי׳. מה ה׳ רוצה?",
+"chapter_title": "",
+"captions": [
+"את הלב",
+"את הכסף",
+"בגדים יפים"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a7.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-a7.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a7/p0",
+"parent": "hq/emuna-02/a7",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah holding a big red heart in both hands, smiling, only the one boy in this panel, no text (heart)",
+"he_ctx": {
+"caption": "את הלב",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "הגמרא אומרת: ׳הקדוש ברוך הוא לבא בעי׳. מה ה׳ רוצה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a7.orig.jpg"
+},
+"crop": [
+698,
+54,
+982,
+520
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a7/p1",
+"parent": "hq/emuna-02/a7",
+"kind": "panel",
+"panel": 1,
+"en": "a pile of shiny gold coins on a table, no people, no text (money)",
+"he_ctx": {
+"caption": "את הכסף",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "הגמרא אומרת: ׳הקדוש ברוך הוא לבא בעי׳. מה ה׳ רוצה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a7.orig.jpg"
+},
+"crop": [
+370,
+54,
+652,
+521
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a7/p2",
+"parent": "hq/emuna-02/a7",
+"kind": "panel",
+"panel": 2,
+"en": "a fancy festive coat hanging on a wooden hanger, no people, no text (nice clothes)",
+"he_ctx": {
+"caption": "בגדים יפים",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "הגמרא אומרת: ׳הקדוש ברוך הוא לבא בעי׳. מה ה׳ רוצה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a7.orig.jpg"
+},
+"crop": [
+40,
+54,
+326,
+519
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-02/a8",
+"kind": "triptych",
+"en": "a boy wearing a kippah washing his hands from a two-handled cup, only the one boy in this panel, no text | a boy wearing a kippah with eyes closed and a hand on his heart in front of an open book with blank pages, about to learn, only the one boy in this panel, no text | two lit candles in silver candlesticks on a table, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "מה לא עשו לפני הלמוד בימי הבית הראשון?",
+"chapter_title": "",
+"captions": [
+"נטילת ידים",
+"ברכות התורה",
+"הדלקת נרות"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a8.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-a8.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a8/p0",
+"parent": "hq/emuna-02/a8",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah washing his hands from a two-handled cup, only the one boy in this panel, no text (washing hands)",
+"he_ctx": {
+"caption": "נטילת ידים",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "מה לא עשו לפני הלמוד בימי הבית הראשון?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a8.orig.jpg"
+},
+"crop": [
+712,
+54,
+977,
+511
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a8/p1",
+"parent": "hq/emuna-02/a8",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah with eyes closed and a hand on his heart in front of an open book with blank pages, about to learn, only the one boy in this panel, no text (Torah blessing)",
+"he_ctx": {
+"caption": "ברכות התורה",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "מה לא עשו לפני הלמוד בימי הבית הראשון?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a8.orig.jpg"
+},
+"crop": [
+378,
+54,
+644,
+511
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a8/p2",
+"parent": "hq/emuna-02/a8",
+"kind": "panel",
+"panel": 2,
+"en": "two lit candles in silver candlesticks on a table, no people, no text (candles)",
+"he_ctx": {
+"caption": "הדלקת נרות",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "מה לא עשו לפני הלמוד בימי הבית הראשון?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a8.orig.jpg"
+},
+"crop": [
+45,
+54,
+312,
+510
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-02/a9",
+"kind": "triptych",
+"en": "two boys wearing kippot studying together over an open book with blank pages, no text | two boys wearing kippot standing arm in arm and smiling warmly, no text | a farmer man with kippah holding a basket of fruit and a basket of grain, only the one man in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "מה היה חסר בבית המקדש השני, אף שלמדו תורה?",
+"chapter_title": "",
+"captions": [
+"למוד התורה",
+"אהבת חברים",
+"המעשרות"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a9.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-a9.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a9/p0",
+"parent": "hq/emuna-02/a9",
+"kind": "panel",
+"panel": 0,
+"en": "two boys wearing kippot studying together over an open book with blank pages, no text (learning Torah)",
+"he_ctx": {
+"caption": "למוד התורה",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "מה היה חסר בבית המקדש השני, אף שלמדו תורה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a9.orig.jpg"
+},
+"crop": [
+703,
+54,
+977,
+507
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a9/p1",
+"parent": "hq/emuna-02/a9",
+"kind": "panel",
+"panel": 1,
+"en": "two boys wearing kippot standing arm in arm and smiling warmly, no text (loving friends)",
+"he_ctx": {
+"caption": "אהבת חברים",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "מה היה חסר בבית המקדש השני, אף שלמדו תורה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a9.orig.jpg"
+},
+"crop": [
+376,
+54,
+647,
+506
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a9/p2",
+"parent": "hq/emuna-02/a9",
+"kind": "panel",
+"panel": 2,
+"en": "a farmer man with kippah holding a basket of fruit and a basket of grain, only the one man in this panel, no text (tithes)",
+"he_ctx": {
+"caption": "המעשרות",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "מה היה חסר בבית המקדש השני, אף שלמדו תורה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a9.orig.jpg"
+},
+"crop": [
+47,
+54,
+319,
+507
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-02/a10",
+"kind": "triptych",
+"en": "a boy wearing a kippah running fast outdoors, only the one boy in this panel, no text | a boy wearing a kippah paying at a shop counter with coins, only the one boy in this panel, no text | a boy wearing a kippah sitting quietly with a finger on his forehead thinking hard, an empty thought bubble above his head, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "איך קונים מצוות שבלב?",
+"chapter_title": "",
+"captions": [
+"בריצה",
+"בקניה",
+"במחשבה חזקה"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a10.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-a10.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a10/p0",
+"parent": "hq/emuna-02/a10",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah running fast outdoors, only the one boy in this panel, no text (running)",
+"he_ctx": {
+"caption": "בריצה",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איך קונים מצוות שבלב?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a10.orig.jpg"
+},
+"crop": [
+707,
+54,
+979,
+530
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a10/p1",
+"parent": "hq/emuna-02/a10",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah paying at a shop counter with coins, only the one boy in this panel, no text (shopping)",
+"he_ctx": {
+"caption": "בקניה",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איך קונים מצוות שבלב?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a10.orig.jpg"
+},
+"crop": [
+376,
+54,
+647,
+530
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:1",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/a10/p2",
+"parent": "hq/emuna-02/a10",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah sitting quietly with a finger on his forehead thinking hard, an empty thought bubble above his head, only the one boy in this panel, no text (strong thought)",
+"he_ctx": {
+"caption": "במחשבה חזקה",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"chapter_title": "",
+"question": "איך קונים מצוות שבלב?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\a10.orig.jpg"
+},
+"crop": [
+45,
+54,
+315,
+530
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/b1",
+"kind": "scene",
+"en": "a gentle scene of an old sage with a white beard and simple clothes sitting by a window with an open book, a warm light, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "בדור של רבא למדו הרבה יותר מבדור של רב יהודה, ובכל זאת ה׳ ענה דוקא לרב יהודה. מה למדנו?",
+"chapter_title": "",
+"options": [
+"שה׳ רוצה את הלב, לא רק למוד",
+"שה׳ עונה רק למי שלומד את סדר נזיקין",
+"שבדורות מאחרים כבר אין צרך ללמד הרבה",
+"שה׳ עונה רק למי שצם ומתענה כל שבוע"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\b1.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-b1.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/b2",
+"kind": "scene",
+"en": "a gray rain cloud far away over dry brown hills, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "מה קרה בדור של רבא כשצעקו והתפללו שירד גשם?",
+"chapter_title": "",
+"options": [
+"צעקו ולא נענו, אף שלמדו תורה",
+"ירד גשם מיד, כי למדו הרבה תורה ביום",
+"ירד גשם רק אחרי שהתפללו שלושה ימים",
+"היו עננים אבל הגשם ירד רק למחרת בבקר"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\b2.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-b2.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/b3",
+"kind": "scene",
+"en": "two boys with kippot sitting at a table, one with a stack of books and one with a hand on his heart, friendly, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "דני בקי בהרבה גמרא ואמונתו חלשה, ויוסי יודע פחות אבל אמונתו חזקה. מה נכון לומר לפי רבנו בחיי?",
+"chapter_title": "",
+"options": [
+"מצות האמונה של יוסי גדולה יותר, וגם הוא ילמד גמרא",
+"דני גדול יותר, כי למוד תורה גדול מכל מצוה בעולם",
+"שניהם שוות, כי כל מצוה שקולה בדיוק כמו השניה",
+"יוסי גדול יותר, לכן הוא כבר לא צריך ללמד גמרא"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\b3.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-b3.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/b4",
+"kind": "scene",
+"en": "a boy wearing a kippah sitting at a table with a closed gemara in front of him, his eyes closed and hand on his heart, calm, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "יוסף עומד לפתח גמרא ללמד. מה כדאי לעשות קדם, לפי הלקח מן הבית הראשון?",
+"chapter_title": "",
+"options": [
+"לפתח מיד וללמד מהר כדי לסים לפני כלם",
+"לברך מהר בלי לחשב, כי העקר שאמר את המלים",
+"לברך בכונה ולחשב שלומדים להתקרב לה׳",
+"ללמד בשקיקה ולשכח מברכות כדי לא לאבד זמן"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\b4.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-b4.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/b5",
+"kind": "scene",
+"en": "a big golden stone ancient temple building with tall columns seen far away on a hill, soft light, no people, no cross, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "לפי הפסוק בירמיהו, מי הסביר על מה נחרבה הארץ?",
+"chapter_title": "",
+"options": [
+"החכמים והנביאים הסבירו מיד, ולאחר מכן ה׳ הוסיף",
+"ה׳ בעצמו פרש, אחרי שהחכמים והנביאים לא ידעו",
+"ירמיהו הנביא הסביר זאת לבדו בעיר ירושלים",
+"אף אחד לא הסביר זאת עד היום הזה"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\b5.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-b5.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/b6",
+"kind": "scene",
+"en": "an empty small tent frame with a glowing light inside, symbolizing a dwelling place, desert at dawn, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "מה הסביר הב״ח על החסרון בבית המקדש הראשון?",
+"chapter_title": "",
+"options": [
+"שלא למדו מספיק שעות ביום, ולכן חסרה ידיעה",
+"שלמדו תורה בקול חלש מדי ולא התמידו בה",
+"שלא למדו כדי להתחבר לה׳ ולבנות בלב משכן",
+"שהתבלבלו בהלכות ולא הקפידו על כל פרט"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\b6.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-b6.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/b7",
+"kind": "scene",
+"en": "broken golden stones of an old wall with a little thin smoke far away on the horizon, quiet, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "מה היה החסרון בבית המקדש השני, לפי הירושלמי?",
+"chapter_title": "",
+"options": [
+"לא למדו תורה, אבל אהבו זה את זה מאד",
+"עמלו בתורה ושמרו מצוות, אבל שנאו זה את זה בחנם",
+"עמלו בתורה, אבל לא ברכו בתורה תחלה",
+"הקפידו על מעשרות, אבל לא הקפידו ללמד תורה"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\b7.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-b7.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-02",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-02.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-02/b8",
+"kind": "scene",
+"en": "two boys wearing kippot at school shaking hands and smiling after a disagreement, only these two boys, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "רחמנא לבא בעי – ה׳ רוצה את הלב",
+"subtitle": "מצוות שבלב גדולות מלמוד תורה, ולמה נחרבו שני בתי המקדש",
+"question": "חבר צחק עליך בלי סבה, ואתה כועס. מה עושים לפי הלקח מן הבית השני?",
+"chapter_title": "",
+"options": [
+"מחכים להחזיר לו בפעם הבאה, כדי שיבין",
+"מדברים עליו עם כל הכתה, כדי שכלם ידעו",
+"מתעלמים ממנו ולא מדברים אתו יותר",
+"נזכרים ששנאת חנם החריבה, ומנסים לסלח"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-02\\b8.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-02-b8.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-03/a1",
+"kind": "triptych",
+"en": "a stone bridge over a small river in a green valley, no people, no text | a bearded old man in simple ancient robes standing quietly at the entrance of a stone cave in a field, a large flat stone beside the cave, stars in the evening sky, only the one man in this panel, no text | an ancient stone water well with a rope and a wooden bucket in the desert, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "במדרש, איזה מעשה של אברהם נקרא ׳גמילות חסד׳?",
+"chapter_title": "",
+"captions": [
+"גשר",
+"קבורה במערה",
+"באר"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a1.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-a1.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a1/p0",
+"parent": "hq/emuna-03/a1",
+"kind": "panel",
+"panel": 0,
+"en": "a stone bridge over a small river in a green valley, no people, no text (bridge)",
+"he_ctx": {
+"caption": "גשר",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "במדרש, איזה מעשה של אברהם נקרא ׳גמילות חסד׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a1.orig.jpg"
+},
+"crop": [
+712,
+54,
+986,
+508
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a1/p1",
+"parent": "hq/emuna-03/a1",
+"kind": "panel",
+"panel": 1,
+"en": "a bearded old man in simple ancient robes standing quietly at the entrance of a stone cave in a field, a large flat stone beside the cave, stars in the evening sky, only the one man in this panel, no text (burying in the cave)",
+"he_ctx": {
+"caption": "קבורה במערה",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "במדרש, איזה מעשה של אברהם נקרא ׳גמילות חסד׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a1.orig.jpg"
+},
+"crop": [
+356,
+54,
+667,
+508
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a1/p2",
+"parent": "hq/emuna-03/a1",
+"kind": "panel",
+"panel": 2,
+"en": "an ancient stone water well with a rope and a wooden bucket in the desert, no people, no text (digging a well)",
+"he_ctx": {
+"caption": "באר",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "במדרש, איזה מעשה של אברהם נקרא ׳גמילות חסד׳?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a1.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a1.orig.jpg"
+},
+"crop": [
+37,
+54,
+312,
+508
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-03/a2",
+"kind": "triptych",
+"en": "a carpenter's workshop with a wooden workbench, a saw and planks of wood, no people, no text | a man wearing a kippah kindly handing a loaf of bread to a poor man with a bag on his back, only these two men in this panel, no text | a tailor's table with colorful cloth, a measuring tape and scissors, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "מה היתה ה״אמנות״ (המקצוע) של ה׳, לפי המדרש?",
+"chapter_title": "",
+"captions": [
+"נגר",
+"עושה חסד",
+"חייט"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a2.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-a2.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a2/p0",
+"parent": "hq/emuna-03/a2",
+"kind": "panel",
+"panel": 0,
+"en": "a carpenter's workshop with a wooden workbench, a saw and planks of wood, no people, no text (carpenter)",
+"he_ctx": {
+"caption": "נגר",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מה היתה ה״אמנות״ (המקצוע) של ה׳, לפי המדרש?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a2.orig.jpg"
+},
+"crop": [
+711,
+54,
+975,
+517
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a2/p1",
+"parent": "hq/emuna-03/a2",
+"kind": "panel",
+"panel": 1,
+"en": "a man wearing a kippah kindly handing a loaf of bread to a poor man with a bag on his back, only these two men in this panel, no text (giving kindness)",
+"he_ctx": {
+"caption": "עושה חסד",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מה היתה ה״אמנות״ (המקצוע) של ה׳, לפי המדרש?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a2.orig.jpg"
+},
+"crop": [
+380,
+54,
+643,
+516
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a2/p2",
+"parent": "hq/emuna-03/a2",
+"kind": "panel",
+"panel": 2,
+"en": "a tailor's table with colorful cloth, a measuring tape and scissors, no people, no text (tailor)",
+"he_ctx": {
+"caption": "חייט",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מה היתה ה״אמנות״ (המקצוע) של ה׳, לפי המדרש?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a2.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a2.orig.jpg"
+},
+"crop": [
+47,
+54,
+312,
+517
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-03/a3",
+"kind": "triptych",
+"en": "a small crowd of boys wearing kippot standing in a half circle and watching one boy who carries a box, no text | a boy wearing a kippah proudly holding a golden trophy cup, smiling, only the one boy in this panel, no text | a boy wearing a kippah gently handing a cup of water to a younger boy, his other hand resting on his heart and a thoughtful smile, only these two boys, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "לפי הסבא מסלבודקא, מתי פעלה רגילה נעשית חסד?",
+"chapter_title": "",
+"captions": [
+"כולם רואים",
+"מקבלים פרס",
+"מכוונים להיטיב"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a3.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-a3.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a3/p0",
+"parent": "hq/emuna-03/a3",
+"kind": "panel",
+"panel": 0,
+"en": "a small crowd of boys wearing kippot standing in a half circle and watching one boy who carries a box, no text (everyone is watching)",
+"he_ctx": {
+"caption": "כולם רואים",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "לפי הסבא מסלבודקא, מתי פעלה רגילה נעשית חסד?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a3.orig.jpg"
+},
+"crop": [
+706,
+54,
+977,
+498
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a3/p1",
+"parent": "hq/emuna-03/a3",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah proudly holding a golden trophy cup, smiling, only the one boy in this panel, no text (getting a prize)",
+"he_ctx": {
+"caption": "מקבלים פרס",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "לפי הסבא מסלבודקא, מתי פעלה רגילה נעשית חסד?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a3.orig.jpg"
+},
+"crop": [
+379,
+54,
+644,
+499
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a3/p2",
+"parent": "hq/emuna-03/a3",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah gently handing a cup of water to a younger boy, his other hand resting on his heart and a thoughtful smile, only these two boys, no text (meaning to do good)",
+"he_ctx": {
+"caption": "מכוונים להיטיב",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "לפי הסבא מסלבודקא, מתי פעלה רגילה נעשית חסד?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a3.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a3.orig.jpg"
+},
+"crop": [
+46,
+54,
+317,
+498
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-03/a4",
+"kind": "triptych",
+"en": "a boy wearing a kippah carrying a heavy bag for an old bearded stranger on a street, only these two in this panel, no text | a boy wearing a kippah helping his little brother wearing a kippah to tie his shoe at home, both smiling, only these two boys, no text | a festive holiday table with a menorah and candles and a plate of doughnuts, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "לפי הסבא מסלבודקא, למי אפשר לעשות חסד?",
+"chapter_title": "",
+"captions": [
+"רק לזרים",
+"גם בבית",
+"רק בחגים"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a4.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-a4.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a4/p0",
+"parent": "hq/emuna-03/a4",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah carrying a heavy bag for an old bearded stranger on a street, only these two in this panel, no text (only for strangers)",
+"he_ctx": {
+"caption": "רק לזרים",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "לפי הסבא מסלבודקא, למי אפשר לעשות חסד?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a4.orig.jpg"
+},
+"crop": [
+705,
+54,
+984,
+508
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a4/p1",
+"parent": "hq/emuna-03/a4",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah helping his little brother wearing a kippah to tie his shoe at home, both smiling, only these two boys, no text (also at home)",
+"he_ctx": {
+"caption": "גם בבית",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "לפי הסבא מסלבודקא, למי אפשר לעשות חסד?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a4.orig.jpg"
+},
+"crop": [
+372,
+54,
+651,
+509
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a4/p2",
+"parent": "hq/emuna-03/a4",
+"kind": "panel",
+"panel": 2,
+"en": "a festive holiday table with a menorah and candles and a plate of doughnuts, no people, no text (only on holidays)",
+"he_ctx": {
+"caption": "רק בחגים",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "לפי הסבא מסלבודקא, למי אפשר לעשות חסד?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a4.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a4.orig.jpg"
+},
+"crop": [
+37,
+54,
+318,
+509
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-03/a5",
+"kind": "triptych",
+"en": "a big heap of hundreds of small colorful gift boxes tied with ribbons piled high on a wooden floor, no people, no text | one single small gift box with a ribbon in the middle of a wooden table, no people, no text | an empty wooden table with nothing on it in a bright room, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "כמה מעשי חסד אדם עושה בכל יום, לפי הסבא?",
+"chapter_title": "",
+"captions": [
+"מאות",
+"אחד",
+"אפס"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a5.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-a5.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a5/p0",
+"parent": "hq/emuna-03/a5",
+"kind": "panel",
+"panel": 0,
+"en": "a big heap of hundreds of small colorful gift boxes tied with ribbons piled high on a wooden floor, no people, no text (hundreds of acts)",
+"he_ctx": {
+"caption": "מאות",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "כמה מעשי חסד אדם עושה בכל יום, לפי הסבא?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a5.orig.jpg"
+},
+"crop": [
+717,
+54,
+965,
+559
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a5/p1",
+"parent": "hq/emuna-03/a5",
+"kind": "panel",
+"panel": 1,
+"en": "one single small gift box with a ribbon in the middle of a wooden table, no people, no text (only one)",
+"he_ctx": {
+"caption": "אחד",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "כמה מעשי חסד אדם עושה בכל יום, לפי הסבא?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a5.orig.jpg"
+},
+"crop": [
+380,
+54,
+643,
+505
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a5/p2",
+"parent": "hq/emuna-03/a5",
+"kind": "panel",
+"panel": 2,
+"en": "an empty wooden table with nothing on it in a bright room, no people, no text (none)",
+"he_ctx": {
+"caption": "אפס",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "כמה מעשי חסד אדם עושה בכל יום, לפי הסבא?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a5.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a5.orig.jpg"
+},
+"crop": [
+50,
+54,
+315,
+505
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-03/a6",
+"kind": "triptych",
+"en": "a boy wearing a kippah running happily in a sunny schoolyard, only the one boy in this panel, no text, only this one boy, empty schoolyard with no other people in the background | two boys wearing kippot waving hello to each other and smiling at a school gate, no text | a boy wearing a kippah looking quietly out of a window at the clouds, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "איזה מעשה קטן נעשה מצוה עם קצת מחשבה?",
+"chapter_title": "",
+"captions": [
+"רץ בחצר",
+"שלום לחבר",
+"מביט בחלון"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a6.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-a6.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a6/p0",
+"parent": "hq/emuna-03/a6",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah running happily in a sunny schoolyard, only the one boy in this panel, no text, only this one boy, empty schoolyard with no other people in the background (running in the yard)",
+"he_ctx": {
+"caption": "רץ בחצר",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "איזה מעשה קטן נעשה מצוה עם קצת מחשבה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a6.orig.jpg"
+},
+"crop": [
+707,
+54,
+974,
+492
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a6/p1",
+"parent": "hq/emuna-03/a6",
+"kind": "panel",
+"panel": 1,
+"en": "two boys wearing kippot waving hello to each other and smiling at a school gate, no text (greeting a friend)",
+"he_ctx": {
+"caption": "שלום לחבר",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "איזה מעשה קטן נעשה מצוה עם קצת מחשבה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a6.orig.jpg"
+},
+"crop": [
+377,
+54,
+646,
+492
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a6/p2",
+"parent": "hq/emuna-03/a6",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah looking quietly out of a window at the clouds, only the one boy in this panel, no text (looking out the window)",
+"he_ctx": {
+"caption": "מביט בחלון",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "איזה מעשה קטן נעשה מצוה עם קצת מחשבה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a6.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a6.orig.jpg"
+},
+"crop": [
+47,
+54,
+318,
+492
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-03/a7",
+"kind": "triptych",
+"en": "a bearded man wearing a kippah walking carefully and lovingly with his arm around a small sick boy wearing a kippah and a scarf on the way to a clinic building, only these two in this panel, no text | a man wearing a kippah and a small boy wearing a kippah strolling happily in a park with a kite, only these two in this panel, no text | a man wearing a kippah looking at a long paper checklist with a pen in his hand, a small boy waiting beside him, only these two in this panel, no text, no letters",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "מה אמר הרב שר על לקחת ילד חולה לרופא?",
+"chapter_title": "",
+"captions": [
+"חסד",
+"טיול",
+"סידור"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a7.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-a7.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a7/p0",
+"parent": "hq/emuna-03/a7",
+"kind": "panel",
+"panel": 0,
+"en": "a bearded man wearing a kippah walking carefully and lovingly with his arm around a small sick boy wearing a kippah and a scarf on the way to a clinic building, only these two in this panel, no text (kindness)",
+"he_ctx": {
+"caption": "חסד",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מה אמר הרב שר על לקחת ילד חולה לרופא?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a7.orig.jpg"
+},
+"crop": [
+708,
+54,
+977,
+516
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a7/p1",
+"parent": "hq/emuna-03/a7",
+"kind": "panel",
+"panel": 1,
+"en": "a man wearing a kippah and a small boy wearing a kippah strolling happily in a park with a kite, only these two in this panel, no text (a fun trip)",
+"he_ctx": {
+"caption": "טיול",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מה אמר הרב שר על לקחת ילד חולה לרופא?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a7.orig.jpg"
+},
+"crop": [
+376,
+54,
+648,
+515
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a7/p2",
+"parent": "hq/emuna-03/a7",
+"kind": "panel",
+"panel": 2,
+"en": "a man wearing a kippah looking at a long paper checklist with a pen in his hand, a small boy waiting beside him, only these two in this panel, no text, no letters (another errand)",
+"he_ctx": {
+"caption": "סידור",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מה אמר הרב שר על לקחת ילד חולה לרופא?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a7.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a7.orig.jpg"
+},
+"crop": [
+45,
+54,
+317,
+515
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-03/a8",
+"kind": "triptych",
+"en": "a boy wearing a kippah cheerfully carrying his little brother's school bag, smiling and light on his feet, only these two boys in this panel, no text | a boy wearing a kippah struggling with a heavy bag, frowning and bent over, only the one boy in this panel, no text | a boy wearing a kippah yawning widely and rubbing his eyes while sitting on a chair, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "מי שיודע שהוא עושה מצוה – איך זה עוזר לו?",
+"chapter_title": "",
+"captions": [
+"קל וטוב",
+"קשה",
+"עייף"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a8.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-a8.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a8/p0",
+"parent": "hq/emuna-03/a8",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah cheerfully carrying his little brother's school bag, smiling and light on his feet, only these two boys in this panel, no text (easy and happy)",
+"he_ctx": {
+"caption": "קל וטוב",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מי שיודע שהוא עושה מצוה – איך זה עוזר לו?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a8.orig.jpg"
+},
+"crop": [
+699,
+54,
+982,
+543
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a8/p1",
+"parent": "hq/emuna-03/a8",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah struggling with a heavy bag, frowning and bent over, only the one boy in this panel, no text (hard)",
+"he_ctx": {
+"caption": "קשה",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מי שיודע שהוא עושה מצוה – איך זה עוזר לו?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a8.orig.jpg"
+},
+"crop": [
+370,
+54,
+653,
+543
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a8/p2",
+"parent": "hq/emuna-03/a8",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah yawning widely and rubbing his eyes while sitting on a chair, only the one boy in this panel, no text (tired)",
+"he_ctx": {
+"caption": "עייף",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מי שיודע שהוא עושה מצוה – איך זה עוזר לו?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a8.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a8.orig.jpg"
+},
+"crop": [
+40,
+54,
+326,
+542
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-03/a9",
+"kind": "triptych",
+"en": "an old paper map of countries lying flat on a table, no text, no letters | a simple factory machine with gears and a conveyor belt moving boxes by itself, no people, no text | a single white cloud in a blue sky, no people, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "פעלה שעושים מתוך הרגל, בלי לחשב – למה היא דומה?",
+"chapter_title": "",
+"captions": [
+"מפה",
+"מכונה",
+"ענן"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a9.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-a9.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a9/p0",
+"parent": "hq/emuna-03/a9",
+"kind": "panel",
+"panel": 0,
+"en": "an old paper map of countries lying flat on a table, no text, no letters (map)",
+"he_ctx": {
+"caption": "מפה",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "פעלה שעושים מתוך הרגל, בלי לחשב – למה היא דומה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a9.orig.jpg"
+},
+"crop": [
+704,
+54,
+971,
+491
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a9/p1",
+"parent": "hq/emuna-03/a9",
+"kind": "panel",
+"panel": 1,
+"en": "a simple factory machine with gears and a conveyor belt moving boxes by itself, no people, no text (machine)",
+"he_ctx": {
+"caption": "מכונה",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "פעלה שעושים מתוך הרגל, בלי לחשב – למה היא דומה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a9.orig.jpg"
+},
+"crop": [
+379,
+54,
+644,
+491
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a9/p2",
+"parent": "hq/emuna-03/a9",
+"kind": "panel",
+"panel": 2,
+"en": "a single white cloud in a blue sky, no people, no text (cloud)",
+"he_ctx": {
+"caption": "ענן",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "פעלה שעושים מתוך הרגל, בלי לחשב – למה היא דומה?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a9.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a9.orig.jpg"
+},
+"crop": [
+53,
+54,
+318,
+492
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": true,
+"id": "hq/emuna-03/a10",
+"kind": "triptych",
+"en": "a boy wearing a kippah holding out his open palm and looking up expectantly, only the one boy in this panel, no text | a boy wearing a kippah yawning and wrapped in a blanket on a couch, only the one boy in this panel, no text | a boy wearing a kippah standing straight and smiling with his hand on his heart and his sleeves rolled up, ready to help, only the one boy in this panel, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "מה אומרים בלב לפני שעושים חסד?",
+"chapter_title": "",
+"captions": [
+"מבקש פרס",
+"עייף",
+"מוכן ומזומן"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a10.orig.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-a10.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a10/p0",
+"parent": "hq/emuna-03/a10",
+"kind": "panel",
+"panel": 0,
+"en": "a boy wearing a kippah holding out his open palm and looking up expectantly, only the one boy in this panel, no text (wanting a reward)",
+"he_ctx": {
+"caption": "מבקש פרס",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מה אומרים בלב לפני שעושים חסד?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a10.orig.jpg"
+},
+"crop": [
+705,
+54,
+978,
+518
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a10/p1",
+"parent": "hq/emuna-03/a10",
+"kind": "panel",
+"panel": 1,
+"en": "a boy wearing a kippah yawning and wrapped in a blanket on a couch, only the one boy in this panel, no text (so tired)",
+"he_ctx": {
+"caption": "עייף",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מה אומרים בלב לפני שעושים חסד?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a10.orig.jpg"
+},
+"crop": [
+376,
+54,
+648,
+518
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/a10/p2",
+"parent": "hq/emuna-03/a10",
+"kind": "panel",
+"panel": 2,
+"en": "a boy wearing a kippah standing straight and smiling with his hand on his heart and his sleeves rolled up, ready to help, only the one boy in this panel, no text (ready and willing)",
+"he_ctx": {
+"caption": "מוכן ומזומן",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"chapter_title": "",
+"question": "מה אומרים בלב לפני שעושים חסד?"
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a10.jpg",
+"clean": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\a10.orig.jpg"
+},
+"crop": [
+47,
+54,
+318,
+519
+],
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/b1",
+"kind": "scene",
+"en": "a boy wearing a kippah in a cozy room in the early morning packing a small school bag with notebooks and a lunch box for his younger brother who sleepily watches, only these two boys, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "דני מסדר לאחיו הקטן את התיק לבקר. מה יהפך את זה למצוה?",
+"chapter_title": "",
+"options": [
+"הוא יעשה זאת מהר מאד ובלי לדבר",
+"הוא יזכר שזה אחיו, וזה באמת מספיק",
+"הוא יכון להיטיב לצלם אלהים וללכת בדרכי ה׳",
+"הוא יסדר גם את התיק שלו באותו זמן"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\b1.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-b1.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/b2",
+"kind": "scene",
+"en": "a boy wearing a kippah sitting up in bed at night in a dim bedroom with a night lamp and a crib-bed of a little brother beside him, moonlight through the window, only these two boys, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "הלילה אחיך הקטן מתעורר ובוכה. מה כדאי לחשב לפני שקמים?",
+"chapter_title": "",
+"options": [
+"אתאמץ לישן שוב כדי שיהיה לי כח בבקר",
+"הנני מוכן ומזמן לקים ׳ואהבת לרעך כמוך׳",
+"אחכה כמה דקות, אולי מישהו אחר יקום",
+"אקום מהר כדי שהוא ישתק ואני אחזר לישן"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\b2.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-b2.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/b3",
+"kind": "scene",
+"en": "two men wearing kippot talking on a quiet street in an old neighborhood, one of them holding the hand of a small boy wearing a kippah, soft afternoon light, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "הרב שר שאל שוב ושוב ׳לאן אתה הולך?׳. מה רצה ללמד את רבי שלום?",
+"chapter_title": "",
+"options": [
+"שצריך למהר לרופא כדי שלא יאחרו",
+"שגם לקחת ילד לרופא זו מצות גמילות חסד",
+"שחסד עושים רק כשפותחים גמ״ח או מוסד",
+"שאסור ללכת לרופא בלי להתיעץ עם הרב"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\b3.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-b3.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/b4",
+"kind": "scene",
+"en": "H: two wise old men with long white beards in ancient simple robes standing side by side in an ancient stone study hall, one of them lifting a finger as if explaining, warm light, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "מה אמרו רבי עקיבא והלל על ׳ואהבת לרעך כמוך׳?",
+"chapter_title": "",
+"options": [
+"עקיבא: ׳כלל גדול בתורה׳, הלל: ׳כל התורה כלה׳",
+"עקיבא: ׳כל התורה כלה׳, הלל: ׳כלל גדול בתורה׳",
+"שניהם אמרו שזו מצוה קטנה שאפשר לדלג עליה",
+"שניהם אמרו שזו מצוה רק לחברים הכי קרובים"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\b4.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-b4.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/b5",
+"kind": "scene",
+"en": "a tired boy wearing a kippah at a kitchen table late in the evening about to stand up and help carry a pot with his father, determined look, only the boy and an older man wearing a kippah, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "יוסי עיף וקשה לו לעזר לאבא בבית. מה כדאי לו לזכר, לפי הגר״א?",
+"chapter_title": "",
+"options": [
+"שהאדם חי כדי לנוח הרבה אחרי יום עמוס",
+"שהאדם חי כדי להתחזק ולתקן מדה שלא תקנה",
+"שמי שעיף פטור מכל מצוה של עזרה בבית",
+"שהאדם חי כדי לצבר כמה שיותר חפצים יפים"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\b5.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-b5.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/b6",
+"kind": "scene",
+"en": "a boy wearing a kippah carrying a basket of fresh bread and fruit to an old bearded neighbor sitting on a bench in front of a small house, sunny day, only these two, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "מה לומד הפסוק ׳כי חסד חפצתי ולא זבח׳?",
+"chapter_title": "",
+"options": [
+"שה׳ חפץ בקרבנות יותר מכל מעשה טוב אחר",
+"שה׳ חפץ בחסד, ולא רק בקרבנות",
+"שה׳ חפץ שנעשה חסד רק עם מי שאנו אוהבים",
+"שה׳ חפץ שנעשה חסד רק בימים מיחדים"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\b6.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-b6.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/b7",
+"kind": "scene",
+"en": "a boy wearing a kippah reading a picture book to his little brother wearing a kippah on a sofa in a warm living room, a sunny window, only these two boys, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "חננאל עוזר לאחיו ורוצה לקדש שם שמים. מה יכון?",
+"chapter_title": "",
+"options": [
+"שיגדל הכבוד של חננאל וכלם יעריצו אותו",
+"שאחיו ידע מי מחשיב אותו ועוזר לו הכי הרבה",
+"שיתפרסם שם ה׳ בעולם ושאחיו יאהב את ה׳",
+"שההורים יראו כמה הוא עוזר ויתנו לו פרס"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\b7.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-b7.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
+"🌙 אמונה – ואמונתך בלילות"
+],
+"topic_key": "emuna:",
+"quiz": "emuna-03",
+"quiz_page": "https://www.kol-toda.co.il/halacha-quiz/emuna-03.html",
+"reviewed": true,
+"has_text": false,
+"id": "hq/emuna-03/b8",
+"kind": "scene",
+"en": "H: an old man with a long white beard in simple ancient robes sitting in front of a big desert tent at sunset teaching a few boys wearing kippot who sit around him on a rug, warm golden light, only men and boys, no letters, no text",
+"he_ctx": {
+"book": "",
+"quiz_title": "חסד בבית – הולכים בדרכיו",
+"subtitle": "איך עזרה בבית נעשית מצוה, מה אומרים לפני חסד, ולמה ה׳ אוהב אותו",
+"question": "למה אהב ה׳ את אברהם, לפי ׳כי ידעתיו למען אשר יצוה את בניו׳?",
+"chapter_title": "",
+"options": [
+"כי למד את בניו לשמר דרך ה׳ ולעשות צדקה",
+"כי היה הכי חזק ומצא הרבה אוצרות",
+"כי בנה בית גדול וחזק לכל בני המשפחה",
+"כי הלך רחוק מאד ולא התלונן על הדרך"
+]
+},
+"files": {
+"master": "C:\\Users\\User\\torah-game\\halacha-quiz\\img\\emuna-03\\b8.jpg",
+"web_url": "https://yudataub.github.io/kol-toda-halacha/halacha-quiz/img/emuna-03-b8.webp"
+},
+"added": "2026-11-12"
+},
+{
+"source": "hq",
+"engine": "gemini",
+"style": "cartoon",
+"topic": [
+"הלכה",
 "🍽️ הלכות כשרות",
 "כשרות בעלי חיים"
 ],
