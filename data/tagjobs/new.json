@@ -1,282 +1,66 @@
 [
 {
-"id": "hq/shema-05/a1/p0",
-"en": "a door frame of a house with a small mezuzah case on the right side, a boy wearing a kippah touching it with his fingers, no text (mezuzah)",
-"topic": "👂 קריאת שמע",
-"caption": "מזוזה",
-"question": "בבית כותבים את פרשת שמע על...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a1/p1",
-"en": "a plain beige rug on a floor, no text (a rug)",
-"topic": "👂 קריאת שמע",
-"caption": "שטיח",
-"question": "בבית כותבים את פרשת שמע על...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a1/p2",
-"en": "a window with a curtain, no text (a curtain)",
-"topic": "👂 קריאת שמע",
-"caption": "וילון",
-"question": "בבית כותבים את פרשת שמע על...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a2/p0",
-"en": "a boy wearing a kippah pointing with his finger at his own knee, curious face, no tefillin, no text (knee)",
-"topic": "👂 קריאת שמע",
-"caption": "ילד מצביע על הברך",
-"question": "איפה מניחים את התפלין של ראש?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a2/p1",
-"en": "a bearded man wearing a kippah and a prayer shawl with a black tefillin box on his head and black straps, no letters, no text (tefillin on the head)",
-"topic": "👂 קריאת שמע",
-"caption": "תפילין על הראש",
-"question": "איפה מניחים את התפלין של ראש?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a2/p2",
-"en": "a boy wearing a kippah pointing with his finger at his own shoulder, curious face, no tefillin, no text (shoulder)",
-"topic": "👂 קריאת שמע",
-"caption": "ילד מצביע על הכתף",
-"question": "איפה מניחים את התפלין של ראש?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a3/p0",
-"en": "a colorful bracelet on a wrist, no text (bracelet)",
-"topic": "👂 קריאת שמע",
-"caption": "צמיד צבעוני",
-"question": "על היד קושרים את הפרשה ב...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a3/p1",
-"en": "a wristwatch lying on a table, no numbers, no text (watch)",
-"topic": "👂 קריאת שמע",
-"caption": "שעון יד",
-"question": "על היד קושרים את הפרשה ב...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a3/p2",
-"en": "a boy's arm with a black tefillin box on the upper arm and black straps wrapped around the forearm, no letters, no text (tefillin on the arm)",
-"topic": "👂 קריאת שמע",
-"caption": "תפילין",
-"question": "על היד קושרים את הפרשה ב...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a4/p0",
-"en": "a father with a beard and kippah sitting with a toddler boy on his lap, pointing at an open book with blank pages, both smiling, no text (father teaches toddler)",
-"topic": "👂 קריאת שמע",
-"caption": "תורה צוה לנו משה",
-"question": "מה אבא מלמד ילד שמתחיל לדבר?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a4/p1",
-"en": "a father with a kippah tucking a toddler boy into bed and reading a picture book, no text (bedtime story)",
-"topic": "👂 קריאת שמע",
-"caption": "סיפור לפני שינה",
-"question": "מה אבא מלמד ילד שמתחיל לדבר?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a4/p2",
-"en": "a father with a beard and kippah holding a birthday cake with candles, a toddler boy next to him, no text (birthday song)",
-"topic": "👂 קריאת שמע",
-"caption": "שיר ליום הולדת",
-"question": "מה אבא מלמד ילד שמתחיל לדבר?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a5/p0",
-"en": "a boy wearing a kippah with his hands over his ears, no text (ears)",
-"topic": "👂 קריאת שמע",
-"caption": "באוזניים",
-"question": "איך מקימים ״ודברת בם״?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a5/p1",
-"en": "a boy wearing a kippah speaking happily with his mouth open, reading from an open book with blank pages, no text (mouth)",
-"topic": "👂 קריאת שמע",
-"caption": "בפה",
-"question": "איך מקימים ״ודברת בם״?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a5/p2",
-"en": "a boy wearing a kippah walking on a path, looking at his feet, no text (feet)",
-"topic": "👂 קריאת שמע",
-"caption": "ברגליים",
-"question": "איך מקימים ״ודברת בם״?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a6/p0",
-"en": "a smiling boy wearing a kippah looking up at a big friendly palace with a flag, he feels close and happy, no text (my king)",
-"topic": "👂 קריאת שמע",
-"caption": "המלך שלי",
-"question": "לא מספיק לדעת שיש מלך. צריך להכיר שהוא...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a6/p1",
-"en": "a tiny boy wearing a kippah standing far away from a faraway castle on a distant hill, no text (far from me)",
-"topic": "👂 קריאת שמע",
-"caption": "רחוק ממני",
-"question": "לא מספיק לדעת שיש מלך. צריך להכיר שהוא...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a6/p2",
-"en": "a crowd of men far away waving at a palace, a boy in the corner not looking, no text (others' king)",
-"topic": "👂 קריאת שמע",
-"caption": "מלך של אחרים",
-"question": "לא מספיק לדעת שיש מלך. צריך להכיר שהוא...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a7/p0",
-"en": "a small tiny pebble on a table in front of a boy wearing a kippah, no text (small)",
-"topic": "👂 קריאת שמע",
-"caption": "קטן וחלש",
-"question": "המלה ״אחד״ בקריאת שמע מלמדת שה׳ הוא...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a7/p1",
-"en": "a long endless road stretching to the horizon between green hills under a sun and clouds, a boy wearing a kippah standing on it, no text (no limit)",
-"topic": "👂 קריאת שמע",
-"caption": "בלי גבול",
-"question": "המלה ״אחד״ בקריאת שמע מלמדת שה׳ הוא...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a7/p2",
-"en": "a boy wearing a kippah looking through binoculars at a tiny far-away dot, no text (far away)",
-"topic": "👂 קריאת שמע",
-"caption": "רחוק מאיתנו",
-"question": "המלה ״אחד״ בקריאת שמע מלמדת שה׳ הוא...",
-"section": ""
-},
-{
-"id": "hq/shema-05/a8/p0",
-"en": "a bright morning sky with the sun rising behind clouds over a green hill and trees, no people, no text (Bereshit)",
-"topic": "👂 קריאת שמע",
-"caption": "בראשית",
-"question": "באיזו פרשה כתוב ״ואהבת את ה׳״ לראשונה?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a8/p1",
-"en": "two stone tablets with blank smooth surfaces standing on a rocky mountain top under sun and clouds, no letters, no text (the ten commandments)",
-"topic": "👂 קריאת שמע",
-"caption": "עשרת הדיברות",
-"question": "באיזו פרשה כתוב ״ואהבת את ה׳״ לראשונה?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a8/p2",
-"en": "a boy wearing a kippah reading a prayer book with his hand on his heart, smiling, no text (Shema)",
-"topic": "👂 קריאת שמע",
-"caption": "קריאת שמע",
-"question": "באיזו פרשה כתוב ״ואהבת את ה׳״ לראשונה?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a9/p0",
-"en": "a boy wearing a kippah plucking a flower and throwing it on the ground, petals flying, no text (pluck and throw)",
-"topic": "👂 קריאת שמע",
-"caption": "לקטוף אותו ולזרוק",
-"question": "אני רואה פרח יפה בגנה. מה כדאי לעשות?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a9/p1",
-"en": "a boy wearing a kippah running past a garden full of flowers without looking, no text (run on)",
-"topic": "👂 קריאת שמע",
-"caption": "לרוץ הלאה במהירות",
-"question": "אני רואה פרח יפה בגנה. מה כדאי לעשות?",
-"section": ""
-},
-{
-"id": "hq/shema-05/a9/p2",
-"en": "a boy wearing a kippah kneeling in a garden looking at a beautiful colorful flower with amazement and a big smile, no text (admire and thank)",
-"topic": "👂 קריאת שמע",
-"caption": "להתפעל ולהודות",
-"question": "אני רואה פרח יפה בגנה. מה כדאי לעשות?",
-"section": ""
-},
-{
-"id": "hq/shema-05/b1",
-"en": "a boy wearing a kippah standing near a big friendly palace gate with a flag, looking proud and close, sun and clouds, no text",
-"topic": "👂 קריאת שמע",
+"id": "bk/shema-05-c1",
+"en": "a boy wearing a kippah standing on a hilltop at sunrise holding a closed velvet bag of tefillin close to his heart, a wide valley with a small synagogue with a Star of David below, sun and soft clouds, no letters, no text",
+"topic": "ספרי לימוד – קריאת שמע",
 "caption": "",
-"question": "למה לא מספיק להאמין ש״יש מלך״, ואומרים ״ה׳ אלהינו״?",
+"question": "",
 "section": ""
 },
 {
-"id": "hq/shema-05/b2",
-"en": "a boy wearing a kippah sitting at a table with a tasty meal, smiling and about to say a blessing, no text",
-"topic": "👂 קריאת שמע",
+"id": "bk/shema-05-c2",
+"en": "a cheerful collage-like room scene: on the wall a plain silver mezuzah case on a doorpost, on the table a closed velvet tefillin bag and a closed prayer book with a blank cover, a boy wearing a kippah looking at them with a smile, morning light, no letters, no text",
+"topic": "ספרי לימוד – קריאת שמע",
 "caption": "",
-"question": "ילד נהנה מאד מאכל טעים, ומרגיש מתוך זה אהבה לה׳. איזה פרוש של ״בשני יצריך״ מתאים כאן?",
+"question": "",
 "section": ""
 },
 {
-"id": "hq/shema-05/b3",
-"en": "a boy wearing a kippah sitting by a window thinking, with a thought bubble showing a sunny green field and trees, no text",
-"topic": "👂 קריאת שמע",
+"id": "bk/shema-05-c3",
+"en": "a father with a beard and kippah sitting on a sofa with his small son wearing a kippah on his lap, the father gently teaching him to say his first words, both smiling, warm home light, no letters, no text",
+"topic": "ספרי לימוד – קריאת שמע",
 "caption": "",
-"question": "אי אפשר לצוות על הלב ״תרגיש!״. איך אפשר להגיע לאהבה?",
+"question": "",
 "section": ""
 },
 {
-"id": "hq/shema-05/b4",
-"en": "a boy wearing a kippah standing on a hilltop at sunrise with arms raised in joy, sun and clouds, no text",
-"topic": "👂 קריאת שמע",
+"id": "bk/shema-05-c4",
+"en": "a boy wearing a kippah in three small moments side by side: thinking with his hand on his head, speaking with his mouth open reading from a closed book, and touching a plain mezuzah case on a doorpost, warm colors, no letters, no text",
+"topic": "ספרי לימוד – קריאת שמע",
 "caption": "",
-"question": "מה המשמעות של ״בכל נפשך״, לפי הפרוש ש״נפש״ היא הרצון?",
+"question": "",
 "section": ""
 },
 {
-"id": "hq/shema-05/b5",
-"en": "two boys wearing kippot studying together at a table over an open book with blank pages, one pointing and thinking, no text",
-"topic": "👂 קריאת שמע",
+"id": "bk/shema-05-c5",
+"en": "a boy wearing a kippah standing before a grand golden palace gate with a flag, his hand on his heart, looking up with a happy proud smile, sun and white clouds, no crosses, no text",
+"topic": "ספרי לימוד – קריאת שמע",
 "caption": "",
-"question": "רש״י: ״והיו הדברים האלה״ – מה הקשר לאהבת ה׳?",
+"question": "",
 "section": ""
 },
 {
-"id": "hq/shema-05/b6",
-"en": "a boy wearing a kippah holding a game controller but looking toward a prayer book on a table, thinking, no text",
-"topic": "👂 קריאת שמע",
+"id": "bk/shema-05-c6",
+"en": "a boy wearing a kippah lying on the grass at night looking up at a huge sky full of stars that has no end, a small campfire glow nearby, peaceful wonder, no text",
+"topic": "ספרי לימוד – קריאת שמע",
 "caption": "",
-"question": "דני רוצה מאד לשחק במשחק החדש לפני התפלה. מה כדאי שיחשב עכשו?",
+"question": "",
 "section": ""
 },
 {
-"id": "hq/shema-05/b7",
-"en": "a boy wearing a kippah sitting up in bed, stretching with a smile, morning sun through a window, no text",
-"topic": "👂 קריאת שמע",
+"id": "bk/shema-05-c7",
+"en": "a boy wearing a kippah hugging himself happily in a sunny meadow full of flowers, his eyes closed with a loving smile, sun and white clouds, no text",
+"topic": "ספרי לימוד – קריאת שמע",
 "caption": "",
-"question": "קשה ליוסף לקום בבקר, והמטה כל כך מתוקה. מה כדאי שיחשב?",
+"question": "",
 "section": ""
 },
 {
-"id": "hq/shema-05/b8",
-"en": "a boy wearing a kippah standing in a green field at dawn looking at the rising sun and clouds with wonder, no text",
-"topic": "👂 קריאת שמע",
+"id": "bk/shema-05-c8",
+"en": "a boy wearing a kippah and his father with a beard and kippah walking together toward a small synagogue with a Star of David at sunrise, the father with a tallit bag under his arm, the boy looking up at him with joy, no letters, no text",
+"topic": "ספרי לימוד – קריאת שמע",
 "caption": "",
-"question": "למה בברכות קריאת שמע ״יוצר אור״ באה לפני ״אהבה רבה״?",
+"question": "",
 "section": ""
 }
 ]

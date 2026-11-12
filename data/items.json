@@ -526943,5 +526943,442 @@
 "web_url": ""
 },
 "added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-halacha",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "A golden balance scale with an open book, Shabbat candles, challah, shofar and kiddush cup; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-halacha.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-mekor",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "A giant open ancient book releasing golden light with nine glowing arched gates behind it; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-mekor.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-devarim",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "A Torah scroll in front of golden hills of the Land of Israel with a river, pomegranates and grapes; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-devarim.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-shoftim",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "A round shield, sword, shofar and battle banner with an olive tree on a hill above an ancient city; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-shoftim.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-class",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "A bright classroom with a glowing blackboard of drawings, colorful desks with books and a golden trophy; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-class.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-hodaya",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "Glowing hearts, a flower bouquet, a wrapped gift, honey jar and apples at sunrise; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-hodaya.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-neviim",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "Ancient city walls crumbling in golden dust with a shofar, trumpet and shield in front; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-neviim.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-shas",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "A stack of ancient Talmud volumes with a glowing oil lamp and golden key in an arched library; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-shas.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-chidot",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "A glowing light bulb, puzzle pieces, magnifying glass, scroll and wise owl with question-mark stars; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-chidot.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-more",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "A colorful game controller, balloons, prize wheel and carousel on a rainbow background; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-more.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/card-mis-hero",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "A festive banner with a trophy, dice, game controller, prize wheel, puzzle pieces and a scroll; no people",
+"he_ctx": {
+"book": "כרטיסי האתר – משחקים וחידונים"
+},
+"topic": [
+"ספרים",
+"כרטיסי האתר – משחקים וחידונים"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\YUDA\\generated-images\\2026-11-12-mis-hero.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/shema-05-c1",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "a boy wearing a kippah standing on a hilltop at sunrise holding a closed velvet bag of tefillin close to his heart, a wide valley with a small synagogue with a Star of David below, sun and soft clouds, no letters, no text",
+"he_ctx": {
+"book": "ספרי לימוד – קריאת שמע"
+},
+"topic": [
+"ספרים",
+"ספרי לימוד – קריאת שמע"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\Users\\User\\torah-game\\study-books\\img\\shema-05-c1.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/shema-05-c2",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "a cheerful collage-like room scene: on the wall a plain silver mezuzah case on a doorpost, on the table a closed velvet tefillin bag and a closed prayer book with a blank cover, a boy wearing a kippah looking at them with a smile, morning light, no letters, no text",
+"he_ctx": {
+"book": "ספרי לימוד – קריאת שמע"
+},
+"topic": [
+"ספרים",
+"ספרי לימוד – קריאת שמע"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\Users\\User\\torah-game\\study-books\\img\\shema-05-c2.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/shema-05-c3",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "a father with a beard and kippah sitting on a sofa with his small son wearing a kippah on his lap, the father gently teaching him to say his first words, both smiling, warm home light, no letters, no text",
+"he_ctx": {
+"book": "ספרי לימוד – קריאת שמע"
+},
+"topic": [
+"ספרים",
+"ספרי לימוד – קריאת שמע"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\Users\\User\\torah-game\\study-books\\img\\shema-05-c3.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/shema-05-c4",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "a boy wearing a kippah in three small moments side by side: thinking with his hand on his head, speaking with his mouth open reading from a closed book, and touching a plain mezuzah case on a doorpost, warm colors, no letters, no text",
+"he_ctx": {
+"book": "ספרי לימוד – קריאת שמע"
+},
+"topic": [
+"ספרים",
+"ספרי לימוד – קריאת שמע"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\Users\\User\\torah-game\\study-books\\img\\shema-05-c4.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/shema-05-c5",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "a boy wearing a kippah standing before a grand golden palace gate with a flag, his hand on his heart, looking up with a happy proud smile, sun and white clouds, no crosses, no text",
+"he_ctx": {
+"book": "ספרי לימוד – קריאת שמע"
+},
+"topic": [
+"ספרים",
+"ספרי לימוד – קריאת שמע"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\Users\\User\\torah-game\\study-books\\img\\shema-05-c5.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/shema-05-c6",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "a boy wearing a kippah lying on the grass at night looking up at a huge sky full of stars that has no end, a small campfire glow nearby, peaceful wonder, no text",
+"he_ctx": {
+"book": "ספרי לימוד – קריאת שמע"
+},
+"topic": [
+"ספרים",
+"ספרי לימוד – קריאת שמע"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\Users\\User\\torah-game\\study-books\\img\\shema-05-c6.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/shema-05-c7",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "a boy wearing a kippah hugging himself happily in a sunny meadow full of flowers, his eyes closed with a loving smile, sun and white clouds, no text",
+"he_ctx": {
+"book": "ספרי לימוד – קריאת שמע"
+},
+"topic": [
+"ספרים",
+"ספרי לימוד – קריאת שמע"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\Users\\User\\torah-game\\study-books\\img\\shema-05-c7.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
+},
+{
+"id": "bk/shema-05-c8",
+"source": "bk",
+"engine": "gemini",
+"style": "painterly",
+"kind": "scene",
+"en": "a boy wearing a kippah and his father with a beard and kippah walking together toward a small synagogue with a Star of David at sunrise, the father with a tallit bag under his arm, the boy looking up at him with joy, no letters, no text",
+"he_ctx": {
+"book": "ספרי לימוד – קריאת שמע"
+},
+"topic": [
+"ספרים",
+"ספרי לימוד – קריאת שמע"
+],
+"topic_key": "book",
+"reviewed": false,
+"has_text": false,
+"files": {
+"master": "C:\\Users\\User\\torah-game\\study-books\\img\\shema-05-c8.jpg",
+"web_url": ""
+},
+"added": "2026-11-12"
 }
 ]

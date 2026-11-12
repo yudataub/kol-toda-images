@@ -12054,5 +12054,71 @@
   "flags": [],
   "note": "",
   "by": "claude-eye"
+ },
+ "bk/card-mis-halacha": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-mis-mekor": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-mis-devarim": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-mis-shoftim": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-mis-class": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-mis-hodaya": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-mis-neviim": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-mis-shas": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-mis-chidot": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-mis-more": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-mis-hero": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
  }
 }
