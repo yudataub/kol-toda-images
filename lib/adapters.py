@@ -232,3 +232,28 @@ def bookgen():
                               he_ctx={"book": j["book"]}, topic=["ספרים", j["book"]], topic_key="book", reviewed=False,
                               has_text=False, files={"master": j["file"], "web_url": j.get("web_url", "")}))   # 9.11: game pictures already on the site's image repo – the gallery links there, no second copy
     return items
+
+
+SEDER = r"C:\Users\User\torah-game\seder-parasha"
+
+
+def sp():
+    """"סדרו את התמונות" (seder-parasha, 13.11.2026): 6 סצנות לכל פרשה, src/<key>-<n>.jpg (Gemini, ספר ילדים חם).
+    התיאור באנגלית מ-prompts.py, הכיתוב המנוקד מ-scenes.json. תמונה פסולה כבר עברה ל-rejected/ ולא נקלטת."""
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("seder_prompts", os.path.join(SEDER, "prompts.py"))
+    pm = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(pm)
+    scenes = json.load(open(os.path.join(SEDER, "scenes.json"), encoding="utf-8"))
+    items = []
+    for key, v in scenes.items():
+        for n, cap in enumerate(v["scenes"], 1):
+            f = os.path.join(SEDER, "src", "%s-%d.jpg" % (key, n))
+            if not os.path.exists(f):
+                continue
+            items.append(dict(id="sp/%s-%d" % (key, n), source="sp", engine="gemini", style="picturebook", kind="scene",
+                              en=pm.PROMPTS[key][n - 1][:600],
+                              he_ctx={"caption": plain(cap), "parasha": "פרשת " + v["name"], "book": v.get("book", "")},
+                              topic=["פרשת השבוע", "ספר " + v.get("book", ""), "פרשת " + v["name"]], topic_key="sp/" + key,
+                              reviewed=False, has_text=False, files={"master": f, "web_url": ""}))
+    return items

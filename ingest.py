@@ -55,7 +55,7 @@ def main():
     items = adapters.hq()
     by_id = {i["id"]: i for i in items}
     items += adapters.hb(by_id)
-    items += adapters.og() + adapters.tn() + adapters.bookgen()
+    items += adapters.og() + adapters.tn() + adapters.bookgen() + adapters.sp()
     today = datetime.date.today().isoformat()
     for it in items:
         if it["kind"] == "panel":

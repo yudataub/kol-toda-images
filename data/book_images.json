@@ -9683,5 +9683,857 @@
   "file": "C:\\Users\\User\\torah-game\\study-books\\img\\siddur-09-c9.jpg",
   "en": "a boy wearing a kippah on a hilltop at sunrise looking out over a wide green valley with a river, sun and white clouds, arms spread wide with hope and a smile, only the one boy, no text",
   "book": "ספרי לימוד – פרקי התפילה"
+ },
+ {
+  "id": "card-par-bereshit",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-bereshit.jpg",
+  "en": "The creation of the world: a glowing blue earth, sun, moon and stars, a lush garden with fruit trees, colorful fish, birds and animals, light bursting through the dark. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-noach",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-noach.jpg",
+  "en": "A big wooden ark on calm waters after the flood, pairs of animals walking toward it, a white dove carrying an olive branch, a bright rainbow in the sky. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-lech-lecha",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-lech-lecha.jpg",
+  "en": "A lone camel caravan and a tent walking toward a golden hill road under a sky full of countless bright stars, an olive tree, a sunrise over the Land of Israel. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vayera",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vayera.jpg",
+  "en": "A tent in the desert under an old oak tree with a table of fresh bread, cakes and a pitcher of water set for guests, distant hills, golden afternoon light. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-chayei-sara",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-chayei-sara.jpg",
+  "en": "A stone cave among olive trees at sunset with a field and a lit memorial candle, a well nearby with a camel, warm golden evening light. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-shidduchin",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-shidduchin.jpg",
+  "en": "An ancient stone well at dusk with ten camels resting, a decorated golden jewelry box with a bracelet and earrings, a clay water jug, stars appearing. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-toldot",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-toldot.jpg",
+  "en": "A pot of red lentil stew steaming next to a loaf of bread, a hunting bow and a field of wheat, two wells in a valley, golden sunset. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vayetze",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vayetze.jpg",
+  "en": "A stone pillow on a hillside at night and a tall glowing ladder of light rising to the starry sky, sheep by a well in the distance. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vayishlach",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vayishlach.jpg",
+  "en": "A river crossing at dawn with a flock of sheep and camels on the shore, a shepherd's staff, a glowing rising sun over the water, twelve small stones. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vayeshev",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vayeshev.jpg",
+  "en": "A magnificent striped coat of many colors lying on a rock, a dry pit in a field, sheaves of wheat bowing and eleven stars, sun and moon in the night sky. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-miketz",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-miketz.jpg",
+  "en": "Fat healthy golden cows and thin cows by a river, ears of full grain, a royal golden goblet and a Pharaoh's palace with pyramids in the distance. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vayigash",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vayigash.jpg",
+  "en": "Wagons loaded with gifts on a road to Egypt, sacks of grain, a golden goblet, a bright Nile river with palm trees, warm joyful light. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vayechi",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vayechi.jpg",
+  "en": "Twelve colorful tribal banners arranged in a circle around a glowing tent, a golden crown, a stone and palm trees, a warm sunset. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-shemot",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-shemot.jpg",
+  "en": "A small wicker basket floating in the reeds of the Nile river, a burning bush that is not consumed glowing orange among desert rocks, pyramids far away. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vaera",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vaera.jpg",
+  "en": "The Nile river turned to red water, frogs on the shore, a wooden shepherd's staff and the plagues symbols: locusts, hail clouds, and sunrise in Egypt. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-bo",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-bo.jpg",
+  "en": "A lamb, matzah, bitter herbs and a doorpost with a bright red mark, a dark Egyptian night sky with a glowing full moon, wagons leaving in the distance. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-beshalach",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-beshalach.jpg",
+  "en": "The Red Sea split into two glowing walls of water with a dry golden path between them, a tambourine, and clouds of light in the sky. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-yitro",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-yitro.jpg",
+  "en": "Mount Sinai with smoke and lightning-lit clouds and a shofar blast, two stone tablets glowing, desert tents below. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-mishpatim",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-mishpatim.jpg",
+  "en": "A golden balance scale of justice, an ox and a donkey, a shepherd's staff, a fruit field and a sheaf, a scroll with a wax seal. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-teruma",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-teruma.jpg",
+  "en": "The Tabernacle's golden ark chest with a gleaming gold lid and carrying poles, a golden table, a golden menorah, curtains in blue purple and scarlet, precious stones and acacia wood. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-tetzave",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-tetzave.jpg",
+  "en": "A glowing golden menorah with olive oil jar, the High Priest's breastplate with twelve precious stones, a golden crown plate and bells and pomegranates. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-ki-tisa",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-ki-tisa.jpg",
+  "en": "A golden calf statue on a pedestal among desert rocks with two stone tablets leaning beside it, a copper washbasin, a mountain with clouds. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vayakhel",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vayakhel.jpg",
+  "en": "Colorful gifts piling up: gold, silver, copper, colorful yarns, precious stones and fine linen on a table inside a desert camp, the Tabernacle under construction. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-pekudei",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-pekudei.jpg",
+  "en": "The completed Tabernacle with a glowing cloud above it, golden vessels, a glowing menorah, and a counting scale with silver sockets. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vayikra",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vayikra.jpg",
+  "en": "A burnt offering altar with a flame, a small lamb, a dove, a bowl of fine flour and olive oil, frankincense smoke curling up, a desert tent. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-tzav",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-tzav.jpg",
+  "en": "The altar with an eternal flame and a pile of wood, a bowl of flour, a golden vessel of oil, a ram and a bright flame at the evening. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-shemini",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-shemini.jpg",
+  "en": "a golden altar with a tall bright flame rising and a priest's garments laid out, a white calf, a ram, and celebrating banners at the Tabernacle courtyard. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-tazria",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-tazria.jpg",
+  "en": "A newborn lamb in a field at sunrise, a small cradle with a white blanket, sheets of white linen and hyssop branches, a soft glowing sky. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-metzora",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-metzora.jpg",
+  "en": "Two small birds with a cedar twig, scarlet thread and hyssop, a clear bowl of spring water, the walls of a camp, a gentle sunrise. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-acharei-mot",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-acharei-mot.jpg",
+  "en": "A Yom Kippur scene with two goats at a rocky desert wilderness, a golden incense burner with smoke, a white linen garment, a sunset glow. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-kedoshim",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-kedoshim.jpg",
+  "en": "A harvest field with the corners left for the poor, a basket of fruit, a sheaf of grain, a vineyard and a path, a bright warm sunrise. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-emor",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-emor.jpg",
+  "en": "A sukkah with palm fronds roof, lulav, etrog, myrtle and willow branches, twelve loaves of challah on a golden table, a menorah, a shofar. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-behar",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-behar.jpg",
+  "en": "Seven years of sprouting fields and vineyards resting, a shofar blast across the land, a golden jubilee ram's horn and an open mountain valley. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-bechukotai",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-bechukotai.jpg",
+  "en": "A land of blessing: rain clouds, fruit trees heavy with fruit, a rich wheat field, a flowing river, a golden rainbow and abundance. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-naso",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-naso.jpg",
+  "en": "A set of priestly blessing hands shown as glowing light, silver bowls, carts with oxen, an olive oil flask and the tribal camp banners. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-behaalotcha",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-behaalotcha.jpg",
+  "en": "A beautiful seven-branched golden menorah burning, two silver trumpets, a cloud over the tent camp, quail and manna in the desert dawn. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-shelach",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-shelach.jpg",
+  "en": "A huge cluster of purple grapes lying in a woven basket with giant pomegranates and figs, in a green valley of the Land of Israel with a stream, sunset. No poles, no crosses. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-korach",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-korach.jpg",
+  "en": "An open crack in the desert ground with a glowing almond-blossoming staff with blossoms and ripe almonds, tents, a golden incense burner. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-chukat",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-chukat.jpg",
+  "en": "A red cow standing on a hill, a rock with water gushing and a stream, a copper serpent on a pole, a desert mountain. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-balak",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-balak.jpg",
+  "en": "A donkey standing on a road with a flaming glowing sword in the air and a hilltop altar with seven bulls, a view over the camp of tents, golden sunset. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-pinchas",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-pinchas.jpg",
+  "en": "A spear and a glowing golden peace sign (olive branch), five sisters' land inheritance: fields, a deed scroll, and a mountain view of the Land of Israel. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-matot",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-matot.jpg",
+  "en": "Flocks of sheep and herds of cattle in green pastures across the Jordan River, a vow scroll, a sword, and gold vessels as spoils, a sunset sky. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-masei",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-masei.jpg",
+  "en": "A winding path with forty-two stone markers through the desert, cities of refuge with open gates, the Jordan River and mountains of the Land. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-devarim",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-devarim.jpg",
+  "en": "A Torah scroll on a stone with mountains, the Jordan River valley, a path, desert hills and rolling clouds in a soft sunrise. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vaetchanan",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vaetchanan.jpg",
+  "en": "Two stone tablets with ten glowing dots, a mezuzah on a doorpost, tefillin and a tallit, a mountain peak looking onto the Promised Land. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-ekev",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-ekev.jpg",
+  "en": "A land of seven species: wheat, barley, grapes, figs, pomegranates, olives and date honey in a basket by a stream, a spring flowing from the hill. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-ree",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-ree.jpg",
+  "en": "Two mountains, one green and blessed and one barren, a pilgrimage road with a basket of first fruits, a charity coin box and kosher grains. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-shoftim",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-shoftim.jpg",
+  "en": "A scale of justice, a scroll of law, a city gate, three cities of refuge on hills and an olive tree, a soft morning glow. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-ki-tetze",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-ki-tetze.jpg",
+  "en": "A bird's nest on a branch with a mother bird, a safety railing on a roof, an ox and donkey plowing, a lost sheep and returned lost item, a vineyard. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-ki-tavo",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-ki-tavo.jpg",
+  "en": "A basket filled with first fruits resting on a stone altar on a hill, large plain white plastered stones, two mountains in the distance and blessings of abundance, nobody in the scene. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-nitzavim",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-nitzavim.jpg",
+  "en": "A big gathering of colorful tents standing in a wide valley in front of a mountain, a Torah scroll, a tree of life, a bright new morning. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vayelech",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vayelech.jpg",
+  "en": "A quill pen and a scroll being written, an old walking staff, a sunrise path across a desert hill, a mountain and a glowing sunset. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-haazinu",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-haazinu.jpg",
+  "en": "A soaring eagle above its nest with chicks, rain and dew drops on young grass, a flowing stream, a golden harp, a vineyard hill in the evening. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-vezot-habracha",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-vezot-habracha.jpg",
+  "en": "A tall mountain peak (Mount Nebo) overlooking the Land of Israel in golden light: palm trees of Jericho, valleys, lush hills, twelve glowing tribe banners. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "card-par-hachnasat-orchim",
+  "file": "C:\\YUDA\\generated-images\\2026-11-13-par-hachnasat-orchim.jpg",
+  "en": "A welcoming open tent with a table of bread, fruit, a pitcher of water and a washbasin, a lantern, and a wide road leading to it, warm sunset. No people.",
+  "book": "כרטיסי האתר – חידושים לפרשת השבוע"
+ },
+ {
+  "id": "ahava-01-c1",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-01-c1.jpg",
+  "en": "a boy wearing a kippah waking up in a warm cozy bed in the morning, a loaf of bread and a glass of water on a small table beside him, sunlight through the window, only the one boy in this panel, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-01-c2",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-01-c2.jpg",
+  "en": "an open Torah scroll with blank parchment on a wooden reading stand in a sunny synagogue with a Star of David on the wall, thirteen small golden stars floating gently above it, no people, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-01-c3",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-01-c3.jpg",
+  "en": "a little boy wearing a kippah, a teenage boy wearing a kippah and a white-bearded grandfather wearing a kippah standing together in a sunny garden, smiling, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-01-c4",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-01-c4.jpg",
+  "en": "a boy wearing a kippah standing at a window in the morning with his hand on his heart and a sincere warm smile, soft sunshine on his face, only the one boy in this panel, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-01-c5",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-01-c5.jpg",
+  "en": "a boy wearing a kippah sitting at a kitchen table looking thoughtfully and gratefully at a loaf of bread, a bowl of fruit and a glass of water, a sunny window behind him, only the one boy in this panel, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-01-c6",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-01-c6.jpg",
+  "en": "a small boy about four years old wearing a kippah sitting beside his bearded father wearing a kippah at a table with bread, the father pointing gently at the food, both smiling, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-01-c7",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-01-c7.jpg",
+  "en": "a bearded man wearing a kippah standing outdoors at sunrise with his hand on his heart and his face turned up toward the sun and white clouds, a peaceful smile, open hills and olive trees only, no buildings in the background, only the one man in this panel, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-01-c8",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-01-c8.jpg",
+  "en": "a boy wearing a kippah kneeling by a calm pond and smiling at his own smiling reflection in the water, trees and white clouds around, only the one boy in this panel, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-01-c9",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-01-c9.jpg",
+  "en": "two boys wearing kippot standing very close with their arms around each other's shoulders, a bright sun between white clouds behind them, both smiling widely, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-02-c1",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-02-c1.jpg",
+  "en": "a boy wearing a kippah standing outdoors on a hill looking up with wonder at tall trees, a river, bread on a picnic cloth and friends playing far away, sun and white clouds, only the one boy in front, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-02-c2",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-02-c2.jpg",
+  "en": "a wide sunny landscape with fruit trees, a flowing stream, a loaf of bread and a basket of fruit on a cloth, a boy wearing a kippah smiling as he holds out his open hands, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-02-c3",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-02-c3.jpg",
+  "en": "a bearded man wearing a kippah smiling with deep contentment while he gives a basket of bread to a small boy wearing a kippah in a sunny courtyard, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-02-c4",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-02-c4.jpg",
+  "en": "a bearded father wearing a kippah lifting his laughing young son wearing a kippah up into the air in a green garden, sunshine and white clouds, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-02-c5",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-02-c5.jpg",
+  "en": "a boy wearing a kippah standing thoughtfully in the middle of a room with one finger on his chin and a gentle smile, a sunny window, a closed book with a blank cover on the table, only the one boy in this panel, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-02-c6",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-02-c6.jpg",
+  "en": "an ancient king in a rich robe and golden crown sitting on a simple throne in a palace hall, a respectful man wearing a kippah bowing slightly beside him, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-02-c7",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-02-c7.jpg",
+  "en": "a boy wearing a kippah receiving a small basket of golden fruit and a shining medal from a smiling bearded man wearing a kippah, a long sunny road behind them, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-02-c8",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-02-c8.jpg",
+  "en": "a boy wearing a kippah walking calmly and happily along a sunny path holding the hand of his bearded father wearing a kippah, white clouds above, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-02-c9",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-02-c9.jpg",
+  "en": "a boy wearing a kippah sitting at a window at sunrise with his hands open in thanks, looking at trees, a river and green hills outside, only the one boy in this panel, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-03-c1",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-03-c1.jpg",
+  "en": "a boy wearing a kippah sitting at a wooden kitchen table biting into a sweet red apple with a delighted face, a fruit tree with ripe apples visible through the window, warm morning sunlight, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-03-c2",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-03-c2.jpg",
+  "en": "a boy wearing a kippah pausing before a meal, a plate of fruit and a glass of water in front of him, hands open and a thoughtful grateful smile, soft warm light, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-03-c3",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-03-c3.jpg",
+  "en": "a boy wearing a kippah holding a green apple in both hands with one hand over his heart and gentle closed eyes, a simple table with bread behind him, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-03-c4",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-03-c4.jpg",
+  "en": "a boy wearing a kippah standing at a table saying a blessing out loud with an open mouth and a proud face, holding a banana, a bearded man wearing a kippah beside him listening with a smile, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-03-c5",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-03-c5.jpg",
+  "en": "a bright colorful fruit stand full of many kinds of fruit: apples, grapes, oranges, pears, figs, pomegranates and melons, a man wearing a kippah as the seller smiling, a boy wearing a kippah looking amazed, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-03-c6",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-03-c6.jpg",
+  "en": "a jar of golden honey and a honeycomb on a wooden table in a sunny garden, honeybees on flowers nearby, a boy wearing a kippah watching with wide happy eyes, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-03-c7",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-03-c7.jpg",
+  "en": "a boy wearing a kippah drinking a tall glass of cold clear water on a hot sunny day, next to a small stream and green bushes, refreshed and smiling, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-03-c8",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-03-c8.jpg",
+  "en": "a plain car at a fuel pump on the left, and on the right a boy wearing a kippah happily eating a juicy slice of watermelon, a soft divider between the two scenes, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-03-c9",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-03-c9.jpg",
+  "en": "a smiling boy wearing a kippah sitting at a simple table with a slice of bread and a cup of water, his hands open in thanks, sunshine through the window, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-04-c1",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-04-c1.jpg",
+  "en": "a boy wearing a kippah holding a wrapped gift and saying thank you while looking down at the floor, a bearded man wearing a kippah in front of him with a slightly disappointed look, a warm living room, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-04-c2",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-04-c2.jpg",
+  "en": "a boy wearing a kippah looking up straight into the eyes of a smiling bearded man wearing a kippah who has just handed him a gift, both faces glowing with warmth, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-04-c3",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-04-c3.jpg",
+  "en": "a boy wearing a kippah with one hand on his heart looking gratefully and warmly at a smiling friend wearing a kippah who is giving him a small book with a blank cover, a sunny yard, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-04-c4",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-04-c4.jpg",
+  "en": "a bearded man wearing a kippah beaming happily as a boy wearing a kippah shows him a toy train he received, both sitting on the floor playing with it together, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-04-c5",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-04-c5.jpg",
+  "en": "a boy wearing a kippah speaking warmly with an animated face to a smiling bearded man wearing a kippah, holding up a toy car and pointing at it, a cozy room, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-04-c6",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-04-c6.jpg",
+  "en": "a boy wearing a kippah holding a gift box he does not seem to need yet smiling kindly and looking the giver in the eyes, a bearded man wearing a kippah smiling back, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-04-c7",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-04-c7.jpg",
+  "en": "a boy wearing a kippah carrying a full garbage bag out of a door on his own, a smiling bearded man wearing a kippah giving him a thumbs up, a tidy home entrance, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-04-c8",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-04-c8.jpg",
+  "en": "a smiling bearded man wearing a kippah entering a bright tidy room with a made bed and raising his hands in delight, a proud boy wearing a kippah beside him, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-04-c9",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-04-c9.jpg",
+  "en": "an old wooden bench in a sunny synagogue with a closed bag resting on it, a gentle bearded man wearing a kippah looking at it with a fondly grateful smile, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-05-c1",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-05-c1.jpg",
+  "en": "a boy wearing a kippah waking up in his bright bedroom, stretching with a smile, morning sunlight through the window onto a glass of water and a folded clean shirt, only the one boy in this scene, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-05-c2",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-05-c2.jpg",
+  "en": "a smiling boy wearing a kippah standing in a green garden with a hand gently on his chest, looking up at the sky with warm thankful eyes, white clouds, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-05-c3",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-05-c3.jpg",
+  "en": "a boy wearing a kippah standing at an open window at sunrise, a new day beginning over rooftops, one bright sun in the sky, a calm thoughtful smile, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-05-c4",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-05-c4.jpg",
+  "en": "a front door of a house with a mezuzah case on the doorpost, and a boy wearing a kippah touching it gently with his fingertips, a sunny doorstep with flowers, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-05-c5",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-05-c5.jpg",
+  "en": "a boy wearing a kippah sitting cross-legged in a quiet room at midday, eyes gently closed, a calm smile, sunlight on a table with bread, fruit and a glass of water, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-05-c6",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-05-c6.jpg",
+  "en": "a boy wearing a kippah sitting by a window whispering with a thankful smile and a hand on his heart, soft afternoon light, a plant on the sill, only the one boy in this scene, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-05-c7",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-05-c7.jpg",
+  "en": "a green field in gentle rain with young plants sprouting, white clouds, and a boy wearing a kippah standing happily with open palms catching raindrops, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-05-c8",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-05-c8.jpg",
+  "en": "a boy wearing a kippah sitting calmly on a park bench under a tree, eyes closed, a small smile, a wristwatch lying forgotten beside him on the bench, relaxed and unhurried, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-06-c1",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-06-c1.jpg",
+  "en": "two young boys wearing kippot and short haircuts outdoors in a garden on a rainy day, one jumping happily into a puddle with rain boots, the other boy laughing beside him under a small umbrella, bright colors, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-06-c2",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-06-c2.jpg",
+  "en": "a smiling boy wearing a kippah standing in a sunny garden full of flowers, his eyes wide with delight, looking at a bee on a flower, white clouds, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-06-c3",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-06-c3.jpg",
+  "en": "a happy boy wearing a kippah holding a glass of clear water up to the window light and smiling, a water pitcher on the kitchen table beside bread and fruit, only the one boy in this scene, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-06-c4",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-06-c4.jpg",
+  "en": "a boy wearing a kippah looking at a small gift box in his hand while a second gift box waits on a table, a thoughtful look and a growing smile, a colorful room, only the one boy in this scene, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-06-c5",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-06-c5.jpg",
+  "en": "a bearded elderly man wearing a kippah sitting at a wooden desk with a neat row of closed books with blank covers, looking at them with a thankful smile, warm light from a window, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-06-c6",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-06-c6.jpg",
+  "en": "two boys wearing kippot sitting together on a bench outside, one clapping happily for the other who is holding a small trophy, sunny day, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-06-c7",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-06-c7.jpg",
+  "en": "a boy wearing a kippah holding a golden key and opening a wooden door onto a bright garden with flowers and sunshine, a joyful smile, only the one boy in this scene, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-06-c8",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-06-c8.jpg",
+  "en": "a worker man wearing a kippah with a small bundle on his shoulder walking home on a dusty road at evening, calm and friendly, and in the distance three donkeys carrying baskets approach on the path, a warm sunset sky, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-07-c1",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-07-c1.jpg",
+  "en": "a boy wearing a kippah at a table with an old open wristwatch with tiny gears on one side, a small potted flower, and a magnifying glass over an ant on a leaf, curious smile, blank watch face with no numbers, only the one boy in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-07-c2",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-07-c2.jpg",
+  "en": "a medieval sage with a long beard, robes and a turban, sitting by an open window of a stone room, gazing out at trees, mountains and white clouds with a calm amazed face, a closed book with blank pages beside him",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-07-c3",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-07-c3.jpg",
+  "en": "a bearded man wearing a kippah and a white lab coat looking through a microscope at a flower petal with a serious unmoved face, shelves of jars behind him, only the one man in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-07-c4",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-07-c4.jpg",
+  "en": "a thirsty boy wearing a kippah reaching with both hands toward a glass of water on a table with a longing eager face, a sunny window behind him, only the one boy in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-07-c5",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-07-c5.jpg",
+  "en": "a boy wearing a kippah walking along a winding garden path toward a sunny hill with white clouds, a wooden signpost with no writing, only the one boy in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-07-c6",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-07-c6.jpg",
+  "en": "two boys wearing kippot with school bags walking to school, one looking up at a tree with birds and a white cloud and smiling, the other looking down at his shoes",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-07-c7",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-07-c7.jpg",
+  "en": "a boy wearing a kippah standing by an open window at dawn with eyes closed and hands open in a quiet request, a soft smile, only the one boy in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-07-c8",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-07-c8.jpg",
+  "en": "a boy wearing a kippah on a hilltop at sunrise with arms open wide, joyfully looking at a valley with trees, a river and a field of flowers, only the one boy in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-08-c1",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-08-c1.jpg",
+  "en": "a boy wearing a kippah at a classroom window holding his school backpack, looking at heavy rain outside, first disappointed and slowly smiling, only the one boy in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-08-c2",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-08-c2.jpg",
+  "en": "a bearded sage in simple ancient robes standing at the door of a wooden inn at dusk, holding a small closed wooden chest, a donkey tied outside, only the one man in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-08-c3",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-08-c3.jpg",
+  "en": "an ancient bearded king with a crown sitting on a throne in a stone hall, peering into an open wooden chest full of dirt with a frown, a bearded sage in simple robes standing before him with a gentle smile",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-08-c4",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-08-c4.jpg",
+  "en": "a bearded sage in simple ancient robes walking on a desert road at sunrise with a gentle smile and one open hand raised calmly, a small wooden chest under his arm, only the one man in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-08-c5",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-08-c5.jpg",
+  "en": "a bearded sage in simple ancient robes leading a donkey with a bundle, a rooster perched on the bundle, and holding a lit candle in a lantern, standing before closed stone city gates at evening",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-08-c6",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-08-c6.jpg",
+  "en": "a bearded sage in simple ancient robes lying wrapped in a blanket on the ground in a dark moonlit field, a blown-out lantern beside him, plain dark night sky with small stars, no moonbeam, no rays of light, only the one man in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-08-c7",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-08-c7.jpg",
+  "en": "a bearded sage in simple ancient robes waking at sunrise in an open field, looking toward a distant empty city with a calm grateful smile, only the one man in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-08-c8",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-08-c8.jpg",
+  "en": "a bearded man in simple ancient robes finding an old clay jar full of gold coins in a freshly plowed field, a brown cow standing nearby in the furrow, he looks up amazed, only the one man in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-08-c9",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-08-c9.jpg",
+  "en": "a boy wearing a kippah smiling calmly and looking at a sunrise over green hills with a rainbow, only the one boy in this scene",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-09-c1",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-09-c1.jpg",
+  "en": "a boy wearing a kippah standing at the doorway of a bright classroom, looking kindly at a new boy sitting alone at a desk by the window, blank notebooks on the desks, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-09-c2",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-09-c2.jpg",
+  "en": "a bearded father wearing a kippah proudly walking hand in hand with his small son wearing a kippah along a sunny path with green hills and white clouds, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-09-c3",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-09-c3.jpg",
+  "en": "two boys wearing kippot walking arm in arm on a sunny street, smiling, a bright sky with sun and clouds, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-09-c4",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-09-c4.jpg",
+  "en": "two boys wearing kippot kicking a soccer ball together on a green field, laughing, one of them wearing a red shirt and the other a blue shirt, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-09-c5",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-09-c5.jpg",
+  "en": "a boy wearing a kippah helping another boy carry a heavy bag of blank books up the school steps, both smiling, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-09-c6",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-09-c6.jpg",
+  "en": "a boy wearing a kippah smiling gratefully with a hand on his heart, giving back a pen to his friend in a sunny classroom, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-09-c7",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-09-c7.jpg",
+  "en": "a boy wearing a kippah handing half of his sandwich to a smiling friend on a bench in a sunny school yard, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-09-c8",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-09-c8.jpg",
+  "en": "a boy wearing a kippah standing by a window with closed eyes and folded hands in quiet prayer, a small thought bubble showing his smiling friend, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-09-c9",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-09-c9.jpg",
+  "en": "a boy wearing a kippah sitting quietly with closed eyes and a hand on his heart under a tree, a thought bubble showing his friend sitting alone and then smiling, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-10-c1",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-10-c1.jpg",
+  "en": "a boy wearing a kippah, recovered and smiling, walking back into a bright classroom door with his backpack, friends wearing kippot greeting him, sunshine through the windows, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-10-c2",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-10-c2.jpg",
+  "en": "four small scenes in one picture: a man wearing a kippah in a desert, a man wearing a kippah on a small ship at sea, a man wearing a kippah recovering at an open window, a man wearing a kippah walking out of a stone gate into sunshine, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-10-c3",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-10-c3.jpg",
+  "en": "a boy wearing a kippah in three small panels: sitting quietly noticing a bowl of fruit, then saying thank you with open hands, then handing out bread to guests, soft warm light, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-10-c4",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-10-c4.jpg",
+  "en": "a man wearing a kippah beside a simple stone altar holding a basket of fruit and grain, looking up gratefully at the sun and white clouds over green fields, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-10-c5",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-10-c5.jpg",
+  "en": "a man wearing a kippah and a kohen dressed in white garments sitting together beside a stone altar in a courtyard, sharing round loaves of bread, no blood, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-10-c6",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-10-c6.jpg",
+  "en": "a long wooden table in a stone courtyard piled with forty round loaves of bread in four different kinds, a kohen dressed in white garments standing beside it, no blood, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-10-c7",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-10-c7.jpg",
+  "en": "a man wearing a kippah and many male guests wearing kippot at long tables in a stone courtyard, eating bread together and talking cheerfully, a stone altar in the background, no blood, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-10-c8",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-10-c8.jpg",
+  "en": "a flat matzah on one wooden table and a big puffy golden loaf of bread on another table, a man wearing a kippah between them smiling gratefully, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
+ },
+ {
+  "id": "ahava-10-c9",
+  "file": "C:\\Users\\User\\torah-game\\study-books\\img\\ahava-10-c9.jpg",
+  "en": "a man wearing a kippah standing in a synagogue with a Star of David on the wall, ten men wearing kippot listening, as he speaks with a happy face, no letters, no text",
+  "book": "ספרי לימוד – אהבת ה׳"
  }
 ]

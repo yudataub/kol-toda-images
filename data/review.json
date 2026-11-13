@@ -12723,5 +12723,335 @@
  },
  "bk/tanach-treasar": {
   "status": "ok"
+ },
+ "bk/card-par-bereshit": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-noach": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-lech-lecha": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vayera": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-chayei-sara": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-shidduchin": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-toldot": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vayetze": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vayishlach": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vayeshev": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-miketz": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vayigash": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vayechi": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-shemot": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vaera": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-bo": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-beshalach": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-yitro": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-mishpatim": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-teruma": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-tetzave": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-ki-tisa": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vayakhel": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-pekudei": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vayikra": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-tzav": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-shemini": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-tazria": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-metzora": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-acharei-mot": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-kedoshim": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-emor": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-behar": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-bechukotai": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-naso": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-behaalotcha": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-shelach": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-korach": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-chukat": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-balak": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-pinchas": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-matot": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-masei": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-devarim": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vaetchanan": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-ekev": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-ree": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-shoftim": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-ki-tetze": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-ki-tavo": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-nitzavim": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vayelech": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-haazinu": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-vezot-habracha": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
+ },
+ "bk/card-par-hachnasat-orchim": {
+  "status": "ok",
+  "flags": [],
+  "note": "",
+  "by": "claude-eye"
  }
 }
