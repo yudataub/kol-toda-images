@@ -1,0 +1,786 @@
+[
+ {
+  "id": "hq/chiyuch-14/a1/p2",
+  "en": "a boy wearing a kippah giving an angry frowning look at a sad boy wearing a kippah on a bench, the sad boy shrinking down, no text (angry look)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מבט כועס",
+  "question": "חבר יושב עצוב לבדו בהפסקה. מה מחזיר לו כח?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a2/p0",
+  "en": "a boy wearing a kippah with a funny cartoon blue-tinted face looking surprised, only the one boy in this panel, no text (blue face)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "נעשות כחולות",
+  "question": "מה קורה לפנים של מי שמתביש מאוד?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a2/p1",
+  "en": "a boy wearing a kippah with a funny cartoon green-tinted face looking surprised, only the one boy in this panel, no text (green face)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "נעשות ירוקות",
+  "question": "מה קורה לפנים של מי שמתביש מאוד?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a2/p2",
+  "en": "a boy wearing a kippah with a very pale white face and a shy embarrassed look, eyes looking down at the floor, only the one boy in this panel, no text (pale face)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מחווירות",
+  "question": "מה קורה לפנים של מי שמתביש מאוד?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a3/p0",
+  "en": "a boy wearing a kippah laughing together with a sad boy wearing a kippah who is starting to smile, both with rosy pink cheeks, warm sunshine, no text (cheering him up)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לשמח אותו",
+  "question": "מה מחזיר צבע וכח לפנים עצובות?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a3/p1",
+  "en": "a boy wearing a kippah pointing a finger sternly at a sad boy wearing a kippah who looks down, no text (scolding)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "להוכיח אותו",
+  "question": "מה מחזיר צבע וכח לפנים עצובות?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a3/p2",
+  "en": "a boy wearing a kippah standing quietly with arms crossed next to a sad boy wearing a kippah on a bench, not looking at him, no text (waiting quietly)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לחכות בשקט",
+  "question": "מה מחזיר צבע וכח לפנים עצובות?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a4/p0",
+  "en": "a boy wearing a kippah gazing far up at white clouds and the sun in a big blue sky, only the one boy in this panel, no text (far in the sky)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "בשמיים",
+  "question": "איפה נמצאת המצוה הגדולה של לשמח?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a4/p1",
+  "en": "a boy wearing a kippah looking through binoculars at a far distant sea on the horizon, only the one boy in this panel, no text (far across the sea)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מעבר לים",
+  "question": "איפה נמצאת המצוה הגדולה של לשמח?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a4/p2",
+  "en": "a boy wearing a kippah smiling broadly with one finger touching his cheek, bright happy face, only the one boy in this panel, no text (a smile muscle)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "בשריר בפנים",
+  "question": "איפה נמצאת המצוה הגדולה של לשמח?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a5/p0",
+  "en": "a boy wearing a kippah holding out a coin to a tired bearded man wearing a kippah at the front door, the man looking unimpressed, no text (a coin)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "כסף",
+  "question": "אבא חזר עיף מהעבודה. מה ישמח אותו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a5/p1",
+  "en": "a boy wearing a kippah giving a big warm genuine smile to a tired bearded man wearing a kippah at the front door, the man starting to smile, no text (a smile)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "חיוך",
+  "question": "אבא חזר עיף מהעבודה. מה ישמח אותו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a5/p2",
+  "en": "a boy wearing a kippah holding a pointer stick and giving a lecture to a tired bearded man wearing a kippah who is yawning, no text (a lecture)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "הרצאה",
+  "question": "אבא חזר עיף מהעבודה. מה ישמח אותו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a6/p0",
+  "en": "a man wearing a kippah handing a big wrapped gift box to a sad man wearing a kippah in a morning street, no text (a big gift)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מתנה גדולה",
+  "question": "מה עזר לאיש העצוב ברחוב?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a6/p1",
+  "en": "a smiling bearded man wearing a kippah waving hello with a very big warm genuine smile to a sad man wearing a kippah in a sunny morning street, the sad man starting to look up and brighten, no text (smile and good morning)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "חיוך ובוקר טוב",
+  "question": "מה עזר לאיש העצוב ברחוב?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a6/p2",
+  "en": "a man wearing a kippah shouting loudly with hands cupped around his mouth at a sad man wearing a kippah who covers his ears, no text (a loud voice)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "קול חזק",
+  "question": "מה עזר לאיש העצוב ברחוב?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a7/p0",
+  "en": "a bearded king wearing a golden crown opening a big treasure chest full of gold coins for a happy smiling man wearing a kippah, no text (opens the treasures)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "פותח לו את האוצרות",
+  "question": "מי שמשמח את בן המלך, מה עושה לו המלך?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a7/p1",
+  "en": "a bearded king wearing a golden crown holding out his hand to collect small coins from a worried man wearing a kippah, no text (asks for tax)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מבקש ממנו מס",
+  "question": "מי שמשמח את בן המלך, מה עושה לו המלך?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a7/p2",
+  "en": "a bearded king wearing a golden crown turning his back and looking away from a man wearing a kippah, no text (ignores him)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מתעלם ממנו",
+  "question": "מי שמשמח את בן המלך, מה עושה לו המלך?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a8/p0",
+  "en": "a boy wearing a kippah yawning sleepily with a cartoon red heart wearing a tiny nightcap floating next to him, only the one boy in this panel, no text (tired heart)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לב עייף",
+  "question": "מי שעוצר לחיך לעצוב, איזה לב יש לו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a8/p1",
+  "en": "a boy wearing a kippah holding his tummy with a cartoon red heart with a hungry open mouth floating next to him, only the one boy in this panel, no text (hungry heart)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לב רעב",
+  "question": "מי שעוצר לחיך לעצוב, איזה לב יש לו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a8/p2",
+  "en": "a boy wearing a kippah stopping his run on the sidewalk to smile warmly at a sad boy wearing a kippah, a glowing warm red cartoon heart floating above him, no text (good heart)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לב טוב",
+  "question": "מי שעוצר לחיך לעצוב, איזה לב יש לו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a9/p0",
+  "en": "a boy wearing a kippah standing at the front door in the morning sunshine with a big warm genuine smile ready to go out, only the one boy in this panel, no text (a happy smile)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "חיוך שמח",
+  "question": "בבקר שואלים: ׳האם ארגז העזרה הראשונה שלי מוכן?׳ מה הוא?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a9/p1",
+  "en": "a boy wearing a kippah standing at the front door with a school backpack on his back, only the one boy in this panel, no text (a school bag)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "תיק בית ספר",
+  "question": "בבקר שואלים: ׳האם ארגז העזרה הראשונה שלי מוכן?׳ מה הוא?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/a9/p2",
+  "en": "a boy wearing a kippah holding a lunch box at the front door, only the one boy in this panel, no text (a lunch box)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "קופסת אוכל",
+  "question": "בבקר שואלים: ׳האם ארגז העזרה הראשונה שלי מוכן?׳ מה הוא?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/b1",
+  "en": "a boy wearing a kippah standing in front of his class with a very pale white embarrassed face, looking down, only the one boy in focus, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "מה קורה לפניו של אדם שמתביש מאוד לפני אחרים, לפי הגמרא?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/b2",
+  "en": "a boy wearing a kippah gently smiling at a sad boy wearing a kippah, the sad boy's cheeks turning rosy pink again, soft warm light, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "למה לשמח אדם עצוב היא מצוה גדולה כל כך?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/b3",
+  "en": "two cheerful men wearing kippot in an old market square, one telling a funny story with a big smile to a sad man wearing a kippah who is starting to smile, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "מה עשו הבדחנים בשוק כשראו אדם עצוב מאוד?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/b4",
+  "en": "a bearded king wearing a golden crown smiling and opening a big chest of treasures for a man wearing a kippah, a young prince wearing a crown laughing beside them, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "מה מלמד משל בן המלך על מי שמשמח יהודי?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/b5",
+  "en": "a boy wearing a kippah walking quickly past a sad boy wearing a kippah sitting alone, not looking at him, a cold gray atmosphere, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "מה מעיד על אדם שרואה פנים שנעשות חוורות מבושה ולא עוצר?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/b6",
+  "en": "a boy wearing a kippah in front of the bathroom mirror in the morning putting on a big warm genuine smile before leaving for school, only the one boy in this panel, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "בבקר, לפני בית הספר, מה כדאי לשאל את עצמנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/b7",
+  "en": "a boy wearing a kippah in a school hallway holding a test paper with a sad face, another boy wearing a kippah walking toward him with a warm smile, the test paper blank, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "חבר חזר מהמבחן ופניו עצובות. מה נכון לעשות עכשיו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-14/b8",
+  "en": "a boy wearing a kippah handing coins to a tired shopkeeper wearing a kippah behind a counter and smiling at him warmly, the shopkeeper brightening, no buildings visible through any window and no model buildings or pictures of buildings, plain walls, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "בחנות, המוכר עיף ולקוח צעק עליו. מה כדאי לעשות כשמגיעים אליו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a1/p0",
+  "en": "a boy wearing a kippah shivering with a cold blue tint around him, only the one boy in this panel, no text (cold)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "קור",
+  "question": "סבא מסתכל בחבה על הנכד שלו. מה מרגיש הנכד?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a1/p1",
+  "en": "a boy wearing a kippah looking up at his grandfather, a gentle bearded old man wearing a kippah looking at him with warm shining eyes and a soft smile, golden warm light, no text (warmth in the heart)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "חום בלב",
+  "question": "סבא מסתכל בחבה על הנכד שלו. מה מרגיש הנכד?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a1/p2",
+  "en": "a boy wearing a kippah with wide scared eyes hugging himself, only the one boy in this panel, no text (fear)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "פחד",
+  "question": "סבא מסתכל בחבה על הנכד שלו. מה מרגיש הנכד?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a2/p0",
+  "en": "a clear glass of water on a table next to a smiling boy wearing a kippah, only the one boy in this panel, no text (water)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מים",
+  "question": "הפסוק מדמה את חיוך השנים ל…",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a2/p1",
+  "en": "a silver kiddush cup of wine on a Shabbat table next to a smiling boy wearing a kippah, only the one boy in this panel, no text (wine)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "יין",
+  "question": "הפסוק מדמה את חיוך השנים ל…",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a2/p2",
+  "en": "a boy wearing a kippah with a big smile showing white teeth next to a tall glass of white milk, only the one boy in this panel, no text (milk)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "חלב",
+  "question": "הפסוק מדמה את חיוך השנים ל…",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a3/p0",
+  "en": "a boy wearing a kippah looking with shining happy eyes at a friend wearing a kippah, both with warm smiles, golden light, no text (happy you are here)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "אני שמח שאתה כאן",
+  "question": "מה אומר חיוך של עינים?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a3/p1",
+  "en": "a boy wearing a kippah looking angrily at a friend with a frown, no text (angry)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "אני כועס עליך",
+  "question": "מה אומר חיוך של עינים?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a3/p2",
+  "en": "a boy wearing a kippah with drooping eyes yawning, only the one boy in this panel, no text (tired)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "אני עייף מאוד",
+  "question": "מה אומר חיוך של עינים?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a4/p0",
+  "en": "a baby boy looking at the smiling teeth of a bearded man wearing a kippah, no text (teeth)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "את השיניים",
+  "question": "תינוק מסתכל עלינו. היכן הוא מחפש?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a4/p1",
+  "en": "a baby boy looking straight into the shining eyes of a bearded man wearing a kippah who is smiling, warm light, no text (eyes)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "את העיניים",
+  "question": "תינוק מסתכל עלינו. היכן הוא מחפש?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a4/p2",
+  "en": "a baby boy looking down at the shoes of a bearded man wearing a kippah, no text (shoes)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "את הנעליים",
+  "question": "תינוק מסתכל עלינו. היכן הוא מחפש?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a5/p0",
+  "en": "a boy wearing a kippah pointing to his nose with a funny look, only the one boy in this panel, no text (nose)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "האף",
+  "question": "השריר של חיוך אמתי נמצא סביב…",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a5/p1",
+  "en": "a boy wearing a kippah pointing to his ear, only the one boy in this panel, no text (ear)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "האוזן",
+  "question": "השריר של חיוך אמתי נמצא סביב…",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a5/p2",
+  "en": "a boy wearing a kippah pointing to the gentle smile lines at the corner of his smiling eye, shining happy eyes, only the one boy in this panel, no text (around the eye)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "העין",
+  "question": "השריר של חיוך אמתי נמצא סביב…",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a6/p0",
+  "en": "a boy wearing a kippah smiling with shining eyes, a thought bubble above him with a warm glowing red cartoon heart, only the one boy in this panel, no text (what a dear person)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "איזה יהודי יקר",
+  "question": "מה חושבים על האדם לפני שמחיכים אליו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a6/p1",
+  "en": "a boy wearing a kippah looking bored, a thought bubble above him with a cartoon clock, only the one boy in this panel, no text (when do we go)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מתי כבר נלך",
+  "question": "מה חושבים על האדם לפני שמחיכים אליו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a6/p2",
+  "en": "a boy wearing a kippah looking curious, a thought bubble above him with a cartoon sandwich, only the one boy in this panel, no text (what did he eat)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מה הוא אכל",
+  "question": "מה חושבים על האדם לפני שמחיכים אליו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a7/p0",
+  "en": "a boy wearing a kippah and a blue medical face mask pointing at the covered mouth with a puzzled look, only the one boy in this panel, no text (teeth)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "בשיניים",
+  "question": "כלם עוטים מסכה ורק העינים נראות. איפה רואים חיוך?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a7/p1",
+  "en": "a boy wearing a kippah and a blue medical face mask with eyes crinkled warmly and shining, clearly smiling with his eyes, only the one boy in this panel, no text (eyes)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "בעיניים",
+  "question": "כלם עוטים מסכה ורק העינים נראות. איפה רואים חיוך?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a7/p2",
+  "en": "a boy wearing a kippah and a blue medical face mask pointing at his shirt, only the one boy in this panel, no text (clothes)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "בבגד",
+  "question": "כלם עוטים מסכה ורק העינים נראות. איפה רואים חיוך?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a8/p0",
+  "en": "a boy wearing a kippah pointing an accusing finger at a shy boy wearing a kippah who looks down, no text (accusing)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "אומרים שהוא מזייף",
+  "question": "חבר בישן לא מביט בעינים. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a8/p1",
+  "en": "a boy wearing a kippah smiling kindly and gently at a shy boy wearing a kippah, no pointing, warm light, no text (not judging)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לא שופטים אותו",
+  "question": "חבר בישן לא מביט בעינים. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a8/p2",
+  "en": "a group of boys wearing kippot laughing at a shy boy wearing a kippah who looks down, no text (laughing at him)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "צוחקים עליו",
+  "question": "חבר בישן לא מביט בעינים. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a9/p0",
+  "en": "a boy wearing a kippah beginning to smile broadly showing white teeth, shining eyes, only the one boy in this panel, no text (from the teeth)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מהשיניים",
+  "question": "מאיפה מתחילים כשרוצים להגיע לחיוך של עינים?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a9/p1",
+  "en": "a boy wearing a kippah looking down at his feet in sneakers, only the one boy in this panel, no text (from the feet)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מהרגליים",
+  "question": "מאיפה מתחילים כשרוצים להגיע לחיוך של עינים?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/a9/p2",
+  "en": "a boy wearing a kippah wiggling his ears with a funny look, only the one boy in this panel, no text (from the ears)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מהאוזניים",
+  "question": "מאיפה מתחילים כשרוצים להגיע לחיוך של עינים?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/b1",
+  "en": "a bearded old man wearing a kippah (like a patriarch) blessing a young man wearing a kippah, a cup of wine and a glass of milk on a table beside them, warm light, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "מה מלמד הפסוק ׳חכלילי עינים מיין ולבן שנים מחלב׳ על חיוך?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/b2",
+  "en": "a boy wearing a kippah drinking from a glass of white milk with a polite smile, a baby boy smiling nearby, soft light, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "מה מסמל החלב, ומה אומר חיוך השנים?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/b3",
+  "en": "a boy wearing a kippah looking with shining happy eyes at a friend wearing a kippah, both laughing, a Shabbat table with a kiddush cup behind them, warm light, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "מה אומר חיוך של עינים, כמו היין?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/b4",
+  "en": "a boy wearing a kippah giving a polite friendly smile to a shopkeeper wearing a kippah at a neighborhood shop counter, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "למה לא מזלזלים בחיוך הנימוס, שדומה לחלב?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/b5",
+  "en": "a thoughtful old scientist wearing a kippah in a study room looking at a drawing of two cartoon smiling faces, one with mouth only and one with shining eyes, no letters, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "מה גלה החוקר דושן על חיוך אמתי?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/b6",
+  "en": "a boy wearing a kippah smiling with warm shining eyes, a glowing thought bubble above him with a cartoon heart, only the one boy in this panel, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "איך מגיעים לחיוך של עינים, אם שריר העין לא נשמע לרצון?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/b7",
+  "en": "a boy wearing a kippah and a blue medical face mask greeting a friend wearing a kippah with shining happy smiling eyes, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "אנחנו עוטים מסכה שמכסה את הפה. מה כדאי לעשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-15/b8",
+  "en": "a boy wearing a kippah with tired eyes making an effort to smile at a friend wearing a kippah who smiles back kindly, no text",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "",
+  "question": "חבר חיך אלינו, אבל העינים שלו נראות עיפות. מה נכון לחשב?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a1/p0",
+  "en": "a boy wearing a kippah laughing out loud with a big joyful smile, only the one boy in this panel, no text (laughing)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לצחק",
+  "question": "מה החליט רבי קלמן לעשות בתקופה הקשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a1/p1",
+  "en": "a boy wearing a kippah crying sadly with tears on his cheeks, only the one boy in this panel, no text (crying)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לבכות",
+  "question": "מה החליט רבי קלמן לעשות בתקופה הקשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a1/p2",
+  "en": "a boy wearing a kippah hiding behind a sofa peeking out nervously, only the one boy in this panel, no text (hiding)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "להסתתר",
+  "question": "מה החליט רבי קלמן לעשות בתקופה הקשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a2/p0",
+  "en": "a boy wearing a kippah rolling a big cartoon die on a table with a puzzled look, only the one boy in this panel, no text (by chance)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מקרה",
+  "question": "לפי השעור, השמחה היא…",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a2/p1",
+  "en": "a boy wearing a kippah at a fork in a sunny path, confidently choosing the bright path with a warm smile, only the one boy in this panel, no text (a choice)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "בחירה",
+  "question": "לפי השעור, השמחה היא…",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a2/p2",
+  "en": "a boy wearing a kippah playing a colorful board game with pawns, only the one boy in this panel, no text (a game)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "משחק",
+  "question": "לפי השעור, השמחה היא…",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a3/p0",
+  "en": "a boy wearing a kippah dancing happily in a sunny room with arms raised, only the one boy in this panel, no text (dancing)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לרקד כל בקר",
+  "question": "על מה התחיב רבי קלמן בהסכם שלו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a3/p1",
+  "en": "a boy wearing a kippah writing in a notebook with a pen at a desk, only the one boy in this panel, no text (writing a book)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לכתב ספר",
+  "question": "על מה התחיב רבי קלמן בהסכם שלו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a3/p2",
+  "en": "a boy wearing a kippah studying a large page of a Gemara volume at a desk, a stack of volumes beside him, a pleased smile, only the one boy in this panel, no text (daily page)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "ללמד דף יומי",
+  "question": "על מה התחיב רבי קלמן בהסכם שלו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a4/p0",
+  "en": "a boy wearing a kippah standing next to a very tall long shelf full of many Gemara volumes reaching far into the distance, an amazed smile, only the one boy in this panel, no text (seven and a half years)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "שבע וחצי שנים",
+  "question": "כמה זמן נמשך המחזור של הדף היומי?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a4/p1",
+  "en": "a boy wearing a kippah holding one small thin booklet, only the one boy in this panel, no text (one week)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "שבוע",
+  "question": "כמה זמן נמשך המחזור של הדף היומי?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a4/p2",
+  "en": "a boy wearing a kippah holding a single page of paper, only the one boy in this panel, no text (one day)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "יום אחד",
+  "question": "כמה זמן נמשך המחזור של הדף היומי?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a5/p0",
+  "en": "a boy wearing a kippah jumping very high in a park with arms up, only the one boy in this panel, no text (high jump)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "קפיצה גבוהה",
+  "question": "מה קרא רבי קלמן לצחוק העמק?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a5/p1",
+  "en": "a boy wearing a kippah laughing deeply with his belly bouncing, soft glowing cartoon lungs drawn friendly inside his chest like a gentle x-ray, only the one boy in this panel, no text (inner run)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "ריצה פנימית",
+  "question": "מה קרא רבי קלמן לצחוק העמק?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a5/p2",
+  "en": "a boy wearing a kippah sleeping peacefully in a cozy bed under a blanket, only the one boy in this panel, no text (sweet sleep)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "שנה מתוקה",
+  "question": "מה קרא רבי קלמן לצחוק העמק?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a6/p0",
+  "en": "a smiling bald bearded man wearing a kippah shivering with a thick scarf around his head, only the one man in this panel, no text (cold head)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "קר לי בראש",
+  "question": "מה אמר רבי קלמן על הראש הקרח שלו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a6/p1",
+  "en": "a smiling bald bearded man wearing a kippah looking at a shelf full of hats, only the one man in this panel, no text (wants a hat)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "אני רוצה כובע",
+  "question": "מה אמר רבי קלמן על הראש הקרח שלו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a6/p2",
+  "en": "a laughing bald bearded man wearing a kippah pointing happily at his bald head, a plain unlabeled shampoo bottle behind him, only the one man in this panel, no text (saved shampoo)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "חסכתי שמפו",
+  "question": "מה אמר רבי קלמן על הראש הקרח שלו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a7/p0",
+  "en": "a boy wearing a kippah with one hand on his heart and a thankful warm smile, walking outdoors in the sunshine, only the one boy in this panel, no text (thank you)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "תודה",
+  "question": "מה אומרים על רגלים שהולכות ועל אויר בראות?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a7/p1",
+  "en": "a boy wearing a kippah with a sorry look raising one hand apologetically, only the one boy in this panel, no text (sorry)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "סליחה",
+  "question": "מה אומרים על רגלים שהולכות ועל אויר בראות?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a7/p2",
+  "en": "a boy wearing a kippah with arms crossed and a dissatisfied frown, only the one boy in this panel, no text (not enough)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לא מספיק",
+  "question": "מה אומרים על רגלים שהולכות ועל אויר בראות?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a8/p0",
+  "en": "a boy wearing a kippah smiling happily on an ordinary day while doing his homework at a desk, only the one boy in this panel, no text (not waiting)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לא לחכות כדי לשמח",
+  "question": "מה המסר שהשאיר רבי קלמן לכלנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a8/p1",
+  "en": "a boy wearing a kippah sitting and waiting by a table, a wrapped gift box in front of him, looking at a wall clock with no numbers, only the one boy in this panel, no text (waiting for a special day)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לחכות ליום מיחד",
+  "question": "מה המסר שהשאיר רבי קלמן לכלנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a8/p2",
+  "en": "a boy wearing a kippah in festive clothes at a holiday table with candles and round challah, smiling, only the one boy in this panel, no text (only on a holiday)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לשמח רק בחג",
+  "question": "מה המסר שהשאיר רבי קלמן לכלנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a9/p0",
+  "en": "a boy wearing a kippah laughing with his ears glowing softly in yellow, only the one boy in this panel, no text (ears)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "האזנים",
+  "question": "מה מתמלא באויר כשצוחקים צחוק עמק?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a9/p1",
+  "en": "a boy wearing a kippah laughing with his eyes glowing softly in yellow, only the one boy in this panel, no text (eyes)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "העינים",
+  "question": "מה מתמלא באויר כשצוחקים צחוק עמק?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a9/p2",
+  "en": "a boy wearing a kippah laughing with friendly glowing cartoon lungs filled with air visible inside his chest like a gentle x-ray, only the one boy in this panel, no text (lungs)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "הראות",
+  "question": "מה מתמלא באויר כשצוחקים צחוק עמק?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a10/p0",
+  "en": "a boy wearing a kippah hiding under a blanket in fear, only the one boy in this panel, no text (hides)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "מתחבא ממנו",
+  "question": "מה עושה רבי קלמן עם הפחד?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a10/p1",
+  "en": "a boy wearing a kippah standing firm and tall with a calm smile, a small gray cloud near him floating away, only the one boy in this panel, no text (does not let it rule)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "לא נותן לו לשלט",
+  "question": "מה עושה רבי קלמן עם הפחד?",
+  "section": ""
+ },
+ {
+  "id": "hq/chiyuch-16/a10/p2",
+  "en": "a boy wearing a kippah covering his eyes with both hands pretending nothing is there, only the one boy in this panel, no text (pretends)",
+  "topic": "🌱 מדות טובות – החיוך",
+  "caption": "עושה כאלו אין פחד",
+  "question": "מה עושה רבי קלמן עם הפחד?",
+  "section": ""
+ }
+]

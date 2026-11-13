@@ -13053,5 +13053,797 @@
   "flags": [],
   "note": "",
   "by": "claude-eye"
+ },
+ "sp/acharei-mot-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/acharei-mot-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/acharei-mot-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/acharei-mot-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/acharei-mot-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/acharei-mot-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bechukotai-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bechukotai-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bechukotai-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bechukotai-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bechukotai-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bechukotai-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/behar-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/behar-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/behar-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/behar-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/behar-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/behar-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bereshit-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bereshit-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bereshit-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bereshit-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bereshit-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bereshit-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/beshalach-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/beshalach-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/beshalach-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/beshalach-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/beshalach-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/beshalach-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bo-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bo-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bo-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bo-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bo-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/bo-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/chayei-sara-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/chayei-sara-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/chayei-sara-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/chayei-sara-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/chayei-sara-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/chayei-sara-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/emor-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/emor-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/emor-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/emor-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/emor-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/emor-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/kedoshim-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/kedoshim-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/kedoshim-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/kedoshim-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/kedoshim-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/kedoshim-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/ki-tisa-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/ki-tisa-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/ki-tisa-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/ki-tisa-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/ki-tisa-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/ki-tisa-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/lech-lecha-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/lech-lecha-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/lech-lecha-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/lech-lecha-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/lech-lecha-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/lech-lecha-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/metzora-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/metzora-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/metzora-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/metzora-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/metzora-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/metzora-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/miketz-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/miketz-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/miketz-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/miketz-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/miketz-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/miketz-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/mishpatim-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/mishpatim-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/mishpatim-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/mishpatim-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/mishpatim-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/mishpatim-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/noach-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/noach-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/noach-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/noach-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/noach-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/noach-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/pekudei-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/pekudei-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/pekudei-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/pekudei-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/pekudei-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/pekudei-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemini-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemini-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemini-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemini-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemini-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemini-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemot-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemot-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemot-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemot-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemot-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/shemot-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tazria-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tazria-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tazria-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tazria-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tazria-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tazria-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/teruma-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/teruma-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/teruma-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/teruma-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/teruma-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/teruma-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tetzave-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tetzave-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tetzave-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tetzave-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tetzave-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tetzave-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/toldot-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/toldot-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/toldot-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/toldot-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/toldot-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/toldot-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tzav-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tzav-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tzav-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tzav-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tzav-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/tzav-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vaera-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vaera-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vaera-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vaera-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vaera-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vaera-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayakhel-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayakhel-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayakhel-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayakhel-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayakhel-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayakhel-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayechi-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayechi-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayechi-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayechi-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayechi-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayechi-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayera-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayera-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayera-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayera-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayera-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayera-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayeshev-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayeshev-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayeshev-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayeshev-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayeshev-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayeshev-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayetze-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayetze-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayetze-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayetze-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayetze-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayetze-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayigash-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayigash-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayigash-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayigash-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayigash-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayigash-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayikra-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayikra-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayikra-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayikra-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayikra-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayikra-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayishlach-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayishlach-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayishlach-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayishlach-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayishlach-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/vayishlach-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/yitro-1": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/yitro-2": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/yitro-3": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/yitro-4": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/yitro-5": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
+ },
+ "sp/yitro-6": {
+  "status": "ok",
+  "note": "seder-parasha: נבדק בעין בגיליון, 13.11.2026"
  }
 }
