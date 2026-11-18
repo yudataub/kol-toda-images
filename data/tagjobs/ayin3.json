@@ -1,0 +1,714 @@
+[
+{
+"id": "hq/ayin-01/a1/p2",
+"en": "a boy wearing a kippah in a garden frowning down at a muddy puddle on the path, only the one boy in this panel, no text (mud)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "בוץ",
+"question": "דוד ויוסי מטילים בגנה. מה רואה ילד עם עין טובה?",
+"section": ""
+},
+{
+"id": "hq/ayin-01/a3/p1",
+"en": "a blue sky with fluffy white clouds above a green field, no people, no text (clouds)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "עננים",
+"question": "התלמידים אמרו שהריח רע מאד. על מה החסיד העמיד את המבט?",
+"section": ""
+},
+{
+"id": "hq/ayin-01/a5/p0",
+"en": "a fly sitting on a clean white plate, no text (clean place)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מקום נקי",
+"question": "על איזה מקום נוחת הזבוב?",
+"section": ""
+},
+{
+"id": "hq/ayin-01/a6/p2",
+"en": "a man wearing a kippah sitting alone on a bench with a closed mouth and a neutral face, no text (always silent)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "שותק",
+"question": "לפי הכלי יקר, מי עושה כמו הזבוב?",
+"section": ""
+},
+{
+"id": "hq/ayin-01/a8/p1",
+"en": "a boy wearing a kippah in front of a steep hill smiling and rolling up his sleeves, ready to climb, only the one boy in this panel, no text (an opportunity)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "הזדמנות",
+"question": "לפי השעור, מה רואה האופטימי בכל קשי?",
+"section": ""
+},
+{
+"id": "hq/ayin-01/a10/p0",
+"en": "a bearded wise man wearing a kippah looking out at the world with a warm kind gaze, close view of his smiling eyes, no text (a good eye)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "עין טובה",
+"question": "בפרקי אבות שאלו: ״איזוהי דרך ישרה?״. מה ענה רבי אליעזר?",
+"section": ""
+},
+{
+"id": "hq/ayin-01/b3",
+"en": "a man wearing a kippah holding a magnifying glass and frowning, looking for faults on a spotless white tablecloth with a small crumb, a fly buzzing near him, no letters, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "מה דומה האדם שמחפש רק מומים בחבריו, לפי הכלי יקר?",
+"section": ""
+},
+{
+"id": "hq/ayin-01/b8",
+"en": "a boy wearing a kippah sitting on a grassy hill at sunset with a calm happy smile, looking at the view of fields and sun and white clouds, no letters, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "לפי הרב מילר, מה מרגיש מי שמסתכל בעין טובה על כל דבר?",
+"section": ""
+},
+{
+"id": "hq/ayin-02/a2/p1",
+"en": "a boy wearing a kippah standing in a flower field with raised open hands and a warm happy smile, looking up at a bright sun and white clouds, only the one boy in this panel, no text (thanking)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מודים",
+"question": "מה עושים כשרואים עולם יפה וטוב?",
+"section": ""
+},
+{
+"id": "hq/ayin-02/a4/p0",
+"en": "a man in simple animal-skin clothing in a garden standing back with hands behind his back near a fruit tree, a hesitant face, only the one man in this panel, no text (don't touch)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "אל תיגע",
+"question": "מה אמר ה׳ לאדם הראשון על כל מה שברא?",
+"section": ""
+},
+{
+"id": "hq/ayin-02/a5/p2",
+"en": "a bearded man wearing a kippah looking at a loaf of bread and wondering, three plates on the table, no text (who will eat)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מי יאכל",
+"question": "בן זומא רואה לחם על השלחן. על מה הוא חושב?",
+"section": ""
+},
+{
+"id": "hq/ayin-02/a7/p1",
+"en": "a man in simple clothing picking a ready-made shirt from the branch of a green tree, no text (pick from a tree)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "קוטף מעץ",
+"question": "מה היה צריך לעשות אדם הראשון כדי ללבש בגד?",
+"section": ""
+},
+{
+"id": "hq/ayin-02/a9/p0",
+"en": "an old thick book with a plain blue cover and a small star-shaped emblem, closed on a table, no letters, no text (Haggadah)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "הגדה",
+"question": "באיזה ספר כתוב ש׳ושמחת בכל הטוב׳ היא מצוה מן התורה?",
+"section": ""
+},
+{
+"id": "hq/ayin-02/a10/p2",
+"en": "a boy wearing a kippah with his hands on his heart and a grateful warm smile, looking out of a window at a bus and a sunny street, only the one boy in this panel, no text (how much to thank)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "להודות",
+"question": "מה היה אומר בן זומא על התנאים בימינו?",
+"section": ""
+},
+{
+"id": "hq/ayin-02/b5",
+"en": "a boy wearing a kippah standing in a blooming meadow with raised open hands and a joyful grateful smile, butterflies and flowers around him, sun and white clouds in the sky, no letters, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "לפי רבי מאיר חדש, מה עושה מי ששמח בבריאה בעין טובה?",
+"section": ""
+},
+{
+"id": "hq/ayin-03/a1/p1",
+"en": "a brand new neatly made bed with a blue blanket and a pillow, empty room, no text (new bed)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מיטה חדשה",
+"question": "בבקר, לפני שקמים מהמטה, אומרים ׳מודה אני׳. על איזו מתנה גדולה מודים?",
+"section": ""
+},
+{
+"id": "hq/ayin-03/a3/p0",
+"en": "a pile of brown walnuts in their shells on a wooden table, no text (walnuts)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "אגוזים",
+"question": "מגרגיר קטן שנזרע באדמה גדל הלחם. מאיזה גרגיר?",
+"section": ""
+},
+{
+"id": "hq/ayin-03/a4/p2",
+"en": "a small passenger airplane flying in a blue sky, no text (airplane)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מטוס",
+"question": "איך מגיעים המים הנקיים לשדות ולנחלים?",
+"section": ""
+},
+{
+"id": "hq/ayin-03/a6/p1",
+"en": "a light straw summer hat on a table, no text (summer hat)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "כובע קיץ",
+"question": "איזה בגד נותן חם בחרף, וה׳ דאג לחמרים שמהם עושים אותו?",
+"section": ""
+},
+{
+"id": "hq/ayin-03/a8/p0",
+"en": "a single plain gray apple alone on a bare shelf, no text (one gray fruit)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "פרי אחד אפור",
+"question": "מה רואים בחנות פרות שמראה כמה ה׳ רוצה לשמח אותנו?",
+"section": ""
+},
+{
+"id": "hq/ayin-03/a9/p2",
+"en": "a boy wearing a kippah with his hand on his heart and a warm happy smile looking up at the sunny sky with white clouds, only the one boy, no text (thank you)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "תודה ה׳",
+"question": "קבלנו מתנה מה׳. מה אומרים?",
+"section": ""
+},
+{
+"id": "hq/ayin-03/b2",
+"en": "an elderly bearded man wearing a kippah holding a glass jar of golden honey up to the window light with a moved, thankful expression and wet eyes, a small beehive visible in the garden outside, only the one man, no letters, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "מה התרגש הרב שך כשהחזיק בקבוק דבש?",
+"section": ""
+},
+{
+"id": "hq/ayin-03/b7",
+"en": "a boy wearing a kippah biting into a juicy orange at the table with his eyes closed in delight, a bowl of colorful fruit beside him, only the one boy, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "אם האכילה היתה כמו מלוי דלק במכונית, מה היה חסר בה?",
+"section": ""
+},
+{
+"id": "hq/ayin-04/a2/p0",
+"en": "a bearded working man wearing a kippah holding out his open hand while a cloth pouch of coins is handed to him by another man, only two men, no text, no text (wages)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "שכר",
+"question": "מה בקש השכיר בערב יום כפור?",
+"section": ""
+},
+{
+"id": "hq/ayin-04/a3/p2",
+"en": "two brown horses standing in a stable eating hay, no text (horses)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "סוסים",
+"question": "בשביל מי רצה השכיר את השכר?",
+"section": ""
+},
+{
+"id": "hq/ayin-04/a5/p1",
+"en": "a man with crossed arms turning his face away coldly, only the one man, no text (does not like me)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "לא אוהב אותי",
+"question": "השכיר שמע ׳אין לי בהמה׳. מה הוא חשב?",
+"section": ""
+},
+{
+"id": "hq/ayin-04/a7/p0",
+"en": "a man wearing a kippah holding a sealed blank letter in his hand, only the one man, no text, no text (only a letter)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "רק מכתב",
+"question": "מה הביא בעל הבית אחרי החג?",
+"section": ""
+},
+{
+"id": "hq/ayin-04/a8/p2",
+"en": "a perfectly level balance scale with both pans empty, no text (no side)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "לשום צד",
+"question": "לאיזה צד נוטות המאזנים כשדנים לכף זכות?",
+"section": ""
+},
+{
+"id": "hq/ayin-04/a10/p1",
+"en": "a close view of a sad boy wearing a kippah with downturned eyes and a worried brow, only the one boy, no text (sad eye)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "עין עצובה",
+"question": "איזו עין מחפשת הסבר טוב לחבר?",
+"section": ""
+},
+{
+"id": "hq/ayin-04/b4",
+"en": "a bearded landowner wearing a kippah leading three donkeys loaded with baskets of bread, jugs of drink and covered trays of treats down a country road toward a small stone house, warm sunny afternoon, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "מה היה על שלושת החמורים שהביא בעל הבית?",
+"section": ""
+},
+{
+"id": "hq/ayin-05/a1/p0",
+"en": "a boy wearing a kippah holding a sheet of blank paper close to his chest with a big happy smile, only the one boy in this panel, no text (joy)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "שמחה",
+"question": "הדף שעובר חזר אל אבי, והוא קרא בו משפטים טובים עליו. מה הוא מרגיש?",
+"section": ""
+},
+{
+"id": "hq/ayin-05/a2/p2",
+"en": "a circle of boys wearing kippot sitting together passing a blank sheet of paper from hand to hand, each one writing and smiling, no text (all the friends)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "כל החברים",
+"question": "בדף השובר, מי כותב משפט על כל ילד?",
+"section": ""
+},
+{
+"id": "hq/ayin-05/a4/p1",
+"en": "a boy wearing a kippah standing in a school hallway looking around with a hand over his eyes searching, only the one boy in this panel, no text (another teacher)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מורה אחר",
+"question": "ילד רועש מאד בשעור. מה מחפש מי שעינו טובה?",
+"section": ""
+},
+{
+"id": "hq/ayin-05/a6/p0",
+"en": "a boy wearing a kippah telling two friends cheerfully about a smiling friend who stands nearby, three or four boys in this panel, no text (good things)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "דברים טובים",
+"question": "לפי הרמב״ם, מה מספרים על חבר שאוהבים?",
+"section": ""
+},
+{
+"id": "hq/ayin-05/a7/p2",
+"en": "a boy wearing a kippah wearing mismatched colorful socks and a funny hat and looking puzzled, only the one boy in this panel, no text (a bit strange)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "הוא קצת מוזר",
+"question": "החבר לא נמצא בחדר. איזה משפט עליו הוא מצוה?",
+"section": ""
+},
+{
+"id": "hq/ayin-05/a9/p1",
+"en": "two boys wearing kippot standing face to face, both smiling warmly at each other like a mirror, sunny day, no text (smiles back)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מחזיר חיוך",
+"question": "כמים הפנים לפנים. אם אני מביט בחבר בחיוך, הוא –",
+"section": ""
+},
+{
+"id": "hq/ayin-05/b4",
+"en": "a boy wearing a kippah standing in a school hallway telling two other boys wearing kippot about an absent friend, speaking with a warm smile, the hallway otherwise empty, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "למה מספרים בשבחו של חבר, גם כשהוא לא שומע?",
+"section": ""
+},
+{
+"id": "hq/ayin-06/a1/p0",
+"en": "a boy wearing a kippah smiling happily and holding a test paper with blank lines, only the one boy in this panel, no text (joy)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "שמחה",
+"question": "אחרי מבחן עם הרבה טעיות, יונתן אומר לעצמו: ׳אין בי שום טוב׳. מה הוא מרגיש?",
+"section": ""
+},
+{
+"id": "hq/ayin-06/a2/p2",
+"en": "a boy wearing a kippah hiding his face in a pillow on a bed, only the one boy in this panel, no text (hiding his face)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מסתירים את הפנים",
+"question": "מה עושים כשנדמה שאין בנו טוב?",
+"section": ""
+},
+{
+"id": "hq/ayin-06/a4/p1",
+"en": "a boy wearing a kippah sitting very still with a finger on his lips, only the one boy in this panel, no text (quietly)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "בשקט",
+"question": "לפי רבי נחמן, איך צריך להיות כל הזמן?",
+"section": ""
+},
+{
+"id": "hq/ayin-06/a6/p0",
+"en": "a boy wearing a kippah singing happily with his mouth open next to a sunny window with white clouds outside, only the one boy in this panel, no text (sings and thanks)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "שר ומודה",
+"question": "מה עושה מי שמוצא בעצמו נקדה טובה?",
+"section": ""
+},
+{
+"id": "hq/ayin-06/a7/p2",
+"en": "a boy wearing a kippah proudly looking at a neat row of colorful building blocks he built, with a happy smile, only the one boy in this panel, no text (what I did do)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "על מה שכן עשיתי",
+"question": "בסוף היום, אל מה כדאי להסתכל?",
+"section": ""
+},
+{
+"id": "hq/ayin-06/a9/p1",
+"en": "a boy wearing a kippah opening a small wooden box with warm golden light shining out, smiling, on a sunny day, only the one boy in this panel, no text (whenever I want)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "כל פעם שרוצים",
+"question": "מתי פותחים את הקופסה שבלב?",
+"section": ""
+},
+{
+"id": "hq/ayin-06/b4",
+"en": "a young student with a short beard wearing a kippah and a long coat standing at a window with open hands lifted in quiet prayer, with a joyful peaceful smile, bright morning light, no letters, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "לפי רבי נתן, מה אפשר לעשות רק מתוך שמחה?",
+"section": ""
+},
+{
+"id": "hq/ayin-07/a1/p0",
+"en": "a man wearing a kippah sitting in the back seat of a taxi, frowning and throwing up his hands in complaint, only the one man in this panel, no text (complaining)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מתלונן",
+"question": "במונית, אחד הנוסעים הודה לה׳. מה הוא אמר?",
+"section": ""
+},
+{
+"id": "hq/ayin-07/a2/p2",
+"en": "a group of ancient men in simple robes walking in a line on a path, each holding the shoulder of the man in front, all with their eyes tightly closed, no women, no text (not looking)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "בלי להסתכל",
+"question": "המרגלים הלכו בארץ ארבעים יום. איך הסתכלו עליה?",
+"section": ""
+},
+{
+"id": "hq/ayin-07/a4/p1",
+"en": "a charming small village with stone houses and a synagogue with a Star of David, men wearing kippot greeting each other warmly, green hills and sunshine, no women, no text (wonderful town)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "נפלאה",
+"question": "החבר הראשון ספר על העירה שלו. מה הוא אמר?",
+"section": ""
+},
+{
+"id": "hq/ayin-07/a6/p0",
+"en": "a group of men wearing kippot all nodding their heads and giving a thumbs up, no text (everyone is right)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "כולם צודקים",
+"question": "מה הבין החכם משני הספורים?",
+"section": ""
+},
+{
+"id": "hq/ayin-07/a7/p2",
+"en": "a boy wearing a kippah walking home on a sidewalk with a school bag, houses behind him, only the one boy in this panel, no text (the way home)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "הדרך הביתה",
+"question": "כשאני מוצא טוב בחבר, בדרכי מי אני הולך?",
+"section": ""
+},
+{
+"id": "hq/ayin-07/a9/p1",
+"en": "ancient men in simple robes sleeping peacefully in the shade of desert tents, no women, no text (sleeping a little more)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "ישנים עוד",
+"question": "לפי יש אומרים, למה המרגלים רצו להשאר במדבר?",
+"section": ""
+},
+{
+"id": "hq/ayin-07/b4",
+"en": "two men wearing kippot standing side by side at the same window looking at a rainy gray street, one looks gloomy and the other looks out with a gentle smile, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "שני אנשים נמצאים באותו מצב קשה. מה ההבדל ביניהם, לפי הפסוק בתהלים?",
+"section": ""
+},
+{
+"id": "hq/ayin-08/a1/p0",
+"en": "a small boy wearing a kippah holding a closed book with a blank cover, only the one boy in this panel, no text (a small boy)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "ילד קטן",
+"question": "באיזה גיל התחיל רבי עקיבא ללמד?",
+"section": ""
+},
+{
+"id": "hq/ayin-08/a2/p2",
+"en": "a large gray stone with a deep smooth groove on a rocky mountain top with blue sky behind, no people, no text (on the mountain)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "על ההר",
+"question": "איפה ראה רבי עקיבא את האבן החקוקה?",
+"section": ""
+},
+{
+"id": "hq/ayin-08/a4/p1",
+"en": "a bearded man in simple ancient robes with a hand on his heart, smiling at a stone with a groove, sunrise light on his face, only the one man in this panel, no text (it will carve the heart)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "יחקקו את הלב",
+"question": "מה חשב רבי עקיבא על דברי תורה?",
+"section": ""
+},
+{
+"id": "hq/ayin-08/a6/p0",
+"en": "a lion walking among old ruined stone walls on a hill, no people, no text (a lion)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "אריה",
+"question": "מה ראו החכמים יוצא מתוך המקום הקדוש בהר הבית?",
+"section": ""
+},
+{
+"id": "hq/ayin-08/a7/p2",
+"en": "three bearded sages in simple ancient robes running down a hill with their robes flying, no text (running)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "רצים",
+"question": "מה עשו שלושת החכמים כשראו את השועל?",
+"section": ""
+},
+{
+"id": "hq/ayin-08/a9/p1",
+"en": "three bearded sages in simple ancient robes bowing their heads politely before a fourth sage, no text (forgive us)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "סלח לנו",
+"question": "מה אמרו לו החכמים אחרי שהסביר?",
+"section": ""
+},
+{
+"id": "hq/ayin-08/b4",
+"en": "a bearded sage in simple ancient robes with a calm gentle smile looking at old ruined stone walls on a hill, a bright sunrise and green hills behind, a fox far in the distance, only the one man in this scene, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "למה חיך רבי עקיבא כשראה את השועל?",
+"section": ""
+},
+{
+"id": "hq/ayin-09/a1/p0",
+"en": "a boy wearing a kippah sitting at a desk with an open notebook, a determined hopeful look, ready to study again, only the one boy in this panel, no text (preparing again)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "הוא מתכונן",
+"question": "אורי קבל ציון נמוך במבחן. מה אומר האופטימי?",
+"section": ""
+},
+{
+"id": "hq/ayin-09/a2/p2",
+"en": "a boy wearing a kippah squinting suspiciously with a frown at someone off-panel, only the one boy in this panel, no text (he is laughing at me)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "הוא צוחק",
+"question": "חבר חיך אליך אחרי שעזרת לו. מה אומר האופטימי?",
+"section": ""
+},
+{
+"id": "hq/ayin-09/a4/p1",
+"en": "a boy wearing a kippah with a frowning face pointing at himself and kicking a soccer ball away, only the one boy in this panel, no text (I always lose)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "תמיד מפסיד",
+"question": "הפסדת במשחק. מה אומר האופטימי?",
+"section": ""
+},
+{
+"id": "hq/ayin-09/a6/p0",
+"en": "a boy wearing a kippah waiting calmly at a bus stop with a pleasant smile, looking down the road for the next bus, only the one boy in this panel, no text (I came early for the next one)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "הקדמתי לבא",
+"question": "האוטובוס נסע לפני שהגעת. מה אומר האופטימי?",
+"section": ""
+},
+{
+"id": "hq/ayin-09/a7/p2",
+"en": "a boy wearing a kippah kneeling on the floor, smiling with a thoughtful look, building a tower of colorful blocks again with a wider base, only the one boy in this panel, no text (learns and builds again)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "בונה שוב",
+"question": "המגדל שבנית מקביות נפל. מה עושה האופטימי?",
+"section": ""
+},
+{
+"id": "hq/ayin-09/a9/p1",
+"en": "a boy wearing a kippah shrugging his shoulders with a blank face as if it just happened by chance, only the one boy in this panel, no text (it just happened)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "סתם קרה",
+"question": "היה יום טוב בכתה. מה אומר האופטימי?",
+"section": ""
+},
+{
+"id": "hq/ayin-09/b1",
+"en": "a boy wearing a kippah sitting on a bench by a playing field after a game, a small thoughtful smile and a calm look, a ball beside him, only the one boy in this scene, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "הפסדת במשחק. איזה משפט הוא הסבר אופטימי?",
+"section": ""
+},
+{
+"id": "hq/ayin-09/b6",
+"en": "a boy wearing a kippah sitting on a grass hill watching a small gray cloud drift away while a bright blue patch of sky opens, a calm relieved smile, only the one boy in this scene, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "אין לנו שליטה על כל מחשבה שעולה. על מה כן יש שליטה?",
+"section": ""
+},
+{
+"id": "hq/ayin-10/a1/p2",
+"en": "a boy wearing a kippah sitting in front of a dark blank screen with a worried frightened face, only the one boy in this panel, no text (scary news)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "חדשות קשות",
+"question": "מה עושים לפני השנה כדי לראות טוב?",
+"section": ""
+},
+{
+"id": "hq/ayin-10/a3/p1",
+"en": "a boy wearing a kippah turning his back on a closed notebook and looking away with a bored face, only the one boy in this panel, no text (ignoring it)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מתעלמים",
+"question": "סימת את שעורי הבית בזמן. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/ayin-10/a5/p0",
+"en": "a boy wearing a kippah with a grumbling frown, waving his hands in complaint, only the one boy in this panel, no text (complains about everything)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "מתלונן",
+"question": "עם איזה חבר טוב להיות?",
+"section": ""
+},
+{
+"id": "hq/ayin-10/a6/p2",
+"en": "a boy wearing a kippah carrying many shopping bags with greedy wide eyes, only the one boy in this panel, no text (buys everything)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "קונה הכל",
+"question": "מי עשיר?",
+"section": ""
+},
+{
+"id": "hq/ayin-10/a8/p1",
+"en": "a boy wearing a kippah stamping his foot with an angry red face, only the one boy in this panel, no text (delays and gets angry)",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "כועס",
+"question": "איזו שגרת בקר עוזרת?",
+"section": ""
+},
+{
+"id": "hq/ayin-10/b1",
+"en": "a boy wearing a kippah writing in a blank notebook by lamplight at his desk at night with a warm thankful smile, a glass of water beside him, only the one boy in this scene, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "למה כדאי לכתב את שלוש הטובות ולא רק לחשב עליהן?",
+"section": ""
+},
+{
+"id": "hq/ayin-10/b6",
+"en": "two boys wearing kippot sitting together on a bench in a sunny park, one pointing happily at a blooming tree and the other smiling warmly as he looks at it, friendly bright scene, no text",
+"topic": "🌱 מדות טובות – עין טובה",
+"caption": "",
+"question": "איזה חבר עוזר לי לשמר על עין טובה?",
+"section": ""
+},
+{
+"id": "bk/ayin-01-c3",
+"en": "a group of men walking on a dirt path through the countryside, three of them wrinkling their noses and pinching them, and one bearded wise man wearing a kippah smiling gently and pointing ahead with a warm kind gaze, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-01-c8",
+"en": "a boy wearing a kippah standing at the bottom of a steep green hill looking up with a hopeful smile and rolling up his sleeves, a blue sky with white clouds above, a signpost pointing up the hill, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-02-c5",
+"en": "a bearded man wearing a kippah holding a clean white shirt with a grateful smile, behind him faint pictures of a sheep being sheared and a wooden loom, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-03-c2",
+"en": "a sunny garden full of colorful flowers under a bright shining sun and white clouds, a boy wearing a kippah standing in the garden with his face lifted toward the light, a happy warm smile, only the one boy in this scene, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-03-c7",
+"en": "a boy wearing a kippah crouching in a flower garden and gently smelling a bright flower, his eyes closed in delight, many colorful flowers all around, sunshine, only the one boy in this scene, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-04-c4",
+"en": "a bearded worker wearing a kippah walking home alone along a quiet road at evening, a thoughtful gentle half-smile, golden sunset sky with white clouds, behind him far away a farm with a small market cart and sheep in a field, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-04-c9",
+"en": "a boy wearing a kippah standing beside a table with a brass balance scale, gently placing a small golden heart on one pan so that it sinks down, a kind and thoughtful smile, only the one boy in this scene, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-05-c5",
+"en": "an elderly sage with a long white beard in medieval-style robes and a simple cap sitting at a wooden desk writing on a blank scroll with a quill, bookshelves with closed books behind him, warm light, kind expression, no letters, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-06-c2",
+"en": "a boy wearing a kippah holding a magnifying glass and looking through it with gentle curiosity at a small glowing golden star resting on his own open palm, a sunny garden behind him, only the one boy in this scene, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-06-c7",
+"en": "a boy wearing a kippah sitting at a desk at the end of the day, proudly looking at a neat row of colorful building blocks he built, a warm lamp glowing, a satisfied smile, only the one boy in this scene, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-07-c4",
+"en": "a charming small village with stone houses and a synagogue with a Star of David, two bearded men wearing kippot greeting each other warmly in the foreground, one speaking with a delighted smile, green hills and sunshine, no other people in the scene, no strollers",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-08-c1",
+"en": "a boy wearing a kippah holding a small violin and looking hesitantly at other boys wearing kippot who play music in the background, his face slowly turning into a hopeful smile, only the one boy in focus",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-08-c6",
+"en": "two bearded sages in simple ancient robes talking face to face on a hillside, one with a sad expression pointing to the ruined stones in the distance, the other smiling gently with open hands, a fox far in the distance, soft light",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-09-c3",
+"en": "a boy wearing a kippah standing calmly under a green umbrella on a rainy hillside trip with a relaxed friendly face, looking up at the gray clouds with a small smile, puddles shining, only the one boy in this scene, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-09-c8",
+"en": "a man wearing a kippah driving a small car up a hilly road at early morning with the golden sun appearing between two hills, a delighted smile, a bright warm sky with white clouds, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+},
+{
+"id": "bk/ayin-10-c5",
+"en": "two boys wearing kippot walking together on a sunny garden path, one pointing with delight at a blooming tree and the other smiling warmly at it, friendly bright scene, no text",
+"topic": "ספרי לימוד – מידות טובות: עין טובה",
+"caption": "",
+"question": "",
+"section": ""
+}
+]

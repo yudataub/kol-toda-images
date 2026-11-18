@@ -257,3 +257,21 @@ def sp():
                               topic=["פרשת השבוע", "ספר " + v.get("book", ""), "פרשת " + v["name"]], topic_key="sp/" + key,
                               reviewed=False, has_text=False, files={"master": f, "web_url": ""}))
     return items
+
+
+def ogmain():
+    """תמונות שיתוף לעמודים הראשיים של kol-toda.co.il (Gemini, 15.11.2026): C:\og-ai\gemini-main\<slug>.jpg,
+    ו-jobs.json = [slug, כותרת, שורת משנה, תיאור באנגלית]. נבדקו בעין בגיליון (בלי נשים, בלי טקסט)."""
+    d = r"C:\og-ai\gemini-main"
+    if not os.path.isdir(d):
+        return []
+    jobs = {j[0]: j for j in json.load(open(os.path.join(d, "jobs.json"), encoding="utf-8"))}
+    items = []
+    for f in sorted(glob.glob(os.path.join(d, "*.jpg"))):
+        stem = os.path.basename(f)[:-4]
+        j = jobs.get(stem, [stem, "", "", ""])
+        items.append(dict(id="ogmain/" + stem, source="ogmain", engine="gemini", style="watercolor", kind="scene", en=j[3],
+                          he_ctx={"page_title": plain(j[1]), "page_desc": plain(j[2])},
+                          topic=["צבעי מים"], topic_key="ogmain", reviewed=False, has_text=False,
+                          files={"master": f, "web_url": ""}))
+    return items
