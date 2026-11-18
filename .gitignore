@@ -3,3 +3,4 @@ sheets/
 __pycache__/
 lib/__pycache__/
 *.bak*
+data/visionjobs/v-*.jpg
