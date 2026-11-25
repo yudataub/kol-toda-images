@@ -2,7 +2,7 @@
 
 איורים בדוקים (בלי נשים ובנות, בלי טקסט, בלי כנסיות וכיפות), עם חיפוש בעברית, כדי שבכל ספר או דף
 **מחפשים קודם כאן** ורק אם אין מתאים מייצרים תמונה חדשה.
-גלריה: https://yudataub.github.io/kol-toda-images/ (noindex). הסקיל: `~/.claude/skills/image-library`.
+גלריה: https://yudataub.github.io/kol-toda-images/ (noindex). תמונות מלאות חדשות: ריפו שני, `../image-library-2` → https://yudataub.github.io/kol-toda-images-2/ (מ-25.11, מגבלת 1GB של Pages). מקורות ב-`data/hold.txt` לא נכנסים לגלריה. הסקיל: `~/.claude/skills/image-library`.
 
 ## מה יש (נובמבר 2026)
 | מקור | מה | בדוק |
