@@ -2,7 +2,9 @@
 """בונה את הגלריה docs/ (GitHub Pages: https://yudataub.github.io/kol-toda-images/).
     python build_site.py
 רק תמונות שנבדקו נכנסות. תמונה מלאה – מהכתובת שכבר קיימת (ריפו kol-toda-halacha); ללוח בודד נשמר
-קובץ חתוך ב-docs/f/. תמונות קטנות לגלריה ב-docs/t/. החיפוש: אותו נרמול כמו lib/hebrew.py (ב-app.js)."""
+קובץ חתוך ב-docs/f/. תמונות קטנות לגלריה ב-docs/t/.
+מ-25.11.2026 (מגבלת 1GB של Pages): תמונה מלאה חדשה נשמרת בריפו השני image-library-2/f (kol-toda-images-2);
+מה שכבר ב-docs/f נשאר שם. מקורות ב-data/hold.txt (שורה למקור) לא נכנסים לגלריה עד שמוציאים אותם משם. החיפוש: אותו נרמול כמו lib/hebrew.py (ב-app.js)."""
 import json, os, re, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -11,6 +13,8 @@ from hebrew import tokens  # noqa: E402
 
 DATA, DOCS = os.path.join(HERE, "data"), os.path.join(HERE, "docs")
 BASE = "https://yudataub.github.io/kol-toda-images/"
+BASE2 = "https://yudataub.github.io/kol-toda-images-2/"
+F2 = os.path.join(os.path.dirname(HERE), "image-library-2", "f")
 
 
 def fname(iid):
@@ -26,14 +30,22 @@ def main():
     lex = json.load(open(os.path.join(DATA, "lexicon.json"), encoding="utf-8"))
     for d in ("t", "f"):
         os.makedirs(os.path.join(DOCS, d), exist_ok=True)
+    os.makedirs(F2, exist_ok=True)
+    hp = os.path.join(DATA, "hold.txt")
+    hold = {l.strip() for l in open(hp, encoding="utf-8") if l.strip() and not l.startswith("#")} if os.path.exists(hp) else set()
     out, made = [], 0
     for it in items:
+        if it["source"] in hold:
+            continue
         st = review.get(it["id"], {}).get("status")
         if st == "bad" or (not it.get("reviewed") and st != "ok"):
             continue
         fn = fname(it["id"])
         tp, fp = os.path.join(DOCS, "t", fn), os.path.join(DOCS, "f", fn)
         need_full = it["kind"] == "panel" or not it["files"].get("web_url")
+        fbase = BASE
+        if need_full and not os.path.exists(fp):
+            fp, fbase = os.path.join(F2, fn), BASE2
         if not os.path.exists(tp) or (need_full and not os.path.exists(fp)):
             f = it["files"]
             src = (f.get("clean") or f["master"]) if it["kind"] in ("triptych", "panel") else f["master"]
@@ -56,7 +68,7 @@ def main():
         rec = {"id": it["id"], "k": it["kind"][0], "s": it["source"],
                "t": t.get("he_title") or "", "g": t.get("he_tags") or [],
                "p": " › ".join(it.get("topic", [])[1:]), "en": it.get("en", "")[:220],
-               "u": BASE + "f/" + fn if need_full else it["files"]["web_url"], "th": "t/" + fn,
+               "u": fbase + "f/" + fn if need_full else it["files"]["web_url"], "th": "t/" + fn,
                "q": it.get("quiz_page", ""),
                # מילים מנורמלות לחיפוש (כולל גרסאות בלי תחיליות/רבים), לפי משקל
                "x": [" ".join(sorted(tokens(" ".join(t.get("he_tags") or [])))), " ".join(sorted(tokens(t.get("he_title", "")))),

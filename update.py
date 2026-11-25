@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """עדכון הספרייה: סריקת המקורות, רשימת פריטים שעוד לא תויגו, בניית הגלריה ופרסום.
-    python update.py [--no-push] [--quiet]
+    python update.py [--no-push] [--quiet]      (אין --help: כל הרצה בלי --no-push דוחפת)
 פריטים חדשים בלי תגיות נכתבים ל-data/tagjobs/new.json – מתייגים לפי TAG.md (סוכן), ואז check_tags.py --merge."""
 import json, os, subprocess, sys
 
@@ -33,6 +33,15 @@ def main():
     say(run("build_site.py"))
     if "--no-push" in sys.argv:
         return
+    # התמונות המלאות החדשות – בריפו השני (kol-toda-images-2); דוחפים אותו קודם, כדי שהקישורים ב-lib.json יעבדו
+    h2 = os.path.join(os.path.dirname(HERE), "image-library-2")
+    g2 = lambda *a: subprocess.run(["git", *a], cwd=h2, capture_output=True, text=True, encoding="utf-8")
+    g2("add", "f")
+    if g2("status", "--porcelain").stdout.strip():
+        g2("commit", "-q", "-m", "full pictures (update.py)")
+    r = g2("push", "-q", "origin", "main")
+    if r.returncode:
+        raise SystemExit("push failed (kol-toda-images-2): " + r.stderr[-300:])
     g = lambda *a: subprocess.run(["git", *a], cwd=HERE, capture_output=True, text=True, encoding="utf-8")
     g("add", "docs", "data", "lib", "*.py", "*.md")
     if g("status", "--porcelain").stdout.strip():

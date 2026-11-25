@@ -2240,5 +2240,608 @@
 ],
 "note": "על המגילה שורות כתב, ונראה כאותיות על הקלף",
 "sheet": "v-yehoshua-s014"
+},
+"hq/tehillim-04/a3/p0": {
+"flags": [
+"text"
+],
+"note": "אותיות כתובות על הקלף שבשולחן (שורות של כתב)",
+"sheet": "v-tehillim-p007"
+},
+"hq/tehillim-04/a3/p2": {
+"flags": [
+"women"
+],
+"note": "דמות קטנה עם כיסוי לבן בראש התמונה מאחורי הדוכן, נראית כאישה",
+"sheet": "v-tehillim-p007"
+},
+"hq/tehillim-06/a2/p2": {
+"flags": [
+"dome"
+],
+"note": "כיפת זהב (כיפת הסלע) ברקע משמאל, ובניין המקדש",
+"sheet": "v-tehillim-p011"
+},
+"hq/tehillim-06/a7/p2": {
+"flags": [
+"women"
+],
+"note": "דמויות ברקע משמאל ומימין: אחת נראית כאישה עם כיסוי ראש (לא ברור לגמרי). לבדוק בעין",
+"sheet": "v-tehillim-p012"
+},
+"hq/tehillim-08/a5/p0": {
+"flags": [
+"women"
+],
+"note": "קהל גדול עם סוסים ומרכבות, בתוך ההמון דמויות שלא ברור אם יש נשית (אולי עם שיער או מטפחת). לבדוק בעין",
+"sheet": "v-tehillim-p016"
+},
+"hq/tehillim-08/a6/p2": {
+"flags": [
+"text"
+],
+"note": "בתחתית התמונה מופיעה המילה EMPTY באנגלית (חלקית, נחתכה)",
+"sheet": "v-tehillim-p016"
+},
+"hq/tehillim-10/a5/p0": {
+"flags": [
+"text"
+],
+"note": "מצבות עם כתובות בתוך התמונה (YEAR, JAHR, JANI, SEPP ותאריכים 2020 2028 וכו'). לא מתאים לתיוג",
+"sheet": "v-tehillim-p020"
+},
+"hq/tehillim-11/a1/p0": {
+"flags": [
+"text"
+],
+"note": "שרבוטים שנראים ככתב על הדלת (לבדוק בעין אם יש אותיות)",
+"sheet": "v-tehillim-p021"
+},
+"hq/tehillim-11/a6/p0": {
+"flags": [
+"text"
+],
+"note": "ספר פתוח עם שורות שנראות כטקסט על הדפים (לבדוק בעין)",
+"sheet": "v-tehillim-p022"
+},
+"hq/tehillim-11/a7/p1": {
+"flags": [
+"text"
+],
+"note": "ספר פתוח עם שורות שנראות כטקסט על הדפים, בזוהר זהב (לבדוק בעין)",
+"sheet": "v-tehillim-p022"
+},
+"hq/tehillim-13/a8/p0": {
+"flags": [
+"text"
+],
+"note": "שורות כתב על המגילה הפתוחה, ליד הנר",
+"sheet": "v-tehillim-p026"
+},
+"hq/tehillim-15/a8/p1": {
+"flags": [
+"text"
+],
+"note": "שורות כתב על הדפים של הספר הפתוח",
+"sheet": "v-tehillim-p030"
+},
+"hq/tehillim-17/a4/p0": {
+"flags": [
+"dome"
+],
+"note": "כיפות זהב מעל הארמון, ליד איש ושני ילדים בחזית",
+"sheet": "v-tehillim-p033"
+},
+"hq/tehillim-19/a1/p0": {
+"flags": [
+"text"
+],
+"note": "מגילה או ספר פתוח עם שורות כתב מזויף על השולחן (מרכז-שמאל)",
+"sheet": "v-tehillim-p037"
+},
+"hq/tehillim-21/a3/p2": {
+"flags": [
+"women"
+],
+"note": "מאחורי הילדים, בצד הקבוצה ליד הפתח: דמות עם צעיף לבן ושמלה בהירה, נראית כאישה",
+"sheet": "v-tehillim-p041"
+},
+"hq/tehillim-24/a5/p1": {
+"flags": [
+"women"
+],
+"note": "בתוך הקהל הגדול, במרכז-ימין: דמות עם צעיף תכלת על הראש ושמלה אדומה ופסים, נראית כאישה",
+"sheet": "v-tehillim-p048"
+},
+"hq/tehillim-26/a6/p2": {
+"flags": [
+"text"
+],
+"note": "כתובה אנגלית בשוליים התחתונים של הלוח, מתחת לתמונה (tiny scattered houses far apart), חלק מהטקסט נראה",
+"sheet": "v-tehillim-p052"
+},
+"hq/tehillim-28/a8/p2": {
+"flags": [
+"dome"
+],
+"note": "בפינה השמאלית העליונה נראה מבנה מעוגל שייתכן שהוא כיפה, לבדיקה ידנית. שאר התמונה: עיר ירושלים על גבעה",
+"sheet": "v-tehillim-p056"
+},
+"hq/tehillim-29/a2/p0": {
+"flags": [
+"women"
+],
+"note": "באולם, במרכז-ימין, דמות קטנה בשמלה סגולה עם שיער כהה ארוך, נראית כילדה גדולה או אישה. שאר הדמויות גברים עם זקן וכתרים",
+"sheet": "v-tehillim-p057"
+},
+"hq/tehillim-29/a4/p0": {
+"flags": [
+"women"
+],
+"note": "בשביל ברקע, דמות קטנה בבגד כחול ארוך עם כיסוי ראש לבן, נראית כאישה. לבדיקה ידנית",
+"sheet": "v-tehillim-p057"
+},
+"hq/tehillim-30/a2/p1": {
+"flags": [
+"women"
+],
+"note": "שני צדי הלוח: דמות נערית בכחול עם כיסוי ראש לבן ליד הזקן בצד שמאל. נראית כנער, לבדיקה ידנית (ייתכן ילדה גדולה)",
+"sheet": "v-tehillim-p059"
+},
+"hq/tehillim-30/a7/p1": {
+"flags": [
+"dome"
+],
+"note": "מבנה מקדש על הר עם כיפה זהובה בראשו, לא מתייגים",
+"sheet": "v-tehillim-p060"
+},
+"hq/treiasar-01/a3/p2": {
+"flags": [
+"dome"
+],
+"note": "עיר חומה עם כיפות כחולות ומגדל דק (מינרט) שנראה כמסגד, לא מתייגים",
+"sheet": "v-treiasar-p001"
+},
+"hq/treiasar-21/a5/p1": {
+"flags": [
+"dome"
+],
+"note": "כיפה לבנה על אחד הבתים בתחתית מימין, ליד הטבעת הזהובה",
+"sheet": "v-treiasar-p020"
+},
+"hq/yechezkel-02/a6/p1": {
+"flags": [
+"text"
+],
+"note": "לוח או מגילה קטנה על הקיר בפינה ימנית למעלה, לא ברור אם יש בה כתב. לבדוק בעין",
+"sheet": "v-yechezkel-p004"
+},
+"hq/yechezkel-03/a1/p2": {
+"flags": [
+"text"
+],
+"note": "שריטות על הלבנה שנראות כמו אותיות או סימני כתב, לבדוק בעין",
+"sheet": "v-yechezkel-p005"
+},
+"hq/yechezkel-03/a3/p0": {
+"flags": [
+"text"
+],
+"note": "ארבע תמונות של עונות השנה עם כתוביות באנגלית (Spring, Summer, Autumn, Winter)",
+"sheet": "v-yechezkel-p005"
+},
+"hq/yechezkel-03/a8/p1": {
+"flags": [
+"dome"
+],
+"note": "ייתכן כיפות קטנות על הבתים בעיר הרחוקה בקצה המדבר, לבדוק בעין",
+"sheet": "v-yechezkel-p006"
+},
+"hq/yechezkel-03/a8/p2": {
+"flags": [
+"dome"
+],
+"note": "בתים עם כיפות כחולות בתוך העיר המוקפת חומה בשדות",
+"sheet": "v-yechezkel-p006"
+},
+"hq/yechezkel-08/a1/p1": {
+"flags": [
+"women"
+],
+"note": "בפאנל 2 בשורה האחורית, במרכז: אישה עם שיער ארוך וכיסוי ראש בבגד בז׳, מחייכת ומוחאת כפיים",
+"sheet": "v-yechezkel-p015"
+},
+"hq/yechezkel-08/a4/p1": {
+"flags": [
+"women"
+],
+"note": "בפאנל 11, בפתח הבית בשורה האחורית: דמות ארוכת שמלה כחולה עם כיסוי לבן על הראש (נראית כאישה)",
+"sheet": "v-yechezkel-p015"
+},
+"hq/yechezkel-08/a4/p2": {
+"flags": [
+"women"
+],
+"note": "בפאנל 12, בשמאל למטה: דמות עם כיסוי לבן גדול על הראש וגב מופנה (אולי אישה), בין הקבוצה ליד המגילה",
+"sheet": "v-yechezkel-p015"
+},
+"hq/yechezkel-10/a8/p0": {
+"flags": [
+"women"
+],
+"note": "בשמאל הקבוצה: דמויות עם שיער ארוך וגלימות (נראות כנשים), בין המטיילים עם חבילות ושקים",
+"sheet": "v-yechezkel-p020"
+},
+"hq/yechezkel-11/a5/p1": {
+"flags": [
+"dome"
+],
+"note": "בצד שמאל למעלה, בין הבתים בעיר, יש גגות מעוגלים שנראים ככיפות",
+"sheet": "v-yechezkel-p022"
+},
+"hq/yechezkel-12/a3/p2": {
+"flags": [
+"dome"
+],
+"note": "בעיר הרחוקה יש כיפות כחולות ואדומות ומגדל שנראה כמו מסגד",
+"sheet": "v-yechezkel-p023"
+},
+"hq/yechezkel-12/a8/p2": {
+"flags": [
+"dome"
+],
+"note": "בבתים בצד ימין למעלה, ליד השמש, יש גגות מעוגלים שנראים ככיפות",
+"sheet": "v-yechezkel-p024"
+},
+"hq/yechezkel-13/a8/p0": {
+"flags": [
+"women"
+],
+"note": "באמצע הרחוב ברקע יש דמות לבושה בלבן עם כיסוי ראש, נראית כאישה",
+"sheet": "v-yechezkel-p026"
+},
+"hq/yechezkel-14/a1/p0": {
+"flags": [
+"women"
+],
+"note": "בצד שמאל בתחתית, דמות בכחול עם כד על הראש, נראית כאישה",
+"sheet": "v-yechezkel-p027"
+},
+"hq/yechezkel-14/a1/p1": {
+"flags": [
+"women"
+],
+"note": "דמות קטנה יושבת בצד ימין ברקע, לבושה בחום עם כיסוי ראש, נראית כאישה",
+"sheet": "v-yechezkel-p027"
+},
+"hq/yechezkel-14/a3/p2": {
+"flags": [
+"dome"
+],
+"note": "בעיר הקטנה בעמק, למטה מימין, יש גגות מעוגלים שנראים ככיפות (לא בטוח)",
+"sheet": "v-yechezkel-p027"
+},
+"hq/yechezkel-14/a7/p0": {
+"flags": [
+"women"
+],
+"note": "בשוק, מימין, דמות עם כיסוי ראש ובגד בהיר, נראית כאישה",
+"sheet": "v-yechezkel-p028"
+},
+"hq/yechezkel-14/a8/p0": {
+"flags": [
+"text"
+],
+"note": "כותרת באנגלית 'Life in the Land' בחלק העליון של התמונה",
+"sheet": "v-yechezkel-p028"
+},
+"hq/yechezkel-14/a8/p1": {
+"flags": [
+"text"
+],
+"note": "כותרת באנגלית 'Building the Ships Ships' בחלק העליון של התמונה",
+"sheet": "v-yechezkel-p028"
+},
+"hq/yechezkel-14/a8/p2": {
+"flags": [
+"text"
+],
+"note": "כותרת באנגלית 'By the Rivers of Babylon' בחלק העליון של התמונה",
+"sheet": "v-yechezkel-p028"
+},
+"hq/yechezkel-16/a2/p0": {
+"flags": [
+"dome"
+],
+"note": "בעיר שברקע יש בתים עם גגות מעוגלים שנראים ככיפות (לא בטוח)",
+"sheet": "v-yechezkel-p031"
+},
+"hq/yechezkel-17/a3/p2": {
+"flags": [
+"women"
+],
+"note": "במרכז התמונה ברקע יש דמות עם כיסוי ראש ובגד ארוך, שנראית כאישה (לא בטוח)",
+"sheet": "v-yechezkel-p033"
+},
+"hq/yechezkel-19/a8/p0": {
+"flags": [
+"text"
+],
+"note": "כתוב 'Israel' באנגלית על המפה, במרכז-שמאל התמונה",
+"sheet": "v-yechezkel-p038"
+},
+"hq/yechezkel-20/a1/p1": {
+"flags": [
+"women"
+],
+"note": "אישה עם צעיף כהה ושמלה כחולה, מימין, בדרך שבגבעות (וגם ילדה עם חבילה בשורה הקדמית)",
+"sheet": "v-yechezkel-p039"
+},
+"hq/yechezkel-21/a5/p1": {
+"flags": [
+"text"
+],
+"note": "כתוב באנגלית על התמונה: North, South, West, West (ליד ארבע הרוחות)",
+"sheet": "v-yechezkel-p042"
+},
+"hq/yechezkel-22/a8/p1": {
+"flags": [
+"dome"
+],
+"note": "כיפה אבן קטנה על בית בפינה השמאלית התחתונה (לא כיפת זהב, ולא מסגד); אפשר לבדוק אם מתאים",
+"sheet": "v-yechezkel-p044"
+},
+"hq/yechezkel-23/a5/p0": {
+"flags": [
+"text"
+],
+"note": "על המגילות הפתוחות שהגברים מחזיקים יש שורות כתב (אותיות), במרכז-שמאל",
+"sheet": "v-yechezkel-p046"
+},
+"hq/yechezkel-24/a5/p2": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: דמות ברקע עם כיסוי ראש לבן ושמלה כחולה ארוכה ליד הדוכן, אולי אישה",
+"sheet": "v-yechezkel-p048"
+},
+"hq/yechezkel-25/a4/p1": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: בקבוצה שליד השולחן, בצד ימין למעלה, דמות עם כיסוי ראש תכלת ופנים בלי זקן, נראית כאישה",
+"sheet": "v-yechezkel-p049"
+},
+"hq/yechezkel-25/a6/p0": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: שתי דמויות עם כיסוי ראש לבן ושמלה ארוכה, אחת ליד החומה באמצע-שמאל ואחת למעלה בימין עם סל על הראש",
+"sheet": "v-yechezkel-p050"
+},
+"hq/yechezkel-25/a6/p2": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: דמות עם כיסוי ראש כהה ושמלה ארוכה באמצע התמונה ליד הדרך, וגם דמות עם כיסוי ראש כחול למעלה",
+"sheet": "v-yechezkel-p050"
+},
+"hq/yechezkel-25/a8/p1": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: דמות קטנה ליד הפתח המואר במרכז, בלבוש בהיר עם כיסוי ראש, אולי אישה",
+"sheet": "v-yechezkel-p050"
+},
+"hq/yehoshuas-01/a2/p1": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: הדמות השמאלית בחזית, עם כיסוי ראש לבן, פנים עגולות מחייכות בלי זקן ושכמייה אדומה, נראית כאישה",
+"sheet": "v-yehoshuas-p001"
+},
+"hq/yehoshuas-01/a7/p1": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: בקצה הימין, ליד הילד בכחול, דמות עם כיסוי ראש לבן ופנים בהירות בלי זקן, אולי אישה",
+"sheet": "v-yehoshuas-p002"
+},
+"hq/yehoshuas-01/a8/p1": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: בחזית שמאל, דמות בשמלה ארוכה אדומה-חומה עם כיסוי ראש לבן ופנים מוסתרות, אולי אישה",
+"sheet": "v-yehoshuas-p002"
+},
+"hq/yehoshuas-03/a1/p1": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: דמות יושבת ליד האוהל השמאלי עם כיסוי ראש לבן ובגד ארוך בהיר, אולי אישה",
+"sheet": "v-yehoshuas-p005"
+},
+"hq/yehoshuas-04/a8/p0": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: בחזית שמאל, דמות עם כיסוי ראש לבן ובגד צהוב ארוך ליד ערמת האבנים, אולי אישה",
+"sheet": "v-yehoshuas-p008"
+},
+"hq/yehoshuas-05/a4/p1": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: בשורה השמאלית העליונה, ליד האוהל, דמות בכחול עם כיסוי ראש לבן ופנים לא ברורות, אולי אישה",
+"sheet": "v-yehoshuas-p009"
+},
+"hq/yehoshuas-05/a5/p2": {
+"flags": [
+"women"
+],
+"note": "לבדיקה: מאחורי השולחן במרכז, דמות עם כיסוי ראש כחול ושמלה כחולה בהירה, נראית כאישה",
+"sheet": "v-yehoshuas-p010"
+},
+"hq/yehoshuas-06/a7/p1": {
+"flags": [
+"text"
+],
+"note": "בחלק העליון של הלוח, מעל האוהל, כתוב טקסט אפור דהוי (נראה כמו ABSOLUTELY NO TEXT)",
+"sheet": "v-yehoshuas-p012"
+},
+"hq/yehoshuas-07/a1/p1": {
+"flags": [
+"women",
+"dome"
+],
+"note": "בזוג הדמויות הקדמיות במרכז-שמאל נראות נשים עם כיסוי ראש ושמלות ארוכות; יש גם כיפות כחולות על הבניינים בעיר",
+"sheet": "v-yehoshuas-p013"
+},
+"hq/yehoshuas-07/a5/p0": {
+"flags": [
+"women"
+],
+"note": "במרכז התמונה דמות בבגד אפור ארוך ליד ילד – לא ברור אם זו אישה; לבדיקה",
+"sheet": "v-yehoshuas-p014"
+},
+"hq/yehoshuas-08/a2/p1": {
+"flags": [
+"women"
+],
+"note": "בשורה במרכז, ליד ילד בלבן, נראית דמות בלבוש לבן עם כיסוי ראש – כנראה אישה; המחנה הרחב עם אנשים רבים",
+"sheet": "v-yehoshuas-p015"
+},
+"hq/yehoshuas-08/a4/p2": {
+"flags": [
+"women"
+],
+"note": "ברקע השמאלי יש קבוצה גדולה של דמויות בלבוש בהיר – לא ברור אם יש בהם נשים (כיסוי ראש לבן); לבדיקה",
+"sheet": "v-yehoshuas-p015"
+},
+"hq/yehoshuas-09/a6/p0": {
+"flags": [
+"women"
+],
+"note": "בהמון על המדרון, בצד שמאל ובמרכז, יש דמויות שנראות כנשים עם כיסוי ראש ובגדים ארוכים לצד הילדים; לבדיקה",
+"sheet": "v-yehoshuas-p018"
+},
+"hq/yehoshuas-12/a4/p0": {
+"flags": [
+"women"
+],
+"note": "בשביל העולה בהר, בשורה השנייה, דמות בכחול ארוך עם כיסוי לבן על הראש – לא ברור אם זו אישה; לבדיקה",
+"sheet": "v-yehoshuas-p023"
+},
+"hq/yehoshuas-13/a1/p0": {
+"flags": [
+"text"
+],
+"note": "כתוב באנגלית על המפה: Valley ו-Finished Wall",
+"sheet": "v-yehoshuas-p025"
+},
+"hq/yehoshuas-16/a1/p0": {
+"flags": [
+"dome"
+],
+"note": "כיפות מעגליות על הבתים שמאחורי חומת העיר (משמאל)",
+"sheet": "v-yehoshuas-p031"
+},
+"hq/yehoshuas-18/a5/p0": {
+"flags": [
+"text"
+],
+"note": "על המטבעות הכסופים סימנים דמויי אותיות (כתב) – לא תקין לאתר",
+"sheet": "v-yehoshuas-p036"
+},
+"hq/yeshayahu-23/a6/p2": {
+"flags": [
+"women"
+],
+"note": "דמות עם כד או סל על הראש במרכז הפאנל, בשמלה כחולה - נראית כאישה",
+"sheet": "v-yeshayahu-p001"
+},
+"hq/yeshayahu-26/a1/p1": {
+"flags": [
+"text"
+],
+"note": "גליל פתוח על הרצפה עם שורות דמויות כתב",
+"sheet": "v-yeshayahu-p005"
+},
+"hq/yeshayahu-27/a3/p0": {
+"flags": [
+"text"
+],
+"note": "לוח עץ קטן על השולחן עם סימן דמוי אות עברית",
+"sheet": "v-yeshayahu-p008"
+},
+"hq/yeshayahu-29/a3/p2": {
+"flags": [
+"text"
+],
+"note": "כתוב EMPTY באנגלית בתחתית הכרטיס",
+"sheet": "v-yeshayahu-p012"
+},
+"hq/yeshayahu-29/a5/p1": {
+"flags": [
+"women"
+],
+"note": "דמות עם כיסוי ראש בלי זקן, לא ברור אם גבר או אישה",
+"sheet": "v-yeshayahu-p012"
+},
+"hq/yeshayahu-29/a5/p2": {
+"flags": [
+"text"
+],
+"note": "על המגילה שורות כתב מזויף",
+"sheet": "v-yeshayahu-p012"
+},
+"hq/yeshayahu-31/a1/p2": {
+"flags": [
+"text"
+],
+"note": "על המגילה שורות כתב מזויף",
+"sheet": "v-yeshayahu-p015"
+},
+"hq/yeshayahu-32/a4/p2": {
+"flags": [
+"text"
+],
+"note": "על המגילה שורות כתב מזויף",
+"sheet": "v-yeshayahu-p018"
+},
+"hq/yeshayahu-33/a3/p2": {
+"flags": [
+"women"
+],
+"note": "דמות עם כיסוי ראש לבן ומעיל חום, נראית כאישה - לבדיקה",
+"sheet": "v-yeshayahu-p020"
+},
+"hq/yeshayahu-33/a4/p0": {
+"flags": [
+"women"
+],
+"note": "הדמות מימין עם כיסוי ראש אפור, נראית כאישה - לבדיקה",
+"sheet": "v-yeshayahu-p020"
+},
+"hq/yeshayahu-34/a2/p0": {
+"flags": [
+"women"
+],
+"note": "בקבוצה ליד הדלת דמות עם כיסוי ראש וסל, נראית כאישה - לבדיקה",
+"sheet": "v-yeshayahu-p022"
+},
+"hq/yeshayahu-34/a3/p1": {
+"flags": [
+"dome"
+],
+"note": "כיפות זהב על הארמון",
+"sheet": "v-yeshayahu-p022"
+},
+"hq/yeshayahu-34/a7/p2": {
+"flags": [
+"text"
+],
+"note": "על המגילה שורות כתב מזויף",
+"sheet": "v-yeshayahu-p023"
 }
 }
