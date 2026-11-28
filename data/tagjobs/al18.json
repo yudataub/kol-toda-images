@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "hq/irkodesh-03/a9/p1",
+  "en": "a long empty road disappearing into the far distance, no people, no text (far)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "רחוק",
+  "question": "באיזו מלה תאר יעקב את המקום?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-03/a9/p2",
+  "en": "a very small pebble in a hand, only a hand, no text (small)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "קטן",
+  "question": "באיזו מלה תאר יעקב את המקום?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-03/b1",
+  "en": "one large broad natural flat rock on a hilltop at dawn, olive trees around, soft sunrise, no people, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "למה האבן נקראת ׳שתיה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-03/b2",
+  "en": "a green hilly land at the center of a large map-like painted world with several seas around it, no people, no text, no letters",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "איפה נמצאת ארץ ישראל, לפי מדרש תנחומא?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-03/b3",
+  "en": "a bearded traveler in simple robes lying asleep at night on the ground with his head on stones on a rocky hilltop, stars above, only one man, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה מבאר רש״י על המקום שבו ישן יעקב?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-03/b4",
+  "en": "a boy wearing a kippah standing quietly and respectfully in a synagogue holding a prayer book with blank pages, a Star of David on the wall, only one boy, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "אני נכנס לבית כנסת ומרגיש ׳מה נורא המקום הזה׳. מה אעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-03/b5",
+  "en": "a quiet peaceful rocky hilltop at sunrise with olive trees, warm golden sunlight on the stones, no people, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה מלמד המלב״ם על המקום הקדוש?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-03/b6",
+  "en": "a bearded traveler in simple robes pouring oil from a small clay jar over the top of an upright stone pillar at dawn, only one man, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה עשה יעקב בבקר, לפי הפסוק?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-03/b7",
+  "en": "a warm cozy home interior with a family table, big flat foundation stones visible at the bottom edge of the house wall, a boy wearing a kippah and a man wearing a kippah smiling, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה בבית שלי דומה לאבן השתיה, דבר שהכל עומד עליו?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-03/b8",
+  "en": "a bearded traveler in simple robes looking with wonder at an open green hilltop with a single stone pillar, as if it were a house under the open sky, only one man, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "למה קרא יעקב למקום בית אל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a1/p0",
+  "en": "a bearded farmer handing a wrapped gift box with a ribbon to a man in a plain crown, only these two men, no text (as a gift)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "במתנה",
+  "question": "איך רצה דוד לקבל את הגרן?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a1/p1",
+  "en": "a bearded man handing a wooden plow to another bearded man in a field, only these two men, no text (borrowed)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בהשאלה",
+  "question": "איך רצה דוד לקבל את הגרן?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a1/p2",
+  "en": "a king in simple robes handing a large leather bag of silver coins to a bearded farmer on a threshing floor, only these two men, no text (full price)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "במחיר מלא",
+  "question": "איך רצה דוד לקבל את הגרן?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a2/p0",
+  "en": "a heap of shiny silver coins on a wooden table, no people, no text (silver)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בכסף",
+  "question": "במה שלם דוד?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a2/p1",
+  "en": "a flock of white sheep on a green hill, no people, no text (sheep)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בצאן",
+  "question": "במה שלם דוד?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a2/p2",
+  "en": "sacks full of barley grain stacked in a stone barn, no people, no text (barley)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בשעורים",
+  "question": "במה שלם דוד?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a3/p0",
+  "en": "one bearded man in a blue robe placing a coin on a table, only the one man, no text (one tribe)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "משבט אחד",
+  "question": "ממי גבה דוד את הכסף, לפי הראשונים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a3/p1",
+  "en": "a group of bearded men in many different colored robes each dropping a coin into one big stone bowl, men only, no text (all tribes)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מכל השבטים",
+  "question": "ממי גבה דוד את הכסף, לפי הראשונים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a3/p2",
+  "en": "a bearded merchant with a laden camel at a market, only the one man, no text (foreign merchants)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מסוחרים זרים",
+  "question": "ממי גבה דוד את הכסף, לפי הראשונים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a4/p0",
+  "en": "a bearded man in a blue robe standing alone on a hill, only the one man, no text (Judah)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "ליהודה",
+  "question": "למי שיכת ירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a4/p1",
+  "en": "a bearded man in a red robe standing alone on a hill, only the one man, no text (Benjamin)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לבנימין",
+  "question": "למי שיכת ירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a4/p2",
+  "en": "a large group of bearded men in many colored robes standing together on a hill facing an ancient city of stone houses and walls, men only, no domes, no towers, no crosses, no text (everyone)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לכלם",
+  "question": "למי שיכת ירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a5/p0",
+  "en": "a smiling bearded host in a stone doorway welcoming a traveler with open hands, no coins anywhere, only these two men, no text (nothing)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "כלום",
+  "question": "כמה שלמו העולים לרגל על הלינה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a5/p1",
+  "en": "a traveler handing a very large leather bag of coins to a bearded host at a doorway, only these two men, no text (a lot)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "הרבה",
+  "question": "כמה שלמו העולים לרגל על הלינה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a5/p2",
+  "en": "a traveler handing two small coins to a bearded host at a doorway, only these two men, no text (a little)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מעט",
+  "question": "כמה שלמו העולים לרגל על הלינה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a6/p0",
+  "en": "a pile of gold and silver coins and jewelry on a cloth, no people, no text (gold and silver)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "זהב וכסף",
+  "question": "מה לקחו המארחים מהאורחים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a6/p1",
+  "en": "a neat pile of folded tan leather hides on a wooden table in a stone house, no people, no text (hides)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "עורות הקרבנות",
+  "question": "מה לקחו המארחים מהאורחים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a6/p2",
+  "en": "folded white and blue festive garments on a wooden shelf, no people, no text (holiday clothes)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בגדי חג",
+  "question": "מה לקחו המארחים מהאורחים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a7/p0",
+  "en": "many bearded men in simple robes dropping coins one by one into a large stone chest, men only, no text (all Israel)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מכל ישראל",
+  "question": "ממי בא הכסף לחומה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a7/p1",
+  "en": "a king in simple robes handing a single coin to a builder, only these two men, no text (the king)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מן המלך",
+  "question": "ממי בא הכסף לחומה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a7/p2",
+  "en": "a foreign traveler in a turban with a camel at a stone gate, only the one man, no domes, no text (the nations)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מן הגוים",
+  "question": "ממי בא הכסף לחומה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a8/p0",
+  "en": "a grand stone palace with columns and a garden, no domes, no towers, no crosses, no people, no text (a palace)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "ארמון למלך",
+  "question": "מה תקנו בכסף השקלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a8/p1",
+  "en": "colorful garlands decorating an ancient stone street, no people, no text (decorations)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "קשוטים לחג",
+  "question": "מה תקנו בכסף השקלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a8/p2",
+  "en": "a tall ancient stone city wall with a stone water channel running beside it, no people, no domes, no towers, no text (wall and water)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "חומה ומים",
+  "question": "מה תקנו בכסף השקלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a9/p0",
+  "en": "a small neat stack of silver coins on a table, no people, no text (twenty)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "עשרים",
+  "question": "כמה שקלים שלם דוד על הגרן והבקר?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a9/p1",
+  "en": "a medium stack of silver coins on a table, no people, no text (fifty)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "חמשים",
+  "question": "כמה שקלים שלם דוד על הגרן והבקר?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/a9/p2",
+  "en": "a very tall tower stack of silver coins on a table, no people, no text (one hundred)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מאה",
+  "question": "כמה שקלים שלם דוד על הגרן והבקר?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/b1",
+  "en": "a king in simple robes handing a large leather bag of silver coins to a bearded farmer on a hill-top threshing floor, warm morning light, only these two men, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "למה דוד לא רצה לקבל את הגרן במתנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/b2",
+  "en": "a group of bearded men in many different colored robes standing in a line, each one placing a coin into one large stone bowl on a hilltop, men only, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה מבארים הראשונים על הכסף שדוד גבה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/b3",
+  "en": "an ancient city of stone houses and walls on a hill with twelve different colored banners without any symbols hanging on poles at the gate, no people, no domes, no towers, no crosses, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה הדין של חכמים: למי שיכת ירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/b4",
+  "en": "a bearded host in a stone doorway welcoming a group of tired travelers with open hands, a warm lamp glowing inside, men only, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "בעל בית בירושלים רוצה להשכיר חדר לעולה לרגל. מה הדין?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/b5",
+  "en": "a neat pile of folded tan leather hides on a wooden bench inside a warm stone house, no people, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "למה המארח לוקח את עורות הקרבנות של האורח?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/b6",
+  "en": "a tall ancient stone city wall under construction with bearded builders in simple robes placing stones, a stone water channel beside it, men only, no domes, no towers, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מאיפה בא הכסף שבנה את חומת ירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/b7",
+  "en": "a group of boys wearing kippot sitting in a circle in a classroom, one boy gently handing a cup to another boy who sits a little apart, only boys, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "אנו אוספים כסף לחגיגת הכתה, ולחבר אחד אין. מה נעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-04/b8",
+  "en": "a boy wearing a kippah holding a damaged wooden board game and walking toward a bearded teacher in a bright classroom, only the boy and the teacher, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "ראיתי שמשחק של הכתה נקלל. מה כדאי לעשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a1/p0",
+  "en": "a very tall stone tower city standing on top of a high mountain among clouds, no people, no domes, no crosses, no text (a very high city)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "עיר גבוהה מאוד",
+  "question": "מה אומר הפסוק על ירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a1/p1",
+  "en": "honey-colored stone houses built close together and joined to each other along a hill, bearded men in simple robes walking between them, men only, no domes, no towers, no text (joined together)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "עיר שחברה יחדו",
+  "question": "מה אומר הפסוק על ירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a1/p2",
+  "en": "an ancient stone port city on a blue sea shore with boats, no people, no domes, no towers, no text (city on the sea)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "עיר על הים",
+  "question": "מה אומר הפסוק על ירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a2/p0",
+  "en": "a plain stone courtyard with a pile of wooden shields on the ground, no people, no weapons held, no text (to fight)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "להלחם",
+  "question": "למה עלו השבטים לירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a2/p1",
+  "en": "a group of bearded men in simple robes standing on a stone staircase with open hands raised and thankful smiles, men only, no text (to thank)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "להודות לה׳",
+  "question": "למה עלו השבטים לירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a2/p2",
+  "en": "a bearded merchant selling colorful folded garments at a market stall, only the one man, no text (to buy clothes)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לקנות בגדים",
+  "question": "למה עלו השבטים לירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a3/p0",
+  "en": "two bearded men in plain robes standing far apart with crossed arms and turned backs, men only, no text (strangers)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "זרים",
+  "question": "מה עושה ירושלים לכל ישראל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a3/p1",
+  "en": "two smiling bearded men in plain robes shaking hands warmly and patting each other's shoulders, men only, no text (friends)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "חברים",
+  "question": "מה עושה ירושלים לכל ישראל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a3/p2",
+  "en": "a tiny distant figure of a man standing at the end of a very long empty road, no text (far away)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "רחוקים",
+  "question": "מה עושה ירושלים לכל ישראל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a4/p0",
+  "en": "a bearded king playing a harp in a garden, only the one man, no text (David)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "דוד",
+  "question": "מי בנה את שני השערים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a4/p1",
+  "en": "a bearded man in simple desert robes holding a wooden staff, only the one man, no text (Moses)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "משה",
+  "question": "מי בנה את שני השערים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a4/p2",
+  "en": "a wise bearded king in a plain crown pointing at two stone arched gates, only the one man, no domes, no towers, no text (Solomon)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "שלמה",
+  "question": "מי בנה את שני השערים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a5/p0",
+  "en": "a smiling young bearded man in a white festive robe with a flower wreath standing at a stone gate decorated with flowers, only the one man, no text (grooms)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לחתנים",
+  "question": "למי היה השער האחד?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a5/p1",
+  "en": "a man in a helmet and plain armor standing at a stone gate, only the one man, no weapons raised, no text (soldiers)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לחילים",
+  "question": "למי היה השער האחד?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a5/p2",
+  "en": "a bearded merchant leading a loaded donkey through a stone gate, only the one man, no text (merchants)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לסוחרים",
+  "question": "למי היה השער האחד?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a6/p0",
+  "en": "a bearded man in simple dark robes sitting on a low stone with a bowed head at a plain stone gate, a friend sitting beside him quietly, men only, no text (mourners)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לאבלים",
+  "question": "למי היה השער השני?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a6/p1",
+  "en": "a bearded man in a white robe carrying a small leather bag standing at a stone gate, only the one man, no text (doctors)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לרופאים",
+  "question": "למי היה השער השני?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a6/p2",
+  "en": "a bearded shepherd with a staff leading sheep through a stone gate, only the one man, no text (shepherds)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לרועים",
+  "question": "למי היה השער השני?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a7/p0",
+  "en": "a bearded man selling goods from a stall between two arched stone gates, only the one man, no text (sold goods)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מכרו סחורה",
+  "question": "מה עשו יושבי ירושלים בין השערים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a7/p1",
+  "en": "a group of bearded men in simple robes sitting between two arched stone gates, one man comforting a sad friend and another congratulating a smiling friend, men only, no text (did kindness)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "גמלו חסד",
+  "question": "מה עשו יושבי ירושלים בין השערים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a7/p2",
+  "en": "bearded men playing a board game with stones on a mat, men only, no text (played a game)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "שחקו משחק",
+  "question": "מה עשו יושבי ירושלים בין השערים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a8/p0",
+  "en": "a single large bearded hand reaching forward in an empty room, no text (a hand)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "ליד",
+  "question": "במה דומה ירושלים לפי המלב״ים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a8/p1",
+  "en": "a warm glowing red heart shape drawn on a stone with many threads connecting it to small stones around it, no people, no text (a heart)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "ללב",
+  "question": "במה דומה ירושלים לפי המלב״ים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a8/p2",
+  "en": "a bare foot walking on a stone road, no text (a foot)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לרגל",
+  "question": "במה דומה ירושלים לפי המלב״ים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a9/p0",
+  "en": "three wealthy bearded men in rich robes with golden rings standing together, men only, no text (only the rich)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "רק עשירים",
+  "question": "מי נחשב חבר בשעת הרגל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a9/p1",
+  "en": "a big group of bearded men and boys of all kinds and clothing standing arm in arm in a stone courtyard, smiling, males only, no text (everyone)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "כלם",
+  "question": "מי נחשב חבר בשעת הרגל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/a9/p2",
+  "en": "three bearded priests in white and gold garments standing together, men only, no text (only priests)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "רק כהנים",
+  "question": "מי נחשב חבר בשעת הרגל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/b1",
+  "en": "a big crowd of bearded men and boys from many places gathered together on stone steps facing the same direction with hands raised in thanks, males only, warm sunrise, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "לפי המלב״ים, מה מחבר את כל העם בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/b2",
+  "en": "a peaceful stone courtyard in an ancient city where bearded men in simple robes sit together sharing bread and talking warmly, men only, no domes, no towers, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "לפי המלב״ים, מתי יש שלום בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/b3",
+  "en": "a wise bearded king in a plain crown looking with a gentle smile at a group of bearded men helping each other in a stone courtyard, men only, no domes, no towers, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה ראה שלמה שגרם לו לבנות שני שערים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/b4",
+  "en": "a bearded man in simple dark robes sitting quietly on a low stone beside a plain arched gate, a kind friend sitting next to him with a hand on his shoulder, men only, no domes, no towers, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "למי נעדה השער השני, ומה היה חשוב בו?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/b5",
+  "en": "a group of bearded men in simple robes sitting on stone benches between two arched stone gates on a hilltop, welcoming people who walk in from both sides, men only, no domes, no towers, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה עשו יושבי ירושלים בשבת בין השערים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/b6",
+  "en": "a boy wearing a kippah standing between two other boys wearing kippot, one laughing happily and one sitting sad, the middle boy gently smiling at both, only three boys, bright classroom, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "בכתה אחד החברים שמח מאוד ואחר עצוב. מה אעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/b7",
+  "en": "two boys wearing kippot who stood apart now starting to walk toward each other with friendly open expressions across a sunny schoolyard, only two boys, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "לא מדברים עם חבר מכתה אחרי ריב. מה כדאי לעשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-05/b8",
+  "en": "a happy crowd of bearded men and boys from many different places embracing each other in a stone courtyard, males only, no domes, no towers, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה אומר הירושלמי על ירושלים וישראל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a1/p0",
+  "en": "a stone altar fire completely out with a thin trail of smoke under heavy rain, no people, no text (it went out)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "היא כבתה",
+  "question": "מה קרה לאש שעל המזבח כשירד גשם?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a1/p1",
+  "en": "a stone altar with a bright orange wood fire burning strongly while rain falls around it, no people, no text (kept burning)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "היא נשארה דולקת",
+  "question": "מה קרה לאש שעל המזבח כשירד גשם?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a1/p2",
+  "en": "a small bowl of fire being carried away along a stone path in the rain by a bearded man in white, only the one man, no text (moved elsewhere)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "היא עברה למקום אחר",
+  "question": "מה קרה לאש שעל המזבח כשירד גשם?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a2/p0",
+  "en": "a single straight column of gray smoke rising vertically from a stone altar on a windy day with trees leaning in the wind, no people, no text (straight up)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "עלה ישר",
+  "question": "מה עשה עמוד העשן ברוח חזקה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a2/p1",
+  "en": "smoke sinking and spreading low along the ground near a stone altar, no people, no text (fell down)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "נפל לארץ",
+  "question": "מה עשה עמוד העשן ברוח חזקה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a2/p2",
+  "en": "smoke blown wide and scattered sideways by a strong wind near a stone altar, no people, no text (scattered)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "התפזר לצדדים",
+  "question": "מה עשה עמוד העשן ברוח חזקה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a3/p0",
+  "en": "a crowd of bearded men in simple robes standing close together in a stone courtyard, then each bent over at the waist in prayer with comfortable space around each man, men only, no text (room for all)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "היה מקום לכל",
+  "question": "מה קרה כשהשתחוו במקדש?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a3/p1",
+  "en": "a crowded stone courtyard where several bearded men in simple robes bump into each other and stumble, men only, no text (bumped)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "התנגשו זה בזה",
+  "question": "מה קרה כשהשתחוו במקדש?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a3/p2",
+  "en": "bearded men in simple robes walking out through a wide stone gate to the street, men only, no text (went out)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "יצאו החוצה",
+  "question": "מה קרה כשהשתחוו במקדש?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a4/p0",
+  "en": "a cat and a dog sitting side by side on a stone street, no people, no text (cat and dog)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "חתול וכלב",
+  "question": "מי לא הזיק בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a4/p1",
+  "en": "a snake and a scorpion resting calmly on a flat stone in the sunshine next to a peaceful stone street, no people, no text (snake and scorpion)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "נחש ועקרב",
+  "question": "מי לא הזיק בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a4/p2",
+  "en": "an ox and a donkey standing together at a wooden fence, no people, no text (ox and donkey)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "שור וחמור",
+  "question": "מי לא הזיק בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a5/p0",
+  "en": "a smiling bearded man in simple robes with a hand on his heart bowing slightly to thank another bearded man, only these two men, no text (thank you)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "תודה רבה",
+  "question": "מה לא אמר אדם בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a5/p1",
+  "en": "a bearded man waving hello with a friendly smile to another bearded man across a stone street, only these two men, no text (hello)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "שלום עליכם",
+  "question": "מה לא אמר אדם בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a5/p2",
+  "en": "a bearded man in a crowded stone room pushing the door closed with a worried face, one guest looking in, only these two men, no text (not enough room)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "צר לי המקום",
+  "question": "מה לא אמר אדם בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a6/p0",
+  "en": "a bearded man blowing a ram's horn shofar on a hilltop, only the one man, no text (the shofar)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "השופר",
+  "question": "מה היה ביד אנשי ירושלים בחג הסכות?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a6/p1",
+  "en": "a bearded man in simple robes holding a bound lulav with palm branch and myrtle in his hand, only the one man, no text (the lulav)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "הלולב",
+  "question": "מה היה ביד אנשי ירושלים בחג הסכות?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a6/p2",
+  "en": "a bearded man holding a rolled blank scroll in his hands, only the one man, no text (the megillah)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "המגלה",
+  "question": "מה היה ביד אנשי ירושלים בחג הסכות?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a7/p0",
+  "en": "a bearded man quietly placing a small bag of coins through a wooden hatch in a stone wall while looking away, only the one man, no text (secret charity)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לצדקה בסתר",
+  "question": "למה היתה לשכת חשאים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a7/p1",
+  "en": "sacks of grain stacked in a stone storehouse, no people, no text (selling grain)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "למכירת תבואה",
+  "question": "למה היתה לשכת חשאים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a7/p2",
+  "en": "boys wearing kippot playing marbles in a stone courtyard, only boys, no text (games)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "למשחקים",
+  "question": "למה היתה לשכת חשאים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a8/p0",
+  "en": "a busy ancient market street with stalls of fruit, no people close up, no text (the market)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לשוק",
+  "question": "לאן לקחו הילדים הקטנים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a8/p1",
+  "en": "a bearded father wearing a kippah holding the hand of a small boy wearing a kippah at the entrance of a synagogue with a star of David on the door, only these two, no text (synagogue)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לבית כנסת",
+  "question": "לאן לקחו הילדים הקטנים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a8/p2",
+  "en": "a calm blue sea shore with waves and sand, no people, no text (the sea)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לים",
+  "question": "לאן לקחו הילדים הקטנים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a9/p0",
+  "en": "a lulav bound with a rough brown rope on a wooden table, no people, no text (a rope)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בחבל",
+  "question": "במה אגדו אנשים מיחדים את הלולב?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a9/p1",
+  "en": "a lulav bound with a plain white ribbon on a wooden table, no people, no text (a plain ribbon)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בסרט פשוט",
+  "question": "במה אגדו אנשים מיחדים את הלולב?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/a9/p2",
+  "en": "a lulav bound with a shiny golden ring on a wooden table, no people, no text (a golden ring)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בטבעת זהב",
+  "question": "במה אגדו אנשים מיחדים את הלולב?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/b1",
+  "en": "a crowded warm stone courtyard where bearded men in simple robes make room for each other on benches, smiling, men only, no domes, no towers, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה למדנו מהנס האחרון, ׳לא אמר אדם צר לי המקום׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/b2",
+  "en": "a bearded man in simple robes walking through a stone street holding a bound lulav in his right hand and smiling, only the one man, autumn light, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "למה אנשי ירושלים החזיקו את הלולב כל היום?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/b3",
+  "en": "a quiet stone hall with a small wooden hatch in the wall, a bearded man in plain robes quietly placing a bag of coins in it while looking at the floor, only the one man, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "למה בלשכת חשאים נתנו ולקחו בסתר?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/b4",
+  "en": "a bearded father wearing a kippah walking hand in hand with a small boy wearing a kippah toward a stone synagogue entrance with a star of David on the door, only these two, warm morning, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "למה בירושלים הוליכו ילדים קטנים לבתי כנסת?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/b5",
+  "en": "a boy wearing a kippah sliding over on a classroom bench to make room for a new boy wearing a kippah with a school bag, both smiling, only two boys, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "חבר חדש נכנס לכתה ואין לו מקום לשבת. מה אעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/b6",
+  "en": "a boy wearing a kippah quietly slipping a small envelope into another boy's school bag while he is looking away in a bright classroom hallway, only two boys, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "אני רואה חבר שאין לו כסף לטיול. מה אעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/b7",
+  "en": "a festive table in a stone house with food, a bearded host looking embarrassed beside a spilled tray while guests sit waiting, men only, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מי שקלקל לחברו סעודה בירושלים, מה שלם?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-06/b8",
+  "en": "a boy wearing a kippah gently offering his hand and an apologetic smile to another boy wearing a kippah in a school yard, only two boys, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "קרה לי שבישתי חבר בלי כונה. מה כדאי לעשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a1/p0",
+  "en": "a fig tree branch with one ripe fig tied with a thin golden thread, no people, no text (gold thread)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בחוט זהב",
+  "question": "במה קושרים את התאנה הראשונה שהבשילה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a1/p1",
+  "en": "a ripe fig on a branch tied with a green reed stalk, a farmer's hand tying it, only the hand visible, no text (reed)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בגמי",
+  "question": "במה קושרים את התאנה הראשונה שהבשילה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a1/p2",
+  "en": "a ripe fig on a branch wrapped with a thin metal chain, no people, no text (chain)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בשרשרת",
+  "question": "במה קושרים את התאנה הראשונה שהבשילה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a10/p0",
+  "en": "a bearded king in a purple robe and simple crown receiving a basket of fruit, only the one man in this panel, no text (to the king)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "למלך",
+  "question": "למי נותנים בסוף את הסלים ואת הבכורים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a10/p1",
+  "en": "a bearded man in a plain blue robe standing by a harp, only the one man in this panel, no text (to the Levites)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "ללוים",
+  "question": "למי נותנים בסוף את הסלים ואת הבכורים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a10/p2",
+  "en": "a bearded priest in white garments receiving a basket of fruit with both hands, only the one man in this panel, no text (to the priests)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לכהנים",
+  "question": "למי נותנים בסוף את הסלים ואת הבכורים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a2/p0",
+  "en": "a row of stone houses with closed doors on a quiet street at night, no people, no text (houses)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בבתים",
+  "question": "איפה לנים אנשי העירות בעיר שאליה מתכנסים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a2/p1",
+  "en": "a few canvas tents pitched on a field at night, no people, no text (tents)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "באהלים",
+  "question": "איפה לנים אנשי העירות בעיר שאליה מתכנסים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a2/p2",
+  "en": "many bearded men and boys wearing kippot sleeping on mats along a wide stone street at night, only men and boys, no text (street)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "ברחוב",
+  "question": "איפה לנים אנשי העירות בעיר שאליה מתכנסים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a3/p0",
+  "en": "a crowd of bearded men cheering and waving olive branches in a stone street, only men, no text (cheer for the king)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "הידד למלך",
+  "question": "מה קורא הממנה בבקר?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a3/p1",
+  "en": "at dawn on a stone street a bearded man in simple robes calls with an open hand toward a hill while men and boys stand up from mats and get ready to walk, only men and boys, no text (get up and go up to Zion)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "קומו ונעלה ציון",
+  "question": "מה קורא הממנה בבקר?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a3/p2",
+  "en": "a group of men walking away from a hill toward simple houses, backs to the camera, only men, no text (go back home)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "חזרו הביתה",
+  "question": "מה קורא הממנה בבקר?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a4/p0",
+  "en": "a basket of fresh soft ripe figs, no people, no text (fresh figs)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "תאנים טריות",
+  "question": "מה מביאים הרחוקים, שהדרך שלהם ארכה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a4/p1",
+  "en": "a basket of dried figs and a basket of raisins side by side, no people, no text (dried figs and raisins)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "גרוגרות וצמוקים",
+  "question": "מה מביאים הרחוקים, שהדרך שלהם ארכה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a4/p2",
+  "en": "a bowl of walnuts and a small bowl of sesame seeds, no people, no text (nuts and sesame)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "אגוזים ושמשומין",
+  "question": "מה מביאים הרחוקים, שהדרך שלהם ארכה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a5/p0",
+  "en": "a big brown ox walking calmly on a stone road, with gilded golden horns and an olive wreath on its head, no people, no text (ox)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "שור",
+  "question": "איזו חיה הולכת לפני המביאים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a5/p1",
+  "en": "a camel walking on a dusty road, no people, no text (camel)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "גמל",
+  "question": "איזו חיה הולכת לפני המביאים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a5/p2",
+  "en": "a horse standing on a stone road, no people, no text (horse)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "סוס",
+  "question": "איזו חיה הולכת לפני המביאים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a6/p0",
+  "en": "close view of an ox head wearing a small golden crown, no people, no text (gold crown)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "כתר זהב",
+  "question": "מה שמים על ראשו של השור?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a6/p1",
+  "en": "close view of an ox head wearing a ring of colorful flowers, no people, no text (flower wreath)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "זר פרחים",
+  "question": "מה שמים על ראשו של השור?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a6/p2",
+  "en": "close view of an ox head wearing a green olive-leaf wreath with small olives, no people, no text (olive wreath)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "עטרת זית",
+  "question": "מה שמים על ראשו של השור?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a7/p0",
+  "en": "a bearded man blowing a curved ram's horn shofar outdoors, only the one man in this panel, no text (shofar)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "שופר",
+  "question": "מי מנגן לפני העולים כל הדרך?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a7/p1",
+  "en": "a bearded man playing a hand drum outdoors, only the one man in this panel, no text (drums)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "תפים",
+  "question": "מי מנגן לפני העולים כל הדרך?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a7/p2",
+  "en": "a bearded man wearing a kippah playing a long wooden flute outdoors with joyful face, only the one man in this panel, no text (flute)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "חליל",
+  "question": "מי מנגן לפני העולים כל הדרך?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a8/p0",
+  "en": "a bearded craftsman with a leather apron standing up from his workbench and greeting arriving travelers with a warm smile and open hand, only men, no text (welcome in peace)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "באתם לשלום",
+  "question": "מה שואלים בעלי האמנות את העולים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a8/p1",
+  "en": "a bearded merchant holding a few coins and asking with a questioning look, only the one man in this panel, no text (how much does it cost)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "כמה זה עולה",
+  "question": "מה שואלים בעלי האמנות את העולים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a8/p2",
+  "en": "a bearded man with raised eyebrows and a puzzled look pointing at a traveler, only the one man in this panel, no text (why did you come)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "למה הגעתם",
+  "question": "מה שואלים בעלי האמנות את העולים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a9/p0",
+  "en": "a shiny golden bowl full of grapes and figs, no people, no text (gold bowls)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בקלתות זהב",
+  "question": "במה מביאים העניים את הבכורים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a9/p1",
+  "en": "a simple woven willow basket full of grapes and figs, no people, no text (willow baskets)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בסלי נצרים",
+  "question": "במה מביאים העניים את הבכורים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/a9/p2",
+  "en": "a rough cloth sack tied at the top with fruit shapes bulging, no people, no text (sacks)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בשקים",
+  "question": "במה מביאים העניים את הבכורים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/b2",
+  "en": "a bearded craftsman in a leather apron standing up from his workbench in a stone market street, greeting arriving travelers carrying baskets with a warm smile, only men, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "בעלי האמנות עומדים לפני העולים ושואלים בשלומם. מה לומדים מכך?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/b3",
+  "en": "a bearded king wearing a simple crown and a plain robe carrying a woven fruit basket on his shoulder up broad stone steps toward a temple courtyard, other men carrying baskets behind him, only men, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "אפלו המלך נושא סל על כתפו בהר הבית. מה זה מלמד?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/b4",
+  "en": "a priest in white garments receiving several baskets from different men, one golden bowl and several simple woven willow baskets side by side on a stone table, only men, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "עשירים מביאים בקלתות זהב, ועניים בסלי נצרים. מה קורה לסלים בסוף?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/b5",
+  "en": "a bearded man standing in a stone courtyard reading slowly from a blank scroll while a line of men holding fruit baskets repeat after him, only men, blank scroll, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "בראשונה מי שלא ידע לקרוא הקריאו לו, ואנשים נמנעו מלהביא. מה תקנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/b6",
+  "en": "a farmer in simple robes and a kippah carrying a woven basket of figs and grapes up broad stone steps toward a temple on a hill in warm afternoon sun, only one man in the foreground, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "למה בכורים עולים דוקא לירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/b7",
+  "en": "a cheerful schoolboy wearing a kippah walking up to a new boy standing alone at the side of a school yard, smiling and extending a hand, only boys, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "בכתה בא תלמיד חדש, והוא עומד בצד לבד. מה כדאי לעשות עכשיו?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-07/b8",
+  "en": "two schoolboys wearing kippot sitting together at a desk reading from one open blank book, one boy gently pointing and helping the other, kind faces, only boys, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "חבר שלי לא מצליח לקרוא בקול לפני הכתה ונבהל. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a1/p0",
+  "en": "a calm blue sea with gentle waves under a clear sky, no people, no text (sea)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לים",
+  "question": "לאן מכונים את הלב כשעומדים בחוץ לארץ?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a1/p1",
+  "en": "a bearded man wearing a kippah and a tallit standing in prayer in a quiet city street facing a blank map of the land of Israel hanging on a stone wall, only one man, no text (the Land of Israel)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לארץ ישראל",
+  "question": "לאן מכונים את הלב כשעומדים בחוץ לארץ?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a1/p2",
+  "en": "a wide golden desert with sand dunes and a single dry bush, no people, no text (desert)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "למדבר",
+  "question": "לאן מכונים את הלב כשעומדים בחוץ לארץ?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a10/p0",
+  "en": "a group of bearded priests in white garments standing together in a stone courtyard, only men, no text (only priests)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "רק כהנים",
+  "question": "מי פונה אל ירושלים בתפלה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a10/p1",
+  "en": "an empty synagogue with a lit Shabbat candlestick and a kiddush cup on a table, no people, no text (only on Shabbat)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "רק בשבת",
+  "question": "מי פונה אל ירושלים בתפלה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a10/p2",
+  "en": "several different bearded men and boys wearing kippot and tallitot, young and old, praying in a row facing the same direction, only men and boys, no text (every Jew)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "כל יהודי",
+  "question": "מי פונה אל ירושלים בתפלה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a2/p0",
+  "en": "a bearded king in a purple robe and a simple crown holding a small harp, only the one man in this panel, no text (David)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "דוד",
+  "question": "מי בנה את בית המקדש והתפלל לפני כל העם?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a2/p1",
+  "en": "a bearded man in simple desert robes holding a wooden staff, calm face, only the one man in this panel, no text (Moses)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "משה",
+  "question": "מי בנה את בית המקדש והתפלל לפני כל העם?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a2/p2",
+  "en": "a bearded king in a purple robe and a simple crown standing with raised open hands in front of a newly built stone temple with a wide staircase, crowd of men behind him, no text (Solomon)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "שלמה",
+  "question": "מי בנה את בית המקדש והתפלל לפני כל העם?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a3/p0",
+  "en": "an old city of Jerusalem stone houses and ancient stone walls and a gate on a hill at golden sunrise, no domes, no crosses, no towers in the background, no people, no text (Jerusalem)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לירושלים",
+  "question": "לאן מכונים את הלב כשעומדים בארץ ישראל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a3/p1",
+  "en": "a calm river flowing between green banks, no people, no text (river)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לנהר",
+  "question": "לאן מכונים את הלב כשעומדים בארץ ישראל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a3/p2",
+  "en": "a flat turquoise lake with white salt shores and bare brown hills, no people, no text (Dead Sea)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לים המלח",
+  "question": "לאן מכונים את הלב כשעומדים בארץ ישראל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a4/p0",
+  "en": "a lively ancient stone market with colorful fruit stalls and baskets, only a few bearded men, no text (market)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לשוק",
+  "question": "לאן מכונים את הלב כשעומדים בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a4/p1",
+  "en": "a grand ancient stone temple with golden gates on a hill, broad staircase and a courtyard, glowing in warm afternoon sun, no domes, no crosses, no people, no text (the Temple)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לבית המקדש",
+  "question": "לאן מכונים את הלב כשעומדים בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a4/p2",
+  "en": "a long ancient stone city wall with a gate, no people, no text (wall)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לחומה",
+  "question": "לאן מכונים את הלב כשעומדים בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a5/p0",
+  "en": "a stone cave entrance in an old Hebron hillside with olive trees, no people, no text (Hebron)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "חברון",
+  "question": "איזו עיר מבקשים בעמידה שה׳ ישוב אליה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a5/p1",
+  "en": "old stone alleys with blue doors and arches in the mountain town of Safed, no people, no text (Safed)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "צפת",
+  "question": "איזו עיר מבקשים בעמידה שה׳ ישוב אליה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a5/p2",
+  "en": "an old city of Jerusalem stone houses and ancient stone walls and a gate on a hill at golden sunrise, no domes, no crosses, no towers in the background, no people, no text (Jerusalem)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "ירושלים",
+  "question": "איזו עיר מבקשים בעמידה שה׳ ישוב אליה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a6/p0",
+  "en": "a bearded man wearing a kippah holding a braided havdalah candle and a small spice box, only the one man in this panel, no text (Havdalah)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "הבדלה",
+  "question": "באיזו ברכה אומרים ׳בונה ירושלים׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a6/p1",
+  "en": "a bearded man and a boy wearing kippot sitting at a table with bread and a closed blank prayer book after a meal, saying a blessing with calm faces, only men and boys, no text (Grace after meals)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "ברכת המזון",
+  "question": "באיזו ברכה אומרים ׳בונה ירושלים׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a6/p2",
+  "en": "a bearded man wearing a kippah outdoors at night looking up at the full moon, only the one man in this panel, no text (Blessing on the moon)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "קדוש לבנה",
+  "question": "באיזו ברכה אומרים ׳בונה ירושלים׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a7/p0",
+  "en": "boys wearing kippot in fun costumes with paper crowns and masks laughing together, only boys, no text (Purim)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בפורים",
+  "question": "איפה אומרים ׳לשנה הבאה בירושלים׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a7/p1",
+  "en": "a wooden sukkah with a leafy roof and hanging fruit decorations, a bearded man in a kippah holding a lulav and etrog, only the one man in this panel, no text (Sukkah)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בסכה",
+  "question": "איפה אומרים ׳לשנה הבאה בירושלים׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a7/p2",
+  "en": "a festive Passover seder table with matzah, a wine cup and a plate, a bearded man and two boys wearing kippot raising their cups with happy faces, only men and boys, no text (Seder night)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "בליל הסדר",
+  "question": "איפה אומרים ׳לשנה הבאה בירושלים׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a8/p0",
+  "en": "a bearded man sitting with his arms crossed and a stubborn face, not praying, only the one man in this panel, no text (does not pray)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "לא מתפלל",
+  "question": "מה עושה מי שלא יודע לאן לפנות?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a8/p1",
+  "en": "a bearded man wearing a kippah standing with his hand on his heart and eyes closed in calm quiet prayer, only the one man in this panel, no text (directs his heart)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מכון את הלב לה׳",
+  "question": "מה עושה מי שלא יודע לאן לפנות?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a8/p2",
+  "en": "a bearded man yawning and looking at the sunrise through a window, only the one man in this panel, no text (waits for morning)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מחכה לבקר",
+  "question": "מה עושה מי שלא יודע לאן לפנות?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a9/p0",
+  "en": "two groups of men standing apart on opposite sides of a stone courtyard with a gap between them, no text (separates us)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מפריד בינינו",
+  "question": "כשכלם פונים לאותו מקום, מה זה עושה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a9/p1",
+  "en": "men and boys wearing kippot from different directions walking toward one stone hill in the center and joining hands in a big circle, only men and boys, no text (connects us)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "מחבר בינינו",
+  "question": "כשכלם פונים לאותו מקום, מה זה עושה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/a9/p2",
+  "en": "a bearded man scratching his head with a puzzled confused face, only the one man in this panel, no text (makes us forget)",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "משכיח אותנו",
+  "question": "כשכלם פונים לאותו מקום, מה זה עושה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/b1",
+  "en": "a bearded man wearing a kippah and tallit standing in prayer by a window in a quiet city apartment, a plain blank map outline of the land of Israel on the wall in front of him, only one man, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "למה בחוץ לארץ פונים אל ארץ ישראל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/b2",
+  "en": "two bearded men wearing kippot standing far apart at the west and east sides of a wide stone courtyard, each turned toward the center where a single stone hill rises, aerial feel, only men, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "אחד עומד במזרח ואחד במערב. לאן כל אחד פונה?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/b4",
+  "en": "a rounded stone hill under a bright sky with many bearded men and boys in kippot standing on all sides at the foot of the hill all turned toward its top, only men and boys, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "מה לומד הפסוק ׳כמגדל דויד... לתלפיות׳ לפי הגמרא?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/b5",
+  "en": "a bearded man wearing a kippah sitting on a bus seat by the window holding a small blank prayer book, his eyes closed in quiet prayer with his hand on his heart, only one man, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "אני באוטובוס ולא יודע לאן מזרח. איך אני מתפלל?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/b6",
+  "en": "a bearded man wearing a kippah sitting at a table with a bowl of figs and grapes and a closed blank prayer book, looking up with a thankful smile, only one man, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "לפי הבית יוסף, למה מבקשים ׳ובנה ירושלים׳ אחרי אכילת פרות?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/b7",
+  "en": "a class of schoolboys wearing kippot standing in rows with prayer books praying toward the front wall of a bright classroom, a bearded teacher beside them, only men and boys, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "בכתה שואלים לאן פונים בתפלה. מה עונים?",
+  "section": ""
+ },
+ {
+  "id": "hq/irkodesh-08/b8",
+  "en": "a bearded man wearing a kippah and tallit standing in prayer with thought bubbles of drifting pencil sketches fading away, calm refocusing face, warm light, only one man, no text",
+  "topic": "🗺️ ירושלים – עיר הקדש",
+  "caption": "",
+  "question": "כשאני מתפלל והמחשבות בורחות, מה כדאי לזכר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a1/p0",
+  "en": "a boy wearing a kippah holding a heavy door open with both hands for someone, only the one boy in this panel, no text (hands)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מהידיים",
+  "question": "מאיפה מתחיל כבוד אמתי?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a1/p1",
+  "en": "a warm boy wearing a kippah with his hand on his heart and a gentle thoughtful smile, only the one boy in this panel, no text (heart)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מהלב",
+  "question": "מאיפה מתחיל כבוד אמתי?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a1/p2",
+  "en": "a boy wearing a kippah walking briskly on a path, his feet in focus, only the one boy in this panel, no text (feet)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מהרגליים",
+  "question": "מאיפה מתחיל כבוד אמתי?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a10/p0",
+  "en": "a boy wearing a kippah squinting with a magnifying glass at a friend's clothes looking for flaws and frowning, two boys in this panel, no text (looks for flaws)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מחפש פגמים",
+  "question": "מה אני עושה היום לחבר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a10/p1",
+  "en": "a boy wearing a kippah smiling warmly at a friend and giving him a thumbs up, two boys in this panel, no text (finds a quality)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מוצא מעלה",
+  "question": "מה אני עושה היום לחבר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a10/p2",
+  "en": "a boy wearing a kippah standing with arms crossed waiting and looking at his watch, only the one boy in this panel, no text (waits for help)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מחכה שיעזור",
+  "question": "מה אני עושה היום לחבר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a2/p0",
+  "en": "a boy wearing a kippah looking with admiration and a warm smile at a friend's colorful drawing, two boys in this panel, no text (appreciate him)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "להעריך אותו",
+  "question": "מה פרוש לכבד את השני?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a2/p1",
+  "en": "a boy wearing a kippah hiding nervously behind a tree and peeking out, only the one boy in this panel, no text (fear him)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "לפחד ממנו",
+  "question": "מה פרוש לכבד את השני?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a2/p2",
+  "en": "two boys wearing kippot nodding at each other with the same agreeing expression, sitting side by side, no text (agree with him)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "להסכים איתו",
+  "question": "מה פרוש לכבד את השני?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a3/p0",
+  "en": "a well dressed man in a suit waving from a stage with a podium, only the one man in this panel, no text (only famous people)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "רק מפורסמים",
+  "question": "את מי צריך לכבד?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a3/p1",
+  "en": "two boys wearing kippot laughing together on a bench in a park, two boys in this panel, no text (only friends)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "רק חברים",
+  "question": "את מי צריך לכבד?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a3/p2",
+  "en": "a group of different men and boys wearing kippot, old and young, tall and short, each smiling and waving, sunny street, no text (every person)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "כל אדם",
+  "question": "את מי צריך לכבד?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a4/p0",
+  "en": "a boy wearing a kippah and simple gray clothes carrying a heavy wooden bucket, tired, only the one boy in this panel, no text (simple servant)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "עבד פשוט",
+  "question": "כל אדם הוא כמו…",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a4/p1",
+  "en": "a boy wearing a kippah in simple clothes walking hand in hand with a tall man in rich royal robes and a gold crown, a stone palace gate behind, two figures in this panel, no text (king's son)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "בן של מלך",
+  "question": "כל אדם הוא כמו…",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a4/p2",
+  "en": "a lonely man with a small suitcase standing at the edge of a stone gate looking unsure, only the one man in this panel, no text (strange guest)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "אורח זר",
+  "question": "כל אדם הוא כמו…",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a5/p0",
+  "en": "two boys wearing kippot kneeling and picking up fallen plates and food from a school dining hall floor together, kind faces, two boys in this panel, no text (help him)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "עוזרים לו",
+  "question": "חבר הפיל את המגש. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a5/p1",
+  "en": "three boys wearing kippot pointing and laughing at a boy standing next to a fallen tray, school dining hall, group of boys in this panel, no text (laugh at him)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "צוחקים עליו",
+  "question": "חבר הפיל את המגש. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a5/p2",
+  "en": "a boy wearing a kippah turning and walking away from a fallen tray with his back to us, only the one boy in this panel, no text (stay away)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מתרחקים ממנו",
+  "question": "חבר הפיל את המגש. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a6/p0",
+  "en": "a boy wearing a kippah proudly showing a shiny wristwatch on his wrist, only the one boy in this panel, no text (an expensive watch)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "שעון יקר",
+  "question": "מה יש לכל אדם?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a6/p1",
+  "en": "a boy wearing a kippah holding a heavy bag of gold coins with wide eyes, only the one boy in this panel, no text (a lot of money)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "הרבה כסף",
+  "question": "מה יש לכל אדם?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a6/p2",
+  "en": "a smiling boy wearing a kippah with a bright golden star glowing above his head, only the one boy in this panel, no text (a good quality)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מעלה טובה",
+  "question": "מה יש לכל אדם?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a7/p0",
+  "en": "a boy wearing a kippah holding a magnifying glass and looking with a bright smile at a quiet friend who is drawing a beautiful picture, two boys in this panel, no text (his quality)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "המעלה שלו",
+  "question": "בכתה יש ילד שקט. מה מחפשים בו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a7/p1",
+  "en": "a boy wearing a kippah with a magnifying glass over a blank sheet looking for errors with a frowning face, only the one boy in this panel, no text (his mistakes)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "הטעויות שלו",
+  "question": "בכתה יש ילד שקט. מה מחפשים בו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a7/p2",
+  "en": "a boy wearing a kippah digging through a school backpack looking for a notebook, only the one boy in this panel, no text (his notebook)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "המחברת שלו",
+  "question": "בכתה יש ילד שקט. מה מחפשים בו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a8/p0",
+  "en": "a strong boy wearing a kippah lifting a heavy dumbbell with big muscles, only the one boy in this panel, no text (he is strong)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "כי הוא חזק",
+  "question": "למה מכבדים גם מי שטעה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a8/p1",
+  "en": "a boy wearing a kippah in simple clothes who has a small golden crown on a pillow behind him in a quiet room, only the one boy in this panel, no text (still a king's son)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "עדיין בן מלך",
+  "question": "למה מכבדים גם מי שטעה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a8/p2",
+  "en": "a boy wearing a kippah sitting on a pile of treasure chests and gold coins, only the one boy in this panel, no text (he is rich)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "כי הוא עשיר",
+  "question": "למה מכבדים גם מי שטעה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a9/p0",
+  "en": "a boy wearing a kippah holding a wrapped gift box up toward a sunny sky with white clouds, only the one boy in this panel, no text (give a gift)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "לתת לו מתנה",
+  "question": "מהו כבוד לה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a9/p1",
+  "en": "a boy wearing a kippah singing loudly with his mouth wide open, only the one boy in this panel, no text (sing loudly)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "לשיר בקול",
+  "question": "מהו כבוד לה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/a9/p2",
+  "en": "a boy wearing a kippah sitting by a window looking at a sunny green field with a thankful quiet smile and a hand on his heart, only the one boy in this panel, no text (recognize His goodness)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "להכיר בטובו",
+  "question": "מהו כבוד לה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/b2",
+  "en": "two boys wearing kippot standing up at their desks as a teacher with a beard enters a bright classroom, one boy with a thoughtful respectful look, blank blackboard, no text",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "",
+  "question": "שני ילדים קמים למורה. מה מבדיל בין כבוד אמתי לכבוד חיצוני?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/b3",
+  "en": "a boy wearing a kippah who dropped his school bag so blank papers are spread on the floor, standing embarrassed while a friend wearing a kippah puts a hand kindly on his shoulder, no text",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "",
+  "question": "מדוע מכבדים גם אדם שנכשל היום?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/b4",
+  "en": "a quiet boy wearing a kippah holding up a beautiful finished painting of a garden while classmates wearing kippot look at it with admiring faces, blank background, no text",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "",
+  "question": "מה המשמעות של ׳אין לך אדם שאין לו שעה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/b5",
+  "en": "a boy wearing a kippah holding a school door open for a friend wearing a kippah, the first boy looking thoughtful, a bright corridor, no text",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "",
+  "question": "אני פותח דלת לחבר, אבל חושב שהוא לא חשוב. מה חסר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/b6",
+  "en": "a new quiet boy wearing a kippah standing at the edge of a school yard while another boy wearing a kippah walks over to him with a friendly smile, a ball on the grass, no text",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "",
+  "question": "חבר חדש שקט ולא חזק בכדורגל. מה עושים עכשיו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/b7",
+  "en": "a boy wearing a kippah sitting at a table at sunset writing in a small notebook with a pencil and smiling, a glass of water and fruit on the table, blank notebook pages, no text",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "",
+  "question": "למה כדאי להתבונן כל יום במעלות של מי שסביבנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-01/b8",
+  "en": "two boys wearing kippot in a school yard talking, one of them shaking his head gently and pointing toward a third boy who is helping a younger boy with a backpack, no text",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "",
+  "question": "אתה שומע ילד אומר: ׳הוא סתם בלי ערך׳. מה אתה חושב?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a1/p0",
+  "en": "a rich boy wearing a kippah in fine clothes holding a bag of coins and standing alone, only the one boy in this panel, no text (the rich one)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "העשיר",
+  "question": "מי מכבד לפי בן זומא?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a1/p1",
+  "en": "a strong boy wearing a kippah lifting a heavy weight proudly, only the one boy in this panel, no text (the strong one)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "הגיבור",
+  "question": "מי מכבד לפי בן זומא?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a1/p2",
+  "en": "a friendly boy wearing a kippah greeting a classmate warmly with a handshake while other boys smile around them, group of boys, no text (honors people)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "המכבד את הבריות",
+  "question": "מי מכבד לפי בן זומא?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a10/p0",
+  "en": "a boy wearing a kippah leaning in to listen attentively to a friend who is talking, two boys in this panel, no text (listen to him)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מקשיבים לו",
+  "question": "מה עושים כשחבר מדבר אלינו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a10/p1",
+  "en": "a boy wearing a kippah cutting off a talking friend with a loud shout, two boys in this panel, no text (interrupt him)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מפסיקים אותו",
+  "question": "מה עושים כשחבר מדבר אלינו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a10/p2",
+  "en": "a boy wearing a kippah turned away talking to another boy while a third boy tries to speak, three boys in this panel, no text (talk to someone else)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "מדברים עם אחר",
+  "question": "מה עושים כשחבר מדבר אלינו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a2/p0",
+  "en": "a smiling boy wearing a kippah standing in the middle of a circle of friendly boys wearing kippot who smile at him, group of boys, no text (honored)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "נעשה מכובד",
+  "question": "מי שמכבד את החברים…",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a2/p1",
+  "en": "a tired boy wearing a kippah yawning with sleepy eyes, only the one boy in this panel, no text (tired)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "נהיה עייף",
+  "question": "מי שמכבד את החברים…",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a2/p2",
+  "en": "a lonely boy wearing a kippah sitting on a bench by himself looking at the ground, only the one boy in this panel, no text (alone)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "נשאר לבד",
+  "question": "מי שמכבד את החברים…",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a3/p0",
+  "en": "a pair of boy's school shoes standing neatly on the floor, no people, no text (shoes)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "בנעליים",
+  "question": "איפה רואים את אור הצלם?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a3/p1",
+  "en": "a close up of a kind boy wearing a kippah with a bright warm glowing face and gentle eyes, only the one boy in this panel, no text (light of the face)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "באור הפנים",
+  "question": "איפה רואים את אור הצלם?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a3/p2",
+  "en": "a school backpack leaning against a chair, no people, no text (backpack)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "בתיק",
+  "question": "איפה רואים את אור הצלם?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a4/p0",
+  "en": "a boy wearing a kippah shaking hands with an older bearded teacher wearing a kippah, two figures in this panel, no text (only the teacher)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "את המורה בלבד",
+  "question": "כשאני מכבד אדם, אני מכבד גם…",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a4/p1",
+  "en": "a small grocery shop with a striped awning and fruit crates, no people, no text (the shop)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "את החנות",
+  "question": "כשאני מכבד אדם, אני מכבד גם…",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a4/p2",
+  "en": "a boy wearing a kippah looking up at a bright sunny sky with white clouds with a grateful smile, only the one boy in this panel, no text (the One who created him)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "את מי שברא אותו",
+  "question": "כשאני מכבד אדם, אני מכבד גם…",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a5/p0",
+  "en": "two boys wearing kippot smiling at each other and shaking hands warmly, two boys in this panel, no text (he honors me)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "הוא מכבד אותי",
+  "question": "מה קורה כשאני מכבד חבר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a5/p1",
+  "en": "an angry boy wearing a kippah with a frown and red face pointing, only the one boy in this panel, no text (he is angry)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "הוא כועס עלי",
+  "question": "מה קורה כשאני מכבד חבר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a5/p2",
+  "en": "a boy wearing a kippah running away from the viewer on a path, seen from behind, only the one boy in this panel, no text (he runs away)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "הוא בורח ממני",
+  "question": "מה קורה כשאני מכבד חבר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a6/p0",
+  "en": "an angry man pointing a finger at another man in a plain room, two men in this panel, no text (shouted at him)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "צעק עליו",
+  "question": "מה עשה הרב אריה כשברך את האיש?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a6/p1",
+  "en": "a gentle elderly bearded man wearing a kippah holding a younger man's hand warmly with both hands, two men in this panel, no text (stroked his hand)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "ליטף את ידו",
+  "question": "מה עשה הרב אריה כשברך את האיש?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a6/p2",
+  "en": "a man handing a small cloth coin purse to another man, two men in this panel, no text (gave money)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "נתן לו כסף",
+  "question": "מה עשה הרב אריה כשברך את האיש?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a7/p0",
+  "en": "a man with a blank unmoved face standing still, only the one man in this panel, no text (felt nothing)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "לא הרגיש כלום",
+  "question": "מה האיש החליט אחרי המגע?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a7/p1",
+  "en": "a man hurrying away down a corridor looking back nervously, only the one man in this panel, no text (wanted to run)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "רצה לברוח",
+  "question": "מה האיש החליט אחרי המגע?",
+  "section": ""
+ },
+ {
+  "id": "hq/kavod-02/a7/p2",
+  "en": "a man standing tall with a determined hopeful smile and clenched fist at his chest, only the one man in this panel, no text (wanted to improve)",
+  "topic": "🌱 מדות טובות – כבוד הבריות",
+  "caption": "רצה להשתפר",
+  "question": "מה האיש החליט אחרי המגע?",
+  "section": ""
+ }
+]

@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "hq/kotel-03/b8",
+  "en": "two boys wearing kippot sitting on a school yard bench, one with a proud posture and the other listening kindly with a gentle smile, two boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "חבר גאה בעצמו ואומר: ׳אני הכי טוב׳. מה אעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a1/p0",
+  "en": "a green mountain hillside with small stone houses, only the one man in this panel, no domes, no towers, no text (mountain village)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מירון",
+  "question": "מאיפה חזר רבי שלמה מזויהיל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a1/p1",
+  "en": "a calm blue sea with a sandy beach, no people, no text (sea)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הים",
+  "question": "מאיפה חזר רבי שלמה מזויהיל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a1/p2",
+  "en": "a busy open-air market with colorful stalls and men shopping, no women, no text (market)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "השוק",
+  "question": "מאיפה חזר רבי שלמה מזויהיל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a10/p0",
+  "en": "an angry man with a frown and clenched fists, only the one man, no text (anger)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כעס",
+  "question": "מה שולחים לדאר המרכזי חוץ מבקשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a10/p1",
+  "en": "a grateful smiling boy with a kippah holding a hand to his heart, only the one boy, no text (thanks)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "תודה",
+  "question": "מה שולחים לדאר המרכזי חוץ מבקשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a10/p2",
+  "en": "a scared man hiding behind a door, only the one man, no text (fear)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "פחד",
+  "question": "מה שולחים לדאר המרכזי חוץ מבקשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a2/p0",
+  "en": "a plain stone house with a wooden door, no people, no text (home)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אל הבית",
+  "question": "לאן הלך מיד?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a2/p1",
+  "en": "a bearded man in old-fashioned robes standing before huge ancient stone wall, seen from behind, no text (Western Wall)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אל הכתל",
+  "question": "לאן הלך מיד?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a2/p2",
+  "en": "a busy market street with stalls and men, no women, no text (market)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אל השוק",
+  "question": "לאן הלך מיד?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a3/p0",
+  "en": "a lively market with stalls, men only, no text (market)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "שוק",
+  "question": "מה הוא אמר על מירון?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a3/p1",
+  "en": "a small old post office branch with a mailbox, one man posting a letter, no text (branch)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "סניף",
+  "question": "מה הוא אמר על מירון?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a3/p2",
+  "en": "a tall plain stone tower in an empty field, no people, no crosses, no text (tower)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מגדל",
+  "question": "מה הוא אמר על מירון?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a4/p0",
+  "en": "a bearded man wearing a golden crown and royal robe sitting on a throne, only the one man, no text (king)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כמו מלך",
+  "question": "כמו מי מרגישים בכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a4/p1",
+  "en": "a policeman in a plain uniform standing on a street, only the one man, no text (policeman)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כמו שוטר",
+  "question": "כמו מי מרגישים בכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a4/p2",
+  "en": "a smiling baby boy in a cozy blanket looking up happily, only the baby, no text (baby)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כמו תינוק",
+  "question": "כמו מי מרגישים בכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a5/p0",
+  "en": "an ancient bearded sage in simple robes teaching, only the one man, no text (Rabbi Akiva)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "רבי עקיבא",
+  "question": "מי אמר שהכתל ׳קבוע לתחנה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a5/p1",
+  "en": "a bearded king playing a harp on a hill, only the one man, no text (King David)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "דוד המלך",
+  "question": "מי אמר שהכתל ׳קבוע לתחנה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a5/p2",
+  "en": "an old bearded rabbi with a skullcap writing with a quill at a desk with blank pages, only the one man, no text (Rabbi Emden)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "רבי יעקב עמדין",
+  "question": "מי אמר שהכתל ׳קבוע לתחנה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a6/p0",
+  "en": "a frightened man with wide eyes and hands on his cheeks, only the one man, no text (fear)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "פחד",
+  "question": "מה ה׳ מבטיח לבאים לבית תפלתו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a6/p1",
+  "en": "a joyful man smiling with arms raised in front of old stone wall, only the one man, no text (joy)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "שמחה",
+  "question": "מה ה׳ מבטיח לבאים לבית תפלתו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a6/p2",
+  "en": "a bored man yawning and resting his chin on his hand, only the one man, no text (boredom)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "שעמום",
+  "question": "מה ה׳ מבטיח לבאים לבית תפלתו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a7/p0",
+  "en": "a man drinking a glass of water, only the one man, no text (drinking)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "שותים מים",
+  "question": "מה עושים כשרחוקים מירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a7/p1",
+  "en": "a man sitting alone on a bench outside, only the one man, no text (sitting outside)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "יושבים בחוץ",
+  "question": "מה עושים כשרחוקים מירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a7/p2",
+  "en": "a bearded man with a kippah praying quietly with closed eyes and a hand on his heart, only the one man, no text (praying with heart)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מכונים את הלב",
+  "question": "מה עושים כשרחוקים מירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a8/p0",
+  "en": "a table with a loaf of bread and a bowl of soup, no people, no text (food)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "על המזון",
+  "question": "על מה דאגו המקרבים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a8/p1",
+  "en": "a pair of old leather shoes, no people, no text (shoes)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "על הנעלים",
+  "question": "על מה דאגו המקרבים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a8/p2",
+  "en": "a tired elderly bearded man being helped by two men with worried faces, men only, no text (health)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "על בריאותו",
+  "question": "על מה דאגו המקרבים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a9/p0",
+  "en": "a pile of stones, no people, no text (stones)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אבנים",
+  "question": "מה שולחים בדאר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a9/p1",
+  "en": "a pile of fresh fish on ice, no people, no text (fish)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "דגים",
+  "question": "מה שולחים בדאר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/a9/p2",
+  "en": "a pile of sealed blank envelopes, no people, no text (letters)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מכתבים",
+  "question": "מה שולחים בדאר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/b1",
+  "en": "an elderly bearded man in old-fashioned robes and a turban walking slowly toward an ancient stone wall at golden afternoon, seen from behind, only the one man, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "למה פנה רבי שלמה מיד לכתל אחרי מירון?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/b2",
+  "en": "a small neighborhood post office branch on a quiet street, beside a large central post office building with many windows, no people, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה היה ההסבר של המשל על סניף ודאר מרכזי?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/b3",
+  "en": "an ancient stone gate opening to a sunny path, with a few bearded men approaching from far away, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה למדנו מדברי רבי יעקב עמדין על הכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/b4",
+  "en": "a group of smiling men and boys in kippot standing together before an ancient stone wall at sunrise, joyful faces, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה הפרוש של ׳ושמחתים בבית תפלתי׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/b5",
+  "en": "a boy with a kippah praying quietly at home beside a window facing a distant hill, eyes closed, warm light, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "איך מתפללים כשגרים רחוק מירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/b6",
+  "en": "a boy and his father walking up a stone road toward a home on a hill to visit grandparents, from behind, warm afternoon, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "חבר שואל: ׳ה׳ בכל מקום, למה לנסע לכתל להודות?׳ מה אתה עונה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/b7",
+  "en": "a boy at a wooden table writing a letter on blank paper with a pencil, a mug and an envelope beside him, warm lamp light, only the boy, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "אתה רוצה לכתב מכתב תודה לסבא. מה כותבים בו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-04/b8",
+  "en": "a happy boy with a kippah at home with open arms and a big smile, sunlight through the window, only the boy, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "הצלחת במבחן שדאגת ממנו, ואתה רחוק מירושלים. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a1/p0",
+  "en": "a bearded traveler in a long coat and hat carrying a small bundle, standing in a village street with a few boys looking up at him, men and boys only, no text (guest)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אורח מארץ ישראל",
+  "question": "את מי הילדים נשקו בעירה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a1/p1",
+  "en": "a policeman in a plain uniform standing on a street, only the one man, no text (policeman)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "שוטר",
+  "question": "את מי הילדים נשקו בעירה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a1/p2",
+  "en": "a bearded merchant with a cart of fabrics at a market, only the one man, no text (merchant)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "סוחר",
+  "question": "את מי הילדים נשקו בעירה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a10/p0",
+  "en": "a bearded man carrying a basket of groceries from a shop, only the one man, no text (to buy)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "לקנות",
+  "question": "למה באו הצדיקים לכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a10/p1",
+  "en": "a bearded man sleeping in a bed, only the one man, no text (to sleep)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "לישן",
+  "question": "למה באו הצדיקים לכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a10/p2",
+  "en": "a group of bearded men standing close together near an ancient stone wall, calm faces, men only, no text (to be close)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "להיות קרובים",
+  "question": "למה באו הצדיקים לכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a2/p0",
+  "en": "a man yawning in a nightcap beside a bed, only the one man, no text (good night)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "לילה טוב",
+  "question": "מה בא רבי נתן לומר לשכינה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a2/p1",
+  "en": "a bearded man in a hat waving his hand warmly in greeting before an ancient stone wall, only the one man, no text (hello)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "שלום",
+  "question": "מה בא רבי נתן לומר לשכינה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a2/p2",
+  "en": "a man bowing his head apologetically with a hand on his chest, only the one man, no text (sorry)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "סליחה",
+  "question": "מה בא רבי נתן לומר לשכינה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a3/p0",
+  "en": "a bearded man sleeping peacefully on a bench, only the one man, no text (sleep)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "לישן",
+  "question": "מה אמר האדמו״ר מלעלוב שצריך לעשות אל הכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a3/p1",
+  "en": "a bearded man in a long coat and hat running joyfully along a stone road, only the one man, no text (run)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "לרוץ",
+  "question": "מה אמר האדמו״ר מלעלוב שצריך לעשות אל הכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a3/p2",
+  "en": "a man shouting loudly with hands around his mouth, only the one man, no text (shout)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "לצעק",
+  "question": "מה אמר האדמו״ר מלעלוב שצריך לעשות אל הכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a4/p0",
+  "en": "a bearded man sleeping in an armchair, only the one man, no text (fell asleep)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "נרדם",
+  "question": "מה עשה האדמו״ר מריבניץ כששמע?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a4/p1",
+  "en": "a bearded man in a long coat opening his front door to go home, only the one man, no text (went home)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "חזר הביתה",
+  "question": "מה עשה האדמו״ר מריבניץ כששמע?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a4/p2",
+  "en": "a bearded man in a long coat and hat running along a stone road toward an ancient stone wall in the distance, only the one man, no text (ran to the Wall)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "רץ לכתל",
+  "question": "מה עשה האדמו״ר מריבניץ כששמע?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a5/p0",
+  "en": "two bearded men talking, one pointing to an ancient stone wall in the distance, men only, no text (visited the Wall)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "בקרת בכתל?",
+  "question": "מה שאל האדמו״ר מלעלוב כל אורח?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a5/p1",
+  "en": "a bearded man eating a meal at a table, only the one man, no text (ate a meal)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אכלת ארוחה?",
+  "question": "מה שאל האדמו״ר מלעלוב כל אורח?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a5/p2",
+  "en": "a bearded man counting coins in his hand, only the one man, no text (money)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "יש לך כסף?",
+  "question": "מה שאל האדמו״ר מלעלוב כל אורח?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a6/p0",
+  "en": "a bearded man dancing happily with arms raised, only the one man, no text (dancing)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "רוקד",
+  "question": "איך הלך רבי שלמה בחם?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a6/p1",
+  "en": "a bearded man in a coat walking quickly on a stone road, only the one man, no text (fast)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מהר",
+  "question": "איך הלך רבי שלמה בחם?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a6/p2",
+  "en": "an elderly bearded man in a big tallit walking slowly and bent over on a hot sunny stone hill, only the one man, no text (bent over)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כפוף",
+  "question": "איך הלך רבי שלמה בחם?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a7/p0",
+  "en": "a bearded man dancing joyfully, only the one man, no text (dancing)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "רקד",
+  "question": "מה עשה הרבי מהוסיאטין בכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a7/p1",
+  "en": "an old bearded rabbi standing very still and quiet before an ancient stone wall, eyes closed, only the one man, no text (stood quietly)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "עמד בשקט",
+  "question": "מה עשה הרבי מהוסיאטין בכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a7/p2",
+  "en": "a bearded man laughing loudly, only the one man, no text (laughing)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "צחק",
+  "question": "מה עשה הרבי מהוסיאטין בכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a8/p0",
+  "en": "a close portrait of an old bearded rabbi whose face glows warmly in the daylight, only the one man, no text (face)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הפנים",
+  "question": "מה היה בוער אצלו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a8/p1",
+  "en": "a single lit candle on a table, no people, no text (candle)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הנר",
+  "question": "מה היה בוער אצלו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a8/p2",
+  "en": "a closed old book on a table, blank cover, no people, no text (book)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הספר",
+  "question": "מה היה בוער אצלו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a9/p0",
+  "en": "a closed Chumash book with blank cover on a table, no people, no text (Chumash)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "חמש",
+  "question": "איזה ספר אמר היהודי בהתרגשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a9/p1",
+  "en": "a bearded man in a tallit holding a small open book of blank pages and saying with deep feeling before an ancient stone wall, only the one man, no text (Tehillim)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "תהלים",
+  "question": "איזה ספר אמר היהודי בהתרגשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/a9/p2",
+  "en": "a prayer book with blank cover on a table, no people, no text (siddur)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "סדור",
+  "question": "איזה ספר אמר היהודי בהתרגשות?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/b1",
+  "en": "a bearded man in a kippah standing before an ancient stone wall at sunrise, looking up, seen from behind, only the one man, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "למה צדיקים רצו לבקר בכתל, לפי הפסוק ׳והיו עיני ולבי שם׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/b2",
+  "en": "a bearded man in a long coat and hat stepping off a plane stairs with a small suitcase on a sunny day, only the one man, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה למדנו מרבי נתן שבא מרחוק לומר לשכינה שלום?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/b3",
+  "en": "two bearded men in long coats running joyfully side by side on an ancient stone road toward a distant stone wall, one laughing, men only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה היתה הכונה של ׳אל הכתל צריך לרוץ׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/b4",
+  "en": "an elderly bearded man in a big tallit walking bent over, slowly climbing a stone hill under a hot sun, only the one man, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מדוע רבי שלמה הלך כל יום לכתל גם בחם הקיץ?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/b5",
+  "en": "an old rabbi with a white beard standing completely still before an ancient stone wall, face glowing in warm daylight, only the one man, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "איך היה הרבי מהוסיאטין נראה כשעמד בכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/b6",
+  "en": "two friends boys in kippot talking on a stone street near an ancient stone wall, one gesturing thoughtfully, boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "חבר אומר: ׳בכתל צריך רק לבקש.׳ מה עונים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/b7",
+  "en": "a smiling boy in a kippah running joyfully on a sunny path toward a stone gate, only the boy, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "יש לך הזדמנות לבקר במקום שאתה אוהב. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-05/b8",
+  "en": "a boy and his grandfather in kippot walking together in the morning toward a synagogue with a Star of David on its door, men and boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מישהו ספר שיש סבא שהולך לבית הכנסת בכל יום. מה אתה למד?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a1/p0",
+  "en": "a hall full of men and boys dancing in a circle, joyful, men only, no text (dancing)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "רקדו",
+  "question": "מה עשו אלפים אנשים בהיכל הישיבה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a1/p1",
+  "en": "a long table with men eating a meal together, men only, no text (eating)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אכלו",
+  "question": "מה עשו אלפים אנשים בהיכל הישיבה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a1/p2",
+  "en": "a hall with many bearded men sitting on the floor with sad faces, men only, no text (sat and cried)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "ישבו ובכו",
+  "question": "מה עשו אלפים אנשים בהיכל הישיבה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a10/p0",
+  "en": "a man bowing his head apologetically with a hand on his chest, only the one man, no text (sorry)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "סליחה",
+  "question": "מה אומרים על הנס הגדול?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a10/p1",
+  "en": "a grateful smiling boy with a kippah with a hand on his heart, only the one boy, no text (thank you)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "תודה",
+  "question": "מה אומרים על הנס הגדול?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a10/p2",
+  "en": "a man yawning with a pillow, only the one man, no text (good night)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "לילה טוב",
+  "question": "מה אומרים על הנס הגדול?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a2/p0",
+  "en": "a calm blue sea with a sandy beach, no people, no text (sea)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אל הים",
+  "question": "אל מה הם התגעגעו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a2/p1",
+  "en": "ancient huge stone wall at golden morning with small green plants between the stones, a few men far away, no text (Wall)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אל הכתל",
+  "question": "אל מה הם התגעגעו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a2/p2",
+  "en": "a busy market with stalls, men only, no text (market)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אל השוק",
+  "question": "אל מה הם התגעגעו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a3/p0",
+  "en": "an old white-bearded rabbi with tears on his cheeks dancing joyfully with arms raised in an indoor hall, men around him clapping, men only, no text (cried and danced)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "בכה ורקד",
+  "question": "מה עשה האדמו״ר מויז׳ניץ כששמע?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a3/p1",
+  "en": "a bearded man sleeping in an armchair, only the one man, no text (slept)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "ישן",
+  "question": "מה עשה האדמו״ר מויז׳ניץ כששמע?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a3/p2",
+  "en": "a bearded man hiding behind a curtain, only the one man, no text (hid)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הסתתר",
+  "question": "מה עשה האדמו״ר מויז׳ניץ כששמע?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a4/p0",
+  "en": "an old white-bearded rabbi smiling widely and opening his arms to welcome men entering his room, men only, no text (Wall is ours)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הכתל בידינו",
+  "question": "מה אמר לכל מי שנכנס?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a4/p1",
+  "en": "a bearded man yawning in a nightcap, only the one man, no text (good night)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "לילה טוב",
+  "question": "מה אמר לכל מי שנכנס?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a4/p2",
+  "en": "a bearded man pouring water into cups on a table, only the one man, no text (drink water)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "תשתו מים",
+  "question": "מה אמר לכל מי שנכנס?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a5/p0",
+  "en": "a proud man flexing his arm muscles, only the one man, no text (my strength)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כחי ועצם ידי",
+  "question": "מה הוא לא רצה שיאמרו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a5/p1",
+  "en": "rain falling over green hills, no people, no text (rain)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הלואי שירד גשם",
+  "question": "מה הוא לא רצה שיאמרו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a5/p2",
+  "en": "a confused man scratching his head with a question look, only the one man, no text (I do not know)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אני לא יודע",
+  "question": "מה הוא לא רצה שיאמרו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a6/p0",
+  "en": "a Seder table with matzah and wine cups, no people, no text (Pesach)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "פסח",
+  "question": "באיזה חג חזרו הרבה אנשים לכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a6/p1",
+  "en": "boys wearing paper masks and costumes celebrating, boys only, no text (Purim)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "פורים",
+  "question": "באיזה חג חזרו הרבה אנשים לכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a6/p2",
+  "en": "golden wheat sheaves and baskets of first fruits on a table, no people, no text (Shavuot)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "שבועות",
+  "question": "באיזה חג חזרו הרבה אנשים לכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a7/p0",
+  "en": "an empty plate and a cup on a table, a fasting day, no people, no text (fast day)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "יום צום",
+  "question": "מה אמר האבן עזרא על יום שה׳ מציל אותנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a7/p1",
+  "en": "a joyful festive gathering of men and boys singing and clapping together, men and boys only, no text (joyful day)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "יום שמחה",
+  "question": "מה אמר האבן עזרא על יום שה׳ מציל אותנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a7/p2",
+  "en": "a quiet empty street at night, no people, no text (quiet day)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "יום שקט",
+  "question": "מה אמר האבן עזרא על יום שה׳ מציל אותנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a8/p0",
+  "en": "a bearded man in a tallit holding a small book of blank pages standing before an ancient stone wall, only the one man, no text (psalms)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "תהלים",
+  "question": "מה אמר האב בכתל בכל יום חמישי?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a8/p1",
+  "en": "a bearded man telling stories to a group of boys, men and boys only, no text (stories)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "ספורים",
+  "question": "מה אמר האב בכתל בכל יום חמישי?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a8/p2",
+  "en": "a bearded man singing with open mouth, only the one man, no text (songs)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "שירים",
+  "question": "מה אמר האב בכתל בכל יום חמישי?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a9/p0",
+  "en": "an old bearded rabbi holding a letter with deeply moved shining eyes, only the one man, no text (moved)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "התרגש",
+  "question": "איך הרגיש החם כששמע את המכתב?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a9/p1",
+  "en": "a bored man yawning, only the one man, no text (bored)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "השתעמם",
+  "question": "איך הרגיש החם כששמע את המכתב?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/a9/p2",
+  "en": "an angry man frowning with arms crossed, only the one man, no text (angry)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כעס",
+  "question": "איך הרגיש החם כששמע את המכתב?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/b1",
+  "en": "a hall with many bearded men sitting on the floor with sad faces, men only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "למה הנתיבות שלום חשב שבעת הסגירה היה קשה כל כך?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/b2",
+  "en": "an old white-bearded rabbi raising his hands in thanks in an indoor hall, men around him, men only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה רצה האדמו״ר מויז׳ניץ שידעו בתוך השמחה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/b3",
+  "en": "a joyful festive gathering of men and boys singing and clapping together at sunset, men and boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה למדנו מהאבן עזרא על יום שבו ה׳ מציל אותנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/b4",
+  "en": "golden wheat sheaves and baskets of first fruits on a stone table in front of an ancient stone wall, no people, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "למה יש שמבארים שהכתל חזר דוקא בשבועות?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/b5",
+  "en": "a boy in a kippah smiling and telling good news to a circle of friends in a school yard, boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "אתה שומע חדשות טובות על ימים של נס. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/b6",
+  "en": "a bearded man in a tallit holding a small book of blank pages, praying before an ancient stone wall in the early morning, only the one man, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה היה המכתב של האב בנוגע לכתל?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/b7",
+  "en": "a boy in a kippah looking up with a thankful smile on a sunny hill, only the boy, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "חבר אומר: ׳הכל בגלל כח של אנשים׳. מה אומרים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-06/b8",
+  "en": "a boy and his grandfather in kippot sitting together on a sofa, grandfather telling a story with a smile, men and boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "סבא מספר לך על היום שבו הכתל חזר. מה עושים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a1/p0",
+  "en": "a freshly painted white wall of a home with one small bare grey plaster square in the middle, no people, no text (bare square)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "פינה בלי סיד",
+  "question": "מה משירים כשמסידים את הבית?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a1/p1",
+  "en": "a freshly painted white wall with a large bright window, no people, no text (window)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "חלון גדול",
+  "question": "מה משירים כשמסידים את הבית?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a1/p2",
+  "en": "a freshly painted white hallway with a brand new wooden door, no people, no text (door)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "דלת חדשה",
+  "question": "מה משירים כשמסידים את הבית?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a10/p0",
+  "en": "a happy boy with a kippah standing at the doorway of his home with a grateful smile, hand on his heart, only the one boy, no text (thanks for the home)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "תודה על הבית",
+  "question": "מה אומרים בלב כשרואים אותה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a10/p1",
+  "en": "a boy with a kippah holding a big wrapped present with an excited face, only the one boy, no text (present)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אני רוצה מתנה",
+  "question": "מה אומרים בלב כשרואים אותה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a10/p2",
+  "en": "a boy with a kippah frowning at a dirty wall, only the one boy, no text (dirty wall)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הקיר מלוכלך",
+  "question": "מה אומרים בלב כשרואים אותה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a2/p0",
+  "en": "a huge bare square taking up most of a white wall, no people, no text (too big)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מטר על מטר",
+  "question": "מה גדל הפנה שמשירים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a2/p1",
+  "en": "a bare square on a white wall about the size of a boy's forearm length, a boy's arm measured next to it, only the arm, no text (forearm square)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אמה על אמה",
+  "question": "מה גדל הפנה שמשירים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a2/p2",
+  "en": "a tiny bare square on a white wall the size of a small palm, no people, no text (too small)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כף יד קטנה",
+  "question": "מה גדל הפנה שמשירים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a3/p0",
+  "en": "a room with a tall wooden cupboard standing against the wall, hiding the wall behind it, no people, no text (behind cupboard)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מאחורי הארון",
+  "question": "איפה משירים אותה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a3/p1",
+  "en": "a ceiling of a room with a small bare square high up in the ceiling corner, no people, no text (ceiling)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "בתקרה",
+  "question": "איפה משירים אותה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a3/p2",
+  "en": "an open front door and straight opposite it on the far wall a clear bare grey plaster square, no people, no text (facing door)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מול הפתח",
+  "question": "איפה משירים אותה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a4/p0",
+  "en": "a round bare circle of grey plaster on a white wall, no people, no text (circle)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "עיגול",
+  "question": "מה הצורה של הפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a4/p1",
+  "en": "a long thin bare strip of grey plaster on a white wall, no people, no text (thin strip)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "פס צר",
+  "question": "מה הצורה של הפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a4/p2",
+  "en": "a neat square of bare grey plaster on a white wall, no people, no text (square)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "ריבוע",
+  "question": "מה הצורה של הפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a5/p0",
+  "en": "a friendly bearded neighbor man in a modern shirt and kippah waving over a garden fence, only the one man, no text (neighbor)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "השכן",
+  "question": "מי למד לשיר פנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a5/p1",
+  "en": "two bearded wise men in old-fashioned robes and head coverings studying a big book together by lamplight, men only, no text (sages)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "חכמים",
+  "question": "מי למד לשיר פנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a5/p2",
+  "en": "a man painter in work clothes and a kippah with a paint roller on a ladder, only the one man, no text (painter)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הצבע",
+  "question": "מי למד לשיר פנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a6/p0",
+  "en": "a boy with a kippah looking at a bare grey square on the wall with a curious face, only the one boy, no text (looking)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "להסתכל עליה",
+  "question": "מה אין עושים לפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a6/p1",
+  "en": "a tall cupboard placed in front of a wall hiding a bare square, no people, no text (hiding)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "להסתיר אותה",
+  "question": "מה אין עושים לפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a6/p2",
+  "en": "a boy with a kippah standing thoughtfully with a finger on his chin looking at the wall, only the one boy, no text (remembering)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "לזכור אותה",
+  "question": "מה אין עושים לפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a7/p0",
+  "en": "a golden seven-branched menorah inside an ancient stone temple hall, warm lamp light, no people, no text (the temple)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "למקדש",
+  "question": "זכר למה היא הפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a7/p1",
+  "en": "a big wooden boat floating on calm water under grey clouds, no animals, no people, no text (flood)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "למבול",
+  "question": "זכר למה היא הפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a7/p2",
+  "en": "a wide sandy desert with dunes under a bright sun, no people, no text (desert)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "למדבר",
+  "question": "זכר למה היא הפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a8/p0",
+  "en": "a golden seven-branched menorah with lit lamps in a stone hall, no people, no text (menorah)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "המנורה",
+  "question": "מה נשאר מהמקדש?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a8/p1",
+  "en": "a large altar made of rough stones with a ramp, no smoke, no people, no text (altar)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "המזבח",
+  "question": "מה נשאר מהמקדש?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a8/p2",
+  "en": "a huge wall of ancient large stones with small green plants in the cracks at golden morning, nothing behind it, no domes, no towers, no people, no text (ancient wall)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הכותל המערבי",
+  "question": "מה נשאר מהמקדש?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a9/p0",
+  "en": "a scared boy with a kippah standing in a doorway of a house with wide eyes, only the one boy, no text (fear)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "פחד מהבית",
+  "question": "מה מרגישים כשרואים את הפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a9/p1",
+  "en": "an angry man in work clothes with a frown holding a paint brush, only the one man, no text (anger)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כעס על הצבע",
+  "question": "מה מרגישים כשרואים את הפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/a9/p2",
+  "en": "a boy with a kippah gazing at a wall with a gentle longing smile, soft warm light, only the one boy, no text (longing)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "געגועים למקדש",
+  "question": "מה מרגישים כשרואים את הפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/b1",
+  "en": "a freshly painted white living room of a home with one small bare grey plaster square on the wall facing the entrance door, warm light, no people, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה תקנו חכמים אחרי חרבן המקדש?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/b2",
+  "en": "a measuring scene: a boy's forearm held next to a neat bare square on a white wall, only the arm visible, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה הגדל של המקום שמשירים בקיר?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/b3",
+  "en": "a front door opening into a hall with a clearly visible bare grey plaster square on the wall straight ahead, no people, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "איפה בבית משירים את הפנה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/b4",
+  "en": "a room with a thick curtain pulled in front of a wall on the left and an open clear wall with a visible bare grey square on the right, no people, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "למה אין מסתירים את הפנה בארון או בוילון?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/b5",
+  "en": "a father in work clothes and a kippah painting a wall white with a roller while his young son with a kippah stands beside him asking something with a smile, men and boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "אבא מסיד את הסלון לקראת החג. מה אפשר לשאל אותו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/b6",
+  "en": "a boy with a kippah standing in the doorway of a friend's home and noticing a bare grey square on the wall facing him with a thoughtful warm look, only the one boy, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "נכנסתי לבית של חבר וראיתי פנה בלי סיד מול הדלת. מה אחשב?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/b7",
+  "en": "a basket full of grapes, figs and pomegranates on a stone table in front of a simple stone gate, no people, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "בברכת מעין שלוש אומרים ׳ונאכל מפריה׳. למה באמת רוצים את בנין המקדש?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-07/b8",
+  "en": "a beautifully wrapped gift box with a ribbon on a wooden table, soft warm light, no people, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה המשמעות של ׳רצה׳ שבאה לפני ׳מודים׳ בתפלה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a1/p0",
+  "en": "a bearded elderly man in simple ancient robes holding a blank scroll standing on a stone hill at sunrise with a hopeful look, only the one man, no text (Jeremiah)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "ירמיהו",
+  "question": "מי הנביא שהבטיח שישמע קול הודיה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a1/p1",
+  "en": "a bearded man in simple robes sitting under a leafy plant on a hill looking at the sea, only the one man, no text (Jonah)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "יונה",
+  "question": "מי הנביא שהבטיח שישמע קול הודיה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a1/p2",
+  "en": "a bearded man in royal ancient robes kneeling by an open window in prayer, only the one man, no text (Daniel)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "דניאל",
+  "question": "מי הנביא שהבטיח שישמע קול הודיה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a10/p0",
+  "en": "a boy with a kippah dancing happily with raised arms, only the one boy, no text (his joy)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "שמחתו",
+  "question": "כי לעולם...?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a10/p1",
+  "en": "a boy with a kippah helping a friend carry a pile of books with a kind smile, two boys only, no text (his kindness)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "חסדו",
+  "question": "כי לעולם...?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a10/p2",
+  "en": "a boy with a kippah calling loudly with cupped hands, only the one boy, no text (his voice)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "קולו",
+  "question": "כי לעולם...?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a2/p0",
+  "en": "a loud busy construction site with men hammering and sawing wood, no text (noise)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "קול רעש",
+  "question": "מה ישמע במקום הזה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a2/p1",
+  "en": "a joyful group of men and boys with kippot singing with open mouths on a sunlit stone plaza, men and boys only, no text (voice of thanks)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "קול אומרים הודו",
+  "question": "מה ישמע במקום הזה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a2/p2",
+  "en": "a silent empty stone street at dawn, no people, no text (silence)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "קול שקט",
+  "question": "מה ישמע במקום הזה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a3/p0",
+  "en": "a boy with a kippah sitting quietly listening with hands on his lap, only the one boy, no text (listening quietly)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "שומעים בשתיקה",
+  "question": "איזה קול קורא לאחרים להודות?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a3/p1",
+  "en": "a boy with a kippah telling a funny story with a laughing face to a friend, two boys only, no text (telling jokes)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מספרים בדיחות",
+  "question": "איזה קול קורא לאחרים להודות?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a3/p2",
+  "en": "a boy with a kippah standing on a step with a cupped hand near his mouth calling to others with a happy face, only the one boy, no text (calling out)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "אומרים הודו",
+  "question": "איזה קול קורא לאחרים להודות?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a4/p0",
+  "en": "a group of boys with kippot answering together with happy open faces, arms around each other's shoulders, boys only, no text (his kindness forever)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כי לעולם חסדו",
+  "question": "מה עונים אחרי ׳הודו לה׳ כי טוב׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a4/p1",
+  "en": "a calendar-like wooden board with six small lit candles in a row, no people, no text (Friday)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כי היום שישי",
+  "question": "מה עונים אחרי ׳הודו לה׳ כי טוב׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a4/p2",
+  "en": "a bright blue sky with white clouds over green hills, no people, no text (blue sky)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כי השמים כחולים",
+  "question": "מה עונים אחרי ׳הודו לה׳ כי טוב׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a5/p0",
+  "en": "a big white ship sailing on a calm blue sea, no people, no text (ship)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "בספינה",
+  "question": "בחזון, איך נוסעים להודות בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a5/p1",
+  "en": "a bus full of smiling men and boys with kippot driving on a road toward a hill city of stone houses, no text on the bus, men and boys only (bus)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "באוטובוס",
+  "question": "בחזון, איך נוסעים להודות בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a5/p2",
+  "en": "a man in a kippah riding a bicycle on a country road, only the one man, no text (bicycle)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "באופנים",
+  "question": "בחזון, איך נוסעים להודות בירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a6/p0",
+  "en": "a bearded merchant in an old-fashioned robe selling goods from baskets at a market stall, only the one man, no text (merchants)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הסוחרים",
+  "question": "מי קורא: ׳קומו ונעלה ציון׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a6/p1",
+  "en": "a bearded carpenter in work clothes planing a wooden plank in a workshop, only the one man, no text (carpenters)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הנגרים",
+  "question": "מי קורא: ׳קומו ונעלה ציון׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a6/p2",
+  "en": "a bearded watchman on a hilltop calling out with a cupped hand toward the distant villages at dawn, only the one man, no text (watchmen)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הצופים",
+  "question": "מי קורא: ׳קומו ונעלה ציון׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a7/p0",
+  "en": "two men with beards and kippot laughing joyfully with open arms in front of a stone gate, men only, no text (happy)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הם שמחים",
+  "question": "מה קורה לבאים להודות בבית ה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a7/p1",
+  "en": "a tired man with a beard sitting on a stone step yawning, only the one man, no text (tired)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הם עיפים",
+  "question": "מה קורה לבאים להודות בבית ה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a7/p2",
+  "en": "an angry man with a frown and clenched fists, only the one man, no text (angry)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "הם כועסים",
+  "question": "מה קורה לבאים להודות בבית ה׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a8/p0",
+  "en": "a bearded priest in white garments standing alone in a stone courtyard, only the one man, no text (only a priest)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "רק כהן",
+  "question": "מי יכול להיות קול אומר הודו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a8/p1",
+  "en": "a bearded king with a golden crown and a purple robe sitting on a simple throne, only the one man, no text (only a king)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "רק מלך",
+  "question": "מי יכול להיות קול אומר הודו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a8/p2",
+  "en": "a group of boys and men of all ages with kippot standing together cheerfully calling out, boys and men only, no text (everyone)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "כל אחד מאתנו",
+  "question": "מי יכול להיות קול אומר הודו?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a9/p0",
+  "en": "boys with kippot joining a happy circle of friends, hands reaching in to join, boys only, no text (joining)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מצטרפים",
+  "question": "מה עושים כששומעים אחד אומר תודה בקול?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a9/p1",
+  "en": "a boy with a kippah running away down a street, only the one boy, no text (running away)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "בורחים",
+  "question": "מה עושים כששומעים אחד אומר תודה בקול?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/a9/p2",
+  "en": "a boy with a kippah reading a book with his back turned to a group behind him, boys only, no text (ignoring)",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "מתעלמים",
+  "question": "מה עושים כששומעים אחד אומר תודה בקול?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/b1",
+  "en": "a quiet old stone city gate at sunrise with warm golden light and green plants growing beside it, a few men and boys with kippot walking toward it, men and boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה ה׳ מבטיח בירמיהו ל״ג במקום שאמרו עליו ׳חרב׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/b2",
+  "en": "a boy with a kippah standing on a stone step with his hand raised, calling cheerfully to a group of other boys who turn toward him smiling, boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה ההבדל בין ׳קול מודים׳ ל׳קול אמרים הודו׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/b3",
+  "en": "a long procession of men and boys with kippot walking up a stone road toward ancient stone walls and an open gate, joyful faces, men and boys only, no domes, no towers, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "למה הקול קורא לבוא דוקא לירושלים?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/b4",
+  "en": "a bearded watchman standing on a high rocky hill at dawn calling with a cupped hand toward small villages in the valley below, only the one man, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מי הם הנצרים בירמיהו ל״א, לפי פרוש הרד״ק?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/b5",
+  "en": "two boys with kippot standing together, one holding a wrapped gift and the other smiling and cheering him on with raised arms, boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "אני רואה חבר שמקבל מתנה ושותק. מה אעשה?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/b6",
+  "en": "a Shabbat table in a warm home with white tablecloth, candles and challah, a father and several boys with kippot singing together with open smiling mouths, men and boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה כדאי לעשות בסעודת שבת כדי להיות ׳קול אומר הודו׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/b7",
+  "en": "men and boys with kippot dancing joyfully in a circle in a stone courtyard in warm daylight, men and boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה מלמדת הנבואה ׳ושמחתים בבית תפלתי׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/kotel-08/b8",
+  "en": "a boy with a kippah standing in front of a long wall made of stones, placing one stone into a small model wall, other boys behind him smiling, boys only, no text",
+  "topic": "🧱 כתל ההודיות",
+  "caption": "",
+  "question": "מה התפקיד שלי אחרי כל הסדרה?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a1/p0",
+  "en": "a father wearing a kippah standing at the front door of a house, smiling, only the one man in this panel, no text (dad)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "אבא",
+  "question": "מי צריך את המעיל שאבא מבקש שנלבש?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a1/p1",
+  "en": "a boy wearing a kippah and a warm winter coat smiling on a snowy street, only the one boy in this panel, no text (me)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "אני",
+  "question": "מי צריך את המעיל שאבא מבקש שנלבש?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a1/p2",
+  "en": "a bearded teacher wearing a kippah holding a closed book, only the one man in this panel, blank book cover, no text (the teacher)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "המורה",
+  "question": "מי צריך את המעיל שאבא מבקש שנלבש?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a2/p0",
+  "en": "a smiling boy wearing a kippah holding a wrapped gift box with a ribbon, only the one boy in this panel, no text (for your good)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "לטוב לך",
+  "question": "איך נגמר הפסוק: ׳לשמר את מצוות ה׳ אשר אנכי מצוך היום…׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a2/p1",
+  "en": "a king with a golden crown sitting on a throne in a palace hall, only the one man in this panel, no text (for the king)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "למען המלך",
+  "question": "איך נגמר הפסוק: ׳לשמר את מצוות ה׳ אשר אנכי מצוך היום…׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a2/p2",
+  "en": "a round globe of the world on a wooden stand in a sunny room, no people, no text (for the world)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "לשמחת העולם",
+  "question": "איך נגמר הפסוק: ׳לשמר את מצוות ה׳ אשר אנכי מצוך היום…׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a3/p0",
+  "en": "a man looking worried into an empty wooden chest, only the one man in this panel, no text (something is missing)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "כי חסר לו משהו",
+  "question": "אם הכל של ה׳, למה הוא נותן לנו מצוות?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a3/p1",
+  "en": "a father hugging his young son warmly in a sunny room, both wearing kippot, no text (he loves us)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "כי הוא אוהב אותנו",
+  "question": "אם הכל של ה׳, למה הוא נותן לנו מצוות?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a3/p2",
+  "en": "a man yawning and stretching on a sofa looking bored, only the one man in this panel, no text (bored)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "כי הוא משתעמם",
+  "question": "אם הכל של ה׳, למה הוא נותן לנו מצוות?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a4/p0",
+  "en": "a father handing a sealed envelope to his smiling son at a wooden table, both wearing kippot, blank envelope, no text (good for the son)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "שיהיה טוב לבן",
+  "question": "מה האב רוצה בצואה שהוא כותב לבנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a4/p1",
+  "en": "a man at a desk with a sly look holding a pen over a blank paper, only the one man in this panel, no text (to trick)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "לרמות את הבן בסתר",
+  "question": "מה האב רוצה בצואה שהוא כותב לבנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a4/p2",
+  "en": "a boy hiding behind a big chair peeking out nervously, only the one boy in this panel, no text (scared)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "שהבן יתפחד",
+  "question": "מה האב רוצה בצואה שהוא כותב לבנו?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a5/p0",
+  "en": "a boy wearing a kippah rushing and looking at his wrist watch impatiently, only the one boy in this panel, no text (hurry to finish)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "שצריך למהר לסים",
+  "question": "במקום להתיחס למצוה כמשא, מה כדאי לחשב?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a5/p1",
+  "en": "a boy wearing a kippah smiling with one hand on his chest in a sunny room, only the one boy in this panel, no text (it is for my good)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "שזה לטוב שלי",
+  "question": "במקום להתיחס למצוה כמשא, מה כדאי לחשב?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a5/p2",
+  "en": "a boy wearing a kippah shrugging with open palms and a helpless look, only the one boy in this panel, no text (no choice)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "שאין לי בררה",
+  "question": "במקום להתיחס למצוה כמשא, מה כדאי לחשב?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a6/p0",
+  "en": "the pitch dark entrance of a cave with a heavy dark curtain, no people, no text (total darkness)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "חשך גמור",
+  "question": "מה יש אחרי הוילון החשוך במערה?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a6/p1",
+  "en": "a cave tunnel blocked by a stone wall, no people, no text (a closed wall)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "קיר אבן סגור",
+  "question": "מה יש אחרי הוילון החשוך במערה?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a6/p2",
+  "en": "a long cave tunnel lit with warm glowing lanterns along the walls, no people, no text (a lit path)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "דרך מוארת",
+  "question": "מה יש אחרי הוילון החשוך במערה?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a7/p0",
+  "en": "a smiling boy wearing a kippah standing in a sunny green field with arms open, only the one boy in this panel, no text (happy)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "להיות מאשר",
+  "question": "מה הוא הטוב האמתי בחיים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a7/p1",
+  "en": "a wooden chest full of shiny gold coins, no people, no text (lots of money)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "כסף רב",
+  "question": "מה הוא הטוב האמתי בחיים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a7/p2",
+  "en": "a big stone palace on top of a hill under blue sky and white clouds, no people, no text (a big palace)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "ארמון גדול מאד",
+  "question": "מה הוא הטוב האמתי בחיים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a8/p0",
+  "en": "a boy wearing a kippah bending under a heavy sack of stones on his back, only the one boy in this panel, no text (heaviness)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "כבד",
+  "question": "השלימו: ׳דרכיה דרכי …׳",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a8/p1",
+  "en": "a boy wearing a kippah sitting alone looking down under a gray cloud, only the one boy in this panel, no text (sadness)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "עצב",
+  "question": "השלימו: ׳דרכיה דרכי …׳",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a8/p2",
+  "en": "a boy wearing a kippah walking happily on a pleasant path lined with flowers, only the one boy in this panel, no text (pleasantness)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "נעם",
+  "question": "השלימו: ׳דרכיה דרכי …׳",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a9/p0",
+  "en": "a man peering suspiciously through a magnifying glass at a blank paper, only the one man in this panel, no text (with suspicion)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "בחשד וספקות",
+  "question": "איך בן צריך לבוא אל אביו שאוהב אותו?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a9/p1",
+  "en": "a boy trembling and hiding behind a tree, only the one boy in this panel, no text (trembling)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "ברעדה",
+  "question": "איך בן צריך לבוא אל אביו שאוהב אותו?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/a9/p2",
+  "en": "a boy wearing a kippah walking trustingly holding his father's hand on a sunny path, no text (with an innocent heart)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "בתם לב",
+  "question": "איך בן צריך לבוא אל אביו שאוהב אותו?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/b1",
+  "en": "a father in a kippah giving his young son a wrapped gift in a sunny living room, only the father and son in this scene, no text",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "",
+  "question": "לפי ספר החנוך, מדוע ה׳ נותן לנו מצוות?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/b2",
+  "en": "a boy in a kippah walking trustingly beside his father along a sunny path, only the father and son in this scene, no text",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "",
+  "question": "מה פרש רש״י על ׳דסגינן בשלימותא׳?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/b3",
+  "en": "a man in a kippah at a desk pushing a document away while an older father stands hurt beside him, both in a quiet study room, no text",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "",
+  "question": "מה הנמשל של הבן שדורש שעורך דין שלו יבדק את הצואה?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/b4",
+  "en": "a boy in a kippah standing calmly at a table without hurrying, smiling gently, with a closed book with a blank cover in front of him, only the one boy in this scene, no text",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "",
+  "question": "על מה מזהיר רבי חיים ויטאל בשעת עשית מצוה?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/b5",
+  "en": "a boy in a kippah putting on a simple warm smile while holding a small open prayer book with blank pages beside a sunny window, only the one boy in this scene, no letters, no text",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "",
+  "question": "מהו המינימום כדי לעשות מצוה מאהבה?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/b6",
+  "en": "a boy in a kippah carrying a small bucket and a cloth to help his father clean a table at home, with toys on the floor behind him, only the father and the boy in this scene, no text",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "",
+  "question": "אבא מבקש שתעזר בבית בזמן שאתה רוצה לשחק. מה כדאי לחשב?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-01/b7",
+  "en": "a large treasure chest full of gold coins in an empty stone room with a lonely tall chair, no people, no text",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "",
+  "question": "למה המן אמר ׳וכל זה איננו שוה לי׳ אף שהיה עשיר?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a1/p0",
+  "en": "a coat with a bulging pocket on a hook, no people, no text (the pocket)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "את הכיס",
+  "question": "את מה בודק המכשיר המיחד בשמים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a1/p1",
+  "en": "a boy wearing a kippah with one hand on his chest and a gentle smile, only the one boy in this panel, no text (the heart)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "את הלב",
+  "question": "את מה בודק המכשיר המיחד בשמים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a1/p2",
+  "en": "a pair of sneakers standing side by side on a wooden floor, no people, no text (the shoes)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "את הנעלים",
+  "question": "את מה בודק המכשיר המיחד בשמים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a2/p0",
+  "en": "a boy wearing a kippah standing on a stage with many people watching him, only the one boy clearly visible, no text (everyone sees)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "שכלם יראו אותי",
+  "question": "מה המטרה הגדולה של מעשה חסד?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a2/p1",
+  "en": "a boy wearing a kippah giving a bread roll to a smaller boy with a warm smile, both wearing kippot, no text (the heart loves kindness)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "שהלב יאהב חסד",
+  "question": "מה המטרה הגדולה של מעשה חסד?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a2/p2",
+  "en": "a tall tower of wooden boxes stacked high in a yard, no people, no text (a big amount)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "כמות גדולה",
+  "question": "מה המטרה הגדולה של מעשה חסד?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a3/p0",
+  "en": "a thick strong brick wall in a sunny yard, no people, no text (a strong wall)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "קיר חזק",
+  "question": "מה בנה בלבו מי שהדליק נרות שעוה והודה מהלב?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a3/p1",
+  "en": "a golden menorah on a table in front of a window, no people, no text (a gold menorah)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "מנורת זהב",
+  "question": "מה בנה בלבו מי שהדליק נרות שעוה והודה מהלב?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a3/p2",
+  "en": "a man wearing a kippah lighting simple wax candles at a window with a thankful smile, only the one man in this panel, no text (a thankful heart)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "לב מודה",
+  "question": "מה בנה בלבו מי שהדליק נרות שעוה והודה מהלב?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a4/p0",
+  "en": "a boy wearing a kippah praying quietly in a synagogue with eyes closed and a calm face, only the one boy in this panel, no text (believing everything is from Hashem)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "אמונה שהכל מה׳",
+  "question": "מה צריכה התפלה לבנות בלב?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a4/p1",
+  "en": "a boy wearing a kippah shouting loudly with his hands around his mouth in a field, only the one boy in this panel, no text (a loud voice)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "קול חזק",
+  "question": "מה צריכה התפלה לבנות בלב?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a4/p2",
+  "en": "a boy wearing a kippah tapping his forehead thoughtfully in a bright classroom, only the one boy in this panel, no text (a good memory)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "זכרון טוב",
+  "question": "מה צריכה התפלה לבנות בלב?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a5/p0",
+  "en": "a red heart drawn gently being pulled by a rope toward a smiling boy wearing a kippah, only the one boy in this panel, no text (the hearts)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "הלבבות",
+  "question": "השלימו: ׳אחרי הפעלות נמשכים …׳",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a5/p1",
+  "en": "a wall calendar with a page being turned in a sunny room, blank pages, no people, no text (the days)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "הימים",
+  "question": "השלימו: ׳אחרי הפעלות נמשכים …׳",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a5/p2",
+  "en": "a pile of colorful wooden building blocks on a rug, no people, no text (the things)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "המחשבות",
+  "question": "השלימו: ׳אחרי הפעלות נמשכים …׳",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a6/p0",
+  "en": "a boy wearing a kippah with a heart-shaped balloon popping up suddenly, surprised, only the one boy in this panel, no text (instantly)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "שהלב משתנה מיד",
+  "question": "מה למדנו מהטפות ששוחקות את האבן?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a6/p1",
+  "en": "a big gray stone that stays unchanged in a dry field, no people, no text (does not change)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "שהלב לא משתנה",
+  "question": "מה למדנו מהטפות ששוחקות את האבן?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a6/p2",
+  "en": "water dripping slowly from a cave ceiling onto a smooth stone with a small hollow, no people, no text (slowly)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "שהלב משתנה לאט",
+  "question": "מה למדנו מהטפות ששוחקות את האבן?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a7/p0",
+  "en": "a boy wearing a kippah turning his face away from a roller coaster in an amusement park, only the one boy in this panel, no text (ignoring it)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "להתעלם ממנה",
+  "question": "מה עוזר להפסיק לפחד מרכבת הרים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a7/p1",
+  "en": "a boy wearing a kippah running away from an amusement park roller coaster, only the one boy in this panel, no text (running away)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "לרוץ ממנה במהירות",
+  "question": "מה עוזר להפסיק לפחד מרכבת הרים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a7/p2",
+  "en": "a boy wearing a kippah smiling happily on a roller coaster car going up the track, only the one boy in this panel, no text (riding many times)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "לנסע הרבה פעמים",
+  "question": "מה עוזר להפסיק לפחד מרכבת הרים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a8/p0",
+  "en": "a boy wearing a kippah with wide eyes gripping the bar of a roller coaster at the top of a big drop, only the one boy in this panel, no text (feeling now)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "את העכשיו",
+  "question": "מה הלב מרגיש ברכבת הרים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a8/p1",
+  "en": "a boy wearing a kippah looking back at a photo album from last year, only the one boy in this panel, blank pages, no text (the past)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "את העבר הרחוק",
+  "question": "מה הלב מרגיש ברכבת הרים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a8/p2",
+  "en": "a boy wearing a kippah looking at a calendar page and a sunrise through a window, only the one boy in this panel, no text (tomorrow)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "את העתיד הקרוב",
+  "question": "מה הלב מרגיש ברכבת הרים?",
+  "section": ""
+ },
+ {
+  "id": "hq/lama-02/a9/p0",
+  "en": "a loaf of fresh bread on a wooden table, no people, no text (bread)",
+  "topic": "🌱 מדות טובות – למה עושים מצוות?",
+  "caption": "לחם",
+  "question": "השלימו: ׳פותח את ידך ומשביע לכל חי …׳",
+  "section": ""
+ }
+]

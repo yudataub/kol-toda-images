@@ -1,0 +1,3274 @@
+[
+{
+"id": "hq/divrei1-02/a2/p0",
+"en": "a gray rain cloud over a quiet empty courtyard, drops falling, no people, no text (Sadness)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "עצב",
+"question": "מה מזכיר השם ׳יעבץ׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a2/p1",
+"en": "a bright sun over a green hill with colorful flowers, no people, no text (Joy)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "שמחה",
+"question": "מה מזכיר השם ׳יעבץ׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a2/p2",
+"en": "a stone wall with a closed gate and a pile of fallen stones, no people, no text (War)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מלחמה",
+"question": "מה מזכיר השם ׳יעבץ׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a3/p0",
+"en": "an empty royal throne in a stone hall, no people, no text (The king)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אל המלך של הארץ",
+"question": "אל מי פנה יעבץ בתפלתו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a3/p1",
+"en": "two simple wooden stools side by side in a village square, no people, no text (His friends)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אל חבריו",
+"question": "אל מי פנה יעבץ בתפלתו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a3/p2",
+"en": "a wide open blue sky with warm sun rays over quiet hills, no people, no text (God of Israel)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אל אלהי ישראל",
+"question": "אל מי פנה יעבץ בתפלתו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a4/p0",
+"en": "a pile of gold and silver bars on a cloth, no people, no text (Gold and silver)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "זהב וכסף",
+"question": "מה היתה הבקשה הראשונה של יעבץ?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a4/p1",
+"en": "a wide green field with a low stone fence and boundary stones spreading far to the horizon, no people, no text (Blessing and a bigger border)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ברכה וגבול גדול",
+"question": "מה היתה הבקשה הראשונה של יעבץ?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a4/p2",
+"en": "a big stone palace with a long staircase, no people, no text (Palace and servants)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ארמון עצום ועבדים",
+"question": "מה היתה הבקשה הראשונה של יעבץ?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a5/p0",
+"en": "a big crowd-less hall with many empty benches in rows, no people, no text (Big company)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "חברה גדולה",
+"question": "מה יעבץ מבקש שיהיה עמו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a5/p1",
+"en": "a traveler's footpath on a hill with a warm golden light shining over the path ahead, no people, no text (God's help)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "עזרת ה'",
+"question": "מה יעבץ מבקש שיהיה עמו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a5/p2",
+"en": "a row of tall stone watchtowers along a wall, no people, no text (Strong army)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "צבא חזק",
+"question": "מה יעבץ מבקש שיהיה עמו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a6/p0",
+"en": "a house with a plain roof in a gentle rain, no people, no text (From rain)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מן הגשם",
+"question": "ממה יעבץ מבקש שה׳ ישמר אותו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a6/p1",
+"en": "a dark storm cloud breaking apart with bright sunlight shining through, no people, no text (From evil and sadness)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מן הרעה והעצב",
+"question": "ממה יעבץ מבקש שה׳ ישמר אותו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a6/p2",
+"en": "a long dusty road winding over many hills, no people, no text (From the long road)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מן הדרך הארכה מאוד",
+"question": "ממה יעבץ מבקש שה׳ ישמר אותו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a7/p0",
+"en": "an open gift basket full of fruit and bread on a simple table, no people, no text (He gave what he asked)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "נתן לו מה שבקש",
+"question": "מה היתה תשובת ה׳ ליעבץ?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a7/p1",
+"en": "an hourglass with sand running, on a stone ledge, no people, no text (Wait)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אמר לו לחכות",
+"question": "מה היתה תשובת ה׳ ליעבץ?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a7/p2",
+"en": "a closed wooden door in a stone wall, no people, no text (No answer)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לא ענה לו",
+"question": "מה היתה תשובת ה׳ ליעבץ?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a8/p0",
+"en": "a cloud of dust on an empty field with scattered shields, no people, no text (Ran away)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ברחו מהשדה",
+"question": "מה עשו בני ראובן וגד במלחמה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a8/p1",
+"en": "a group of men in ancient tunics standing on a hill with their faces lifted to the sky, men only, no text (Cried out to God)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "זעקו אל ה'",
+"question": "מה עשו בני ראובן וגד במלחמה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/a8/p2",
+"en": "a half-built stone wall with building tools beside it, no people, no text (Built a wall)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בנו חומה",
+"question": "מה עשו בני ראובן וגד במלחמה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/b1",
+"en": "a pile of wooden letter blocks without any letters spelling nothing, one block turning upside down from a dark side to a bright side, a small plant growing between them, no people, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה מצודת דוד מבאר על השם ׳יעבץ׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/b2",
+"en": "H: a wide view of a hilltop land with new stone boundary markers being placed between fields, a bearded man holding a measuring cord, morning light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה הפרוש ל׳והרבית את גבולי׳ לפי רש״י ומצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/b3",
+"en": "H: an ancient traveler with a staff walking uphill on a rocky path while a second pair of strong hands (a bearded friend) reaches out to pull him up, bright light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה יעבץ מבקש ב׳והיתה ידך עמי׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/b4",
+"en": "H: a dark thundercloud above a village on a hill breaking apart to let golden sunlight fall on flowering fields, no people, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה הבקשה ב׳ועשית מרעה לבלתי עצבי׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/b5",
+"en": "H: a bearded man in simple robes kneeling at a small stone altar of unhewn stones with a lit offering of grain, deep in thought, evening light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י אומר על תפלתו של יעבץ?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/b6",
+"en": "H: Israelite soldiers with bows on a rocky ridge looking up at the open sky as their opponents' camp on the plain below turns away in confusion, dawn, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה מלמדת המלה ׳ונעתור׳ לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-02/b7",
+"en": "H: a small group of men with simple shields on a sunny hilltop in front of a large camp far below, tiny but standing firm, a golden sunrise behind them, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה הנצחון במלחמה בא ממנו, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a1/p0",
+"en": "a lone traveler standing outside a closed stone gate at dusk, no text (A stranger)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אתה זר לנו",
+"question": "מה אמרו כל השבטים לדויד בחברון?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a1/p1",
+"en": "many different tribe banners gathered together at the open gate of a stone town on a hill, no people, no text (Ours)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אתה משלנו",
+"question": "מה אמרו כל השבטים לדויד בחברון?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a1/p2",
+"en": "an empty wooden throne in the middle of an empty field, no people, no text (No king)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אין לנו מלך",
+"question": "מה אמרו כל השבטים לדויד בחברון?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a2/p0",
+"en": "a shepherd's staff and a harp leaning on a rock beside a flock of sheep on a green hill, no people, no text (Shepherd)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "רועה צאן",
+"question": "מה היה דויד לפני שנעשה רועה העם?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a2/p1",
+"en": "a market stall with baskets of fruit and cloth, no people, no text (Merchant)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "סוחר בשוק",
+"question": "מה היה דויד לפני שנעשה רועה העם?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a2/p2",
+"en": "a half-built stone wall with a ladder and tools, no people, no text (Wall builder)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בונה חומות",
+"question": "מה היה דויד לפני שנעשה רועה העם?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a3/p0",
+"en": "a group of marching men with spears seen from far away on a dusty road, men only, no text (Went to war)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "יצא למלחמה",
+"question": "מה עשה דויד בחברון עם זקני ישראל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a3/p1",
+"en": "a long wooden table full of bread, fruit and cups under a tree, no people, no text (A feast)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "עשה משתה",
+"question": "מה עשה דויד בחברון עם זקני ישראל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a3/p2",
+"en": "a rolled scroll tied with a ribbon lying on a stone table under an open sky, no people, no text (A covenant)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "כרת ברית",
+"question": "מה עשה דויד בחברון עם זקני ישראל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a4/p0",
+"en": "an old stone well at the gate of a small hill town with a rope and a clay jug, no people, no text (Water from Bethlehem)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מים מבור בית לחם",
+"question": "למה דויד התגעגע במצודה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a4/p1",
+"en": "a basket of purple grapes on a wooden table, no people, no text (Grape juice)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מיץ ענבים",
+"question": "למה דויד התגעגע במצודה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a4/p2",
+"en": "a white goat standing next to a milk jug on a grassy hill, no people, no text (Goat milk)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "חלב מן העז",
+"question": "למה דויד התגעגע במצודה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a5/p0",
+"en": "a huge army of many soldiers marching in rows across a plain, men only, no text (The whole army)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "כל הצבא של המלך",
+"question": "מי הלך להביא לדויד את המים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a5/p1",
+"en": "three warriors in a row walking quietly at night with clay jugs, men only, no text (Three heroes)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "שלושה גבורים",
+"question": "מי הלך להביא לדויד את המים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a5/p2",
+"en": "one lone servant carrying a single jug on a hill path, men only, no text (One servant)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "עבד אחד בלבד",
+"question": "מי הלך להביא לדויד את המים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a6/p0",
+"en": "a clay cup of water on a wooden table, no people, no text (Drank it)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "שתה אותם",
+"question": "מה עשה דויד במים שהובאו לו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a6/p1",
+"en": "sheep drinking from a wooden trough on a hill, no people, no text (For the flock)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "נתן אותם לצאן",
+"question": "מה עשה דויד במים שהובאו לו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a6/p2",
+"en": "water pouring from a clay jug onto the ground beside a stone altar, no people, no text (Poured for God)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "נסך אותם לה'",
+"question": "מה עשה דויד במים שהובאו לו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a7/p0",
+"en": "an olive branch hanging over an open stone gate with the doors wide open, no people, no text (Peace to you and your helpers)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "שלום לך ולעוזריך",
+"question": "מה אמר עמשי לדויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a7/p1",
+"en": "a locked heavy wooden door in a high stone wall, no people, no text (We don't want you)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אין לנו חפץ בך",
+"question": "מה אמר עמשי לדויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a7/p2",
+"en": "a pile of dropped tools on an empty path, no people, no text (We did not come to help)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לא באנו לעזר לך",
+"question": "מה אמר עמשי לדויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a8/p0",
+"en": "a round loaf of bread broken into two separate halves on a cloth, no people, no text (A split heart)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בלב חלוק לשנים",
+"question": "באיזה לב באו השבטים להמליך את דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a8/p1",
+"en": "a perfectly whole round loaf of fresh bread on a cloth glowing in warm light, no people, no text (A whole heart)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בלבב שלם",
+"question": "באיזה לב באו השבטים להמליך את דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/a8/p2",
+"en": "a heavy sack of stones weighing down a wooden cart, no people, no text (A heavy heart)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בלב כבד ועצוב",
+"question": "באיזה לב באו השבטים להמליך את דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/b1",
+"en": "H: a young shepherd with a harp sitting on a hillside with his flock, a faint outline of the whole nation of Israel's tribes gathering below him in the valley, soft light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳ה׳ רועי לא אחסר׳ בקשר להבטחה ׳אתה תרעה את עמי׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/b2",
+"en": "H: a bearded man standing at the gate of a small stone town on a hill (Bethlehem) with a well beside him, drawing cool water into a jug, golden afternoon light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה דויד התגעגע דוקא למי בית לחם?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/b3",
+"en": "H: a stone altar on a hill during the Sukkot festival with palm branches and willow branches placed beside it, a young king in simple robes pouring water from a jug onto the ground, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה בר קפרא אומר, לפי רש״י, על נסוך המים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/b4",
+"en": "H: three warriors standing silently in a row looking down at a clay jug of water sitting between them on the ground, the king looking at them with deep respect, dusk, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה דויד אמר שהמים כמו דמם של הגבורים, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/b5",
+"en": "H: two groups of fighters approaching a fortress, their leader stepping out first, a king meeting them in the gateway with an open welcoming gesture, mountain background, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על המלים ׳לבב ליחד׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/b6",
+"en": "H: a scholar sitting under a starry sky with a ram's horn calendar made of a ring of twelve moon phases (small moons), scrolls blank beside him, calm, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה פרוש ׳יודעי בינה לעתים׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-03/b7",
+"en": "H: a group of fighters from the tribe of Zebulun with straight lines of spears marching steadily and calmly, one large flag, desert dawn, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה פרוש ׳בלא לב ולב׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a1/p0",
+"en": "a covered golden chest with two long carrying poles resting on a stone floor in a quiet hall, no people, no text (The Ark)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "את הארון",
+"question": "מה דויד רוצה להביא לירושלים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a1/p1",
+"en": "a plain empty wooden cart with two wheels in a field, no people, no text (The cart)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "את העגלה החדשה",
+"question": "מה דויד רוצה להביא לירושלים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a1/p2",
+"en": "a stone altar with a small flame on a hill, no people, no text (The altar)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "את המזבח הגדול",
+"question": "מה דויד רוצה להביא לירושלים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a2/p0",
+"en": "a stone town on a bare hill with an old oak tree, no people, no text (Hebron)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מחברון",
+"question": "מאיפה דויד הולך להביא את הארון?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a2/p1",
+"en": "a small hill town with a pile of stones for an altar, no people, no text (Bethel)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מבית אל",
+"question": "מאיפה דויד הולך להביא את הארון?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a2/p2",
+"en": "a small town on a hill surrounded by thick green forest, no people, no text (Kiryat Yearim)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מקרית יערים",
+"question": "מאיפה דויד הולך להביא את הארון?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a3/p0",
+"en": "a brand new wooden cart pulled by two oxen carrying a covered golden chest with two long carrying poles, no people, no text (On a new cart)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "על עגלה חדשה",
+"question": "על מה הארון עלה בדרך?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a3/p1",
+"en": "a tall camel standing in the desert with a large saddle, no people, no text (On a camel)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "על גמל גדול",
+"question": "על מה הארון עלה בדרך?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a3/p2",
+"en": "a small wooden rowing boat on a calm lake, no people, no text (On a boat)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "על סירה קטנה בים",
+"question": "על מה הארון עלה בדרך?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a4/p0",
+"en": "a cart with oxen moving along a long road toward a hill city at sunrise, no people, no text (Went on)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "היא המשיכה",
+"question": "מה קרה להעליה של הארון בדרך?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a4/p1",
+"en": "a cart with resting oxen standing still on a road, a long road ahead, quiet, no people, no text (Stopped)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "היא נעצרה",
+"question": "מה קרה להעליה של הארון בדרך?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a4/p2",
+"en": "a cart with oxen racing along a road with a cloud of dust, no people, no text (Hurried)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "היא הוקדמה",
+"question": "מה קרה להעליה של הארון בדרך?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a5/p0",
+"en": "a closed wooden door with a bag left on the ground in front of it, no people, no text (Give up)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לותר על הארון לגמרי",
+"question": "מה דויד רוצה עכשיו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a5/p1",
+"en": "a sand hourglass running fast beside a stack of rushed packed bundles, no people, no text (Rush)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "למהר ולגמר",
+"question": "מה דויד רוצה עכשיו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a5/p2",
+"en": "a neat straight stone wall with a plumb line and tidy stacked stones, no people, no text (Do it right)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לעשות הכל נכון",
+"question": "מה דויד רוצה עכשיו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a6/p0",
+"en": "a tall royal stone palace of an old king with narrow windows, no people, no text (House of Saul)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בית שאול",
+"question": "מי קבל ברכה כשהארון היה בביתו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a6/p1",
+"en": "a small warm farmhouse with golden light, full storage jars, grain and fruit trees around it, no people, no text (House of Obed-Edom)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בית עבד אדם",
+"question": "מי קבל ברכה כשהארון היה בביתו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a6/p2",
+"en": "a big palace with wide steps and flags, no people, no text (The king's house)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בית המלך בירושלים",
+"question": "מי קבל ברכה כשהארון היה בביתו?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a7/p0",
+"en": "men in white linen robes standing in a row beside a covered golden chest with two long carrying poles, men only, no text (The Levites)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "הלוים",
+"question": "מי ישא את הארון הפעם?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a7/p1",
+"en": "men in bronze helmets with spears standing in a row, men only, no text (The soldiers)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "החילים",
+"question": "מי ישא את הארון הפעם?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a7/p2",
+"en": "two oxen standing in a field beside a wooden yoke, no people, no text (The oxen)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "הבקר",
+"question": "מי ישא את הארון הפעם?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a8/p0",
+"en": "a plain wooden cart with two wheels standing on a road, no people, no text (On a cart)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בעגלה",
+"question": "איך הלוים נשאו את הארון?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a8/p1",
+"en": "men in white linen robes carrying a covered golden chest with two long carrying poles on their shoulders by the poles, men only, no text (On shoulders with poles)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "במטות על הכתף",
+"question": "איך הלוים נשאו את הארון?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/a8/p2",
+"en": "a gray donkey with a saddle standing on a road, no people, no text (On a donkey)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בחמור",
+"question": "איך הלוים נשאו את הארון?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/b1",
+"en": "H: a king with a simple crown speaking to an assembled crowd of leaders in a courtyard, many hands raised in agreement, bright morning, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ההתיעצות של דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/b2",
+"en": "H: a wooden fence with a gate swinging open and a long line of men entering a green field beyond, morning light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה פרוש ׳נפרצה׳ לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/b3",
+"en": "H: a new wooden cart with two oxen standing by a farmhouse in a field, loaded with a closed golden chest, and next to it long carrying poles leaning against a wall, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה דויד הרכיב את הארון על עגלה חדשה, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/b4",
+"en": "H: a stone threshing floor with scattered grain and oxen, a closed golden chest on a cart tilting slightly, the men standing calm and trusting, bright day, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה הלקח מ׳כי שמטו הבקר׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/b5",
+"en": "H: a man in simple Levite robes with a harp standing at the gate of a stone house in Gath, the closed golden chest resting inside under a canopy, soft light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מי היה עבד אדם הגתי לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/b6",
+"en": "H: two long carrying poles laid beside a closed golden chest on a stone floor with Levites in white linen standing respectfully around, a holy quiet, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה, לפי מצודת דוד, היתה תקלה בפעם הראשונה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-04/b7",
+"en": "H: a king in a white linen robe among Levites in white linen robes, all playing harps and cymbals and singing, a closed golden chest carried on poles in the middle, joyful, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה דויד לבש מעיל בוץ כמו הלוים, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a1/p0",
+"en": "a dark rocky cave opening in a hillside, no people, no text (In a cave)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "במערה עמקה",
+"question": "איפה הציבו את הארון אחרי המסע?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a1/p1",
+"en": "a large woven tent with a covered golden chest with two long carrying poles resting inside under a canopy, no people, no text (In the tent)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בתוך האהל החדש",
+"question": "איפה הציבו את הארון אחרי המסע?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a1/p2",
+"en": "a tall stone royal house with a wide gate, no people, no text (In a king's house)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בבית מלך גדול",
+"question": "איפה הציבו את הארון אחרי המסע?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a2/p0",
+"en": "a round loaf of bread with dates and a raisin cake on a wooden board, no people, no text (Loaf of bread)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ככר לחם",
+"question": "מה דויד חלק לכל איש ישראל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a2/p1",
+"en": "a shiny gold coin on a small cushion, no people, no text (Gold coin)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מטבע זהב",
+"question": "מה דויד חלק לכל איש ישראל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a2/p2",
+"en": "a folded blue cloak on a stool, no people, no text (New garment)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בגד חדש",
+"question": "מה דויד חלק לכל איש ישראל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a3/p0",
+"en": "a big round drum on a wooden stand, no people, no text (Drum)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "תף גדול וכבד",
+"question": "איזה כלי השמיע אסף, ראש הלוים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a3/p1",
+"en": "a simple wooden flute lying on a stone, no people, no text (Flute)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "חליל עץ קטן",
+"question": "איזה כלי השמיע אסף, ראש הלוים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a3/p2",
+"en": "a pair of bronze cymbals resting on a cloth, no people, no text (Cymbals)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מצלתים",
+"question": "איזה כלי השמיע אסף, ראש הלוים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a4/p0",
+"en": "a bright sunrise over a green field with a bird singing on a branch, no people, no text (Thanks)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בהודיה",
+"question": "במה מתחיל השיר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a4/p1",
+"en": "a gray cloud with falling rain over an empty bench, no people, no text (Crying)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בבכי",
+"question": "במה מתחיל השיר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a4/p2",
+"en": "a winding country path that splits into three directions, no people, no text (A question)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בשאלה קשה",
+"question": "במה מתחיל השיר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a5/p0",
+"en": "a dark empty tunnel with a faint flicker at the end, no people, no text (Fear)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "פחד",
+"question": "מה התוצאה של השירה לה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a5/p1",
+"en": "a sunny meadow full of flowers with a butterfly, no people, no text (Joy in the heart)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "שמחה בלב",
+"question": "מה התוצאה של השירה לה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a5/p2",
+"en": "a wooden bed with a folded blanket in a dim room, no people, no text (Tiredness)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "עיפות",
+"question": "מה התוצאה של השירה לה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a6/p0",
+"en": "a wide dry sandy desert with dunes, no people, no text (The desert)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "את המדבר",
+"question": "מה ה׳ הבטיח לאבות?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a6/p1",
+"en": "tall ancient pyramids on the banks of a wide river, no people, no text (Egypt)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "את מצרים העתיקה",
+"question": "מה ה׳ הבטיח לאבות?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a6/p2",
+"en": "green rolling hills with olive trees and vineyards, no people, no text (The land of Canaan)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "את ארץ כנען",
+"question": "מה ה׳ הבטיח לאבות?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a7/p0",
+"en": "a bright sun above green hills, sparkling sea and flowers all in bloom, no people, no text (Heaven and earth)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "השמים והארץ",
+"question": "מי שמח כשה׳ מולך, לפי השיר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a7/p1",
+"en": "a lone golden crown on a stone table, no people, no text (Only the king)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "רק המלך והמשפחה",
+"question": "מי שמח כשה׳ מולך, לפי השיר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a7/p2",
+"en": "an empty gray field under a cloudy sky, no people, no text (Nobody)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אף אחד לא שמח",
+"question": "מי שמח כשה׳ מולך, לפי השיר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a8/p0",
+"en": "a white dove carrying an olive branch over a green valley, no text (Shalom)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "שלום",
+"question": "מה ענה כל העם בסוף השיר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a8/p1",
+"en": "a large crowd of men in ancient tunics standing together with faces lifted in song, men only, no text (Amen)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אמן",
+"question": "מה ענה כל העם בסוף השיר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/a8/p2",
+"en": "palm branches and a willow branch tied together on a table, no people, no text (Hoshana)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "הושענא",
+"question": "מה ענה כל העם בסוף השיר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/b1",
+"en": "H: three groups of Levites in a courtyard: one group reading from blank scrolls, one singing with raised faces, one playing harps, bright day, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳להזכיר ולהודות ולהלל׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/b2",
+"en": "H: two Levites facing each other across a courtyard, one leading with raised hand and the other answering with a smile, like a conversation in song, cymbals nearby, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳ביד אסף ואחיו׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/b3",
+"en": "H: a Levite standing on a rooftop of a stone house at sunrise addressing travelers on the road below who stop to listen, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה פרוש ׳עלילתיו׳ לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/b4",
+"en": "H: a Levite playing a harp with his voice raised in song, another beating a drum, a third speaking to a group of listeners, a stream and green trees behind, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה ההבדל בין ׳שירו׳, ׳זמרו׳ ו׳שיחו׳, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/b5",
+"en": "H: a vast ancient library of scrolls arranged in long ordered shelves under a high arched ceiling, a single beam of light falling on one scroll, no people, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה ׳בריתו... לאלף דור׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/b6",
+"en": "H: a bearded traveler with a staff walking in a desert with his small group beside a hostile camp that quietly turns away, a gentle protective sunrise over them, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳לא הניח לאיש לעשקם׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-05/b7",
+"en": "H: a calm sea under a rainbow with the earth gently settled and mountains still, a feeling of peace and safety, no people, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳חילו מלפניו כל הארץ׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a1/p0",
+"en": "a beautiful palace built of dark cedar wood with carved beams, no people, no text (Cedar house)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בבית הארזים",
+"question": "איפה עמד ארון ה׳, לפי דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a1/p1",
+"en": "a covered golden chest with two long carrying poles resting inside a simple woven tent with curtain panels, no people, no text (Under curtains)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "תחת יריעות",
+"question": "איפה עמד ארון ה׳, לפי דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a1/p2",
+"en": "a tall slim stone tower on a hill, no people, no text (A high tower)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "במגדל גבוה",
+"question": "איפה עמד ארון ה׳, לפי דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a2/p0",
+"en": "a green traffic of builders' tools laid out ready on a hillside beside stacked stones, no people, no text (Do all that is in your heart)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "כל אשר בלבבך עשה",
+"question": "מה נתן ענה לדויד מיד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a2/p1",
+"en": "a closed wooden gate with a rope tied around it, no people, no text (Do nothing)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אל תעשה כלום",
+"question": "מה נתן ענה לדויד מיד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a2/p2",
+"en": "an hourglass on a stone ledge by a calendar of dried palm leaves, no people, no text (Wait a year)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "חכה עוד שנה",
+"question": "מה נתן ענה לדויד מיד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a3/p0",
+"en": "a half-finished house with a ladder and fast-moving workers' tools, no people, no text (Build quickly)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אתה תבנה מהר",
+"question": "מה ה׳ שלח לומר לדויד בלילה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a3/p1",
+"en": "building tools resting on a stone beside an unbuilt empty plot under the night sky, no people, no text (You will not build)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לא אתה תבנה",
+"question": "מה ה׳ שלח לומר לדויד בלילה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a3/p2",
+"en": "two small stone houses side by side on a hill, no people, no text (Two houses)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בנה שני בתים",
+"question": "מה ה׳ שלח לומר לדויד בלילה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a4/p0",
+"en": "a woven tent camp in a desert with a larger central tent, no people, no text (In a tent)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "באהל ומשכן",
+"question": "במה ה׳ היה עם עמו מאז יציאת מצרים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a4/p1",
+"en": "a big stone palace with towers and a wide gate, no people, no text (In a palace)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בארמון",
+"question": "במה ה׳ היה עם עמו מאז יציאת מצרים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a4/p2",
+"en": "a long high stone wall around a city, no people, no text (In a wall)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בחומה גבוהה",
+"question": "במה ה׳ היה עם עמו מאז יציאת מצרים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a5/p0",
+"en": "a big stone city with busy streets seen from far away, no people, no text (The big city)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מהעיר הגדולה",
+"question": "מאיפה ה׳ לקח את דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a5/p1",
+"en": "a camp of army tents with spears stacked together, no people, no text (From the army)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מן הצבא",
+"question": "מאיפה ה׳ לקח את דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a5/p2",
+"en": "a green meadow with sheep and a shepherd's staff leaning on a rock, no people, no text (From behind the sheep)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מאחרי הצאן",
+"question": "מאיפה ה׳ לקח את דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a6/p0",
+"en": "an old bearded man in a long robe with a staff standing by a stone, men only, no text (The prophet)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "נתן הנביא",
+"question": "מי יבנה את בית ה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a6/p1",
+"en": "an old king with a simple crown looking at a stone plot, men only, no text (David himself)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "דויד עצמו",
+"question": "מי יבנה את בית ה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a6/p2",
+"en": "a young man in simple robes carrying a big stone up a hill, men only, no text (David's son)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בנו של דויד",
+"question": "מי יבנה את בית ה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a7/p0",
+"en": "a warm lit house with an open door and a bench beside it at dusk, no people, no text (A father)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אב",
+"question": "מה ה׳ יהיה לבן שיבנה את הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a7/p1",
+"en": "a wooden judge's chair under a tree with a staff beside it, no people, no text (A judge)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "שופט",
+"question": "מה ה׳ יהיה לבן שיבנה את הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a7/p2",
+"en": "a watchtower on a city wall with a lantern, no people, no text (A wall guard)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "שומר חומה",
+"question": "מה ה׳ יהיה לבן שיבנה את הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a8/p0",
+"en": "a shiny gold medal on a velvet cushion, no people, no text (I deserve it)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מגיע לי הכל",
+"question": "מה דויד אמר לה׳ כששמע את ההבטחה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a8/p1",
+"en": "a tiny green sapling under a huge starry sky, no people, no text (Who am I)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מי אני ה'",
+"question": "מה דויד אמר לה׳ כששמע את ההבטחה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/a8/p2",
+"en": "a single small copper coin on a stone, no people, no text (It's little)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "זה מעט",
+"question": "מה דויד אמר לה׳ כששמע את ההבטחה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/b1",
+"en": "H: a king with a simple crown unrolling a blank scroll on a table in a stone chamber, a lamp burning, and an image of a tent drawn on it, thoughtful, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה דויד חשב שהגיע הזמן לבנות בית לה׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/b2",
+"en": "H: a bearded prophet in robes walking quickly through a palace gate at dawn while a king is just about to speak to builders at a work yard, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה ה׳ שלח את נתן באותו לילה, לפי המדרש ברש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/b3",
+"en": "H: a row of old judges with staffs standing at a field looking at a plain tent and then up at a high hill, quiet contemplation, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳למה לא בניתם לי בית ארזים׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/b4",
+"en": "H: a king with a simple crown being gently handed a small house made of wood by a bearded prophet, golden sunrise, like an exchange of gifts, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה פרוש ׳ובית יבנה לך ה׳׳ לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/b5",
+"en": "H: a king with a simple crown seated on a bench and a young prince beside him, a rainbow arching over a hill with a half-built stone wall, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳וחסדי לא אסיר מעמו׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/b6",
+"en": "H: a young shepherd looking out over a green valley with a few sheep, in the distance a small village and a high hill city shining in the sun, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה דויד זוכר כשהוא אומר ׳מי אני׳, לפי רש״י ומצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-06/b7",
+"en": "H: a crowd of men and boys crossing a river bed on dry land, led by a closed golden chest carried on poles, bright morning, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה מיחד את ישראל מכל העמים, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a1/p0",
+"en": "a small hill town with a pile of stones, no people, no text (Bethel)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בבית אל המקדש",
+"question": "איפה ה׳ אמר לדויד להקים מזבח?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a1/p1",
+"en": "a flat stone threshing floor on a hill with piles of wheat and a wooden threshing sledge, no people, no text (Ornan's threshing floor)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בגרן ארנן",
+"question": "איפה ה׳ אמר לדויד להקים מזבח?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a1/p2",
+"en": "a rounded hill with a bronze altar on top, no people, no text (Gibeon)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בגבעון הגדולה",
+"question": "איפה ה׳ אמר לדויד להקים מזבח?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a2/p0",
+"en": "a man's footprints running away across a dusty threshing floor, no people, no text (Ran away)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ברח",
+"question": "מה ארנן עשה כשראה את דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a2/p1",
+"en": "a closed wooden gate with a heavy beam across it, no people, no text (Closed the gate)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "סגר את השער",
+"question": "מה ארנן עשה כשראה את דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a2/p2",
+"en": "a farmer in simple clothes bowing low to the ground before a king in a field, men only, no text (Bowed to him)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "השתחוה לו",
+"question": "מה ארנן עשה כשראה את דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a3/p0",
+"en": "oxen, wooden threshing sledges and a pile of wheat all together on a threshing floor, no people, no text (Everything for free)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "הכל בחנם",
+"question": "מה ארנן הציע לתת לדויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a3/p1",
+"en": "a small basket of wheat grains on a stone, no people, no text (Only wheat)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "רק חטים למנחה",
+"question": "מה ארנן הציע לתת לדויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a3/p2",
+"en": "an empty threshing floor swept clean, no people, no text (Nothing)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "כלום ולא כסף",
+"question": "מה ארנן הציע לתת לדויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a4/p0",
+"en": "an open gift sack handed over a fence, no people, no text (Take it free)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אקח בחנם",
+"question": "מה דויד ענה לארנן?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a4/p1",
+"en": "a heavy leather purse of silver coins resting on a stone table, no people, no text (Buy for full price)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אקנה בכסף מלא",
+"question": "מה דויד ענה לארנן?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a4/p2",
+"en": "a loaf of bread broken in half on a cloth, no people, no text (Take half)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אקח חציו",
+"question": "מה דויד ענה לארנן?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a5/p0",
+"en": "a stone altar with a bright flame burning on top under a blue sky, no people, no text (With fire)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "באש מן השמים",
+"question": "במה ה׳ ענה לדויד על המזבח?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a5/p1",
+"en": "a hilltop with bending grass in a strong wind, no people, no text (With wind)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ברוח חזקה",
+"question": "במה ה׳ ענה לדויד על המזבח?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a5/p2",
+"en": "rain falling over a stone altar, no people, no text (With rain)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בגשם",
+"question": "במה ה׳ ענה לדויד על המזבח?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a6/p0",
+"en": "a busy market square with stalls and baskets, no people, no text (A market)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "פה יהיה שוק גדול",
+"question": "מה דויד הבין על המקום הזה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a6/p1",
+"en": "a small stone house with a flat roof, no people, no text (His house)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "פה יהיה ביתו החדש",
+"question": "מה דויד הבין על המקום הזה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a6/p2",
+"en": "a stone hilltop with an altar and bright morning light, building stones waiting beside it, no people, no text (The Temple will be built)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "פה יבנה המקדש",
+"question": "מה דויד הבין על המקום הזה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a7/p0",
+"en": "neat piles of cut stone blocks and long cedar logs on a hillside, no people, no text (Stones and cedars)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אבנים וארזים",
+"question": "מה דויד הכין לבית?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a7/p1",
+"en": "folded colorful rugs and cloaks stacked on a table, no people, no text (Clothes and rugs)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "רק בגדים",
+"question": "מה דויד הכין לבית?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a7/p2",
+"en": "horses and carts standing in a stable yard, no people, no text (Horses and carts)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "סוסים ועגלות של מלחמה",
+"question": "מה דויד הכין לבית?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a8/p0",
+"en": "an old gnarled tree with a thick trunk and bare branches, no people, no text (Old and wise)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "זקן וחכם",
+"question": "מה דויד אמר על בנו שלמה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a8/p1",
+"en": "a young green sapling with soft leaves growing next to a big pile of building stones, no people, no text (Young and tender)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "נער ורך",
+"question": "מה דויד אמר על בנו שלמה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/a8/p2",
+"en": "a thick strong oak tree with a wide trunk, no people, no text (Strong)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "חזק וגבור",
+"question": "מה דויד אמר על בנו שלמה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/b1",
+"en": "H: twelve groups of men, each with a different colored banner, placing small coin purses into a large basket in front of a king, bright morning, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "איך רש״י מישב בין חמשים שקלים לשש מאות שקלים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/b2",
+"en": "H: a king with a simple crown handing a heavy coin purse to a farmer while a pair of oxen stands calmly behind them, wheat sheaves all around, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה מצודת דוד מבאר על ׳לא אשא אשר לך לה׳׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/b3",
+"en": "H: a scribe with a blank scroll writing at a table while through a window a hilltop altar with smoke can be seen, a lamp, warm light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה פרשת גרן ארנן כתובה בדברי הימים, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/b4",
+"en": "H: a stone altar on a hilltop and, down in a distant valley, a tent and a small low altar by a village, a path running between them, sunrise, no people, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳זה הוא בית ה׳ האלהים וזה מזבח לעלה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/b5",
+"en": "H: a group of foreign-looking workmen in different robes cutting stone alongside others at a quarry, a king watching approvingly from a hill, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מי הם הגרים שדויד כנס, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/b6",
+"en": "H: a smiling young prince holding a small scroll walking in a quiet garden, a glowing dove (peace) above his head, a stone tower far away, calm, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה פרוש ׳איש מנוחה׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-07/b7",
+"en": "H: a king with a simple crown showing a young prince several stacked bars of gold and silver in a stone treasure room with lamps, the king's hand open and humble, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה פרוש ׳בעניי הכינותי׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a1/p0",
+"en": "a row of soldiers' spears leaning against a stone wall in a camp, no people, no text (Went to war)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "יצא למלחמה",
+"question": "מה דויד עשה כשהיה זקן?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a1/p1",
+"en": "a golden crown being placed on a cushion beside a stone throne, no people, no text (Crowned Solomon)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "המליך את שלמה",
+"question": "מה דויד עשה כשהיה זקן?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a1/p2",
+"en": "a closed city gate with a traveler's bag left outside, no people, no text (Left the city)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "עזב את העיר",
+"question": "מה דויד עשה כשהיה זקן?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a2/p0",
+"en": "a half-built stone wall with a ladder, no people, no text (Built a wall)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בנו חומה",
+"question": "מה עשו ארבעת אלפים לוים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a2/p1",
+"en": "harps lyres and cymbals arranged on a stone platform in a sunlit courtyard, no people, no text (Praised with instruments)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "הללו בכלי שיר",
+"question": "מה עשו ארבעת אלפים לוים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a2/p2",
+"en": "a plough standing in a freshly plowed field, no people, no text (Plowed fields)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "חרשו שדות",
+"question": "מה עשו ארבעת אלפים לוים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a3/p0",
+"en": "a single large festival bonfire in a wide field at night, no people, no text (Once a year)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "פעם בשנה בלבד",
+"question": "מתי הלוים עמדו להודות ולהלל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a3/p1",
+"en": "two Sabbath candles in simple candlesticks on a table, no people, no text (Only Shabbat)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "רק בשבת ובמועדים",
+"question": "מתי הלוים עמדו להודות ולהלל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a3/p2",
+"en": "a split picture of a sunrise over a hill on the left and a sunset over the same hill on the right, no people, no text (Morning and evening)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בבקר ובערב",
+"question": "מתי הלוים עמדו להודות ולהלל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a4/p0",
+"en": "an empty silent stone courtyard in the evening with long shadows, no people, no text (Quiet)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "שקט גמור וחשך",
+"question": "מה היה במקדש בשבת ובמועדים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a4/p1",
+"en": "a stone courtyard full of harps cymbals and trumpets laid out ready, with palm branches on the wall, no people, no text (Much singing)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "הרבה שירה",
+"question": "מה היה במקדש בשבת ובמועדים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a4/p2",
+"en": "a market with colorful stalls and baskets, no people, no text (A market)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "שוק",
+"question": "מה היה במקדש בשבת ובמועדים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a5/p0",
+"en": "a golden crown and a harp on a royal cushion, no people, no text (Sons of David)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בני דויד המלך",
+"question": "בני מי היו הכהנים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a5/p1",
+"en": "a big wooden ark floating on calm water, no people, no text (Sons of Noah)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בני נח הצדיק",
+"question": "בני מי היו הכהנים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a5/p2",
+"en": "folded white linen priestly garments with a golden headband and a blue sash on a stone table, no people, no text (Sons of Aaron)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בני אהרן",
+"question": "בני מי היו הכהנים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a6/p0",
+"en": "a plain empty running track marked with stones on a field, no people, no text (By running)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בריצה",
+"question": "איך קבעו מי באיזו משמרת?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a6/p1",
+"en": "a pile of shields and swords on a field, no people, no text (By fighting)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "במלחמה",
+"question": "איך קבעו מי באיזו משמרת?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a6/p2",
+"en": "small smooth lots stones in a clay jar on a wooden table, no people, no text (By lots)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בגורל",
+"question": "איך קבעו מי באיזו משמרת?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a7/p0",
+"en": "a golden incense shovel and a stone basin beside an altar, no people, no text (Zadok and Ahimelech)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "צדוק ואחימלך הכהנים",
+"question": "מי היו הנבאים בכנרות ובנבלים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a7/p1",
+"en": "three harps of different sizes and a pair of cymbals on a stone step, no people, no text (Asaf, Heman, Yedutun)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אסף, הימן וידותון",
+"question": "מי היו הנבאים בכנרות ובנבלים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a7/p2",
+"en": "a crown and a model of a stone house on a cushion, no people, no text (David and Solomon)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "דויד ושלמה בנו המלך",
+"question": "מי היו הנבאים בכנרות ובנבלים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a8/p0",
+"en": "a small stone and a big stone resting side by side level on a wooden scale, no people, no text (Small and big)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "הקטן והגדול",
+"question": "מי היה שוה בגורל של המשוררים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a8/p1",
+"en": "one big stone alone on a high pedestal, no people, no text (Only the big)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "רק הגדול והחשוב",
+"question": "מי היה שוה בגורל של המשוררים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/a8/p2",
+"en": "a tall teacher's chair with a scroll, no people, no text (Only the teacher)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "רק המורה",
+"question": "מי היה שוה בגורל של המשוררים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/b1",
+"en": "H: a young Levite carrying a heavy wooden carrying pole on his shoulder in the desert beside another Levite who is singing and playing a harp in a stone courtyard in Jerusalem, a split scene, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה כאן הלוים נספרו מבן עשרים ולא מבן שלשים, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/b2",
+"en": "H: Levites in white linen sweeping and washing the stone paving of a courtyard with water pails and brooms, morning light, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על הלוים ׳על טהרת לכל קדש׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/b3",
+"en": "H: Levites standing at a gate of the courtyard watching, others carrying wood to the altar, quiet disciplined mood, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה מצודת דוד מבאר על ׳ושמרו את משמרת אהל מועד׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/b4",
+"en": "H: a Levite playing a harp under a bright clear sky, his eyes closed and a soft wind moving his robe, a distant glow of golden light, no people besides him, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳הנבאים בכנרות׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/b5",
+"en": "H: a bearded Levite father teaching his young son to play a small lyre in a quiet courtyard, other children in the background learning from the elder, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה פרוש ׳על ידי אביהם׳ ו׳על ידי המלך׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/b6",
+"en": "H: a hall with rows of Levite students learning songs with their teachers, open blank scrolls on their laps, a window with morning light, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מלמד מן המלה ׳כל המבין׳ על המשוררים?",
+"section": ""
+},
+{
+"id": "hq/divrei1-08/b7",
+"en": "H: a stone jar of lots standing between an old teacher and a small boy, both reaching in at the same time, a rainbow of light in the background, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על הגורל ׳כקטן כגדול׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a1/p0",
+"en": "a few folded white linen priestly garments on a small table, no people, no text (Only the priests)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "רק את הכהנים",
+"question": "את מי דויד הקהיל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a1/p1",
+"en": "many different tribe banners and officers' staffs gathered in a large stone courtyard, no people, no text (All the officers of Israel)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "את כל שרי ישראל",
+"question": "את מי דויד הקהיל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a1/p2",
+"en": "a few small wooden chairs around a family table, no people, no text (Only his sons)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "רק את בניו",
+"question": "את מי דויד הקהיל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a2/p0",
+"en": "a plain wooden chair with a cushion beside a table, no people, no text (Sat down)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ישב בכסא המלך",
+"question": "מה דויד עשה לפני שדבר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a2/p1",
+"en": "an old king standing upright with a walking staff before a large crowd of leaders, men only, no text (Stood up)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "קם על רגליו",
+"question": "מה דויד עשה לפני שדבר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a2/p2",
+"en": "an old man bowing low on the floor of a courtyard, men only, no text (Bowed)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "השתחוה לארץ",
+"question": "מה דויד עשה לפני שדבר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a3/p0",
+"en": "a plough and a sickle leaning on a fence in a wheat field, no people, no text (Farming)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "איש חקלאות וכרמים",
+"question": "מה ה׳ אמר על דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a3/p1",
+"en": "a balance scale with sacks of goods on a market table, no people, no text (Trade)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "איש מסחר ושוקים",
+"question": "מה ה׳ אמר על דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a3/p2",
+"en": "a round shield and a spear leaning on a stone wall, no people, no text (Wars)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "איש מלחמות",
+"question": "מה ה׳ אמר על דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a4/p0",
+"en": "a tribal banner with a golden lion on a pole in a field, no people, no text (Judah)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ביהודה",
+"question": "באיזה שבט ה׳ בחר להיות נגיד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a4/p1",
+"en": "a tribal banner with a wolf on a pole in a field, no people, no text (Benjamin)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בבנימין",
+"question": "באיזה שבט ה׳ בחר להיות נגיד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a4/p2",
+"en": "a tribal banner with a breastplate of twelve stones on a pole in a field, no people, no text (Levi)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בלוי",
+"question": "באיזה שבט ה׳ בחר להיות נגיד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a5/p0",
+"en": "a golden crown on a stone throne under a rising sun with long golden rays, no people, no text (A kingdom forever)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "על מלכות עד עולם",
+"question": "על מה ה׳ הבטיח לשלמה, אם יחזק לעשות מצוות?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a5/p1",
+"en": "a big pile of gold bars, no people, no text (Much gold)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "על הרבה זהב",
+"question": "על מה ה׳ הבטיח לשלמה, אם יחזק לעשות מצוות?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a5/p2",
+"en": "rows of army tents with spears stacked together, no people, no text (A big army)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "על צבא גדול",
+"question": "על מה ה׳ הבטיח לשלמה, אם יחזק לעשות מצוות?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a6/p0",
+"en": "an open scroll lit by a warm beam of sunlight on a wooden desk, no people, no text (To know God)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לדעת את ה'",
+"question": "מה דויד אמר לשלמה לעשות?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a6/p1",
+"en": "a chest overflowing with gold coins, no people, no text (To collect gold)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "להרבות זהב",
+"question": "מה דויד אמר לשלמה לעשות?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a6/p2",
+"en": "a sword and a shield against a stone wall, no people, no text (To go to war)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לצאת למלחמה",
+"question": "מה דויד אמר לשלמה לעשות?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a7/p0",
+"en": "a cedar log with a carpenter's tools beside it, no people, no text (From Hiram)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מחירם",
+"question": "מאיפה דויד קבל את תכנית הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a7/p1",
+"en": "a bed with a folded blanket under a night sky with stars, no people, no text (From a dream)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מחלום בלילה",
+"question": "מאיפה דויד קבל את תכנית הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a7/p2",
+"en": "an unrolled plan on a table with drawn lines of a building and measuring tools, no people, no text (From God, in writing)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מה', בכתב",
+"question": "מאיפה דויד קבל את תכנית הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a8/p0",
+"en": "a thick strong oak tree with deep roots standing firm in the wind, no people, no text (Be strong and courageous)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "חזק ואמץ",
+"question": "מה דויד אמר לשלמה בסוף?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a8/p1",
+"en": "a sleeping cat curled on a pillow, no people, no text (Wait quietly)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "חכה בשקט עוד שנה",
+"question": "מה דויד אמר לשלמה בסוף?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/a8/p2",
+"en": "an empty workbench with tools put away, no people, no text (Don't do)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "אל תעשה",
+"question": "מה דויד אמר לשלמה בסוף?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/b1",
+"en": "H: an elderly king slowly pushing himself up from a chair with the help of a staff, a ring of respectful officers watching in silence, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה כתוב ׳ויקם דויד המלך על רגליו׳, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/b2",
+"en": "H: a crowd made up of men from different places and clothing standing together in the same courtyard: some local, some travelers with different robes, all facing the king, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳כל ישראל׳ בפסוק ח׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/b3",
+"en": "H: a young prince standing on a hilltop with a single glowing candle held in both hands, the candle flame steady and bright against a wide evening sky, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מלמד מכך שנאמר ׳בלב שלם׳ ולא ׳בלבב שלם׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/b4",
+"en": "H: a young prince kneeling beside his old father's chair, learning from a roll of blank scrolls, with a small lamp between them, quiet warm room, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה פרוש ׳דע את אלהי אביך׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/b5",
+"en": "H: a wide view of countless small glowing lamps spread across a dark hillside, each lamp a different shape, like many hearts, a gentle dawn beginning behind them, no people, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳כל לבבות דורש ה׳׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/b6",
+"en": "H: a young prince searching with a lamp among shelves of scrolls in a quiet study room, one scroll glowing, a tiny key in his hand, calm and hopeful, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה פרוש ׳אם תדרשנו ימצא לך׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-09/b7",
+"en": "H: an old scribe-prophet (Samuel) with a long beard writing precise measurements on a blank scroll at a table, models of vessels arranged beside him, warm lamp light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳הכל בכתב מיד ה׳ עלי השכיל׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a1/p0",
+"en": "a simple family house with a flat roof and a small door, no people, no text (For a person)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לאדם",
+"question": "למי הבירה, הבנין הגדול?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a1/p1",
+"en": "a grand stone Temple building on a hill glowing in golden morning light, no people, no text (For God)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לה'",
+"question": "למי הבירה, הבנין הגדול?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a1/p2",
+"en": "a royal palace with tall towers and flags, no people, no text (For the king)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "למלך",
+"question": "למי הבירה, הבנין הגדול?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a2/p0",
+"en": "shining gold bars and silver bars stacked on a cloth, no people, no text (Gold and silver)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "זהב וכסף",
+"question": "מה דויד נתן משלו לבית המקדש?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a2/p1",
+"en": "colorful cloaks folded on a bench, no people, no text (Clothes)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בגדים",
+"question": "מה דויד נתן משלו לבית המקדש?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a2/p2",
+"en": "a pair of horses in a stable, no people, no text (Horses)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "סוסים",
+"question": "מה דויד נתן משלו לבית המקדש?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a3/p0",
+"en": "a hammock hanging empty between two trees, no people, no text (Were lazy)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "התעצלו מאוד",
+"question": "מה העם עשה לבית ה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a3/p1",
+"en": "piles of gold, silver, bronze, iron and gems laid out together on a long cloth, no people, no text (Donated)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "התנדבו",
+"question": "מה העם עשה לבית ה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a3/p2",
+"en": "two wooden staffs crossed on the ground in a field, no people, no text (Argued)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "רבו",
+"question": "מה העם עשה לבית ה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a4/p0",
+"en": "a bed with a folded blanket in a dim room, no people, no text (Slept)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ישן ליד השער",
+"question": "מה דויד עשה אחרי הנדבה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a4/p1",
+"en": "an old king with a simple crown standing with lifted face and open arms before a large crowd of leaders, men only, no text (Blessed God)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ברך את ה'",
+"question": "מה דויד עשה אחרי הנדבה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a4/p2",
+"en": "a dark corner behind a curtain, no people, no text (Hid)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "הסתתר",
+"question": "מה דויד עשה אחרי הנדבה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a5/p0",
+"en": "a lone king's crown on a high pedestal, no people, no text (Greatness is mine)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לי הגדלה והכבוד",
+"question": "מה דויד אמר לה׳ בברכה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a5/p1",
+"en": "crossed spears and a shield on a wall, no people, no text (The war is Yours)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לך המלחמה",
+"question": "מה דויד אמר לה׳ בברכה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a5/p2",
+"en": "a vast sunrise over mountains and sea with sparkling light, no people, no text (Greatness is Yours)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לך הגדלה",
+"question": "מה דויד אמר לה׳ בברכה?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a6/p0",
+"en": "a crowd-less market square with baskets of goods, no people, no text (From the people)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "מהעם",
+"question": "מה דויד אמר: ממי הכל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a6/p1",
+"en": "a bright sun shining over a field full of ripe wheat and fruit trees, no people, no text (From You)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ממך",
+"question": "מה דויד אמר: ממי הכל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a6/p2",
+"en": "a lone workbench with hand tools, no people, no text (From me)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "ממני",
+"question": "מה דויד אמר: ממי הכל?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a7/p0",
+"en": "a glowing red heart-shaped apple on a wooden plate, no people, no text (The heart)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "לבב",
+"question": "מה ה׳ בוחן, לפי דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a7/p1",
+"en": "a folded blue cloak on a stool, no people, no text (Clothing)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בגד יקר",
+"question": "מה ה׳ בוחן, לפי דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a7/p2",
+"en": "a small stone house on a hill, no people, no text (A house)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בית גדול",
+"question": "מה ה׳ בוחן, לפי דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a8/p0",
+"en": "a lone spear stuck in the ground of a quiet empty field, no people, no text (In war)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "במלחמה",
+"question": "איך דויד נפטר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a8/p1",
+"en": "a young green sapling in a small pot, no people, no text (Young)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בצעיר",
+"question": "איך דויד נפטר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/a8/p2",
+"en": "an old tree full of golden leaves at a peaceful sunset, no people, no text (In a good old age)",
+"topic": "🎺 דברי הימים א׳",
+"caption": "בשיבה טובה",
+"question": "איך דויד נפטר?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/b1",
+"en": "H: a young prince standing next to a big pile of prepared stone blocks and timber, an old king pointing at the pile and smiling reassuringly, bright morning, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳שלמה בני אחד׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/b2",
+"en": "H: a crowd of men giving gifts willingly to a treasury, each smiling and holding their gifts with both hands, a large old king smiling the most, bright light, men only, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳בלב שלם התנדבו׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/b3",
+"en": "H: an old patriarch (Jacob) with a staff kneeling at a stone pillar at dawn, pouring oil on it, a ladder of morning light in the distance, calm, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה דויד הזכיר ׳ישראל אבינו׳ יותר מאברהם ויצחק, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/b4",
+"en": "H: five different lamps in a row, each glowing with a different color, set on a stone shelf over a golden crown, a king's hand reaching toward them, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מפרש ב׳גדלה וגבורה ונצח׳ בדבריו של דויד?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/b5",
+"en": "H: an open pair of hands holding a bright golden coin upward toward a morning sky while their shadow shows the empty palm on the ground, symbolic, no people besides hands, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על ׳ממך הכל ומידך נתנו לך׳?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/b6",
+"en": "H: a tiny shadow of a bee's wing on a stone wall in the sun, large and delicate, an old man looking at it thoughtfully, warm light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "למה דומים ימי האדם, לפי המדרש ברש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei1-10/b7",
+"en": "H: a king with a simple crown kneeling with open palms, a glowing heart-shaped lamp placed before him on the ground, soft evening light, no text",
+"topic": "🎺 דברי הימים א׳",
+"caption": "",
+"question": "מה רש״י מבאר על התפלה ׳שמרה זאת לעולם׳?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a1/p0",
+"en": "an ancient tent of meeting in a stone courtyard on a hilltop, no people, no text (Gibeon)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "לבמה בגבעון",
+"question": "לאן הלך שלמה עם שרי העם?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a1/p1",
+"en": "a wide river with tall reeds at sunset, no people, no text (The river)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "לנהר הפרת הגדול",
+"question": "לאן הלך שלמה עם שרי העם?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a1/p2",
+"en": "a green mountain ridge above a calm sea, no people, no text (Mount Carmel)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "להר הכרמל",
+"question": "לאן הלך שלמה עם שרי העם?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a2/p0",
+"en": "a bronze altar with three small lambs beside it, no people, no text (Three)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שלושה",
+"question": "כמה עולות העלה שלמה על המזבח?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a2/p1",
+"en": "a bronze altar with smoke rising and many rows of cattle waiting nearby, no people, no text (A thousand)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "אלף",
+"question": "כמה עולות העלה שלמה על המזבח?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a2/p2",
+"en": "a bronze altar with one single ram beside it, no people, no text (One)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "אחת",
+"question": "כמה עולות העלה שלמה על המזבח?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a3/p0",
+"en": "a plan of a large city with towers drawn on a scroll, no people, no text (Build a city)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בנה לי עיר גדולה",
+"question": "מה אמר ה׳ לשלמה בלילה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a3/p1",
+"en": "a shield and spears standing on a rocky hill at night, no people, no text (Go to war)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "צא למלחמה מיד",
+"question": "מה אמר ה׳ לשלמה בלילה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a3/p2",
+"en": "a simple bed in a stone room with moonlight on the floor and bright stars in the window, no people, no text (Ask what I give)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שאל מה אתן לך",
+"question": "מה אמר ה׳ לשלמה בלילה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a4/p0",
+"en": "an oil lamp glowing beside an open empty hand on a stone table at night, no people, no text (Kindness to David)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "חסד עם דוד",
+"question": "על מה שלמה מודה בתחלה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a4/p1",
+"en": "a hilltop with banners flying in the wind, no people, no text (A victory)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "נצחון במלחמה",
+"question": "על מה שלמה מודה בתחלה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a4/p2",
+"en": "a large pile of gold coins and cups, no people, no text (Treasures of gold)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "אוצרות של זהב",
+"question": "על מה שלמה מודה בתחלה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a5/p0",
+"en": "a heavy chest overflowing with gold and silver, no people, no text (Gold and silver)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "זהב וכסף",
+"question": "מה בקש שלמה מה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a5/p1",
+"en": "a glowing oil lamp above an open blank scroll on a table, no people, no text (Wisdom)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "חכמה ומדע",
+"question": "מה בקש שלמה מה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a5/p2",
+"en": "a very tall old tree with deep roots standing in the sun, no people, no text (Long life)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "חיים ארכים",
+"question": "מה בקש שלמה מה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a6/p0",
+"en": "a battlefield hill with a tall fortress and spears standing in rows, no people, no text (Victory over enemies)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "נצחון על אויבים",
+"question": "מה שלמה לא בקש?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a6/p1",
+"en": "a glowing oil lamp above an open blank scroll, no people, no text (Wisdom)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "חכמה ומדע",
+"question": "מה שלמה לא בקש?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a6/p2",
+"en": "a stone gate opening onto a wide road toward a valley of tents, no people, no text (Go out before the people)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "לצאת ולבוא לפני העם",
+"question": "מה שלמה לא בקש?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a7/p0",
+"en": "a single silver coin resting on a plain cloth on a table, no people, no text (Very rare)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "נדיר מאד",
+"question": "איך היה הכסף בירושלים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a7/p1",
+"en": "a heavy locked wooden cabinet in a dark stone room, no people, no text (Locked in cabinets)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "סגור בארונות",
+"question": "איך היה הכסף בירושלים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a7/p2",
+"en": "a paved street with silver and gold vessels piled like ordinary stones along the sides, sunny, no people, no text (Like stones)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "כאבנים",
+"question": "איך היה הכסף בירושלים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a8/p0",
+"en": "an empty road leading away from a stone city into the desert, no people, no text (He left)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "הוא עזב את המלכות",
+"question": "מה קרה לשלמה אחרי הלילה בגבעון?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a8/p1",
+"en": "a simple crown on a wooden throne in a bright stone hall, no people, no text (He reigned)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "הוא מלך על ישראל",
+"question": "מה קרה לשלמה אחרי הלילה בגבעון?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/a8/p2",
+"en": "a caravan route with a pyramid shape far on the horizon, no people, no text (He went to Egypt)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "הוא ירד למצרים",
+"question": "מה קרה לשלמה אחרי הלילה בגבעון?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/b1",
+"en": "H: a wise bearded elder in ancient robes holding a staff beside a young king, both looking toward a mountain at sunrise, quiet reverent mood, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה מוכיחה הבקשה של שלמה לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/b2",
+"en": "H: a long line of ancient men waiting in a stone courtyard with scrolls and small bundles, a young king in a simple crown at a table listening to the first of them, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "למה שלמה צריך דוקא חכמה, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/b3",
+"en": "H: a young king of Judah with a simple crown looking at a vast crowd of tents spread across a valley at sunset, thoughtful expression, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה שלמה אומר לה׳ על המלכות, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/b4",
+"en": "H: a wise young king beside an open window with a blank rolled scroll, golden light, a branch of grapevine outside; behind him a table with gold and fruit, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה למדנו מרש״י על החכמה שנתן ה׳ לשלמה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/b5",
+"en": "H: four simple objects on a stone table: a golden crown, a heavy sack of silver, a sword in a scabbard, an hourglass of sand, with a closed blank scroll glowing in the middle, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה מלמד הענין ששלמה לא בקש עשר, כבוד ונצחון?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/b6",
+"en": "H: a joyful crowd of ancient men and boys cheering on the road into Jerusalem while a young king with a simple crown waves from a stone gate, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "למה העם קבלו את שלמה למלך, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-01/b7",
+"en": "H: a stone altar with a small fire and a ram offering, priests in white nearby, and in the distance the tent of meeting at Gibeon in the early morning, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה הסדר הנכון בלילה בגבעון, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a1/p0",
+"en": "a stone treasury room with silver and gold vessels on shelves, no people, no text (Silver and gold)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "כסף וזהב של דוד",
+"question": "מה שלמה מביא לאוצרות בית האלהים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a1/p1",
+"en": "stacked cut stones and cedar logs in a yard, no people, no text (Stones and wood)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "אבנים ועצים מן הלבנון",
+"question": "מה שלמה מביא לאוצרות בית האלהים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a1/p2",
+"en": "folded cloth and baskets of bread on a table, no people, no text (Clothes and bread)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בגדים ולחם לכל העם",
+"question": "מה שלמה מביא לאוצרות בית האלהים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a2/p0",
+"en": "baskets of wheat and first grapes on a stone table, no people, no text (Shavuot)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שבועות",
+"question": "באיזה חג התכנסו בירושלים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a2/p1",
+"en": "a leafy sukkah hut with palm branch roof and a citron and lulav on a table, no people, no text (Sukkot)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "סכות",
+"question": "באיזה חג התכנסו בירושלים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a2/p2",
+"en": "a plate of flat matzah and a cup of wine on a table, no people, no text (Passover)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "פסח",
+"question": "באיזה חג התכנסו בירושלים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a3/p0",
+"en": "a large plain wooden table with carved legs, no people, no text (A big table)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שלחן עץ גדול",
+"question": "מה הכהנים נושאים לבית החדש?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a3/p1",
+"en": "heavy locked chests of jewels and coins, no people, no text (The king's treasures)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "את אוצרות המלך",
+"question": "מה הכהנים נושאים לבית החדש?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a3/p2",
+"en": "a golden covered chest with two carrying poles resting on a stone stand, no people, no text (The Ark)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "את ארון הברית",
+"question": "מה הכהנים נושאים לבית החדש?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a4/p0",
+"en": "two plain stone tablets resting inside an open golden chest, no people, no text (Two tablets)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שני הלחות",
+"question": "מה היה בתוך הארון?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a4/p1",
+"en": "an open golden chest full of gold bars and bright jewels, no people, no text (Gold and gems)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "זהב ואבנים טובות",
+"question": "מה היה בתוך הארון?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a4/p2",
+"en": "an open golden chest holding only gold bars, no people, no text (Only gold)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "זהב בלבד",
+"question": "מה היה בתוך הארון?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a5/p0",
+"en": "instruments scattered far apart on the ground of a large empty courtyard, no people, no text (Each separately)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "כל אחד לחוד",
+"question": "איך נשמע השיר של הלוים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a5/p1",
+"en": "trumpets, harps and cymbals lined up together in a row on a stone platform with warm light, no people, no text (As one voice)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "כקול אחד",
+"question": "איך נשמע השיר של הלוים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a5/p2",
+"en": "an empty stone hall with silent instruments covered in cloth, no people, no text (In silence)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בשקט",
+"question": "איך נשמע השיר של הלוים?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a6/p0",
+"en": "a stone temple hall filled with soft white cloud around the pillars, no people, no text (A cloud)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "ענן",
+"question": "מה היה הסימן שה׳ בחר לגור בבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a6/p1",
+"en": "a stone hall with water lapping against the pillars, no people, no text (Much water)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "מים רבים",
+"question": "מה היה הסימן שה׳ בחר לגור בבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a6/p2",
+"en": "a stone hall with straight golden beams of light from the roof, no people, no text (Golden light)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "אור של זהב",
+"question": "מה היה הסימן שה׳ בחר לגור בבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a7/p0",
+"en": "dark rain clouds pouring rain on a stone courtyard, no people, no text (Heavy rain)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "גשם רב",
+"question": "מה ירד מהשמים אחרי תפלת שלמה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a7/p1",
+"en": "small white flakes covering the ground of a courtyard, no people, no text (Manna)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "מן לעם",
+"question": "מה ירד מהשמים אחרי תפלת שלמה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a7/p2",
+"en": "a large bronze altar with fire coming down from the clouds onto the offerings, no people, no text (Fire)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "אש",
+"question": "מה ירד מהשמים אחרי תפלת שלמה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a8/p0",
+"en": "seven lit oil lamps in a straight row on a stone shelf, no people, no text (Seven days)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שבעה",
+"question": "כמה ימים עשו חנכה לבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a8/p1",
+"en": "three lit oil lamps in a row on a stone shelf, no people, no text (Three days)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שלושה",
+"question": "כמה ימים עשו חנכה לבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/a8/p2",
+"en": "twelve lit oil lamps in two rows on a stone shelf, no people, no text (Twelve days)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שנים עשר",
+"question": "כמה ימים עשו חנכה לבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/b1",
+"en": "H: a crowd of elders with long white beards gathered on the steps of a stone hall in Jerusalem, a young king in a simple crown speaking to them, calm morning, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה היתה החכמה בכך ששלמה הקהיל את הזקנים, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/b2",
+"en": "H: an old worn tent with embroidered curtains folded carefully and placed in a stone storeroom lit by a small oil lamp, wooden poles leaning against the wall, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה עשה שלמה עם אהל מועד שעשה משה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/b3",
+"en": "H: a large group of priests in white linen filling a stone courtyard, many carrying bowls, all eager and close together, smoke from the great altar rising behind them, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "למה כל הכהנים התקדשו בחנכה, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/b4",
+"en": "H: many different musical instruments (harps, lyres, cymbals, silver trumpets) arranged together on the Temple steps in warm morning light, with a few musicians in white linen playing, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה למדנו מן המלים ׳ויהי כאחד׳?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/b5",
+"en": "H: a man and his son walking with open hands toward the ancient Temple in the evening with a lamp, singing quietly, doves on the wall, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "איזה שיר שרו הלוים, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/b6",
+"en": "H: an ancient stone courtyard prepared for a holiday: tall menorah-like lampstands, a long table with fruit and branches, a calm warm evening, no people, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה עשו ביום השמיני, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-02/b7",
+"en": "H: men and boys in festive robes embracing each other warmly outside a stone gate of Jerusalem before heading home, happy faces, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "על מה שמחו ׳לדוד ולשלמה׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a1/p0",
+"en": "a raised round bronze platform in a stone courtyard in morning light, no people, no text (Bronze platform)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "על כיור נחשת",
+"question": "על מה שלמה עומד כשהוא מתפלל?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a1/p1",
+"en": "a large golden throne with lion carvings in a hall, no people, no text (Golden throne)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "על כסא זהב גדול",
+"question": "על מה שלמה עומד כשהוא מתפלל?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a1/p2",
+"en": "a flat roof of a stone palace under the sky, no people, no text (Palace roof)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "על גג הארמון",
+"question": "על מה שלמה עומד כשהוא מתפלל?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a2/p0",
+"en": "the sun and the moon over rolling hills, no people, no text (Sun and moon)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "השמש והירח",
+"question": "מה ה׳ שומר להולכים לפניו?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a2/p1",
+"en": "a rolled scroll tied with a ribbon beside a glowing oil lamp, no people, no text (Covenant and kindness)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "הברית והחסד",
+"question": "מה ה׳ שומר להולכים לפניו?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a2/p2",
+"en": "sheep and cattle resting in a green field, no people, no text (Sheep and cattle)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "את כל הצאן והבקר",
+"question": "מה ה׳ שומר להולכים לפניו?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a3/p0",
+"en": "a very large stone temple towering over small houses, no people, no text (Too big for the people)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "גדול מאד לעם",
+"question": "מה אמר שלמה על הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a3/p1",
+"en": "a gleaming golden temple beside a plain cloudy sky, no people, no text (Prettier than the heavens)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "יפה מכל השמים",
+"question": "מה אמר שלמה על הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a3/p2",
+"en": "a small stone temple under an enormous sky full of stars, no people, no text (Too small for God)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "קטן בשביל ה'",
+"question": "מה אמר שלמה על הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a4/p0",
+"en": "a stone temple with the sun and the moon both in the sky above it, no people, no text (Day and night)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "יומם ולילה",
+"question": "מתי עיני ה׳ פתוחות אל הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a4/p1",
+"en": "a stone temple at dawn on the left and the same temple at dusk on the right, no people, no text (Morning and evening)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "רק בבקר ובערב",
+"question": "מתי עיני ה׳ פתוחות אל הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a4/p2",
+"en": "a stone temple decorated with palm branches and lanterns, no people, no text (Only on a holiday)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "רק בחג",
+"question": "מתי עיני ה׳ פתוחות אל הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a5/p0",
+"en": "a lone empty throne in a quiet stone hall, no people, no text (Only the king)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "רק המלך",
+"question": "מי עוד יכול להתפלל בבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a5/p1",
+"en": "folded white priestly robes on a stone bench, no people, no text (Only the priests)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "רק הכהנים",
+"question": "מי עוד יכול להתפלל בבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a5/p2",
+"en": "a long road from a distant desert land leading to a stone temple on a hill, no people, no text (Also a foreigner)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "גם הנכרי",
+"question": "מי עוד יכול להתפלל בבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a6/p0",
+"en": "a barren empty desert with no road, no people, no text (They stay far away)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "נשארים רחוקים",
+"question": "מה עושים הגולים כשהם שבים אל לבם?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a6/p1",
+"en": "a road winding back toward the walls of Jerusalem at sunrise, no people, no text (They return)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שבים בכל לב",
+"question": "מה עושים הגולים כשהם שבים אל לבם?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a6/p2",
+"en": "a stone temple covered in vines and dust, abandoned, no people, no text (They forget the house)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שוכחים את הבית",
+"question": "מה עושים הגולים כשהם שבים אל לבם?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a7/p0",
+"en": "a stone temple glowing softly under a starry night sky, no people, no text (I heard your prayer)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שמעתי את תפלתך",
+"question": "מה אמר ה׳ לשלמה בלילה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a7/p1",
+"en": "a dark closed stone temple under thick storm clouds, no people, no text (I did not hear)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "לא שמעתי",
+"question": "מה אמר ה׳ לשלמה בלילה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a7/p2",
+"en": "building plans and cut stones laid out on a hill at night, no people, no text (Build another house)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בנה בית במקום אחר",
+"question": "מה אמר ה׳ לשלמה בלילה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a8/p0",
+"en": "a dry cracked field under heavy dark clouds, no people, no text (Angry and leaves)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "כועס ונוטש אותם",
+"question": "מה ה׳ עושה כשהעם נכנע ושב?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a8/p1",
+"en": "a green healed field under bright sun after rain with a rainbow, no people, no text (Hears, forgives, heals)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שומע, סולח ורופא",
+"question": "מה ה׳ עושה כשהעם נכנע ושב?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/a8/p2",
+"en": "a closed wooden door in a plain stone wall, no people, no text (Silent forever)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שותק ללא סוף",
+"question": "מה ה׳ עושה כשהעם נכנע ושב?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/b1",
+"en": "H: a tall round bronze basin on a stone platform in a temple courtyard with a king standing on it and a vast crowd beneath, seen from the back, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "למה הפסוק מספר על הכיור באמצע התפלה, לפי רש״י ומצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/b2",
+"en": "H: a small stone house on a hill beneath a huge dome of sky filled with clouds, tiny pilgrims approaching it, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה מלמד ׳האמנם ישב אלהים את האדם׳ על הבית?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/b3",
+"en": "H: an ancient man with open hands whispering a prayer alone in a quiet stone corridor, a ray of lamplight on his face, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מהי ׳הרנה׳ שה׳ שומע, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/b4",
+"en": "H: a foreign traveler with a worn bag arriving at an ancient stone gate with a hopeful look, a guard welcoming him, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "למה כתוב בנכרי ׳ככל אשר יקרא׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/b5",
+"en": "H: three clay jars on a table: one with dry grass, one with locusts drawn on its side, one with wilted flowers, and a pair of open hands above them, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה הן ׳שלוש כנגד שלוש׳ שרש״י מונה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/b6",
+"en": "H: an old wooden chest with poles being carried by priests to a new stone chamber at the end of a long road, soft light, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה מבאר רש״י ב׳קומה ה׳ לנוחך׳?",
+"section": ""
+},
+{
+"id": "hq/divrei2-03/b7",
+"en": "H: a quiet courtyard of an ancient temple at night with a lamp on the wall and a single dove sleeping near the lamp, peaceful, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה מלמד ׳והיו עיני ולבי שם כל הימים׳, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a1/p0",
+"en": "a straight clear road leading up to a stone temple on a hill in bright sun, no people, no text (Good and straight)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "הטוב והישר",
+"question": "איך אסא עושה בעיני ה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a1/p1",
+"en": "a huge pile of gold and jewels in a palace room, no people, no text (Big and rich)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "הגדול והעשיר",
+"question": "איך אסא עושה בעיני ה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a1/p2",
+"en": "a heavy dark iron fortress with thick gates, no people, no text (Strong and feared)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "החזק והמפחד",
+"question": "איך אסא עושה בעיני ה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a2/p0",
+"en": "rows of army tents and spears on a field, no people, no text (Build a big army)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "לבנות צבא",
+"question": "מה אסא אומר ליהודה לעשות?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a2/p1",
+"en": "an open scroll and a glowing oil lamp on a wooden table, no people, no text (Seek God)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "לדרוש את ה'",
+"question": "מה אסא אומר ליהודה לעשות?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a2/p2",
+"en": "a border stone and a map scroll on a rock, no people, no text (Widen the border)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "להרחיב את הגבול",
+"question": "מה אסא אומר ליהודה לעשות?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a3/p0",
+"en": "a walled town with towers, gates and bars on a hill, no people, no text (Fortified cities)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "ערי מצורה",
+"question": "מה אסא בונה בשנים השקטות?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a3/p1",
+"en": "a huge palace with many golden domes, no people, no text (A giant palace)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "ארמון ענק",
+"question": "מה אסא בונה בשנים השקטות?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a3/p2",
+"en": "a long stone bridge over a wide river, no people, no text (A bridge)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "גשר על הנהר",
+"question": "מה אסא בונה בשנים השקטות?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a4/p0",
+"en": "a medium camp of tents on one hill, no people, no text (Asa's army)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "של אסא",
+"question": "הצבא של מי היה גדול יותר?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a4/p1",
+"en": "two equal camps of tents facing each other across a valley, no people, no text (Equal)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "שניהם שוים",
+"question": "הצבא של מי היה גדול יותר?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a4/p2",
+"en": "a huge camp of countless tents filling an entire valley, no people, no text (Zerah's army)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "של זרח",
+"question": "הצבא של מי היה גדול יותר?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a5/p0",
+"en": "a hilltop at dawn with soft rays of light and a stone altar, no people, no text (Help us)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "עזרנו ה'",
+"question": "מה אסא אומר לה׳ בתפלה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a5/p1",
+"en": "a large armory room full of spears and shields, no people, no text (Give us more soldiers)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "תן לנו עוד חילים",
+"question": "מה אסא אומר לה׳ בתפלה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a5/p2",
+"en": "a single empty tent alone on a dark plain, no people, no text (Save only me)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "הצל אותי לבד",
+"question": "מה אסא אומר לה׳ בתפלה?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a6/p0",
+"en": "a vast camp of tents with many banners, no people, no text (The big army)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בזכות החיל",
+"question": "בעזרת מי אסא נצח?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a6/p1",
+"en": "a valley at sunrise with dust settling and light on the hills, no people, no text (With God's help)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בעזרת ה' לבדו",
+"question": "בעזרת מי אסא נצח?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a6/p2",
+"en": "a strong walled town with tall towers, no people, no text (The strong cities)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בגלל הערים החזקות",
+"question": "בעזרת מי אסא נצח?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a7/p0",
+"en": "two lit oil lamps burning side by side on a stone shelf, no people, no text (God is with him who is with Him)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "ה' עם מי שעמו",
+"question": "מה הנביא עזריהו אומר לאסא?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a7/p1",
+"en": "a golden crown on a high shelf in a stone hall, no people, no text (The king is always right)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "המלך תמיד צודק",
+"question": "מה הנביא עזריהו אומר לאסא?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a7/p2",
+"en": "piles of coins and gold cups on a table, no people, no text (Everyone will be rich)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "כלם עשירים",
+"question": "מה הנביא עזריהו אומר לאסא?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a8/p0",
+"en": "a long festive table with fruit and bread in a courtyard, no people, no text (A party for the king)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "חוגגים למלך",
+"question": "מה העם עושה בחצוצרות ובשופרות?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a8/p1",
+"en": "silver trumpets and shofars lying on the steps of a stone altar, no people, no text (They swear to seek God)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "נשבעים לדרש את ה'",
+"question": "מה העם עושה בחצוצרות ובשופרות?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/a8/p2",
+"en": "war banners standing in a row on a hill, no people, no text (They go to battle)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "יוצאים למלחמה הגדולה",
+"question": "מה העם עושה בחצוצרות ובשופרות?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/b1",
+"en": "H: an ancient road through hills with a family altar of stones in a quiet field, an old bearded man pointing a young man toward it, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה מלמדת המלה ׳אבותיהם׳ על הדרך של אסא, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/b2",
+"en": "H: a stone city with a thick wall and a watchtower on a calm sunny day, builders carrying stones, shepherd with sheep outside the wall, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "למה אסא בונה ערים בזמן ששקט, לפי רש״י ומצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/b3",
+"en": "H: a king kneeling beside a heap of stones on a hill and looking at a vast army in the distance, hands open in prayer, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "במה אסא מתחיל את התפלה, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/b4",
+"en": "H: an empty old stone synagogue-like hall with dusty benches and unlit lamps, a single scroll covered with cloth on a table, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה היה חסר לישראל כשלא היה ׳כהן מורה׳?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/b5",
+"en": "H: a man standing at a crossroad at dusk looking back toward a road lit by a lantern, deciding to return, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "למה ה׳ נמצא להם כשבאה צרה, לפי רש״י ומצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/b6",
+"en": "H: a king handing a heavy bag of silver to a messenger on the steps of a palace, while a prophet stands quietly behind them, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה חנני הנביא מזכיר לאסא, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/divrei2-04/b7",
+"en": "H: an older king sitting on a bed with a bandaged foot, an ancient healer beside him with jars of herbs, a quiet room with an open window, no text",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "",
+"question": "מה היתה הטעות של אסא בחליו, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-05/a1/p0",
+"en": "a harp and a shepherd staff resting on a rock beside a bright path, no people, no text (David's ways)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בדרכי דוד אביו",
+"question": "בדרכי מי הלך יהושפט?",
+"section": ""
+},
+{
+"id": "hq/divrei2-05/a1/p1",
+"en": "a distant northern palace on a hill at the end of a long road, no people, no text (Northern kings' ways)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בדרכי מלכי ישראל הרחוקים",
+"question": "בדרכי מי הלך יהושפט?",
+"section": ""
+},
+{
+"id": "hq/divrei2-05/a1/p2",
+"en": "a crossroads with signposts but no writing in a dry land, no people, no text (The neighbors' ways)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בדרכי השכנים",
+"question": "בדרכי מי הלך יהושפט?",
+"section": ""
+},
+{
+"id": "hq/divrei2-05/a2/p0",
+"en": "a heap of silver and gold coins in a treasury, no people, no text (In silver and gold)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בכסף וזהב",
+"question": "במה גבה לבו של יהושפט?",
+"section": ""
+},
+{
+"id": "hq/divrei2-05/a2/p1",
+"en": "a bright straight path rising up a green hill toward a temple, no people, no text (In God's ways)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בדרכי ה' הטובות",
+"question": "במה גבה לבו של יהושפט?",
+"section": ""
+},
+{
+"id": "hq/divrei2-05/a2/p2",
+"en": "a large army camp with many tents on a plain, no people, no text (In a big army)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "בצבא גדול",
+"question": "במה גבה לבו של יהושפט?",
+"section": ""
+},
+{
+"id": "hq/divrei2-05/a3/p0",
+"en": "a map-like hilly landscape with many small stone towns spread across it, no people, no text (All the cities of Judah)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "לכל ערי יהודה",
+"question": "לאן הוא שלח את השרים ללמד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-05/a3/p1",
+"en": "one big walled city on a single hill, no people, no text (Only Jerusalem)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "רק לירושלים",
+"question": "לאן הוא שלח את השרים ללמד?",
+"section": ""
+},
+{
+"id": "hq/divrei2-05/a3/p2",
+"en": "pyramids on a desert horizon, no people, no text (To Egypt)",
+"topic": "🎺 דברי הימים ב׳",
+"caption": "למצרים",
+"question": "לאן הוא שלח את השרים ללמד?",
+"section": ""
+}
+]

@@ -174,15 +174,37 @@ OG = r"C:\og-ai"
 TN = r"C:\YUDA\איורי סיפורי התנאים"
 
 
+def _og_v2():
+    """s-<sha1(path)[:14]>.png - share-preview drawings v2 for the sfarim site (C:/sfarim-og/v2, 27-28.11.2026, Gemini/AGY):
+    page title, description and prompt from work.json and out/bNN.json, engine from gen.log."""
+    import hashlib, re
+    v2 = r"C:\sfarim-og\v2"
+    if not os.path.exists(os.path.join(v2, "work.json")):
+        return {}
+    W = json.load(open(os.path.join(v2, "work.json"), encoding="utf-8"))
+    eng = {}
+    for l in open(os.path.join(v2, "gen.log"), encoding="utf-8"):
+        m = re.search(r" ok (\w+) (s-[0-9a-f]+)", l)
+        if m: eng[m.group(2)] = "gemini" if m.group(1) == "gem" else "agy"
+    out = {}
+    for f in glob.glob(os.path.join(v2, "out", "b*.json")):
+        for k, v in json.load(open(f, encoding="utf-8")).items():
+            if not v.get("p"): continue
+            w = W[int(k)]; key = "s-" + hashlib.sha1(w["path"].encode()).hexdigest()[:14]
+            out[key] = dict(title=w.get("title", ""), desc=v.get("d", ""), p=v["p"], engine=eng.get(key, "gemini"))
+    return out
+
+
 def og():
     """og-ai: ציורי צבעי מים (Codex) שצוירו כתמונות שיתוף לעמודי האתר. אין תיאור של מה שמצויר – רק שם העמוד;
     התיאור, התגיות והבדיקה (נשים/טקסט) – בתיוג עם ראייה (TAG_VISION.md). נכנסים לגלריה רק אחרי review ok."""
     jobs = {j["key"]: j for j in json.load(open(os.path.join(OG, "jobs.json"), encoding="utf-8"))}
+    jobs.update(_og_v2())
     items = []
     for f in sorted(glob.glob(os.path.join(OG, "img", "*.png"))):
         stem = os.path.basename(f)[:-4]
         j = jobs.get(stem, {})
-        items.append(dict(id="og/" + stem, source="og", engine="codex", style="watercolor", kind="scene", en="",
+        items.append(dict(id="og/" + stem, source="og", engine=j.get("engine", "codex"), style="watercolor", kind="scene", en=j.get("p", ""),
                           he_ctx={"page_title": plain(j.get("title", "")), "page_desc": plain(j.get("desc", ""))[:200]},
                           topic=["צבעי מים"], topic_key="og", reviewed=False, has_text=False,
                           files={"master": f, "web_url": ""}))
@@ -274,4 +296,48 @@ def ogmain():
                           he_ctx={"page_title": plain(j[1]), "page_desc": plain(j[2])},
                           topic=["צבעי מים"], topic_key="ogmain", reviewed=False, has_text=False,
                           files={"master": f, "web_url": ""}))
+    return items
+
+
+def oggedolim():
+    """כרטיסי ווטסאפ לדפי הרבנים gedolim/r/<slug>.html (Codex בגיליונות 2x2, 23.11.2026): C:\og-ai\img\gedolim\<slug>.jpg.
+    התיאור באנגלית ב-gedolim_prompts1..4.json, שם הרב ותיאורו ב-gedolim_missing.json. נבדקו בעין (בלי נשים, בלי טקסט)."""
+    d = r"C:\og-ai"
+    g = os.path.join(d, "img", "gedolim")
+    if not os.path.isdir(g):
+        return []
+    pr = {}
+    for f in glob.glob(os.path.join(d, "gedolim_prompts[0-9].json")):
+        pr.update({e["slug"]: e["prompt"] for e in json.load(open(f, encoding="utf-8"))})
+    mp = os.path.join(d, "gedolim_missing.json")
+    meta = {o["slug"]: o for o in json.load(open(mp, encoding="utf-8"))} if os.path.exists(mp) else {}
+    items = []
+    for f in sorted(glob.glob(os.path.join(g, "*.jpg"))):
+        stem = os.path.basename(f)[:-4]
+        m = meta.get(stem, {})
+        items.append(dict(id="oggedolim/" + stem, source="oggedolim", engine="codex", style="painterly", kind="scene",
+                          en=pr.get(stem, "")[:600],
+                          he_ctx={"page_title": plain(m.get("title", "")), "page_desc": plain(m.get("desc", "")[:300])},
+                          topic=["גדולי ישראל", plain(m.get("title", stem))], topic_key="oggedolim", reviewed=True,
+                          has_text=False, files={"master": f, "web_url": ""}))
+    return items
+
+
+def tiyul():
+    """איורים למקומות הטיול בדף /ata-tiyulim/ (Codex עם חיפוש ברשת על המקום, 26.11.2026) – רק למקומות שאין להם צילום חופשי.
+    ata-alfon/work/tiyul-img/codex/<id>.png; שם המקום ותיאורו מ-build.py. נבדקו בעין (בלי נשים, בלי טקסט)."""
+    d = r"C:\Users\User\ata-alfon\work\tiyul-img\codex"
+    nf = os.path.join(os.path.dirname(d), "names.txt")
+    if not os.path.isdir(d):
+        return []
+    names = dict(l.split(" ", 1) for l in open(nf, encoding="utf-8").read().splitlines() if " " in l) if os.path.exists(nf) else {}
+    items = []
+    for f in sorted(glob.glob(os.path.join(d, "*.png"))):
+        stem = os.path.basename(f)[:-4]
+        nm = plain(names.get(stem, stem))
+        items.append(dict(id="tiyul/" + stem, source="tiyul", engine="codex", style="painterly", kind="scene",
+                          en="Painterly illustration of a trip place in northern Israel: " + nm,
+                          he_ctx={"page_title": nm, "page_desc": "מקום טיול ליד קרית אתא"},
+                          topic=["טיולים", "ארץ ישראל", nm], topic_key="tiyul", reviewed=True, has_text=False,
+                          files={"master": f, "web_url": "https://yudataub.github.io/kol-toda-img-4/ata-tiyulim/img/%s.webp" % stem}))
     return items

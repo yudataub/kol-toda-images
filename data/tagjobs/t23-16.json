@@ -1,0 +1,3274 @@
+[
+{
+"id": "hq/yeshayahu-01/a7/p1",
+"en": "a single white cloud in a blue sky over green hills, no people, no text (Cloud)",
+"topic": "📜 ישעיהו",
+"caption": "ענן",
+"question": "כמו מה ילבינו החטאים אם נשוב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/a7/p2",
+"en": "a quiet snowy mountain landscape at sunrise with white snow covering the hills, no people, no text (Snow)",
+"topic": "📜 ישעיהו",
+"caption": "שלג",
+"question": "כמו מה ילבינו החטאים אם נשוב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/a8/p0",
+"en": "a hole in the ground with a small silver bowl being buried under soil, no people, no text (Buries in earth)",
+"topic": "📜 ישעיהו",
+"caption": "קובר באדמה",
+"question": "מה עושה הצורף כדי לנקות את הכסף?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/a8/p1",
+"en": "an ancient silversmith pouring glowing molten silver from a crucible over a bright fire, warm firelight, men only, no text (Through the fire)",
+"topic": "📜 ישעיהו",
+"caption": "מעביר באש",
+"question": "מה עושה הצורף כדי לנקות את הכסף?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/a8/p2",
+"en": "a silver bowl being rinsed under a stream of water at a stone basin, no people, no text (Washes in water)",
+"topic": "📜 ישעיהו",
+"caption": "שוטף במים",
+"question": "מה עושה הצורף כדי לנקות את הכסף?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/b1",
+"en": "H: a bearded prophet in fine ancient robes (Isaiah) seated in a stone room of a royal house in Jerusalem, a blank rolled scroll in front of him, a young king with a simple crown beside him as relatives, soft window light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, למה נקראת הנבואה הזאת ׳חזון׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/b2",
+"en": "H: wide dramatic landscape with a bright sky above and wide green hills below, a bearded prophet in ancient robes standing between them with open hands, two lines of light-colored clouds above and below, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מדוע הפך ישעיהו את לשון משה בשמים ובארץ?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/b3",
+"en": "H: a donkey at a feeding trough and an ox harnessed to a plow in a farmyard, a farmer in ancient clothes patting the donkey, warm light, simple stone barn, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי מצודת דוד, מה לומד ישראל מן החמור הסכל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/b4",
+"en": "H: a stone courtyard of an ancient Temple of Jerusalem seen from the outside, many pots and baskets of offerings left untouched, and a man sitting alone on the steps with his head bowed, calm light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי מצודת דוד, למה ה׳ אומר ׳למה לי רב זבחיכם׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/b5",
+"en": "H: ten stone steps leading up a hill toward ancient Jerusalem at dawn, a man in ancient robes walking up them one by one, a small shofar lying on the first step, golden sunrise, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, כנגד מה עשרה צוויי התשובה (׳רחצו... לכו׳)?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/b6",
+"en": "H: two men in ancient robes sitting face to face on a bench at a stone gate talking calmly, one has a red scarf and the other a white scarf, an open peaceful courtyard, warm light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה המשמעות של ׳לכו נא ונוכחה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-01/b7",
+"en": "H: a gate of ancient Jerusalem with returning male travelers entering through it carrying baskets of produce, honest judges in robes sitting at the gate, bright morning sun after rain, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י ומצודת דוד, על מה נבנית הגאלה ב׳ציון במשפט תפדה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a1/p0",
+"en": "the Temple Mount in Jerusalem with the stone Temple seen from outside on top of a high hill at sunrise, no people, no text (The Temple Mount)",
+"topic": "📜 ישעיהו",
+"caption": "הר בית ה׳",
+"question": "איזה הר יהיה ׳בראש ההרים׳ באחרית הימים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a1/p1",
+"en": "a long green ridge near the sea with cliffs, Mount Carmel, no people, no text (Mount Carmel)",
+"topic": "📜 ישעיהו",
+"caption": "הר הכרמל",
+"question": "איזה הר יהיה ׳בראש ההרים׳ באחרית הימים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a1/p2",
+"en": "a rugged rocky desert mountain with a flat dry plain around it, no people, no text (Mount Sinai)",
+"topic": "📜 ישעיהו",
+"caption": "הר סיני",
+"question": "איזה הר יהיה ׳בראש ההרים׳ באחרית הימים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a2/p0",
+"en": "a stone city wall with a tall wooden ladder leaning on it, no people, no text (To conquer)",
+"topic": "📜 ישעיהו",
+"caption": "לכבוש את העיר",
+"question": "מה העמים באים לעשות בהר ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a2/p1",
+"en": "men and boys in different ancient clothes sitting together on a hillside around an open scroll, listening, warm light, men and boys only, no text (To learn Torah)",
+"topic": "📜 ישעיהו",
+"caption": "ללמוד תורה",
+"question": "מה העמים באים לעשות בהר ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a2/p2",
+"en": "a market stall with baskets of goods and fruit under a cloth awning, no people, no text (To buy goods)",
+"topic": "📜 ישעיהו",
+"caption": "לקנות סחורה",
+"question": "מה העמים באים לעשות בהר ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a3/p0",
+"en": "two heavy iron hammers lying on a wooden workbench, no people, no text (Hammers)",
+"topic": "📜 ישעיהו",
+"caption": "פטישים",
+"question": "למה יהפכו את החרבות, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a3/p1",
+"en": "three kitchen knives lying on a wooden table, no people, no text (Knives)",
+"topic": "📜 ישעיהו",
+"caption": "סכינים",
+"question": "למה יהפכו את החרבות, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a3/p2",
+"en": "a plowshare, a flat iron digging blade, stuck in dark plowed soil in a green field, no people, no text (Plowshares)",
+"topic": "📜 ישעיהו",
+"caption": "אתים",
+"question": "למה יהפכו את החרבות, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a4/p0",
+"en": "a single old oil lantern glowing on a dark path, no people, no text (A lantern)",
+"topic": "📜 ישעיהו",
+"caption": "אור פנס",
+"question": "מה האור שבו מזמין ישעיהו את בית יעקב ללכת?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a4/p1",
+"en": "an open scroll resting on a stone table with warm golden sunrise light shining over it, no people, no text (Torah and mitzvot)",
+"topic": "📜 ישעיהו",
+"caption": "התורה והמצוות",
+"question": "מה האור שבו מזמין ישעיהו את בית יעקב ללכת?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a4/p2",
+"en": "a night sky full of bright stars over dark hills, no people, no text (Starlight)",
+"topic": "📜 ישעיהו",
+"caption": "אור הכוכבים",
+"question": "מה האור שבו מזמין ישעיהו את בית יעקב ללכת?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a5/p0",
+"en": "very tall cedar trees of Lebanon standing high on a mountain slope, no people, no text (Cedars of Lebanon)",
+"topic": "📜 ישעיהו",
+"caption": "ארזי הלבנון",
+"question": "מהו העץ הגבוה שהנביא מזכיר ביום ה׳ על כל הרמים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a5/p1",
+"en": "a grove of gnarled olive trees on a gentle hill, no people, no text (Olive trees)",
+"topic": "📜 ישעיהו",
+"caption": "עצי זית",
+"question": "מהו העץ הגבוה שהנביא מזכיר ביום ה׳ על כל הרמים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a5/p2",
+"en": "low fig trees with broad leaves near a stone wall, no people, no text (Fig trees)",
+"topic": "📜 ישעיהו",
+"caption": "עצי תאנה",
+"question": "מהו העץ הגבוה שהנביא מזכיר ביום ה׳ על כל הרמים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a6/p0",
+"en": "a thick high stone fortress wall with a heavy gate on a hill, no people, no text (His walls)",
+"topic": "📜 ישעיהו",
+"caption": "החומות שלו",
+"question": "על מה תלוי כחו של אדם, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a6/p1",
+"en": "a boy's warm breath visible as white mist in the cold air of an early morning, a boy in a kippah in profile, men and boys only, no text (His breathing)",
+"topic": "📜 ישעיהו",
+"caption": "הנשימה שלו",
+"question": "על מה תלוי כחו של אדם, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a6/p2",
+"en": "a heavy leather bag overflowing with gold and silver coins on a table, no people, no text (His money)",
+"topic": "📜 ישעיהו",
+"caption": "הכסף שלו",
+"question": "על מה תלוי כחו של אדם, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a7/p0",
+"en": "a rich man in fine ancient robes counting gold coins on a table, no text (The rich)",
+"topic": "📜 ישעיהו",
+"caption": "העשיר",
+"question": "על מי הנביא אומר ׳אמרו... כי טוב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a7/p1",
+"en": "a kind man in simple ancient robes giving a cup of water to a thirsty boy on a village road, warm light, men and boys only, no text (The righteous)",
+"topic": "📜 ישעיהו",
+"caption": "הצדיק",
+"question": "על מי הנביא אומר ׳אמרו... כי טוב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a7/p2",
+"en": "a strong man in ancient clothes lifting a heavy stone above his head in a field, no text (The strong)",
+"topic": "📜 ישעיהו",
+"caption": "הגיבור",
+"question": "על מי הנביא אומר ׳אמרו... כי טוב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a8/p0",
+"en": "a high stone wall around a city under a hot sun, no people, no text (A wall)",
+"topic": "📜 ישעיהו",
+"caption": "חומה",
+"question": "מה תהיה ׳לצל יומם מחרב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a8/p1",
+"en": "a simple sukkah hut made of wooden posts with a leafy green roof giving shade, no people, no text (A sukkah)",
+"topic": "📜 ישעיהו",
+"caption": "סוכה",
+"question": "מה תהיה ׳לצל יומם מחרב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/a8/p2",
+"en": "a tall round stone tower standing alone on a hill, no people, no text (A tower)",
+"topic": "📜 ישעיהו",
+"caption": "מגדל",
+"question": "מה תהיה ׳לצל יומם מחרב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/b1",
+"en": "H: the ancient Temple Mount glowing in morning light in the far distance, and nearer smaller mountains on both sides looking modest, a sense of wonder, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה פרוש ׳ונשא מגבעות׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/b2",
+"en": "H: a long stream of travelers flowing up a mountain path like a river, seen from far above, the path curving upward toward the ancient Temple of Jerusalem at the summit, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י ומצודת ציון, מה פרוש ׳ונהרו אליו כל הגוים׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/b3",
+"en": "H: an ancient stone house with an open wooden door and warm lamplight inside on a hill near Jerusalem at dusk, a bearded traveler with a staff approaching it with a smile, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, למה כתוב ׳בית אלהי יעקב׳ ולא אברהם או יצחק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/b4",
+"en": "H: a wise bearded judge in ancient robes sitting at a stone gate, listening calmly as two men from different nations shake hands, discarded swords lying on the ground beside them, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי מצודת דוד, מדוע לא תהיה עוד מלחמה בין העמים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/b5",
+"en": "H: a dark stormy sky over the ancient hills of Judah clearing on one side into a bright golden sunrise, a narrow path leading out of the shadow into the light, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה התפקיד של פסוק ה׳, ׳בית יעקב לכו ונלכה באור ה׳׳, בנבואה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/b6",
+"en": "H: a very tall stone watchtower beside tall cedar trees, and a much humbler bearded man in simple robes bowing his head in prayer at its foot, wide landscape, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה פרוש ׳עיני גבהות אדם׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-02/b7",
+"en": "H: in an ancient town square a group of men holding out a fine folded cloak to a reluctant young man who shakes his head and raises his hands, simple stone houses around, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י (בדרך הדרש), מה פרוש ׳שמלה לכה קצין תהיה לנו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a1/p0",
+"en": "a sandy seashore with gentle waves and a few rocks, no people, no text (By the sea)",
+"topic": "📜 ישעיהו",
+"caption": "על חוף הים",
+"question": "איפה עמד הכרם של הידיד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a1/p1",
+"en": "a dry desert with sand dunes and a few dry bushes, no people, no text (In the desert)",
+"topic": "📜 ישעיהו",
+"caption": "במדבר יבש",
+"question": "איפה עמד הכרם של הידיד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a1/p2",
+"en": "a green fertile hill with rows of vines and rich dark soil under a sunny sky, no people, no text (On a fertile hill)",
+"topic": "📜 ישעיהו",
+"caption": "על גבעה פורה",
+"question": "איפה עמד הכרם של הידיד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a2/p0",
+"en": "large red apples growing on a leafy branch, no people, no text (Big apples)",
+"topic": "📜 ישעיהו",
+"caption": "תפוחים גדולים",
+"question": "מה גדל בכרם במקום ענבים מתוקים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a2/p1",
+"en": "a bunch of small dark shriveled sour grapes hanging on a vine with dry leaves, no people, no text (Sour grapes)",
+"topic": "📜 ישעיהו",
+"caption": "ענבים חמוצים",
+"question": "מה גדל בכרם במקום ענבים מתוקים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a2/p2",
+"en": "a palm tree with a cluster of sweet orange dates, no people, no text (Dates)",
+"topic": "📜 ישעיהו",
+"caption": "תמרים",
+"question": "מה גדל בכרם במקום ענבים מתוקים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a3/p0",
+"en": "two men in ancient robes shaking hands over a small bag of coins in front of a vineyard, no text (Buy the vineyard)",
+"topic": "📜 ישעיהו",
+"caption": "שיקנו את הכרם",
+"question": "מה הבעל מבקש מיושבי ירושלים ואיש יהודה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a3/p1",
+"en": "wise men in ancient robes sitting as judges on stone benches at a city gate facing a vineyard, calm light, men only, no text (Judge between us)",
+"topic": "📜 ישעיהו",
+"caption": "שיפטו בינו לכרמו",
+"question": "מה הבעל מבקש מיושבי ירושלים ואיש יהודה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a3/p2",
+"en": "men in ancient clothes building a small stone house with bricks on a hill, no text (Build a house)",
+"topic": "📜 ישעיהו",
+"caption": "שיבנו לו בית",
+"question": "מה הבעל מבקש מיושבי ירושלים ואיש יהודה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a4/p0",
+"en": "colorful wildflowers in a green meadow, no people, no text (Colorful flowers)",
+"topic": "📜 ישעיהו",
+"caption": "פרחים צבעוניים",
+"question": "מה יעלה בכרם אחרי שהבעל יסיר את המשוכה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a4/p1",
+"en": "a broken old stone fence with dry thorn bushes and wild weeds growing in a neglected field, no people, no text (Thorns and weeds)",
+"topic": "📜 ישעיהו",
+"caption": "קוצים ועשבים",
+"question": "מה יעלה בכרם אחרי שהבעל יסיר את המשוכה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a4/p2",
+"en": "young fruit trees with ripe fruit in a tidy orchard, no people, no text (Fruit trees)",
+"topic": "📜 ישעיהו",
+"caption": "עצי פרי",
+"question": "מה יעלה בכרם אחרי שהבעל יסיר את המשוכה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a5/p0",
+"en": "Mount Zion with the walls of Jerusalem on a hill at sunrise, no people, no text (Mount Zion)",
+"topic": "📜 ישעיהו",
+"caption": "הר ציון",
+"question": "מי הוא הכרם בנמשל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a5/p1",
+"en": "a large group of men and boys in ancient clothes standing together on a green hill among vines, warm light, men and boys only, no text (House of Israel)",
+"topic": "📜 ישעיהו",
+"caption": "בית ישראל",
+"question": "מי הוא הכרם בנמשל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a5/p2",
+"en": "a wide landscape of green fields, forests and distant mountains under a blue sky, no people, no text (The whole earth)",
+"topic": "📜 ישעיהו",
+"caption": "כל האדמה",
+"question": "מי הוא הכרם בנמשל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a6/p0",
+"en": "a row of tiny small stone houses in a small village, no people, no text (Houses get small)",
+"topic": "📜 ישעיהו",
+"caption": "הבתים קטנים",
+"question": "מה קורה כשקונים בתים ושדות עד אפס מקום?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a6/p1",
+"en": "a row of big stone houses packed tightly together with no space left, and one small boy standing alone outside the wall, men and boys only, no text (No room for the weak)",
+"topic": "📜 ישעיהו",
+"caption": "אין מקום לחלש",
+"question": "מה קורה כשקונים בתים ושדות עד אפס מקום?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a6/p2",
+"en": "men and boys in ancient clothes sitting together happily at one long wooden table in a courtyard, men and boys only, no text (All live together)",
+"topic": "📜 ישעיהו",
+"caption": "כולם גרים יחד",
+"question": "מה קורה כשקונים בתים ושדות עד אפס מקום?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a7/p0",
+"en": "a pile of gold and silver coins on a table, no people, no text (Their money)",
+"topic": "📜 ישעיהו",
+"caption": "הכסף שלהם",
+"question": "את מה הנביא מבקש שיביטו במשתה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a7/p1",
+"en": "a beautiful wide sunrise landscape with green hills, a river and blooming trees, no people, no text (The works of God)",
+"topic": "📜 ישעיהו",
+"caption": "פועל ה׳",
+"question": "את מה הנביא מבקש שיביטו במשתה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a7/p2",
+"en": "men in ancient clothes playing a harp, a drum and a flute together at a feast, men only, no text (The musicians)",
+"topic": "📜 ישעיהו",
+"caption": "המנגנים",
+"question": "את מה הנביא מבקש שיביטו במשתה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a8/p0",
+"en": "the blue sea meeting a sandy shore with waves, no people, no text (Sea and land)",
+"topic": "📜 ישעיהו",
+"caption": "ים ויבשה",
+"question": "למי דומה מי שמחליף בין טוב לרע?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a8/p1",
+"en": "a burning candle glowing on a table next to a completely dark window at night, no people, no text (Light and darkness)",
+"topic": "📜 ישעיהו",
+"caption": "אור וחושך",
+"question": "למי דומה מי שמחליף בין טוב לרע?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/a8/p2",
+"en": "one tree with green leaves next to one snowy bare tree, no people, no text (Summer and winter)",
+"topic": "📜 ישעיהו",
+"caption": "קיץ וחורף",
+"question": "למי דומה מי שמחליף בין טוב לרע?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/b1",
+"en": "H: a bearded prophet in fine ancient robes (Isaiah) singing on a hillside, a friend in ancient robes listening from a vineyard path, soft morning light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מי ה׳ידיד׳ ובשליחות מי שר ישעיהו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/b2",
+"en": "H: close view of ancient vineyard work: stone wall being built, stones being cleared, and young vine cuttings being planted, a stone winepress cut in the rock, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה פרוש ׳ויסקלהו׳ במשל הכרם?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/b3",
+"en": "H: a golden cloud resting over an ancient desert camp of tents, with a wooden tabernacle of ancient design in the center and rows of ancient vines growing beside it, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה הנמשל של ׳ויבן מגדל בתוכו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/b4",
+"en": "H: an ancient vineyard owner with open hands looking at his vines with a gentle, sad expression, sunlight and a bowl of grapes on a stone, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י ומצודת דוד, מה משמעות השאלה ׳מה לעשות עוד לכרמי׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/b5",
+"en": "H: a pair of ancient scales balanced on a stone gate in the sun on one side and a tall quiet crowd of ancient men and boys outside the gate on the other, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה מיחד בצרוף ׳משפט – משפח׳ ו׳צדקה – צעקה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/b6",
+"en": "H: an ancient stone town with a tall rich man's house pushing against a tiny hut, a poor farmer's small field squeezed between them, wide view, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה הקשר בין עשרים ושנים ׳אשרי׳ לעשרים ושנים ׳הוי׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-03/b7",
+"en": "H: an ancient man tasting honey on a spoon and smiling, bright morning window behind him, a jar of honey and a jar of bitter herbs on a table, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה הטעות של מי שאומר ׳שמים... מתוק למר׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a1/p0",
+"en": "a rugged rocky desert mountain under a clear sky, no people, no text (Mount Sinai)",
+"topic": "📜 ישעיהו",
+"caption": "בהר סיני",
+"question": "באיזה מקום ראה ישעיהו את מלכות ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a1/p1",
+"en": "an empty sandy desert with dunes and a few dry bushes, no people, no text (In the desert)",
+"topic": "📜 ישעיהו",
+"caption": "במדבר",
+"question": "באיזה מקום ראה ישעיהו את מלכות ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a1/p2",
+"en": "the stone Temple of Jerusalem seen from outside with its courtyard walls at dawn, no people, no text (The Temple)",
+"topic": "📜 ישעיהו",
+"caption": "בבית המקדש",
+"question": "באיזה מקום ראה ישעיהו את מלכות ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a2/p0",
+"en": "only soft white clouds in a wide blue sky, no people, no text (Only the sky)",
+"topic": "📜 ישעיהו",
+"caption": "רק השמים",
+"question": "מה מלא בכבוד ה׳, לפי השיר ששמע ישעיהו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a2/p1",
+"en": "a wide beautiful world of green hills, a river, flowers and forests under the sun, no people, no text (All the earth)",
+"topic": "📜 ישעיהו",
+"caption": "כל הארץ",
+"question": "מה מלא בכבוד ה׳, לפי השיר ששמע ישעיהו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a2/p2",
+"en": "the stone Temple of Jerusalem seen from outside, nothing else around, no people, no text (Only the Temple)",
+"topic": "📜 ישעיהו",
+"caption": "רק בית המקדש",
+"question": "מה מלא בכבוד ה׳, לפי השיר ששמע ישעיהו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a3/p0",
+"en": "water flowing over a stone floor in a doorway, no people, no text (Water)",
+"topic": "📜 ישעיהו",
+"caption": "מים",
+"question": "מה התמלא בבית מקול הקורא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a3/p1",
+"en": "a bright white beam of light in a dark empty stone hall, no people, no text (Light)",
+"topic": "📜 ישעיהו",
+"caption": "אור",
+"question": "מה התמלא בבית מקול הקורא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a3/p2",
+"en": "thick gray smoke rising from the roof and doorway of the stone Temple seen from outside, no people, no text (Smoke)",
+"topic": "📜 ישעיהו",
+"caption": "עשן",
+"question": "מה התמלא בבית מקול הקורא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a4/p0",
+"en": "a thin man in ancient robes flexing a weak arm and looking at it sadly, no text (His strength)",
+"topic": "📜 ישעיהו",
+"caption": "הכוח שלו",
+"question": "על מה ישעיהו חשש כשפגש את ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a4/p1",
+"en": "a bearded prophet in ancient robes standing outside the Temple courtyard with a hand over his mouth, head bowed, humble, no text (His speech)",
+"topic": "📜 ישעיהו",
+"caption": "הדיבור שלו",
+"question": "על מה ישעיהו חשש כשפגש את ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a4/p2",
+"en": "a man in ancient robes looking down at a torn and dusty hem of his robe, no text (His clothes)",
+"topic": "📜 ישעיהו",
+"caption": "הבגד שלו",
+"question": "על מה ישעיהו חשש כשפגש את ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a5/p0",
+"en": "a glowing ember held in iron tongs above a stone altar with a small flame, no people, no text (Coal from the altar)",
+"topic": "📜 ישעיהו",
+"caption": "גחלת מהמזבח",
+"question": "מה נגע בפי הנביא כדי לטהר אותו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a5/p1",
+"en": "a clay cup of cold water on a stone table, no people, no text (Cold water)",
+"topic": "📜 ישעיהו",
+"caption": "כוס מים",
+"question": "מה נגע בפי הנביא כדי לטהר אותו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a5/p2",
+"en": "one green leaf on a wooden table, no people, no text (A green leaf)",
+"topic": "📜 ישעיהו",
+"caption": "עלה ירוק",
+"question": "מה נגע בפי הנביא כדי לטהר אותו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a6/p0",
+"en": "a bearded prophet in ancient robes raising his hand eagerly on the stone steps outside the Temple, ready to go, warm light, no text (Here I am, send me)",
+"topic": "📜 ישעיהו",
+"caption": "הנני שלחני",
+"question": "מה ענה ישעיהו כשה׳ שאל ׳מי ילך לנו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a6/p1",
+"en": "a man in ancient robes stepping back and pointing at someone else behind him, no text (Send someone else)",
+"topic": "📜 ישעיהו",
+"caption": "שלח מישהו אחר",
+"question": "מה ענה ישעיהו כשה׳ שאל ׳מי ילך לנו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a6/p2",
+"en": "a man in ancient robes shaking his head with open empty hands, looking down, no text (I am not good enough)",
+"topic": "📜 ישעיהו",
+"caption": "אני לא מספיק טוב",
+"question": "מה ענה ישעיהו כשה׳ שאל ׳מי ילך לנו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a7/p0",
+"en": "a man in ancient robes with a travel bag walking angrily out through a city gate, no text (Angry and leaves)",
+"topic": "📜 ישעיהו",
+"caption": "כועס ועוזב",
+"question": "מה ישעיהו עושה כשהעם לא מקשיב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a7/p1",
+"en": "a caring prophet in ancient robes looking with worry toward the distant roofs of Jerusalem, hands open, soft light, no text (Worries and asks)",
+"topic": "📜 ישעיהו",
+"caption": "דואג ושואל",
+"question": "מה ישעיהו עושה כשהעם לא מקשיב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a7/p2",
+"en": "a man in ancient robes walking slowly home along a village lane with his shoulders low, no text (Gives up)",
+"topic": "📜 ישעיהו",
+"caption": "מתייאש",
+"question": "מה ישעיהו עושה כשהעם לא מקשיב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a8/p0",
+"en": "an empty plowed field with nothing growing, no people, no text (Nothing)",
+"topic": "📜 ישעיהו",
+"caption": "שום דבר",
+"question": "מה נשאר מעץ האלון אחרי שנשרו כל עליו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a8/p1",
+"en": "a pile of dry brown leaves on the ground, no people, no text (Dry leaves)",
+"topic": "📜 ישעיהו",
+"caption": "עלים יבשים",
+"question": "מה נשאר מעץ האלון אחרי שנשרו כל עליו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/a8/p2",
+"en": "a bare oak tree in autumn with a thick trunk and a small bright green sprout growing from it, no people, no text (A living trunk)",
+"topic": "📜 ישעיהו",
+"caption": "גזע חי",
+"question": "מה נשאר מעץ האלון אחרי שנשרו כל עליו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/b1",
+"en": "H: a royal palace of ancient Jerusalem with a cracked empty stone chair visible through a stone window, the ancient Temple seen outside in sunrise light, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י ומצודת דוד, מה פרוש ׳בשנת מות המלך עזיהו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/b2",
+"en": "H: a group of men in ancient robes standing together in a stone courtyard singing with open mouths in one voice, their feet close together, morning light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י ומצודת דוד, איך פותחים השרפים את הקדשה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/b3",
+"en": "H: a wide view from a high place: a starry sky above, a middle band of clouds, a green valley below, and the ancient Temple at the center, soft golden glow, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי מצודת דוד, באלו שלושה עולמות ה׳ מקדש ומרומם?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/b4",
+"en": "H: a bearded prophet in fine ancient robes (Isaiah) bowing low and covering his face with his hands, the ancient Temple wall behind him, light spilling from the doorway, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה פרוש ׳אוי לי כי נדמיתי׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/b5",
+"en": "H: a bearded prophet in fine ancient robes (Isaiah) standing quietly near the altar, a tiny glow of a coal on tongs near his lips, peace in his face, early morning light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י ומצודת דוד, על מה כפר הנביא בגחלת?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/b6",
+"en": "H: a bearded prophet in fine ancient robes (Isaiah) stepping forward from a line of men with a raised hand, other men looking down, an ancient stone road toward Jerusalem behind him, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי מצודת דוד, מה פרוש ׳הנני׳ בתשובת הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-04/b7",
+"en": "H: a mighty oak in autumn with fallen leaves around the trunk, a young green shoot at its base, ancient Jerusalem hills in the distance, sunrise, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י ומצודת דוד, מה פרוש ׳זרע קדש מצבתה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a1/p0",
+"en": "big stormy sea waves under a dark sky, no people, no text (Stormy sea)",
+"topic": "📜 ישעיהו",
+"caption": "גלי הים הסוער",
+"question": "כמו מה רעדו לבבות העם כששמעו על שני המלכים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a1/p1",
+"en": "tall forest trees bending and shaking in a strong wind on a hill, no people, no text (Trees in the wind)",
+"topic": "📜 ישעיהו",
+"caption": "עצי יער ברוח",
+"question": "כמו מה רעדו לבבות העם כששמעו על שני המלכים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a1/p2",
+"en": "a dry field with a long crack in the ground and small stones jumping, no people, no text (Shaking ground)",
+"topic": "📜 ישעיהו",
+"caption": "אדמה רועדת",
+"question": "כמו מה רעדו לבבות העם כששמעו על שני המלכים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a2/p0",
+"en": "a bearded prophet in ancient robes walking hand in hand with his small young son along a stone water channel, no text (His small son)",
+"topic": "📜 ישעיהו",
+"caption": "את בנו הקטן",
+"question": "את מי לקח ישעיהו אתו כשיצא לפגש את אחז?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a2/p1",
+"en": "a bearded prophet in ancient robes walking with a group of young male students in robes on a road, no text (His students)",
+"topic": "📜 ישעיהו",
+"caption": "את תלמידיו",
+"question": "את מי לקח ישעיהו אתו כשיצא לפגש את אחז?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a2/p2",
+"en": "a bearded prophet in ancient robes walking between soldiers with spears and shields, no text (The king's soldiers)",
+"topic": "📜 ישעיהו",
+"caption": "את חיילי המלך",
+"question": "את מי לקח ישעיהו אתו כשיצא לפגש את אחז?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a3/p0",
+"en": "two big lions roaring on a rocky hill, no people, no text (Two roaring lions)",
+"topic": "📜 ישעיהו",
+"caption": "שני אריות שואגים",
+"question": "למה דמה ישעיהו את שני המלכים המפחידים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a3/p1",
+"en": "two small burnt-out firewood stubs on a stone with only a thin wisp of smoke, no fire, no people, no text (Smoking firebrands)",
+"topic": "📜 ישעיהו",
+"caption": "זנבות אודים עשנים",
+"question": "למה דמה ישעיהו את שני המלכים המפחידים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a3/p2",
+"en": "a huge fire burning through a forest at night, no people, no text (A huge forest fire)",
+"topic": "📜 ישעיהו",
+"caption": "שריפה ענקית ביער",
+"question": "למה דמה ישעיהו את שני המלכים המפחידים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a4/p0",
+"en": "workers in ancient robes building a large stone palace with ropes and stones, no text (Build a palace)",
+"topic": "📜 ישעיהו",
+"caption": "לבנות ארמון גדול",
+"question": "מה תכננו ארם ואפרים לעשות ביהודה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a4/p1",
+"en": "two kings in ancient royal robes shaking hands warmly in a tent, no text (Make peace)",
+"topic": "📜 ישעיהו",
+"caption": "לעשות שלום",
+"question": "מה תכננו ארם ואפרים לעשות ביהודה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a4/p2",
+"en": "two foreign kings in ancient robes placing a crown on the head of a stranger in a stone hall, only men, no text (Crown another king)",
+"topic": "📜 ישעיהו",
+"caption": "להמליך מלך אחר",
+"question": "מה תכננו ארם ואפרים לעשות ביהודה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a5/p0",
+"en": "a king in ancient royal robes pointing eagerly up at the sky with a hopeful face, no text (Give me a sign)",
+"topic": "📜 ישעיהו",
+"caption": "תן לי אות",
+"question": "מה ענה אחז כשה׳ אמר לו ׳שאל לך אות׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a5/p1",
+"en": "a king in ancient royal robes turning his face away with his palm raised in refusal, no text (I will not ask)",
+"topic": "📜 ישעיהו",
+"caption": "לא אשאל",
+"question": "מה ענה אחז כשה׳ אמר לו ׳שאל לך אות׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a5/p2",
+"en": "a king in ancient royal robes with his hand on his heart, nodding and smiling with trust, no text (I believe you)",
+"topic": "📜 ישעיהו",
+"caption": "אני מאמין לך",
+"question": "מה ענה אחז כשה׳ אמר לו ׳שאל לך אות׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a6/p0",
+"en": "a bearded prophet writing on a large blank scroll while armed guards with spears stand around him, no text (Armed guards)",
+"topic": "📜 ישעיהו",
+"caption": "שומרים חמושים",
+"question": "מי עמד ליד הנביא כשכתב את הנבואה על הגליון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a6/p1",
+"en": "a bearded prophet writing alone on a large blank scroll in an empty stone room, no text (No one)",
+"topic": "📜 ישעיהו",
+"caption": "אף אחד",
+"question": "מי עמד ליד הנביא כשכתב את הנבואה על הגליון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a6/p2",
+"en": "a bearded prophet writing on a large blank scroll with two respectable older men in ancient robes watching beside him, no text (Faithful witnesses)",
+"topic": "📜 ישעיהו",
+"caption": "עדים נאמנים",
+"question": "מי עמד ליד הנביא כשכתב את הנבואה על הגליון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a7/p0",
+"en": "rain falling on a green field under gray clouds, no people, no text (Rain water)",
+"topic": "📜 ישעיהו",
+"caption": "מי הגשם",
+"question": "אילו מים מאס העם ביהודה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a7/p1",
+"en": "a small quiet spring flowing gently out of a rock beside an ancient stone wall, no people, no text (Quiet spring water)",
+"topic": "📜 ישעיהו",
+"caption": "מי השילוח השקטים",
+"question": "אילו מים מאס העם ביהודה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a7/p2",
+"en": "big waves of a wide sea under the sun, no people, no text (The great sea)",
+"topic": "📜 ישעיהו",
+"caption": "מי הים הגדול",
+"question": "אילו מים מאס העם ביהודה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a8/p0",
+"en": "a large army of soldiers with spears and shields marching in rows, men only, no text (Our army is strong)",
+"topic": "📜 ישעיהו",
+"caption": "כי צבאנו חזק",
+"question": "למה כל עצה של האויבים ׳תפר׳ – לא תתקים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a8/p1",
+"en": "a very tall thick stone city wall with towers, no people, no text (The wall is high)",
+"topic": "📜 ישעיהו",
+"caption": "כי החומה גבוהה",
+"question": "למה כל עצה של האויבים ׳תפר׳ – לא תתקים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/a8/p2",
+"en": "a group of men and boys in ancient robes on the walls of Jerusalem raising their hands calmly toward the sunrise, hopeful, no text (God is with us)",
+"topic": "📜 ישעיהו",
+"caption": "כי עמנו אל",
+"question": "למה כל עצה של האויבים ׳תפר׳ – לא תתקים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/b1",
+"en": "H: a royal courtyard in ancient Jerusalem with a king standing alone in a stone hall, tall trees swaying outside a window, a messenger bowing, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י ומצודת דוד, למה כתוב ׳לבית דוד׳ ולא שם המלך?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/b2",
+"en": "H: a bearded prophet in fine ancient robes (Isaiah) holding the hand of his small son beside a stone water pool, a field with white laundry drying on the grass, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה מלמד שמו של בן הנביא – ׳שאר ישוב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/b3",
+"en": "H: two blackened stumps of firewood with a wisp of smoke and a calm fountain of clear water beside them, close-up, soft morning light, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי מצודת דוד, למה נמשלו המלכים ל׳זנבות אודים עשנים׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/b4",
+"en": "H: a bearded prophet in ancient robes speaking calmly to a king with a hand extended, a green young tree beside a stream behind them, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי מצודת דוד, מה פרוש ׳אם לא תאמינו כי לא תאמנו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/b5",
+"en": "H: a king in ancient royal robes stepping back with his palm out in refusal, a bearded prophet with open hands offering, a stone sky-gate in the background, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י ומצודת דוד, מה היתה כונת אחז ב׳לא אנסה את ה׳׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/b6",
+"en": "H: a bearded prophet bent over a big blank scroll with a stylus, a crowd of simple men and boys in ancient robes looking at it with interest, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה פרוש ׳בחרט אנוש׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-05/b7",
+"en": "H: a group of men in ancient robes standing on a hill raising their hands together, a strong light on the horizon, an army's tents far away in the mist, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי מצודת דוד, מה פרוש ׳והוא מערצכם׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a1/p0",
+"en": "heavy dark gray clouds covering a valley, no people, no text (Heavy cloud)",
+"topic": "📜 ישעיהו",
+"caption": "ענן כבד",
+"question": "מה ראה העם ההלך בחשך?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a1/p1",
+"en": "a great bright light breaking over dark hills and shining on a dark valley, no people, no text (Great light)",
+"topic": "📜 ישעיהו",
+"caption": "אור גדול",
+"question": "מה ראה העם ההלך בחשך?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a1/p2",
+"en": "a pitch dark night valley with no moon and no stars, no people, no text (Even more darkness)",
+"topic": "📜 ישעיהו",
+"caption": "חושך גדול יותר",
+"question": "מה ראה העם ההלך בחשך?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a2/p0",
+"en": "men in ancient robes smiling at the door of a new stone house, no text (A new house)",
+"topic": "📜 ישעיהו",
+"caption": "שמחת בית חדש",
+"question": "למה דומה השמחה כשהאור בא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a2/p1",
+"en": "men in ancient robes sitting happily around a long table full of food, men only, no text (A big feast)",
+"topic": "📜 ישעיהו",
+"caption": "שמחת סעודה גדולה",
+"question": "למה דומה השמחה כשהאור בא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a2/p2",
+"en": "farmers in ancient robes joyfully gathering golden wheat sheaves in a full field, men only, no text (The harvest)",
+"topic": "📜 ישעיהו",
+"caption": "שמחת הקציר",
+"question": "למה דומה השמחה כשהאור בא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a3/p0",
+"en": "an empty camp of tents in a valley at night, broken clay jars and torches and a ram's horn on the hill above, no people, no text (Day of Midian)",
+"topic": "📜 ישעיהו",
+"caption": "כיום מדין",
+"question": "כמו באיזה יום נשבר העל הכבד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a3/p1",
+"en": "a rocky desert mountain covered with thick clouds and lightning, no people, no text (Giving of the Torah)",
+"topic": "📜 ישעיהו",
+"caption": "כיום מתן תורה",
+"question": "כמו באיזה יום נשבר העל הכבד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a3/p2",
+"en": "the stone Temple of Jerusalem seen from outside with smoke rising from the altar and festive banners, no people, no text (Temple dedication)",
+"topic": "📜 ישעיהו",
+"caption": "כיום חנוכת הבית",
+"question": "כמו באיזה יום נשבר העל הכבד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a4/p0",
+"en": "a king in rich ancient royal robes standing in front of a grand stone palace with cedar beams, no text (Solomon)",
+"topic": "📜 ישעיהו",
+"caption": "על שלמה המלך",
+"question": "על איזה מלך נאמר ׳כי ילד ילד לנו׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a4/p1",
+"en": "a young humble king of Judah with a simple crown reading a scroll by an oil lamp, no text (Hezekiah)",
+"topic": "📜 ישעיהו",
+"caption": "על חזקיהו",
+"question": "על איזה מלך נאמר ׳כי ילד ילד לנו׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a4/p2",
+"en": "a king in ancient royal robes turning away with a cold face from a prophet, no text (Ahaz)",
+"topic": "📜 ישעיהו",
+"caption": "על אחז",
+"question": "על איזה מלך נאמר ׳כי ילד ילד לנו׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a5/p0",
+"en": "men in ancient robes building a stone city wall, men only, no text (Build a high wall)",
+"topic": "📜 ישעיהו",
+"caption": "לבנות חומה גבוהה",
+"question": "מה היה העם צריך לעשות – ולא עשה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a5/p1",
+"en": "men in ancient robes running out through a city gate carrying bundles, men only, no text (Flee the city)",
+"topic": "📜 ישעיהו",
+"caption": "לברוח מהעיר",
+"question": "מה היה העם צריך לעשות – ולא עשה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a5/p2",
+"en": "men and boys in ancient robes standing in prayer facing the stone Temple of Jerusalem, no text (Return and pray)",
+"topic": "📜 ישעיהו",
+"caption": "לשוב ולהתפלל",
+"question": "מה היה העם צריך לעשות – ולא עשה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a6/p0",
+"en": "a poor man in a torn robe holding the hand of a small orphan boy at a city gate, no text (The poor)",
+"topic": "📜 ישעיהו",
+"caption": "על הדלים והעניים",
+"question": "על מי החק צריך להגן, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a6/p1",
+"en": "rich men in fine ancient robes with bags of gold coins, no text (The rich)",
+"topic": "📜 ישעיהו",
+"caption": "על העשירים",
+"question": "על מי החק צריך להגן, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a6/p2",
+"en": "elder judges in ancient robes sitting on a stone bench at a city gate, no text (The judges)",
+"topic": "📜 ישעיהו",
+"caption": "על השופטים",
+"question": "על מי החק צריך להגן, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a7/p0",
+"en": "a lion standing in a green forest, no people, no text (A lion)",
+"topic": "📜 ישעיהו",
+"caption": "לאריה ביער",
+"question": "למה משל הנביא את מלך אשור שהתגאה בכחו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a7/p1",
+"en": "one very tall tree on a hill under a blue sky, no people, no text (A tall tree)",
+"topic": "📜 ישעיהו",
+"caption": "לעץ גבוה",
+"question": "למה משל הנביא את מלך אשור שהתגאה בכחו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a7/p2",
+"en": "an axe held by a woodcutter in ancient robes chopping a log, no text (An axe in hand)",
+"topic": "📜 ישעיהו",
+"caption": "לגרזן ביד החוצב",
+"question": "למה משל הנביא את מלך אשור שהתגאה בכחו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a8/p0",
+"en": "a proud ancient king with a tall pointed hat and a curled beard leading soldiers, men only, no text (King of Assyria)",
+"topic": "📜 ישעיהו",
+"caption": "מלך אשור",
+"question": "מי ישוב ׳אל אל גבור׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a8/p1",
+"en": "a small group of men and boys in ancient robes walking home to Jerusalem at sunrise, hopeful, no text (The remnant of Jacob)",
+"topic": "📜 ישעיהו",
+"caption": "שאר יעקב",
+"question": "מי ישוב ׳אל אל גבור׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/a8/p2",
+"en": "a long caravan of foreign men with camels from far lands crossing a desert, men only, no text (Distant nations)",
+"topic": "📜 ישעיהו",
+"caption": "העמים הרחוקים",
+"question": "מי ישוב ׳אל אל גבור׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/b1",
+"en": "H: an ancient Jerusalem city wall at night with watchmen holding torches, and the first light of dawn beginning to appear behind the hills, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מי הם ׳העם ההלכים בחשך׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/b2",
+"en": "H: a wide wheat field at harvest night with sheaves of barley and a bright moon above, ancient farmers gathering the barley, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, למה נאמר ׳כשמחת בקציר׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/b3",
+"en": "H: a broken wooden yoke and a rope lying on a hillside in the morning light, tents of a camp empty in the valley below, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה דומה בין מפלת סנחריב ל׳יום מדין׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/b4",
+"en": "H: a young king of Judah with a simple crown sitting with a rolled blank scroll and an oil lamp in a stone study room, calm and humble, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה החדוש במלך שעליו נאמר ׳כי ילד ילד לנו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/b5",
+"en": "H: a tall proud figure at the head of a procession of ancient men and a very small figure at the tail of the line carrying a bundle, symbolic landscape, ancient road, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי מצודת דוד, למה ׳נביא מורה שקר׳ נקרא ׳הזנב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/b6",
+"en": "H: a carpenter's hand holding a saw above a wooden plank, in an ancient workshop, the saw not proud, quiet morning light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה עונה ה׳ לאשור שמתגאה בכחו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-06/b7",
+"en": "H: a small group of men in ancient robes walking home along a road to ancient Jerusalem at sunrise, carrying simple baskets, hopeful faces, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, למה אומר ה׳ ׳אל תירא עמי ישב ציון׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a1/p0",
+"en": "an old tree stump on a hill with a fresh young green branch growing out of it, golden sunrise, no text (A living branch)",
+"topic": "📜 ישעיהו",
+"caption": "ענף חי",
+"question": "מה יוצא מגזע ישי?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a1/p1",
+"en": "a burnt black tree trunk on a bare hill, grey sky, no text (A burnt tree)",
+"topic": "📜 ישעיהו",
+"caption": "עץ שרוף",
+"question": "מה יוצא מגזע ישי?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a1/p2",
+"en": "a large grey boulder on an empty hillside, no text (A big stone)",
+"topic": "📜 ישעיהו",
+"caption": "אבן גדולה",
+"question": "מה יוצא מגזע ישי?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a2/p0",
+"en": "a man looking at a fancy colorful cloak laid on a table, no text (By their looks)",
+"topic": "📜 ישעיהו",
+"caption": "לפי המראה החיצוני שלהם",
+"question": "איך המלך מכיר מי טוב ומי לא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a2/p1",
+"en": "a man in ancient robes standing under an olive tree with one hand on his chest, calm, no text (In his heart)",
+"topic": "📜 ישעיהו",
+"caption": "בליבו, ביראת ה'",
+"question": "איך המלך מכיר מי טוב ומי לא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a2/p2",
+"en": "a man in ancient robes cupping a hand behind his ear in a crowded market, no text (By what he heard)",
+"topic": "📜 ישעיהו",
+"caption": "לפי מה ששמע מאחרים",
+"question": "איך המלך מכיר מי טוב ומי לא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a3/p0",
+"en": "a golden belt with red jewels on a velvet cushion, no people, no text (Gold and stones)",
+"topic": "📜 ישעיהו",
+"caption": "זהב ואבנים יקרות",
+"question": "מה ׳אזור מתניו׳ של המלך?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a3/p1",
+"en": "a leather strap and a folded linen cloth on a wooden table, no people, no text (Leather and cloth)",
+"topic": "📜 ישעיהו",
+"caption": "עור ובד",
+"question": "מה ׳אזור מתניו׳ של המלך?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a3/p2",
+"en": "a plain woven cloth belt lying on a stone bench with an olive branch beside it, soft light, no people, no text (Justice and faith)",
+"topic": "📜 ישעיהו",
+"caption": "צדק ואמונה",
+"question": "מה ׳אזור מתניו׳ של המלך?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a4/p0",
+"en": "a small boy in simple ancient clothes leading a lamb and a young lion together across a green meadow, golden light, no text (A small boy)",
+"topic": "📜 ישעיהו",
+"caption": "נער קטן",
+"question": "מי נהג בחיות בתמונת השלום?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a4/p1",
+"en": "a big lion standing alone on a rock, no people, no text (A big lion)",
+"topic": "📜 ישעיהו",
+"caption": "אריה גדול",
+"question": "מי נהג בחיות בתמונת השלום?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a4/p2",
+"en": "an old shepherd with a staff and a white beard sitting on a hill, no text (An old shepherd)",
+"topic": "📜 ישעיהו",
+"caption": "רועה זקן",
+"question": "מי נהג בחיות בתמונת השלום?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a5/p0",
+"en": "a bright sun rising over a dry hill, no people, no text (The morning sun)",
+"topic": "📜 ישעיהו",
+"caption": "לשמש בבוקר",
+"question": "למה דומה הדעה את ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a5/p1",
+"en": "a single white cloud in a blue sky over a field, no people, no text (A cloud in the sky)",
+"topic": "📜 ישעיהו",
+"caption": "לענן בשמים",
+"question": "למה דומה הדעה את ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a5/p2",
+"en": "a vast calm blue sea with clear water and light reflecting on the waves, no people, no text (Water covering the sea)",
+"topic": "📜 ישעיהו",
+"caption": "למים שמכסים את הים",
+"question": "למה דומה הדעה את ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a6/p0",
+"en": "a lonely man sitting on a hill looking at the empty horizon, dusk, no text (He will forget them)",
+"topic": "📜 ישעיהו",
+"caption": "ישכח אותם",
+"question": "מה יעשה ה׳ לנדחי ישראל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a6/p1",
+"en": "long lines of travelers in ancient robes from many lands walking toward distant Jerusalem at sunrise, men and boys only, no text (He will gather them)",
+"topic": "📜 ישעיהו",
+"caption": "יקבץ אותם",
+"question": "מה יעשה ה׳ לנדחי ישראל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a6/p2",
+"en": "a closed wooden gate in a stone wall in the evening, no people, no text (He will leave them)",
+"topic": "📜 ישעיהו",
+"caption": "ישאיר אותם רחוקים",
+"question": "מה יעשה ה׳ לנדחי ישראל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a7/p0",
+"en": "a man in ancient robes standing calmly on a hill at sunrise with a peaceful smile, no text (I will not fear)",
+"topic": "📜 ישעיהו",
+"caption": "לא אפחד",
+"question": "מה האדם אומר כשהוא בוטח בה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a7/p1",
+"en": "a man hiding behind a rock with wide eyes, dusk, no text (I am very afraid)",
+"topic": "📜 ישעיהו",
+"caption": "אפחד",
+"question": "מה האדם אומר כשהוא בוטח בה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a7/p2",
+"en": "a tired man sitting on a stone with a heavy bag, grey light, no text (I have no strength)",
+"topic": "📜 ישעיהו",
+"caption": "אין לי כוח",
+"question": "מה האדם אומר כשהוא בוטח בה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a8/p0",
+"en": "a quiet empty stone courtyard with a closed door, no people, no text (Stay silent)",
+"topic": "📜 ישעיהו",
+"caption": "שותקים ולא מדברים",
+"question": "מה עושים לפי ׳הודו לה׳ קראו בשמו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a8/p1",
+"en": "a joyful group of men and boys in ancient robes singing on the walls of ancient Jerusalem at sunrise, no text (Thank and tell nations)",
+"topic": "📜 ישעיהו",
+"caption": "מודים ומודיעים לעמים",
+"question": "מה עושים לפי ׳הודו לה׳ קראו בשמו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/a8/p2",
+"en": "a closed stone house with shutters, evening, no people, no text (Wait at home)",
+"topic": "📜 ישעיהו",
+"caption": "מחכים בבית",
+"question": "מה עושים לפי ׳הודו לה׳ קראו בשמו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/b1",
+"en": "H: an ancient stone road with scattered exiles in travel robes walking toward a distant ancient Jerusalem at sunrise, an old tree stump with a young shoot beside the road, men only, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מנחם רש״י בנבואה ׳ויצא חטר׳ את הגולים שגלו לאשור?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/b2",
+"en": "H: a king in ancient robes with a simple crown sitting calmly in a stone hall, a subtle sense of light, a man bringing a small flower to smell, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מלמד הבטוי ׳והריחו׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/b3",
+"en": "H: a wise king in ancient robes sitting at a city gate listening gently to a poor farmer while a rich man in fine clothes waits at a distance, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה אומר רש״י על ׳והוכיח במישור׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/b4",
+"en": "H: a peaceful valley where a wolf and a lamb and a calf lie together in tall green grass, a small boy in simple clothes watching them, golden afternoon light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מלמד מצודת דוד על ׳ונער קטן נהג בם׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/b5",
+"en": "H: a vast calm ocean where the clear water completely covers the sea floor, sunlight rays reaching down through the clear water, schools of colorful fish, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "כיצד מצודת דוד מבאר את ׳כמים לים מכסים׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/b6",
+"en": "H: two roads: one with tired men carrying heavy bundles from a dark land and one with free men carrying bundles to a bright city, symbolic ancient landscape, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה ההבדל בין גאלת מצרים לגאלת בית שני לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-07/b7",
+"en": "H: a stone spring bubbling over a rock pool in a green valley, men in ancient robes and boys happily drawing water in clay jars, bright sunshine, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה רש״י מלמד מן המלה ׳ושאבתם׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a1/p0",
+"en": "a tall ancient walled city with towers beside a wide river under a heavy sky, no people, no text (Babylon)",
+"topic": "📜 ישעיהו",
+"caption": "על בבל",
+"question": "על איזו עיר הנבואה הראשונה על העמים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a1/p1",
+"en": "ancient pyramids and a palm grove by a river, no people, no text (Egypt)",
+"topic": "📜 ישעיהו",
+"caption": "על מצרים",
+"question": "על איזו עיר הנבואה הראשונה על העמים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a1/p2",
+"en": "a sandy seashore with a few stone houses and boats, no people, no text (Philistia)",
+"topic": "📜 ישעיהו",
+"caption": "על פלשת",
+"question": "על איזו עיר הנבואה הראשונה על העמים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a2/p0",
+"en": "an empty dusty road leading to a closed city gate at dusk, no people, no text (Leave him forever)",
+"topic": "📜 ישעיהו",
+"caption": "יעזב אותו",
+"question": "מה יעשה ה׳ ליעקב לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a2/p1",
+"en": "a caravan of camels walking away across a desert at sunset, no people, no text (Move him elsewhere)",
+"topic": "📜 ישעיהו",
+"caption": "יעביר אותו לארץ אחרת",
+"question": "מה יעשה ה׳ ליעקב לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a2/p2",
+"en": "a loving father in ancient robes holding the hand of a small boy on a green hillside, golden light, no text (He will choose again)",
+"topic": "📜 ישעיהו",
+"caption": "ירחם ויבחר עוד",
+"question": "מה יעשה ה׳ ליעקב לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a3/p0",
+"en": "a proud official in fine embroidered robes walking away with his chin up, men only, no text (The proud minister)",
+"topic": "📜 ישעיהו",
+"caption": "השר הגאה",
+"question": "מי עוד מצטרף לבית יעקב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a3/p1",
+"en": "a traveler in ancient robes with a small bundle arriving smiling at the gate of a stone city, men only, no text (The convert)",
+"topic": "📜 ישעיהו",
+"caption": "הגר מן העמים",
+"question": "מי עוד מצטרף לבית יעקב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a3/p2",
+"en": "a lone soldier with a spear standing on a hill at dusk, men only, no text (The enemy)",
+"topic": "📜 ישעיהו",
+"caption": "האויב",
+"question": "מי עוד מצטרף לבית יעקב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a4/p0",
+"en": "a man in ancient robes resting peacefully under a tree beside a quiet stream, soft light, no text (Rest)",
+"topic": "📜 ישעיהו",
+"caption": "מנוחה",
+"question": "מה נותן ה׳ לעם ביום הגאלה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a4/p1",
+"en": "men in ancient robes carrying heavy stones up a dusty slope, men only, no text (Hard work)",
+"topic": "📜 ישעיהו",
+"caption": "עבודה קשה",
+"question": "מה נותן ה׳ לעם ביום הגאלה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a4/p2",
+"en": "a dark narrow alley with long shadows, no people, no text (Fear and anger)",
+"topic": "📜 ישעיהו",
+"caption": "פחד ורגז",
+"question": "מה נותן ה׳ לעם ביום הגאלה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a5/p0",
+"en": "a grey rainy landscape with bare trees, no people, no text (Cries and sighs)",
+"topic": "📜 ישעיהו",
+"caption": "בוכה ונאנחת",
+"question": "מה עושה כל הארץ כשהשליט הגאה נופל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a5/p1",
+"en": "a peaceful green valley at sunrise with tall cedar trees swaying and birds in a blue sky, no people, no text (Rests and sings)",
+"topic": "📜 ישעיהו",
+"caption": "נחה ופוצחת רנה",
+"question": "מה עושה כל הארץ כשהשליט הגאה נופל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a5/p2",
+"en": "an open plain with many empty tents and plain banners, no people, no text (Prepares for war)",
+"topic": "📜 ישעיהו",
+"caption": "מתכוננת למלחמה",
+"question": "מה עושה כל הארץ כשהשליט הגאה נופל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a6/p0",
+"en": "a tall rocky mountain peak above clouds, no people, no text (A high mountain)",
+"topic": "📜 ישעיהו",
+"caption": "להר גבוה",
+"question": "למה דומה השליט הגאה במשל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a6/p1",
+"en": "a wide blue river winding through green fields, no people, no text (A great river)",
+"topic": "📜 ישעיהו",
+"caption": "לנהר גדול",
+"question": "למה דומה השליט הגאה במשל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a6/p2",
+"en": "a bright morning star falling from a dawn sky toward distant dark hills, no people, no text (A falling morning star)",
+"topic": "📜 ישעיהו",
+"caption": "לכוכב בקר שנופל",
+"question": "למה דומה השליט הגאה במשל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a7/p0",
+"en": "a huge mountain standing firm in a storm with lightning behind it, no people, no text (No one)",
+"topic": "📜 ישעיהו",
+"caption": "אף אחד",
+"question": "מי יכול להפר את עצת ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a7/p1",
+"en": "a row of golden crowns lying on a stone table, no people, no text (The kings)",
+"topic": "📜 ישעיהו",
+"caption": "המלכים",
+"question": "מי יכול להפר את עצת ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a7/p2",
+"en": "a crowd of armored men with spears on a plain, men only, no text (The strong nations)",
+"topic": "📜 ישעיהו",
+"caption": "העמים החזקים",
+"question": "מי יכול להפר את עצת ה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a8/p0",
+"en": "an angry man pounding a wooden table, men only, no text (In anger)",
+"topic": "📜 ישעיהו",
+"caption": "בכעס גדול",
+"question": "איך ישב המלך מבית דוד על הכסא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a8/p1",
+"en": "a calm man in simple robes seated on a plain wooden stool in a tent holding a scroll, warm light, no text (In truth)",
+"topic": "📜 ישעיהו",
+"caption": "באמת",
+"question": "איך ישב המלך מבית דוד על הכסא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/a8/p2",
+"en": "a frightened man hiding behind a curtain, men only, no text (In fear)",
+"topic": "📜 ישעיהו",
+"caption": "בלי חסד",
+"question": "איך ישב המלך מבית דוד על הכסא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/b1",
+"en": "H: an ancient tower and walls of Babylon seen from far away at dusk, a small ancient Jerusalem lit by early morning light closer, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מבאר רש״י במלים ׳כי ירחם ה׳ את יעקב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/b2",
+"en": "H: a road leading out of a distant dark city toward a bright green Judea at sunrise, caravans of men with camels and donkeys carrying goods and male travelers, ancient attire, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "כיצד מצודת דוד מבאר את ׳ולקחום עמים והביאום אל מקומם׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/b3",
+"en": "H: a farmer in ancient robes standing free on a hilltop with his arms stretched out, the broken yoke beside him, a golden sunrise, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה יניח לישראל מן העצב והרגז?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/b4",
+"en": "H: an ancient wealthy man in rich robes holding a heavy golden measuring rod and a tray of gold coins that is slipping from his hands, a plain wall behind, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מלמד רש״י על המלה ׳מדהבה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/b5",
+"en": "H: a mountain forest of cedars and cypress at sunrise, with a joyful chorus of men and boys in ancient robes standing on a slope, singing together, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מסמלים ׳ברושים וארזים׳ לפי רש״י ומצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/b6",
+"en": "H: a bright evening star falling slowly behind clouds over a stone mountain city, and a proud king in rich robes looking up from a high balcony in the far distance, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה אמר מלך בבל בלבו, ומה רואה בכך מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-08/b7",
+"en": "H: a stone tablet with plain lines carved on it lying on a mountain top, rolling clouds above, strong morning light, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה האות שגם נבואת בבל תתקים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a1/p0",
+"en": "two small clay-brick houses beside a river with palm trees, no people, no text (Two)",
+"topic": "📜 ישעיהו",
+"caption": "שתים",
+"question": "כמה ערים במצרים ישבעו לה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a1/p1",
+"en": "five small clay-brick town houses in a row beside a wide river with palm trees, no people, no text (Five)",
+"topic": "📜 ישעיהו",
+"caption": "חמש",
+"question": "כמה ערים במצרים ישבעו לה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a1/p2",
+"en": "ten tiny clay-brick houses in a long row beside a river, no people, no text (Ten)",
+"topic": "📜 ישעיהו",
+"caption": "עשר",
+"question": "כמה ערים במצרים ישבעו לה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a2/p0",
+"en": "the hills of Jerusalem with stone houses in warm evening light, no people, no text (Israel)",
+"topic": "📜 ישעיהו",
+"caption": "ישראל",
+"question": "מי נקרא ׳נחלתי׳ בפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a2/p1",
+"en": "an ancient Assyrian city with tall stone walls and a gate on a plain, no people, no text (Assyria)",
+"topic": "📜 ישעיהו",
+"caption": "אשור",
+"question": "מי נקרא ׳נחלתי׳ בפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a2/p2",
+"en": "ancient pyramids and a palm grove by a river, no people, no text (Egypt and Kush)",
+"topic": "📜 ישעיהו",
+"caption": "מצרים וכוש",
+"question": "מי נקרא ׳נחלתי׳ בפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a3/p0",
+"en": "a minister in fine robes standing in a lamp-lit hall, men only, no text (The minister)",
+"topic": "📜 ישעיהו",
+"caption": "את השר הגדול",
+"question": "את מי שואלים ׳מה מלילה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a3/p1",
+"en": "a king in a simple crown walking in a palace garden at night, men only, no text (The king)",
+"topic": "📜 ישעיהו",
+"caption": "את המלך בעצמו",
+"question": "את מי שואלים ׳מה מלילה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a3/p2",
+"en": "a watchman on a stone tower at night holding a small torch with stars above, men only, no text (The watchman)",
+"topic": "📜 ישעיהו",
+"caption": "את השומר",
+"question": "את מי שואלים ׳מה מלילה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a4/p0",
+"en": "a landscape divided in two: sunrise on the left and a starry night on the right over the same hills, no people, no text (Morning and night)",
+"topic": "📜 ישעיהו",
+"caption": "בקר וגם לילה",
+"question": "מה בא לפי השומר?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a4/p1",
+"en": "a very dark hillside with no stars, no people, no text (Only night)",
+"topic": "📜 ישעיהו",
+"caption": "רק לילה",
+"question": "מה בא לפי השומר?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a4/p2",
+"en": "a bright sunny field at noon, no people, no text (Only morning)",
+"topic": "📜 ישעיהו",
+"caption": "רק בקר",
+"question": "מה בא לפי השומר?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a5/p0",
+"en": "a lonely man looking at his reflection in a water jar, men only, no text (For himself)",
+"topic": "📜 ישעיהו",
+"caption": "על עצמו",
+"question": "על מי ישעיהו בוכה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a5/p1",
+"en": "a man in ancient robes standing on a rooftop wiping his eyes while looking down at a busy city, men only, no text (For his people)",
+"topic": "📜 ישעיהו",
+"caption": "על עמו",
+"question": "על מי ישעיהו בוכה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a5/p2",
+"en": "a man standing before a group of armed men on a hill, men only, no text (For his enemies)",
+"topic": "📜 ישעיהו",
+"caption": "על אויביו",
+"question": "על מי ישעיהו בוכה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a6/p0",
+"en": "a table with bread and grapes, no people, no text (Food and drink)",
+"topic": "📜 ישעיהו",
+"caption": "משקה ואוכל",
+"question": "מה הכינו בעיר לפני הצרה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a6/p1",
+"en": "a stone house with a small garden, no people, no text (House and garden)",
+"topic": "📜 ישעיהו",
+"caption": "בית וגן",
+"question": "מה הכינו בעיר לפני הצרה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a6/p2",
+"en": "a repaired stone wall and a pool of water inside an ancient city, no people, no text (Wall and water)",
+"topic": "📜 ישעיהו",
+"caption": "חומה ומקור מים",
+"question": "מה הכינו בעיר לפני הצרה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a7/p0",
+"en": "a carved tomb entrance in a rocky cliff, no people, no text (A tomb)",
+"topic": "📜 ישעיהו",
+"caption": "קבר",
+"question": "מה חצב שבנא לעצמו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a7/p1",
+"en": "a fine stone house with a courtyard, no people, no text (A house)",
+"topic": "📜 ישעיהו",
+"caption": "בית",
+"question": "מה חצב שבנא לעצמו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a7/p2",
+"en": "a stone water cistern with a rope, no people, no text (A water pit)",
+"topic": "📜 ישעיהו",
+"caption": "בור מים",
+"question": "מה חצב שבנא לעצמו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a8/p0",
+"en": "a sword, a round shield and a bow leaning on a wall, no people, no text (Sword and shield)",
+"topic": "📜 ישעיהו",
+"caption": "חרב ומגן וקשת",
+"question": "מה נותן ה׳ לאליקים על שכמו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a8/p1",
+"en": "a large old iron key resting on a folded cloth on a stone ledge, no people, no text (The key of David's house)",
+"topic": "📜 ישעיהו",
+"caption": "מפתח בית דוד",
+"question": "מה נותן ה׳ לאליקים על שכמו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/a8/p2",
+"en": "a heavy bag of gold coins on a table, no people, no text (A bag of gold)",
+"topic": "📜 ישעיהו",
+"caption": "שק זהב",
+"question": "מה נותן ה׳ לאליקים על שכמו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/b1",
+"en": "H: a small stone altar by the Nile at dawn with palm trees, a few men and boys in ancient robes standing quietly, a lit lamp, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מי בנו את המזבח לה׳ בארץ מצרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/b2",
+"en": "H: a stone pillar on the bank of the Nile with a sunrise over reed boats and a man in ancient robes lifting his hands in prayer, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מלמד מצודת דוד על המזבח בארץ מצרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/b3",
+"en": "H: three roads meeting in a green valley at sunrise: one from a pyramid land, one from a mountain land, and in the middle a road to a small hill with a Temple, male travelers walking in peace, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה היה מצבם של ישראל בימי אחז והושע לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/b4",
+"en": "H: a night watchman standing on a wall at the first light of dawn, half of the sky bright and half dark, a candle in his hand, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מי הוא ׳שמר׳ שעונה, ועל מה תלויה הבאת הבקר?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/b5",
+"en": "H: an ancient well-built city wall and a water pool, and above it a clear starry sky with a very large sunrise, a man looking up with hands raised, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה היתה הטעות בפעלות האנשים לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/b6",
+"en": "H: a proud official in fine robes crossing a stone yard carrying a rolled blank letter, a gate behind him, an arrow with a small scroll flying toward a distant army camp, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה אומר רש״י על שבנא ועל ׳חצבת לך פה קבר׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-09/b7",
+"en": "H: a large iron key hanging on a strong wooden peg in a stone wall, with golden sunlight on the key, a stone hall behind it, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה אומר רש״י על ׳יתד במקום נאמן׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a1/p0",
+"en": "a dry grey cracked land under a heavy cloudy sky with a torn scroll lying on the ground, no people, no text (They broke the Torah)",
+"topic": "📜 ישעיהו",
+"caption": "כי עברו תורת",
+"question": "למה הארץ אבלה לפי הכתוב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a1/p1",
+"en": "a dusty field with dry bushes under a cloudless sky, no people, no text (No rain fell)",
+"topic": "📜 ישעיהו",
+"caption": "כי לא ירד גשם",
+"question": "למה הארץ אבלה לפי הכתוב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a1/p2",
+"en": "a dry riverbed with cracked mud, no people, no text (Rivers dried up)",
+"topic": "📜 ישעיהו",
+"caption": "כי הנהרות יבשו",
+"question": "למה הארץ אבלה לפי הכתוב?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a2/p0",
+"en": "a single green hill with a path, no people, no text (From the hill)",
+"topic": "📜 ישעיהו",
+"caption": "מן ההר",
+"question": "מאיפה שומעים זמרות בפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a2/p1",
+"en": "a view from a high cliff over a faraway coast and sea at sunrise, birds in the sky, no people, no text (From the edge of the earth)",
+"topic": "📜 ישעיהו",
+"caption": "מכנף הארץ",
+"question": "מאיפה שומעים זמרות בפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a2/p2",
+"en": "a vast desert with sand dunes under a bright sun, no people, no text (From the great desert)",
+"topic": "📜 ישעיהו",
+"caption": "מן המדבר הגדול",
+"question": "מאיפה שומעים זמרות בפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a3/p0",
+"en": "a stone judge's bench in an empty courtyard, no people, no text (A taskmaster and judge)",
+"topic": "📜 ישעיהו",
+"caption": "נוגש ושופט",
+"question": "מה היה ה׳ לדל ולאביון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a3/p1",
+"en": "a long stone wall with no gate, no people, no text (A wall with no gate)",
+"topic": "📜 ישעיהו",
+"caption": "חומה בלי שער",
+"question": "מה היה ה׳ לדל ולאביון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a3/p2",
+"en": "a strong stone fortress on a hill with a wide shady roof beside it, sunshine, no people, no text (A stronghold and shelter)",
+"topic": "📜 ישעיהו",
+"caption": "מעוז ומחסה",
+"question": "מה היה ה׳ לדל ולאביון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a4/p0",
+"en": "a close view of a single tear drop on a smiling child's cheek, a boy in ancient clothes, warm light, no text (A tear)",
+"topic": "📜 ישעיהו",
+"caption": "דמעה",
+"question": "מה ה׳ מוחה מעל כל פנים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a4/p1",
+"en": "a dusty old table with a rag, no people, no text (Dust)",
+"topic": "📜 ישעיהו",
+"caption": "אבק",
+"question": "מה ה׳ מוחה מעל כל פנים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a4/p2",
+"en": "a long shadow of a tree on a grassy slope, no people, no text (Shade)",
+"topic": "📜 ישעיהו",
+"caption": "צל",
+"question": "מה ה׳ מוחה מעל כל פנים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a5/p0",
+"en": "a heap of gold coins and jewels on a table, no people, no text (In wealth)",
+"topic": "📜 ישעיהו",
+"caption": "בעשירות",
+"question": "על מה העם שמח ביום ההוא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a5/p1",
+"en": "a joyful group of men and boys in ancient robes dancing on a hill at sunrise, men only, no text (In His salvation)",
+"topic": "📜 ישעיהו",
+"caption": "בישועתו",
+"question": "על מה העם שמח ביום ההוא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a5/p2",
+"en": "a plain banner on a hilltop with scattered shields below, no people, no text (In victory)",
+"topic": "📜 ישעיהו",
+"caption": "בנצחון",
+"question": "על מה העם שמח ביום ההוא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a6/p0",
+"en": "wide open wooden city gates of ancient Jerusalem at sunrise with a path leading in, no people, no text (Gates)",
+"topic": "📜 ישעיהו",
+"caption": "שערים",
+"question": "מה נפתח ל׳גוי צדיק׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a6/p1",
+"en": "three bronze lampstands on a table, no people, no text (Lamps)",
+"topic": "📜 ישעיהו",
+"caption": "מנורות",
+"question": "מה נפתח ל׳גוי צדיק׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a6/p2",
+"en": "wooden tables and chairs in an empty room, no people, no text (Tables and chairs)",
+"topic": "📜 ישעיהו",
+"caption": "שולחנות וכיסאות",
+"question": "מה נפתח ל׳גוי צדיק׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a7/p0",
+"en": "an overgrown vineyard with weeds and broken fences, no people, no text (Leaves it alone)",
+"topic": "📜 ישעיהו",
+"caption": "עוזב אותו לנפשו",
+"question": "מה ה׳ עושה לכרם יום ולילה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a7/p1",
+"en": "cut vine stumps on bare ground, no people, no text (Cuts it all down)",
+"topic": "📜 ישעיהו",
+"caption": "קוצץ אותו לגמרי",
+"question": "מה ה׳ עושה לכרם יום ולילה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a7/p2",
+"en": "a green vineyard with a small watch tower under a starry sky and a rising sun on the horizon, no people, no text (Guards it)",
+"topic": "📜 ישעיהו",
+"caption": "נוצר אותו",
+"question": "מה ה׳ עושה לכרם יום ולילה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a8/p0",
+"en": "a small straight silver trumpet on a cushion, no people, no text (A small trumpet)",
+"topic": "📜 ישעיהו",
+"caption": "חצוצרה קטנה",
+"question": "מה יתקע ביום ההוא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a8/p1",
+"en": "a large curved ram's horn shofar resting on a rock on a hilltop at sunrise, no people, no text (A great shofar)",
+"topic": "📜 ישעיהו",
+"caption": "שופר גדול",
+"question": "מה יתקע ביום ההוא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/a8/p2",
+"en": "a round hand drum on a stool, no people, no text (A drum)",
+"topic": "📜 ישעיהו",
+"caption": "תף",
+"question": "מה יתקע ביום ההוא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/b1",
+"en": "H: an old bearded traveler with a staff looking at a starry sky at night, far in the distance a small ancient tent and stars arranged like a promise, quiet wonder, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, איזו עצה יעץ ה׳ מרחוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/b2",
+"en": "H: a big wooden-frame tent standing firm on a hill while a flash flood of muddy water rushes by around it against a clay wall, calm shelter, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מהו ׳הזרם׳ שממנו ה׳ הוא מחסה, לפי רש״י ומצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/b3",
+"en": "H: a joyful scene of ancient men and boys of different nations walking home together toward Jerusalem, one wiping his tears with a smile, warm golden light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מבאר מצודת דוד על ׳וחרפת עמו יסיר׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/b4",
+"en": "H: a calm bearded man in ancient robes sitting peacefully on a rock in a stormy valley, his face serene, clouds clearing behind him, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מי הוא ׳יצר סמוך׳ לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/b5",
+"en": "H: a bearded old man in ancient robes standing watch at a city gate at dawn with his eyes lifted toward the horizon, patient and hopeful, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מי הוא ׳גוי צדיק שמר אמנים׳ לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/b6",
+"en": "H: an ancient gardener in simple robes gently pouring a little water at the roots of a grapevine, rain drops beginning to fall, soft afternoon light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה ההבדל בין שני הכרמים לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-10/b7",
+"en": "H: a choir of ancient men and boys standing on a rocky hill at sunset singing with open hands, a quiet joyful mood, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מבאר רש״י ב׳צבי לצדיק׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a1/p0",
+"en": "a wilting flower wreath lying on a stone, petals drooping, soft light, no people, no text (A fading flower)",
+"topic": "📜 ישעיהו",
+"caption": "לציץ נבל",
+"question": "למה מדמה הנביא את גאות אפרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a1/p1",
+"en": "a tall rocky mountain peak above clouds, no people, no text (A high mountain)",
+"topic": "📜 ישעיהו",
+"caption": "להר גבוה",
+"question": "למה מדמה הנביא את גאות אפרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a1/p2",
+"en": "a huge strong oak tree on a green hill, no people, no text (A strong tree)",
+"topic": "📜 ישעיהו",
+"caption": "לעץ חזק",
+"question": "למה מדמה הנביא את גאות אפרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a2/p0",
+"en": "a plain stone palace seen from far away, no people, no text (The king himself)",
+"topic": "📜 ישעיהו",
+"caption": "המלך בעצמו",
+"question": "מי יהיה ׳עטרת צבי׳ לשאר עמו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a2/p1",
+"en": "a radiant golden crown of flowers glowing above a quiet green hill at sunrise, no people, no text (The Lord of Hosts)",
+"topic": "📜 ישעיהו",
+"caption": "ה' צבאות",
+"question": "מי יהיה ׳עטרת צבי׳ לשאר עמו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a2/p2",
+"en": "an old man in robes sitting alone on a rock, men only, no text (The old prophet)",
+"topic": "📜 ישעיהו",
+"caption": "הנביא הזקן",
+"question": "מי יהיה ׳עטרת צבי׳ לשאר עמו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a3/p0",
+"en": "a group of men in ancient robes listening carefully to a speaker, men only, no text (They listen)",
+"topic": "📜 ישעיהו",
+"caption": "שומעים אותם",
+"question": "מה עושים הליצנים לדברי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a3/p1",
+"en": "two men writing on scrolls at a stone table, men only, no text (They write)",
+"topic": "📜 ישעיהו",
+"caption": "כותבים",
+"question": "מה עושים הליצנים לדברי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a3/p2",
+"en": "a group of men in ancient robes laughing and pointing at a lone man speaking, men only, no text (They mock them)",
+"topic": "📜 ישעיהו",
+"caption": "לועגים להם",
+"question": "מה עושים הליצנים לדברי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a4/p0",
+"en": "a large precious cornerstone being set into the foundation of a stone wall on a hill, no people, no text (A precious stone)",
+"topic": "📜 ישעיהו",
+"caption": "אבן יקרה",
+"question": "מה ה׳ שם בציון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a4/p1",
+"en": "a big tree on a hill, no people, no text (A big tree)",
+"topic": "📜 ישעיהו",
+"caption": "עץ גדול",
+"question": "מה ה׳ שם בציון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a4/p2",
+"en": "a stone well with a rope and bucket, no people, no text (A well)",
+"topic": "📜 ישעיהו",
+"caption": "באר מים",
+"question": "מה ה׳ שם בציון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a5/p0",
+"en": "a farmer plowing a field behind two oxen, men only, no text (Plows again)",
+"topic": "📜 ישעיהו",
+"caption": "חורש שוב",
+"question": "מה עושה החקלאי אחרי שהוא מישר את השדה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a5/p1",
+"en": "a farmer in ancient clothes sowing seeds by hand on a flat field, golden light, men only, no text (Sows)",
+"topic": "📜 ישעיהו",
+"caption": "זורע",
+"question": "מה עושה החקלאי אחרי שהוא מישר את השדה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a5/p2",
+"en": "a farmer asleep under a tree beside an empty field, men only, no text (Sits and rests)",
+"topic": "📜 ישעיהו",
+"caption": "יושב ונח",
+"question": "מה עושה החקלאי אחרי שהוא מישר את השדה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a6/p0",
+"en": "a farmer gently beating small seeds on a threshing floor with a thin stick, men only, no text (With a light stick)",
+"topic": "📜 ישעיהו",
+"caption": "במטה קל",
+"question": "במה חובטים זרעים עדינים כמו קצח וכמן?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a6/p1",
+"en": "a heavy wooden cart wheel resting on a threshing floor, no people, no text (With a cart wheel)",
+"topic": "📜 ישעיהו",
+"caption": "באופן עגלה",
+"question": "במה חובטים זרעים עדינים כמו קצח וכמן?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a6/p2",
+"en": "a very large stone on a threshing floor, no people, no text (With a big stone)",
+"topic": "📜 ישעיהו",
+"caption": "באבן גדולה",
+"question": "במה חובטים זרעים עדינים כמו קצח וכמן?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a7/p0",
+"en": "a man shouting with an open mouth in a crowd, men only, no text (Only the mouth)",
+"topic": "📜 ישעיהו",
+"caption": "רק את הפה",
+"question": "מה ה׳ רוצה מעל המלים שאומרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a7/p1",
+"en": "a heavy sack of coins on a table, no people, no text (The wealth)",
+"topic": "📜 ישעיהו",
+"caption": "את הרכוש",
+"question": "מה ה׳ רוצה מעל המלים שאומרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a7/p2",
+"en": "a man in ancient robes with a hand on his heart looking up sincerely, warm light, men only, no text (The heart)",
+"topic": "📜 ישעיהו",
+"caption": "את הלב",
+"question": "מה ה׳ רוצה מעל המלים שאומרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a8/p0",
+"en": "a group of men listening to a scroll being read, one cupping his ear and smiling in amazement, men only, no text (The deaf)",
+"topic": "📜 ישעיהו",
+"caption": "החרשים",
+"question": "מי ישמעו ביום ההוא דברי ספר?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a8/p1",
+"en": "guards standing at a city wall tower, men only, no text (The guards)",
+"topic": "📜 ישעיהו",
+"caption": "השומרים",
+"question": "מי ישמעו ביום ההוא דברי ספר?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/a8/p2",
+"en": "two noblemen in fine ancient robes standing in a courtyard, men only, no text (The officials)",
+"topic": "📜 ישעיהו",
+"caption": "השרים",
+"question": "מי ישמעו ביום ההוא דברי ספר?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/b1",
+"en": "H: a row of ancient low stone fences one behind another across a hillside, a calm bearded man on a hill looking at them thoughtfully, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מבאר מצודת דוד ב׳צו לצו קו לקו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/b2",
+"en": "H: a young king of Judah with a simple crown standing on top of a strong stone fortress wall in Jerusalem looking out, morning light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מי הוא ׳אבן בחן׳ שיהיה בציון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/b3",
+"en": "H: an ancient farmer leveling a field with a wooden tool and then scattering seeds by hand, neat rows, evening gold, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה הנמשל של החרישה והזריעה לפי רש״י ומצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/b4",
+"en": "H: an ancient farmer holding a thin stick in one hand and a heavy wooden threshing sledge beside him, different tools laid out neatly on a threshing floor, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה לומד רש״י מדיש הקצח והכמון במטה קל?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/b5",
+"en": "H: a bearded man in ancient robes standing with his hand on his chest and his head bowed, a candle on a table in front of him, sincere face, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה הטעות ב׳מצות אנשים מלמדה׳ לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/b6",
+"en": "H: an ancient potter shaping a clay vessel on a wheel, his hands inside the wet clay, workshop shelves with finished jars around, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מלמד המשל ׳הפככם כחמר היצר׳ לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-11/b7",
+"en": "H: a happy group of men and boys of an ancient village standing in the sunrise holding hands in a circle, a bearded elder smiling at them, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מבאר מצודת דוד על ׳לא עתה יבוש יעקב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a1/p0",
+"en": "a great ancient city with a tall stepped brick tower beside a wide river, no people, no text (To Babylon)",
+"topic": "📜 ישעיהו",
+"caption": "לבבל",
+"question": "לאן הלכו לבקש עזרה, ׳ופי לא שאלו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a1/p1",
+"en": "a caravan of men with horses and camels traveling across the desert toward the pyramids beside the Nile, men only, no text (To Egypt)",
+"topic": "📜 ישעיהו",
+"caption": "למצרים",
+"question": "לאן הלכו לבקש עזרה, ׳ופי לא שאלו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a1/p2",
+"en": "a fortified ancient city with massive stone walls and towers beside a northern river, no people, no text (To Assyria)",
+"topic": "📜 ישעיהו",
+"caption": "לארץ אשור",
+"question": "לאן הלכו לבקש עזרה, ׳ופי לא שאלו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a2/p0",
+"en": "a group of ancient men holding up their hands to stop a bearded prophet from speaking, asking him for pleasant words only, men only, no text (Speak smooth things)",
+"topic": "📜 ישעיהו",
+"caption": "דברו לנו חלקות",
+"question": "מה בקש העם מן הנביאים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a2/p1",
+"en": "a bearded prophet lifting his hands in prayer beside a group of men in ancient robes, men only, no text (Pray for us)",
+"topic": "📜 ישעיהו",
+"caption": "התפללו עלינו",
+"question": "מה בקש העם מן הנביאים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a2/p2",
+"en": "a bearded teacher with a rolled blank scroll teaching men and boys in a courtyard, men and boys only, no text (Teach us Torah)",
+"topic": "📜 ישעיהו",
+"caption": "למדו אותנו תורה",
+"question": "מה בקש העם מן הנביאים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a3/p0",
+"en": "a herd of fast war horses galloping across a dusty plain, no people, no text (In fast horses)",
+"topic": "📜 ישעיהו",
+"caption": "בסוסים מהירים",
+"question": "במה תהיה גבורתכם, לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a3/p1",
+"en": "very high stone city walls with towers, no people, no text (In high walls)",
+"topic": "📜 ישעיהו",
+"caption": "בחומות גבוהות",
+"question": "במה תהיה גבורתכם, לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a3/p2",
+"en": "a calm bearded man in ancient robes sitting peacefully under a fig tree, his face serene and trusting, only one man, no text (In quiet and trust)",
+"topic": "📜 ישעיהו",
+"caption": "בהשקט ובבטחה",
+"question": "במה תהיה גבורתכם, לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a4/p0",
+"en": "a single camel standing in the desert, no people, no text (On a camel)",
+"topic": "📜 ישעיהו",
+"caption": "על גמל",
+"question": "׳לא כי, על ___ ננוס׳ – על מה רצו לברח?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a4/p1",
+"en": "a single fast horse galloping with flowing mane, no people, no text (On a horse)",
+"topic": "📜 ישעיהו",
+"caption": "על סוס",
+"question": "׳לא כי, על ___ ננוס׳ – על מה רצו לברח?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a4/p2",
+"en": "an ancient wooden sailing ship on the sea, no people, no text (On a ship)",
+"topic": "📜 ישעיהו",
+"caption": "על ספינה",
+"question": "׳לא כי, על ___ ננוס׳ – על מה רצו לברח?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a5/p0",
+"en": "a heavy wooden city gate shut tight, no people, no text (Closes the gate)",
+"topic": "📜 ישעיהו",
+"caption": "סוגר את השער",
+"question": "מה ה׳ עושה כדי לחנן אותנו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a5/p1",
+"en": "an empty road leading far away into the distant hills, no people, no text (Goes somewhere else)",
+"topic": "📜 ישעיהו",
+"caption": "הולך למקום אחר",
+"question": "מה ה׳ עושה כדי לחנן אותנו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a5/p2",
+"en": "a loving bearded father in ancient robes standing at the open door of his house at sunset, looking down the road and waiting, only one man, no text (Waits for us)",
+"topic": "📜 ישעיהו",
+"caption": "מחכה לנו",
+"question": "מה ה׳ עושה כדי לחנן אותנו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a6/p0",
+"en": "a man in ancient robes standing at a fork in a hill road, turning his head to listen, one path lit by sunrise toward Jerusalem, only one man, no text (This is the way)",
+"topic": "📜 ישעיהו",
+"caption": "זה הדרך לכו בו",
+"question": "מה תשמענה האזנים ׳מאחריך׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a6/p1",
+"en": "a long road going down through the desert toward the pyramids, no people, no text (Return to Egypt)",
+"topic": "📜 ישעיהו",
+"caption": "שובו למצרים",
+"question": "מה תשמענה האזנים ׳מאחריך׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a6/p2",
+"en": "men and boys in ancient robes singing with harps on a hill, men and boys only, no text (Sing a new song)",
+"topic": "📜 ישעיהו",
+"caption": "שירו שיר חדש",
+"question": "מה תשמענה האזנים ׳מאחריך׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a7/p0",
+"en": "a long line of ancient Egyptian war chariots charging across the sand, no text (Strongest of all)",
+"topic": "📜 ישעיהו",
+"caption": "חזקה מכולם",
+"question": "מה אומר ישעיהו על מצרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a7/p1",
+"en": "a single tired ancient Egyptian soldier sitting on the sand beside his tired horse, just an ordinary man, only one man, no text (Only a man)",
+"topic": "📜 ישעיהו",
+"caption": "אדם ולא אל",
+"question": "מה אומר ישעיהו על מצרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a7/p2",
+"en": "a massive stone fortress on a high cliff, no people, no text (A fortress forever)",
+"topic": "📜 ישעיהו",
+"caption": "מבצר לעולם",
+"question": "מה אומר ישעיהו על מצרים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a8/p0",
+"en": "a thick ancient stone wall, no people, no text (A stone wall)",
+"topic": "📜 ישעיהו",
+"caption": "כחומת אבן",
+"question": "למה משל הנביא את הגנת ה׳ על ירושלים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a8/p1",
+"en": "a round iron shield leaning on a rock, no people, no text (An iron shield)",
+"topic": "📜 ישעיהו",
+"caption": "כמגן של ברזל",
+"question": "למה משל הנביא את הגנת ה׳ על ירושלים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/a8/p2",
+"en": "birds hovering with spread wings over a nest of chicks, the walls of ancient Jerusalem in the background at sunrise, no people, no text (Flying birds)",
+"topic": "📜 ישעיהו",
+"caption": "כציפורים עפות",
+"question": "למה משל הנביא את הגנת ה׳ על ירושלים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/b1",
+"en": "H: a calm ancient village on a hill at dawn with a bearded man resting quietly in front of his stone house, a field of wheat swaying, peaceful, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה פרוש ׳בשובה׳ בפסוק, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/b2",
+"en": "H: a bearded ancient shepherd standing high on a hilltop at sunrise waiting patiently with outstretched hand toward the valley, golden light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "איך ה׳ ׳מחכה לחננכם׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/b3",
+"en": "H: a bearded man in ancient robes lifting his hands upward in a quiet prayer at the gate of Jerusalem, morning light, with a sense of someone listening, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה פרוש ׳בכו לא תבכה׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/b4",
+"en": "H: an ancient teacher with a beard and a warm face sitting among attentive men and boys in a sunlit courtyard, his face fully uncovered, teaching with open hands, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מי הוא ׳מוריך׳, ומה פרוש ׳לא יכנף׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/b5",
+"en": "H: a fork in an ancient road in the hills of Judah, a man in ancient robes standing at the fork with his head tilted to listen, one path toward a gleaming Jerusalem, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מבאר מצודת דוד על ׳כי תאמינו וכי תשמאילו׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/b6",
+"en": "H: a young king of Judah with a simple crown standing calmly on the wall of Jerusalem looking up at the sky, while on the far horizon a caravan of horses heads away to a faraway land, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מה ההבדל בין הושע לבין חזקיהו?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-12/b7",
+"en": "H: a majestic lion standing proudly on a mountaintop at dawn unafraid while a crowd of shepherds shouts below, with birds flying overhead, wide landscape, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה פרוש ׳פסח׳ בפסוק, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a1/p0",
+"en": "a tall snowy mountain peak under a blue sky, no people, no text (Snow mountain)",
+"topic": "📜 ישעיהו",
+"caption": "הר שלג",
+"question": "למה דומה המלך הצודק בארץ עיפה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a1/p1",
+"en": "a tall stone watchtower on a hill, no people, no text (Tall tower)",
+"topic": "📜 ישעיהו",
+"caption": "מגדל גבוה",
+"question": "למה דומה המלך הצודק בארץ עיפה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a1/p2",
+"en": "a huge rock casting a wide cool shade over a dry sunny land, no people, no text (Rock shade)",
+"topic": "📜 ישעיהו",
+"caption": "צל סלע",
+"question": "למה דומה המלך הצודק בארץ עיפה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a2/p0",
+"en": "a bearded man in ancient robes locking a wooden gate, no text (Locks the gate)",
+"topic": "📜 ישעיהו",
+"caption": "נועל את השער",
+"question": "איזו תמונה מתאימה לפסוק ׳ונדיב נדיבות יעץ׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a2/p1",
+"en": "a generous bearded man in ancient robes handing a loaf of bread to a poor bearded man, warm light, no text (Gives bread)",
+"topic": "📜 ישעיהו",
+"caption": "נותן לחם לעני",
+"question": "איזו תמונה מתאימה לפסוק ׳ונדיב נדיבות יעץ׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a2/p2",
+"en": "a bearded man in ancient robes alone at a table counting coins, no text (Counts coins)",
+"topic": "📜 ישעיהו",
+"caption": "סופר מטבעות",
+"question": "איזו תמונה מתאימה לפסוק ׳ונדיב נדיבות יעץ׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a3/p0",
+"en": "a calm green valley at sunset with a peaceful quiet village, no people, no text (Peace)",
+"topic": "📜 ישעיהו",
+"caption": "שלום",
+"question": "מה יהיה ׳מעשה הצדקה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a3/p1",
+"en": "ancient soldiers with shields and spears standing in rows, men only, no text (War)",
+"topic": "📜 ישעיהו",
+"caption": "מלחמה",
+"question": "מה יהיה ׳מעשה הצדקה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a3/p2",
+"en": "an open chest full of gold coins, no people, no text (Wealth)",
+"topic": "📜 ישעיהו",
+"caption": "עושר",
+"question": "מה יהיה ׳מעשה הצדקה׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a4/p0",
+"en": "an empty dry desert with sand dunes, no people, no text (Empty desert)",
+"topic": "📜 ישעיהו",
+"caption": "מדבר שממה",
+"question": "איפה ישב עמי, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a4/p1",
+"en": "an ancient walled city with ladders leaning on its walls, no people, no text (City besieged)",
+"topic": "📜 ישעיהו",
+"caption": "עיר במצור",
+"question": "איפה ישב עמי, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a4/p2",
+"en": "a quiet peaceful ancient village with stone houses and green hills, no people, no text (Peaceful home)",
+"topic": "📜 ישעיהו",
+"caption": "נווה שלום",
+"question": "איפה ישב עמי, לפי הנביא?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a5/p0",
+"en": "an ancient bed with a blanket in a dim room, no people, no text (More sleep)",
+"topic": "📜 ישעיהו",
+"caption": "עוד שינה",
+"question": "מה מבקשים מה׳ בבקר: ׳היה זרעם לבקרים׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a5/p1",
+"en": "a bearded man in ancient robes lifting his hands in morning prayer on a rooftop at sunrise, no text (Morning prayer)",
+"topic": "📜 ישעיהו",
+"caption": "שיהיה הכוח שלנו",
+"question": "מה מבקשים מה׳ בבקר: ׳היה זרעם לבקרים׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a5/p2",
+"en": "a pile of shiny gold coins, no people, no text (Gold)",
+"topic": "📜 ישעיהו",
+"caption": "זהב",
+"question": "מה מבקשים מה׳ בבקר: ׳היה זרעם לבקרים׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a6/p0",
+"en": "a glowing open treasure chest full of ancient scrolls and warm golden light, no people, no text (Fear of God)",
+"topic": "📜 ישעיהו",
+"caption": "יראת ה'",
+"question": "מהו האוצר האמתי של האדם?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a6/p1",
+"en": "heaps of gold and silver bars, no people, no text (Gold and silver)",
+"topic": "📜 ישעיהו",
+"caption": "זהב וכסף",
+"question": "מהו האוצר האמתי של האדם?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a6/p2",
+"en": "a row of big stone mansions on a hill, no people, no text (Big houses)",
+"topic": "📜 ישעיהו",
+"caption": "בתים גדולים",
+"question": "מהו האוצר האמתי של האדם?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a7/p0",
+"en": "a small house made of shining gold bricks, no people, no text (Golden house)",
+"topic": "📜 ישעיהו",
+"caption": "בית זהב",
+"question": "מה נותן ה׳ ל׳הלך צדקות׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a7/p1",
+"en": "rows of ancient soldiers with spears and shields, men only, no text (Strong army)",
+"topic": "📜 ישעיהו",
+"caption": "צבא חזק",
+"question": "מה נותן ה׳ ל׳הלך צדקות׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a7/p2",
+"en": "a loaf of bread and a clay water jug on a stone ledge on a high mountain, no people, no text (Bread and water)",
+"topic": "📜 ישעיהו",
+"caption": "לחם ומים",
+"question": "מה נותן ה׳ ל׳הלך צדקות׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a8/p0",
+"en": "a tiny lonely tent in the middle of a sandy desert, no people, no text (Small tent)",
+"topic": "📜 ישעיהו",
+"caption": "אוהל קטן",
+"question": "למה מדמה הנביא את ירושלים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a8/p1",
+"en": "a big sturdy tent with firm stakes in the ground beside a calm ancient city, no people, no text (Fixed tent)",
+"topic": "📜 ישעיהו",
+"caption": "אוהל יציב",
+"question": "למה מדמה הנביא את ירושלים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/a8/p2",
+"en": "a tent packed on a camel traveling through the desert, no people, no text (Moving tent)",
+"topic": "📜 ישעיהו",
+"caption": "אוהל נודד",
+"question": "למה מדמה הנביא את ירושלים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/b1",
+"en": "H: an old wicked king in dark robes leaving a throne and a young king with a simple crown taking it, ancient palace hall, solemn mood, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, על מי אמר הנביא ׳הן לצדק ימלך מלך׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/b2",
+"en": "H: a huge rock providing shade over a thirsty traveler with a flowing stream and a green patch in a dry land, bearded man resting happily, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מי הוא ׳האיש׳ שהוא ׳כצל סלע כבד׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/b3",
+"en": "H: Mount Carmel covered in green forest and vineyards next to a once-dry plain now blooming, a warm light from above, no people, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה מבאר רש״י ב׳ושכן במדבר משפט וצדקה בכרמל תשב׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/b4",
+"en": "H: an ancient farmer sowing seeds beside a flowing stream, oxen and donkey resting nearby with sacks of grain, golden harvest light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה פרוש ׳אשריכם זרעי על כל מים׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/b5",
+"en": "H: an early-morning scene of a bearded man in ancient robes standing on a hill and lifting his hands toward the sunrise, behind him the walls of Jerusalem, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה פרוש ׳היה זרעם לבקרים׳, לפי מצודת דוד?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/b6",
+"en": "H: six ancient tractate scrolls arranged on a stone table beside an open treasure box glowing with warm light, a bearded scholar looking at them, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה פרוש ׳אמונת עתיך׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-13/b7",
+"en": "H: a bearded man in ancient robes standing calmly on a mountain ledge with his hands open, a loaf of bread and a jug of water by his side, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "מה השכר של ׳לחמו נתן מימיו נאמנים׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a1/p0",
+"en": "an ancient walled city on a hill with a quiet empty street, no people, no text (Only Jerusalem)",
+"topic": "📜 ישעיהו",
+"caption": "רק ירושלים",
+"question": "מי נקרא לשמע: ׳קרבו גוים לשמע׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a1/p1",
+"en": "a crowned king alone standing in a stone hall, no text (Only the king)",
+"topic": "📜 ישעיהו",
+"caption": "רק המלך",
+"question": "מי נקרא לשמע: ׳קרבו גוים לשמע׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a1/p2",
+"en": "a bearded prophet in ancient robes calling from a hilltop to crowds of men and boys from many nations in different clothes, men and boys only, no text (The whole world)",
+"topic": "📜 ישעיהו",
+"caption": "כל העולם",
+"question": "מי נקרא לשמע: ׳קרבו גוים לשמע׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a2/p0",
+"en": "the wide blue sea with waves under a bright sky, no people, no text (The sea)",
+"topic": "📜 ישעיהו",
+"caption": "ים גדול",
+"question": "על מה נאמר ׳ותפרח כחבצלת׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a2/p1",
+"en": "a wide desert valley blooming with white lilies and green grass in the morning sun, no people, no text (Blooming desert)",
+"topic": "📜 ישעיהו",
+"caption": "מדבר פורח",
+"question": "על מה נאמר ׳ותפרח כחבצלת׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a2/p2",
+"en": "a tall rocky mountain with a snowy peak, no people, no text (High mountain)",
+"topic": "📜 ישעיהו",
+"caption": "הר גבוה",
+"question": "על מה נאמר ׳ותפרח כחבצלת׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a3/p0",
+"en": "a strong bearded man in ancient robes lifting a tired friend by the arm on a rocky path, kind faces, no text (Strengthen him)",
+"topic": "📜 ישעיהו",
+"caption": "מחזקים אותו",
+"question": "מה עושים למי שידיו רפות וברכיו כשלות?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a3/p1",
+"en": "a bearded man in ancient robes walking away along a road, back turned, no text (Walk away)",
+"topic": "📜 ישעיהו",
+"caption": "הולכים הלאה",
+"question": "מה עושים למי שידיו רפות וברכיו כשלות?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a3/p2",
+"en": "a bearded man in ancient robes sitting alone on a rock waiting, no text (Wait alone)",
+"topic": "📜 ישעיהו",
+"caption": "מחכים לבד",
+"question": "מה עושים למי שידיו רפות וברכיו כשלות?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a4/p0",
+"en": "an ancient man sleeping peacefully on a mat under a tree, no text (Sleeps)",
+"topic": "📜 ישעיהו",
+"caption": "נרדם",
+"question": "מה עושה האלם בגאלה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a4/p1",
+"en": "a sad ancient man crying with tears, sitting with his face in his hands, no text (Sad)",
+"topic": "📜 ישעיהו",
+"caption": "בוכה",
+"question": "מה עושה האלם בגאלה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a4/p2",
+"en": "a joyful ancient man singing with his mouth wide open and a happy face, outdoors, no text (Sings)",
+"topic": "📜 ישעיהו",
+"caption": "שר",
+"question": "מה עושה האלם בגאלה?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a5/p0",
+"en": "a small green hill with grass, no people, no text (A hill)",
+"topic": "📜 ישעיהו",
+"caption": "גבעה",
+"question": "למה הופך השרב, המקום היבש?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a5/p1",
+"en": "a sparkling blue pond with reeds in the middle of a dry desert, no people, no text (A pond)",
+"topic": "📜 ישעיהו",
+"caption": "אגם מים",
+"question": "למה הופך השרב, המקום היבש?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a5/p2",
+"en": "a big ancient stone city on a plain, no people, no text (A city)",
+"topic": "📜 ישעיהו",
+"caption": "עיר גדולה",
+"question": "למה הופך השרב, המקום היבש?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a6/p0",
+"en": "a straight clear stone-paved road leading directly through the desert to a gleaming Jerusalem, no people, no text (A clear road)",
+"topic": "📜 ישעיהו",
+"caption": "אי אפשר לטעות",
+"question": "מה מיחד ב׳דרך הקדש׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a6/p1",
+"en": "a wooden gate with guards in royal clothes blocking a road, men only, no text (Only for kings)",
+"topic": "📜 ישעיהו",
+"caption": "רק למלכים",
+"question": "מה מיחד ב׳דרך הקדש׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a6/p2",
+"en": "a tiny short path of a few stones in the sand, no people, no text (A short road)",
+"topic": "📜 ישעיהו",
+"caption": "דרך קצרה",
+"question": "מה מיחד ב׳דרך הקדש׳?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a7/p0",
+"en": "a camel standing calmly in the desert, no people, no text (Camel)",
+"topic": "📜 ישעיהו",
+"caption": "גמל במדבר",
+"question": "איזו חיה לא תהיה בדרך של הגאולים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a7/p1",
+"en": "a gray donkey standing in a field, no people, no text (Donkey)",
+"topic": "📜 ישעיהו",
+"caption": "חמור",
+"question": "איזו חיה לא תהיה בדרך של הגאולים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a7/p2",
+"en": "a lion standing on dry grass, no people, no text (Lion)",
+"topic": "📜 ישעיהו",
+"caption": "אריה",
+"question": "איזו חיה לא תהיה בדרך של הגאולים?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a8/p0",
+"en": "a slow group of tired ancient men with sad faces walking, no text (Sadly)",
+"topic": "📜 ישעיהו",
+"caption": "בעצב עמוק",
+"question": "במה באים הנגאלים לציון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a8/p1",
+"en": "a happy crowd of ancient men and boys walking up toward Jerusalem singing and clapping, sunrise, men and boys only, no text (With joy)",
+"topic": "📜 ישעיהו",
+"caption": "ברנה ושמחה",
+"question": "במה באים הנגאלים לציון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/a8/p2",
+"en": "a silent line of ancient men walking with heads down on a path, no text (In silence)",
+"topic": "📜 ישעיהו",
+"caption": "בשקט גמור מאוד",
+"question": "במה באים הנגאלים לציון?",
+"section": ""
+},
+{
+"id": "hq/yeshayahu-14/b1",
+"en": "H: a desert valley in Judah, a bearded man in ancient robes crouching to smell a white lily blooming in the sand, tents far away, spring light, no text",
+"topic": "📜 ישעיהו",
+"caption": "",
+"question": "לפי רש״י, מי הם ׳מדבר וציה׳ שישישו?",
+"section": ""
+}
+]

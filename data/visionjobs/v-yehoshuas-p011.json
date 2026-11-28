@@ -1,0 +1,86 @@
+[
+{
+"n": 1,
+"id": "hq/yehoshuas-06/a1/p0",
+"topic": "יהושע",
+"caption": "חומה חזקה",
+"en": "H: a tall thick stone city wall with a closed wooden gate, no text (A strong wall)"
+},
+{
+"n": 2,
+"id": "hq/yehoshuas-06/a1/p1",
+"topic": "יהושע",
+"caption": "גדר נמוכה",
+"en": "H: a low wooden fence around a few houses, no text (A low fence)"
+},
+{
+"n": 3,
+"id": "hq/yehoshuas-06/a1/p2",
+"topic": "יהושע",
+"caption": "נהר רחב מאוד",
+"en": "H: a wide river curving around a city, no text (A river)"
+},
+{
+"n": 4,
+"id": "hq/yehoshuas-06/a2/p0",
+"topic": "יהושע",
+"caption": "עזוב את יריחו",
+"en": "H: a path turning away from a city wall, no text (Leave Jericho)"
+},
+{
+"n": 5,
+"id": "hq/yehoshuas-06/a2/p1",
+"topic": "יהושע",
+"caption": "נתתי בידך את יריחו",
+"en": "H: an open hand holding a large key in front of a city wall, no text (I gave you Jericho)"
+},
+{
+"n": 6,
+"id": "hq/yehoshuas-06/a2/p2",
+"topic": "יהושע",
+"caption": "בנה חומה סביבה",
+"en": "H: builders adding stones to a wall, no text (Build a wall)"
+},
+{
+"n": 7,
+"id": "hq/yehoshuas-06/a3/p0",
+"topic": "יהושע",
+"caption": "שלושה",
+"en": "H: three ancient priests in white robes each holding a curved ram's horn, no text (Three)"
+},
+{
+"n": 8,
+"id": "hq/yehoshuas-06/a3/p1",
+"topic": "יהושע",
+"caption": "שנים עשר",
+"en": "H: twelve ancient priests in white robes each holding a curved ram's horn, no text (Twelve)"
+},
+{
+"n": 9,
+"id": "hq/yehoshuas-06/a3/p2",
+"topic": "יהושע",
+"caption": "שבעה",
+"en": "H: seven ancient priests in white robes each holding a curved ram's horn, no text (Seven)"
+},
+{
+"n": 10,
+"id": "hq/yehoshuas-06/a4/p0",
+"topic": "יהושע",
+"caption": "החלוץ",
+"en": "H: armed ancient men with shields walking at the front of a procession, no text (The vanguard)"
+},
+{
+"n": 11,
+"id": "hq/yehoshuas-06/a4/p1",
+"topic": "יהושע",
+"caption": "הזקנים",
+"en": "H: old men with long white beards and walking sticks walking in a procession, no text (The elders)"
+},
+{
+"n": 12,
+"id": "hq/yehoshuas-06/a4/p2",
+"topic": "יהושע",
+"caption": "הצאן",
+"en": "H: a flock of sheep walking along a dusty road, no text (The flock)"
+}
+]

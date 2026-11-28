@@ -1,0 +1,914 @@
+[
+{
+"id": "hq/bamidbar-01/a3/p1",
+"en": "a scribe sitting and writing on a scroll while a long line of men waits in front of him, desert camp, only men, no women, no text (counting the people)",
+"topic": "🏕️ חמש במדבר",
+"caption": "סופרים את העם",
+"question": "מה צוה ה׳ את משה לעשות?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-01/a6/p0",
+"en": "a scribe writing names on a long scroll while men come one by one to him, only men, no women, no text on the scroll (counting by names)",
+"topic": "🏕️ חמש במדבר",
+"caption": "כותבים שמות",
+"question": "איך ספרו את בני ישראל?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-01/b2",
+"en": "ancient scribes' scrolls and a leader's wooden staff lying on a flat rock in front of a desert camp, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה הנושא המרכזי של פסוקים א׳–ד׳ בפרק א׳?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-01/b4",
+"en": "twelve different tents each with its own colored cloth flag in a wide desert camp seen from above, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "איש שאביו משבט אחד ואמו משבט אחר – לאיזה שבט הוא נמנה?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-01/b8",
+"en": "a pile of ancient silver coins in a wooden bowl on a table in a tent, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה אומר רש״י על המלה ׳לגלגלתם׳?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-02/a7/p1",
+"en": "men standing with crossed arms turning their backs, ancient clothes, no women, no text (refusing)",
+"topic": "🏕️ חמש במדבר",
+"caption": "מסרבים",
+"question": "מה עשו בני ישראל אחרי שה׳ צוה אותם?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-04/a6/p1",
+"en": "an open ancient parchment scroll lying on a stone table in warm light, no people, no text (Torah scroll)",
+"topic": "🏕️ חמש במדבר",
+"caption": "תורה",
+"question": "מה למד משה את בני אהרן?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-05/a4/p0",
+"en": "an ancient Egyptian king with a tall crown sitting on a stone throne, only a man, no idols, no text (pharaoh)",
+"topic": "🏕️ חמש במדבר",
+"caption": "לפרעה",
+"question": "למי נתן משה את הכסף?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-07/b2",
+"en": "an open ancient parchment scroll on a stone table with a clear blank gap between two columns of unreadable marks, soft morning light, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "באיזה פסוק מתחיל נושא חדש, ובמה אפשר לזהות זאת?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-08/b2",
+"en": "two columns of an ancient parchment scroll with a clear blank gap between them, soft morning light, no readable letters, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "באיזה פסוק מתחיל נושא חדש אחרי סוף היחידה, ומה הסימן?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-08/b3",
+"en": "a warm quiet scene of an open ancient scroll glowing softly in lamplight next to a clay lamp, no readable letters, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה למדו חז״ל מכך ששם ה׳ הגדול נמחק בשביל השלום?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-09/a1/p0",
+"en": "an ancient man with long hair in a plain white robe praying quietly alone on a hill at sunrise, no text (a Nazirite)",
+"topic": "🏕️ חמש במדבר",
+"caption": "a Nazirite",
+"question": "מי הוא נזיר?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-09/a4/p0",
+"en": "an ancient man seen from behind with long flowing hair down to his shoulders, in a plain robe, alone, no text (long hair)",
+"topic": "🏕️ חמש במדבר",
+"caption": "long hair",
+"question": "מה צריך הנזיר לגדל?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-09/b2",
+"en": "an open ancient parchment scroll with a single repeated unreadable pattern in neat rows, soft light, no readable letters, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "איזו מלה, בצורות שונות, חוזרת בפסוקים א׳–ו׳ ומנחה את היחידה?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-10/a7/p1",
+"en": "the golden ark chest with a plain gold cover standing in a tent, no figures, no people, no text (the ark)",
+"topic": "🏕️ חמש במדבר",
+"caption": "על ארון הברית",
+"question": "על מי הכהנים שמים את שם ה׳?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-12/b4",
+"en": "an open ancient scroll and a clay oil lamp on a wooden table in a desert tent, warm golden light, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "למה זכו בני יששכר להקריב ביום השני, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-16/a3/p2",
+"en": "a huge crowd of ancient men gathering at the entrance of a big tent in the desert, only men, no text (everyone)",
+"topic": "🏕️ חמש במדבר",
+"caption": "everyone",
+"question": "מי מתאסף כשתוקעים בשתי החצוצרות?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-16/a4/p0",
+"en": "a huge crowd of ancient men in the desert camp, only men, no text (everyone)",
+"topic": "🏕️ חמש במדבר",
+"caption": "everyone",
+"question": "מי מתאסף כשתוקעים בחצוצרה אחת?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-16/a7/p1",
+"en": "ancient men climbing up a steep rocky mountain, seen from behind, only men, no text (climbing away)",
+"topic": "🏕️ חמש במדבר",
+"caption": "climbing away",
+"question": "מה עושים כשאויב בא למלחמה?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-16/a7/p2",
+"en": "ancient men sleeping on mats in a camp, only men, no text (sleeping)",
+"topic": "🏕️ חמש במדבר",
+"caption": "sleeping",
+"question": "מה עושים כשאויב בא למלחמה?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-16/b2",
+"en": "an ancient parchment scroll opened on a stone table with a clear blank gap between two columns of unreadable marks, a soft light, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "איך אפשר לדעת שפסוק י״א פותח יחידה חדשה?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-16/b8",
+"en": "a shofar horn lying on a wooden table beside an open prayer book with unreadable marks, warm light, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה למדו חכמים מסוף הפסוק ׳והיו לכם לזכרון לפני אלהיכם אני ה׳ אלהיכם׳?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-17/a1/p0",
+"en": "the very last men at the end of a long line of ancient marchers in the desert seen from behind, only men, no text (at the end)",
+"topic": "🏕️ חמש במדבר",
+"caption": "at the end",
+"question": "איפה נוסע דגל יהודה במסע?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-17/b2",
+"en": "an ancient parchment scroll opened on a stone table, the first and last lines marked by two small ribbons, unreadable marks, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "איזה זוג פסוקים פותח ומסים את היחידה?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-17/b7",
+"en": "an open ancient scroll with a short passage set apart between two blank gaps and small marks at its edges, unreadable marks, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "למה פסוקים ל״ה–ל״ו מסמנים בסימנים מלפניו ומלאחריו, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-18/b4",
+"en": "a scholar's tent with open scrolls inside at the east side of a desert camp and neighbor tents close beside it, only men, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מי חנו סמוך למשה ומה זכו, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-18/b5",
+"en": "an ancient bearded priest in white linen standing alone near a golden seven-branched lampstand glowing warmly, only him, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "למה נסמכה פרשת המנורה לפרשת הנשיאים, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-19/b7",
+"en": "an open ancient scroll lying on a rock in the desert, beside a clay jar and a wooden staff, warm afternoon light, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "איזו כותרת מתאימה לפסוקים א׳–ט״ו?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-20/a6/p1",
+"en": "a crowd of men in simple robes in a camp, each with glowing light around his head and his hands raised, only men, no women, no text (all of them prophets)",
+"topic": "🏕️ חמש במדבר",
+"caption": "נביאים",
+"question": "מה רצה משה שיהיו כל בני העם?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-20/b4",
+"en": "an ancient scroll partly unrolled on a wooden table, with a clay lamp and a reed pen beside it, soft candlelight, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "אנקלוס תרגם ׳ולא יספו׳ – ׳ולא פסקין׳. מה פרוש התרגום לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-21/a5/p2",
+"en": "an ancient scroll with a puzzling pattern of crossing lines and symbols drawn on it, no people, no text (a riddle)",
+"topic": "🏕️ חמש במדבר",
+"caption": "חידה",
+"question": "איך מדבר ה׳ עם משה?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-21/a8/p0",
+"en": "a whole camp of tents with many men sitting and waiting calmly, the cloud still above the tent, ready to travel but not moving, only men, no women, no text (the whole people wait)",
+"topic": "🏕️ חמש במדבר",
+"caption": "כל העם מחכה",
+"question": "מי לא נסע עד שמרים חזרה למחנה?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-21/b4",
+"en": "a pillar of cloud slowly rising from over a large tent in the desert, the sun breaking through a soft sky, peaceful camp below, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "במשל של רש״י על ׳והענן סר׳, מה הנמשל?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-23/a4/p2",
+"en": "the pyramids and the sphinx in sandy Egypt, no people, no text (Egypt)",
+"topic": "🏕️ חמש במדבר",
+"caption": "מצרים",
+"question": "איזו עיר עתיקה בהר הגיעו אליה המרגלים?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-23/a7/p1",
+"en": "high rocky mountain peaks under clouds, no people, no text (mountain peaks)",
+"topic": "🏕️ חמש במדבר",
+"caption": "בהרים",
+"question": "איפה יושב הכנעני, לפי המרגלים?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-26/b4",
+"en": "a golden loaf of fresh bread on a wooden table next to a handful of wheat stalks, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה שונה ׳בבאכם׳ שבחלה מ׳כי תבאו׳ שבשאר התורה, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-32/b7",
+"en": "a blossoming staff resting in front of a golden chest in a lamp-lit desert sanctuary tent, peaceful, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "למה שומרים את מטה אהרן לפני העדות, לפי רש״י, ומה זה מראה על ה׳?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-34/a4/p0",
+"en": "a busy middle of a desert tent camp with many tents around a central open space, no people, no text (middle of the camp)",
+"topic": "🏕️ חמש במדבר",
+"caption": "middle of the camp",
+"question": "איפה שורפים את הפרה?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-34/b3",
+"en": "an ancient scroll resting on a stone table in a desert tent with soft light, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מדוע כתוב ׳חקה׳ בפרשה הזאת, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-34/b6",
+"en": "a royal palace courtyard in an ancient desert kingdom with a gate and cleaning buckets and a mother carrying a bucket seen from behind far away, no faces, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה המשל שרש״י מביא על הפרה, ומה הנמשל?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-35/a4/p0",
+"en": "the Nile river with palm trees and ancient pyramids in the distance, no people, no text (Egypt)",
+"topic": "🏕️ חמש במדבר",
+"caption": "Egypt",
+"question": "את מה שלח משה לתור?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-35/a4/p1",
+"en": "green hills of Canaan with vineyards, fig trees and a walled town on a hill, no people, no text (Canaan)",
+"topic": "🏕️ חמש במדבר",
+"caption": "Canaan",
+"question": "את מה שלח משה לתור?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-35/a4/p2",
+"en": "a wide dry rocky desert with a bare mountain, no people, no text (Sinai desert)",
+"topic": "🏕️ חמש במדבר",
+"caption": "Sinai desert",
+"question": "את מה שלח משה לתור?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-37/a2/p0",
+"en": "a tall mountain with a cloud at its top over a wide camp of tents, only men, no text (Mount Sinai)",
+"topic": "🏕️ חמש במדבר",
+"caption": "Mount Sinai",
+"question": "מאיפה שלח משה את השלוחים?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-37/a2/p2",
+"en": "a big camp of tents at the edge of a desert town with a rocky border ridge behind, only men, no text (Kadesh)",
+"topic": "🏕️ חמש במדבר",
+"caption": "Kadesh",
+"question": "מאיפה שלח משה את השלוחים?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-37/a6/p1",
+"en": "an ancient king raising his palm in a clear stop gesture, serious face, only men, no text (you shall not pass)",
+"topic": "🏕️ חמש במדבר",
+"caption": "you shall not pass",
+"question": "מה ענה מלך אדום?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-38/b2",
+"en": "a round small mountain sitting on the shoulder of a larger mountain like a small apple on a big apple, no people, only men, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה מלמד רש״י על השם ׳הר ההר׳?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-39/b1",
+"en": "a tall wooden pole with a copper serpent figure on top standing in the middle of a desert camp at sunrise, men looking up, only men, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה הנושא של היחידה בפרק כ״א, פסוקים ד׳–ט׳?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-39/b7",
+"en": "ancient men gathered peacefully around a tall pole with a copper snake on top, sunrise, hopeful atmosphere, only men, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה מלמד הנס על אהבת ה׳ אלינו?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-41/a1/p1",
+"en": "a wide flat plain with a large camp of tents, a river and a palm city far away, no text (the plains of Moab)",
+"topic": "🏕️ חמש במדבר",
+"caption": "בערבות מואב",
+"question": "איפה חנו ישראל?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-46/b1",
+"en": "an open ancient scroll lying on a rock in the desert next to an olive branch, warm afternoon light, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "איזו כותרת מתאימה לפסוקים י׳–י״ח?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-46/b3",
+"en": "a family tree drawn as three stone tablets in a row with a priest's turban carved on each, resting on desert sand, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "למה התורה אומרת ׳בן אלעזר בן אהרן הכהן׳, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-46/b6",
+"en": "a shining golden flame above the Tabernacle roof against a blue sky, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה פרוש ׳קנא לאלהיו׳, ומאיזה פסוק רש״י לומד?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-47/a4/p0",
+"en": "a copper-colored statue of a snake wrapped around a tall wooden pole standing against a blue sky, no people, no text (copper snake)",
+"topic": "🏕️ חמש במדבר",
+"caption": "נחש נחושת",
+"question": "מה שם משה על הנס?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-48/b1",
+"en": "an open ancient scroll with columns of dots, lying on a rock beside a small clay jar, warm desert light, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "איזו כותרת מתאימה לפרק כ״ו, פסוקים א׳–נ״א?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-48/b4",
+"en": "a long scroll showing a branching family tree drawn with simple lines, lying on a flat stone, warm light, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה פרוש ׳לבית אבתם׳ לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-50/b3",
+"en": "a feather quill and an inkpot beside an unrolled parchment on a stone table, no people, only men, no women, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה מחדש רש״י (דבר אחר) על כך שפרשה זו נכתבה על ידי הבנות?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-53/a2/p1",
+"en": "a simple hut of branches being built in a field, ancient men building it, only men, no text (building a sukkah)",
+"topic": "🏕️ חמש במדבר",
+"caption": "building a sukkah",
+"question": "מה עושים ביום כפור, לפי ׳ועניתם את נפשתיכם׳?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-57/b3",
+"en": "small stone houses with walls being built on a green hill, and next to them a half-finished low sheep pen, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה למד משה במלים ׳בנו לכם ערים לטפכם וגדרת לצנאכם׳?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-58/b6",
+"en": "men in simple robes carving a new name board on a wooden gate of a stone city, calm scene, only men, no women, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה עשו בני ראובן לערים נבו ובעל מעון, לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-60/a6/p2",
+"en": "an ancient Egyptian king with a tall double crown sitting on a golden throne, only the one man in this panel, no text (the king of Egypt)",
+"topic": "🏕️ חמש במדבר",
+"caption": "מלך מצרים",
+"question": "מי נתן לעם ישראל את הארץ?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-60/b7",
+"en": "a circular path drawn around a green land seen from above, with four small flags at the south, west, north and east, no people, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "באיזה סדר מתארות הרוחות בפרק ל״ד?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-61/a6/p0",
+"en": "a river in the middle with a small stone town on each bank, green hills on both sides, no people, no women, no text (both sides of the river)",
+"topic": "🏕️ חמש במדבר",
+"caption": "משני צדי הנהר",
+"question": "איפה היו ערי המקלט?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-61/b3",
+"en": "workers in simple robes preparing a stone road sign and a wide road leading to a stone city gate, no women, no text",
+"topic": "🏕️ חמש במדבר",
+"caption": "",
+"question": "מה פרוש ׳והקריתם׳ לפי רש״י?",
+"section": ""
+},
+{
+"id": "hq/bamidbar-62/a9/p2",
+"en": "two plain stone tablets resting on a table next to a rolled parchment scroll, no text, no people, no women, no text (the commandments)",
+"topic": "🏕️ חמש במדבר",
+"caption": "המצוות",
+"question": "מה כתוב בפסוק האחרון בספר?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-01/b1",
+"en": "an open scroll lying on a wooden table with golden light from a window, no people, no text",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "",
+"question": "איך קוראים לפרשה הראשונה בתורה?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-08/b6",
+"en": "a brown plowed field beyond a garden gate, no people, no text",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "",
+"question": "לאן ה׳ שלח את האדם?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-13/a8/p1",
+"en": "a hammer and wooden planks on a workbench, a finished ark behind, no people, no text (עשה)",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "עשה",
+"question": "׳ויעש נח ככל אשר צוה אתו אלהים כן...׳",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-14/a1/p2",
+"en": "a big stone palace with towers, no people, no text (ארמון)",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "ארמון",
+"question": "אל מה ה׳ אמר לנח לבוא?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-14/b1",
+"en": "a wooden ark with an open door and golden light, no people, no text",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "",
+"question": "מה ה׳ אמר לנח?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-14/b2",
+"en": "a bright sun shining over a wooden ark, no people, no text",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "",
+"question": "למה ה׳ שמר על נח?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-14/b4",
+"en": "seven golden candles in a row on a wooden shelf, no people, no text",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "",
+"question": "כמה ימים ה׳ אמר שיעברו עד הגשם?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-16/a3/p0",
+"en": "a night sky full of golden stars, no text (כוכבים)",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "כוכבים",
+"question": "מה ה׳ נתן בענן?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-17/a2/p0",
+"en": "a vineyard with green vines and purple grapes, no text (כרם)",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "כרם",
+"question": "מה נטע נח?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-18/a2/p1",
+"en": "an old bearded man in a long robe next to a wooden ark, no text (נח)",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "נח",
+"question": "מי היה אביהם של שם, חם ויפת?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-20/b7",
+"en": "an old scroll lying open on a wooden table next to a small oil lamp, no people, no text",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "",
+"question": "מה פרוש ׳תולדת׳?",
+"section": ""
+},
+{
+"id": "hq/bereshit-a-22/a4/p0",
+"en": "an ancient Egyptian king, a man with a golden headdress, standing in a palace hall, no text (פרעה)",
+"topic": "🌍 בראשית – כתה א׳",
+"caption": "פרעה",
+"question": "מי היה המלך במצרים?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-02/b8",
+"en": "an open prayer book resting on a stone beneath a starry night sky, no people, no text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "מה לומדים מתפלת אברהם על אהבת הבריות?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-06/a4/p2",
+"en": "a big city with tall walls and towers, no text (עיר גדולה)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "עיר גדולה",
+"question": "מה אברהם ראה מרחוק ביום השלישי?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-06/b7",
+"en": "a sky full of stars above a sandy sea shore at night, no text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "במה ה׳ ברך את אברהם?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-07/a5/p0",
+"en": "ten silver coins in a row, no people, no text (עשר)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "עשר",
+"question": "כמה שקלים שלם אברהם?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-08/a6/p2",
+"en": "a leather sandal, no people, no text (בנעל)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "בנעל",
+"question": "במה רבקה שאבה מים?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-10/b8",
+"en": "an open book of the Torah on a wooden stand with a candle, no people, no text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "באיזו פרשה לומדים על לדת יעקב ועשו?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-11/a6/p1",
+"en": "a man drawing on a big stone, no text (צייר על האבן)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "צייר על האבן",
+"question": "מה יצחק עשה אחרי שסתמו את הבארות?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-12/a1/p2",
+"en": "a man painting on a stone, no text (לצייר)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "לצייר",
+"question": "מה יצחק בקש מעשו לעשות?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-14/b6",
+"en": "two open hands shape formed by golden light rays over a hill, no people, no text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "איזה בן נקרא יהודה, ולמה?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-15/a6/p1",
+"en": "a thick rope tied into a loop, no people, no text (לוי)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "לוי",
+"question": "לאה אמרה: ׳זבד טוב׳. מה שם הבן?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-15/b1",
+"en": "an open scroll lying on a stone, no people, no text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "באיזה פרק כתוב: ׳ויזכר אלהים את רחל׳?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-15/b7",
+"en": "an open scroll on a stone with soft morning light, no people, no text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "מהו הפסוק כפי שהוא כתוב בתורה?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-16/a1/p1",
+"en": "a stone city with towers on a hill, no people, no text (לבנות עיר)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "לבנות עיר",
+"question": "מה בקש יעקב מלבן?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-16/a1/p2",
+"en": "a pile of silver coins on a cloth, no people, no text (עוד כסף)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "עוד כסף",
+"question": "מה בקש יעקב מלבן?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-17/b7",
+"en": "an open scroll lying on a stone table beside a small oil lamp, warm light, no people, no text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "באיזו פרשה ובאיזה פרק נמצא ספור הבריחה?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-18/a8/p1",
+"en": "a strong midday sun high in the blue sky, no people, no text (בצהריים)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "בצהריים",
+"question": "מתי קם לבן?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-19/b6",
+"en": "an open scroll resting on a stone with a staff beside it, warm light, no people, no text, no letters",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "באיזו פרשה כתוב שיעקב שלח מנחה לעשו?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-20/a3/p0",
+"en": "a man wrestling with a tall silhouette made of soft light and shadow, no wings, no face, dust on the ground, dark night, no text (נאבק)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "נאבק",
+"question": "מה עשה האיש עם יעקב?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-24/a2/p1",
+"en": "a very tall rocky mountain, no text (הר גבוה מאוד)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "הר גבוה מאוד",
+"question": "איפה הטה ישראל את אהלו?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-28/b7",
+"en": "a winding path going down a hill into a valley with tents far away, no people, no text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "מה פרוש ׳וירד יהודה מאת אחיו׳?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-35/a7/p1",
+"en": "men seated by letters written on stones, no text (לפי השמות)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "לפי השמות",
+"question": "לפי מה ישבו האחים?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-37/b7",
+"en": "an open scroll resting on a wooden table next to a clay lamp, warm light, no people, no readable text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "באיזו פרשה נמצא נאום יהודה, ולמה?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-38/b7",
+"en": "an open scroll resting on a wooden table next to a clay lamp, warm light, no people, no readable text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "באיזה פרק יוסף מתודע לאחיו?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-41/a7/p1",
+"en": "a town on a green hill between two tall mountains, no text (שכם)",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "שכם",
+"question": "איזה מקום נתן יעקב ליוסף?",
+"section": ""
+},
+{
+"id": "hq/bereshit-b-43/b7",
+"en": "a closed old book with a ribbon on a wooden table, candle beside it, no people, no text",
+"topic": "⛺ בראשית – כתה ב׳",
+"caption": "",
+"question": "באיזו פרשה נגמר ספר בראשית?",
+"section": ""
+},
+{
+"id": "hq/geula-08/b4",
+"en": "two paths side by side, on the left a man in a kippah dragged by the arm looking unwilling, on the right a man in a kippah walking eagerly on his own with a smile, a distant stone city ahead, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה ההבדל במשל בין שתי הדרכים של יהודה וישראל?",
+"section": ""
+},
+{
+"id": "hq/hodaya-07/a2/p0",
+"en": "a man wearing a kippah sitting at a wooden desk with a scroll, as a judge, only the one man in this panel, no text (a judge)",
+"topic": "🌱 מדות טובות – הכרת הטוב לה׳ (הודיה)",
+"caption": "לשופט",
+"question": "למי נותנים את הסל?",
+"section": ""
+},
+{
+"id": "hq/hodaya-09/b8",
+"en": "a boy wearing a kippah waking up in his bed in the morning, stretching his arms with a big smile as sunlight pours through the window, white clouds outside, only the one boy in this scene, no text",
+"topic": "🌱 מדות טובות – הכרת הטוב לה׳ (הודיה)",
+"caption": "",
+"question": "לא ישנתי טוב בלילה, אבל בבקר אני בריא ושמח. מה אומר מי שלמד מרבי זלמן?",
+"section": ""
+},
+{
+"id": "hq/hodaya-12/a8/p0",
+"en": "a boy wearing a kippah hurrying with a sandwich in his hand and a clock behind him, only the one boy in this panel, no text (rushing)",
+"topic": "🌱 מדות טובות – הכרת הטוב לה׳ (הודיה)",
+"caption": "רצים לסים",
+"question": "מה עושים לפני ברכה?",
+"section": ""
+},
+{
+"id": "hq/lev-07/b1",
+"en": "a stone with a thin stream of water dripping on it beside an open blank prayer book on a wooden table, soft daylight, no people, no letters, no text",
+"topic": "🌱 מדות טובות – תפלה מן הלב",
+"caption": "",
+"question": "מה השנים שצריך לזכר כשמתפללים?",
+"section": ""
+},
+{
+"id": "hq/lev-08/b1",
+"en": "a boy wearing a kippah reading from an open prayer book with a blank distracted look and eyes drifting to the window, bright afternoon light, only the one boy in this scene, no letters, no text",
+"topic": "🌱 מדות טובות – תפלה מן הלב",
+"caption": "",
+"question": "למה מלים מכרות הן לפעמים בעיה בתפלה?",
+"section": ""
+},
+{
+"id": "hq/melachim1-02/a2/p1",
+"en": "an open scroll of the Torah on a stone table beside an oil lamp, no people, no text (God's commandments)",
+"topic": "🏛️ מלכים א׳",
+"caption": "מצוות ה'",
+"question": "מה צוה דוד את שלמה לשמר?",
+"section": ""
+},
+{
+"id": "hq/melachim1-02/b5",
+"en": "a lit oil lamp resting on an open scroll beside a golden crown, no people, no text",
+"topic": "🏛️ מלכים א׳",
+"caption": "",
+"question": "דוד אמר: ׳למען יקים ה׳ את דברו׳. מה אנחנו לומדים על אהבתו?",
+"section": ""
+},
+{
+"id": "hq/melachim1-03/a5/p2",
+"en": "an old balance scale next to a lit lamp and an open scroll, no people, no text (A listening heart)",
+"topic": "🏛️ מלכים א׳",
+"caption": "לב שומע",
+"question": "מה בקש שלמה מה׳?",
+"section": ""
+},
+{
+"id": "hq/melachim1-03/b1",
+"en": "a scale of justice and an open scroll under a night sky with a hill in the distance, no people, no text",
+"topic": "🏛️ מלכים א׳",
+"caption": "",
+"question": "מה הנושא של היחידה בפרק ג׳?",
+"section": ""
+},
+{
+"id": "hq/melachim1-04/b3",
+"en": "a wise old scroll-keeper's desk with several open scrolls and a lit oil lamp, no people, no text",
+"topic": "🏛️ מלכים א׳",
+"caption": "",
+"question": "רש״י על ׳ויחכם מכל האדם׳: מה הפרוש?",
+"section": ""
+},
+{
+"id": "hq/melachim1-04/b6",
+"en": "a small clay oil lamp glowing warmly beside an open scroll on a wooden table, no people, no text",
+"topic": "🏛️ מלכים א׳",
+"caption": "",
+"question": "מה אנחנו לומדים מ׳ויתן אלהים חכמה לשלמה׳?",
+"section": ""
+}
+]

@@ -1,0 +1,3274 @@
+[
+{
+"id": "hq/geula-18/a7/p1",
+"en": "a cool late-winter orchard with bare trees and one tree in white blossom, no people, no text (late winter)",
+"topic": "🌅 הגאלה",
+"caption": "בסוף החורף",
+"question": "מתי פורחת השקדיה?",
+"section": ""
+},
+{
+"id": "hq/geula-18/a7/p2",
+"en": "an autumn orchard with falling orange leaves, no people, no text (autumn)",
+"topic": "🌅 הגאלה",
+"caption": "בסתיו",
+"question": "מתי פורחת השקדיה?",
+"section": ""
+},
+{
+"id": "hq/geula-18/a8/p0",
+"en": "a dry brown leaf on the ground, no people, no text (dry leaf)",
+"topic": "🌅 הגאלה",
+"caption": "עלה יבש",
+"question": "מה אני מחפש בטיול בסוף החרף?",
+"section": ""
+},
+{
+"id": "hq/geula-18/a8/p1",
+"en": "a faded wilted flower at the end of its season, no people, no text (last flower)",
+"topic": "🌅 הגאלה",
+"caption": "פרח אחרון שנבל",
+"question": "מה אני מחפש בטיול בסוף החרף?",
+"section": ""
+},
+{
+"id": "hq/geula-18/a8/p2",
+"en": "a tiny first fresh flower with petals opening in green grass, morning light, no people, no text (first flower)",
+"topic": "🌅 הגאלה",
+"caption": "פרח ראשון",
+"question": "מה אני מחפש בטיול בסוף החרף?",
+"section": ""
+},
+{
+"id": "hq/geula-18/a9/p0",
+"en": "a table with a pile of grey stones, no people, no text (stones)",
+"topic": "🌅 הגאלה",
+"caption": "אבנים גדולות",
+"question": "מה חכה על השלחן במשל?",
+"section": ""
+},
+{
+"id": "hq/geula-18/a9/p1",
+"en": "a festive table with warm bread, fruit and a pot of food, no people, no text (good food)",
+"topic": "🌅 הגאלה",
+"caption": "אוכל טוב",
+"question": "מה חכה על השלחן במשל?",
+"section": ""
+},
+{
+"id": "hq/geula-18/a9/p2",
+"en": "a table covered in snow outdoors, no people, no text (snow)",
+"topic": "🌅 הגאלה",
+"caption": "שלג",
+"question": "מה חכה על השלחן במשל?",
+"section": ""
+},
+{
+"id": "hq/geula-18/b5",
+"en": "honey bees gathering around a single blossoming almond tree in a bare late-winter orchard, soft sunlight, no people, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "למה טוב לשקדיה לפרח כשאין עוד פרחים אחרים?",
+"section": ""
+},
+{
+"id": "hq/geula-18/b7",
+"en": "a boy wearing a kippah placing a challah and candlesticks on a Shabbat table before the family arrives, a happy proud expression, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "אבא שלי מסדר את הבית לקראת השבת. מה אפשר לעשות כמו במשל?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a1/p0",
+"en": "a tall mountain with thick clouds around its peak in the desert, no people, no text (mountain)",
+"topic": "🌅 הגאלה",
+"caption": "מתן תורה",
+"question": "מה מזכירים בבקר ובערב?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a1/p1",
+"en": "a dry path through a parted sea with high walls of water on both sides, no people, no text (parted sea)",
+"topic": "🌅 הגאלה",
+"caption": "יציאת מצרים",
+"question": "מה מזכירים בבקר ובערב?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a1/p2",
+"en": "a large wooden ark floating on a flood with heavy rain, no people, no text (ark)",
+"topic": "🌅 הגאלה",
+"caption": "המבול",
+"question": "מה מזכירים בבקר ובערב?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a2/p0",
+"en": "a father wearing a kippah and two sons wearing kippot walking happily on a path toward a warm lit house, no text (home)",
+"topic": "🌅 הגאלה",
+"caption": "הביתה",
+"question": "אל איפה ה׳ מביא את בניו?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a2/p1",
+"en": "people walking away into a vast empty desert, only distant small figures wearing kippot, no text (desert)",
+"topic": "🌅 הגאלה",
+"caption": "למדבר",
+"question": "אל איפה ה׳ מביא את בניו?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a2/p2",
+"en": "a small boat on a wide open sea, no people, no text (sea)",
+"topic": "🌅 הגאלה",
+"caption": "לים",
+"question": "אל איפה ה׳ מביא את בניו?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a3/p0",
+"en": "a round hand drum on a wooden stand, no people, no text (drum)",
+"topic": "🌅 הגאלה",
+"caption": "תוף",
+"question": "איזה כלי תוקעים בברכה ׳תקע בשופר גדול׳?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a3/p1",
+"en": "a long straight silver trumpet, no people, no text (silver trumpet)",
+"topic": "🌅 הגאלה",
+"caption": "חצוצרה של כסף",
+"question": "איזה כלי תוקעים בברכה ׳תקע בשופר גדול׳?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a3/p2",
+"en": "a large curved ram's horn shofar on a table, no people, no text (shofar)",
+"topic": "🌅 הגאלה",
+"caption": "שופר גדול",
+"question": "איזה כלי תוקעים בברכה ׳תקע בשופר גדול׳?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a4/p0",
+"en": "one boy wearing a kippah standing alone at an old stone city gate with a small bundle, hopeful look, only the one boy, no text (one)",
+"topic": "🌅 הגאלה",
+"caption": "אחד",
+"question": "כמה באים מכל עיר, לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a4/p1",
+"en": "two boys wearing kippot standing together at an old stone city gate, hopeful looks, only two boys, no text (two)",
+"topic": "🌅 הגאלה",
+"caption": "שנים",
+"question": "כמה באים מכל עיר, לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a4/p2",
+"en": "ten boys wearing kippot standing in a row in front of an old stone city gate, no text (ten)",
+"topic": "🌅 הגאלה",
+"caption": "עשרה",
+"question": "כמה באים מכל עיר, לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a5/p0",
+"en": "a man wearing a kippah and a white coat with a doctor's bag, only the one man, no text (doctor)",
+"topic": "🌅 הגאלה",
+"caption": "הרופא",
+"question": "מי קורא ׳שובו בנים׳?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a5/p1",
+"en": "a father wearing a kippah standing at the open door of his home calling warmly with open arms toward the road, only the one man, no text (father)",
+"topic": "🌅 הגאלה",
+"caption": "האבא",
+"question": "מי קורא ׳שובו בנים׳?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a5/p2",
+"en": "a neighbor man wearing a kippah leaning on a garden fence, friendly, only the one man, no text (neighbor)",
+"topic": "🌅 הגאלה",
+"caption": "השכן",
+"question": "מי קורא ׳שובו בנים׳?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a6/p0",
+"en": "one road coming from one side only toward a stone city on a hill, no people, no text (one side)",
+"topic": "🌅 הגאלה",
+"caption": "מכנף אחת",
+"question": "מאיזה כוונים מקבצים את הבנים?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a6/p1",
+"en": "three roads coming from three different sides toward a stone city on a hill, no people, no text (three sides)",
+"topic": "🌅 הגאלה",
+"caption": "משלוש כנפות",
+"question": "מאיזה כוונים מקבצים את הבנים?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a6/p2",
+"en": "four roads coming from four different directions meeting at a stone city on a hill, seen from above, no people, no text (four sides)",
+"topic": "🌅 הגאלה",
+"caption": "מארבע כנפות",
+"question": "מאיזה כוונים מקבצים את הבנים?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a7/p0",
+"en": "an ancient stone city on a hill at sunrise with golden light, no people, no text (Zion)",
+"topic": "🌅 הגאלה",
+"caption": "ציון",
+"question": "אל איזה מקום ה׳ מביא את בניו?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a7/p1",
+"en": "a wide valley with many blooming flowers, no people, no text (valley)",
+"topic": "🌅 הגאלה",
+"caption": "עמק פורח",
+"question": "אל איזה מקום ה׳ מביא את בניו?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a7/p2",
+"en": "a dense dark forest of tall trees, no people, no text (forest)",
+"topic": "🌅 הגאלה",
+"caption": "יער",
+"question": "אל איזה מקום ה׳ מביא את בניו?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a8/p0",
+"en": "a wide dusty path through a field, no people, no text (path)",
+"topic": "🌅 הגאלה",
+"caption": "השביל הרחב",
+"question": "מה נקרע ביציאת מצרים?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a8/p1",
+"en": "a sea split in two with a dry path in the middle and high walls of water, no people, no text (sea)",
+"topic": "🌅 הגאלה",
+"caption": "הים",
+"question": "מה נקרע ביציאת מצרים?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a8/p2",
+"en": "a very tall tree split in two, no people, no text (tree)",
+"topic": "🌅 הגאלה",
+"caption": "העץ הגבוה",
+"question": "מה נקרע ביציאת מצרים?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a9/p0",
+"en": "a single open window with curtains, no people, no text (window)",
+"topic": "🌅 הגאלה",
+"caption": "חלון",
+"question": "מה פותחים לבאים הביתה?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a9/p1",
+"en": "a wide open city gate of old stone with a road leading in and warm light, no people, no text (gate)",
+"topic": "🌅 הגאלה",
+"caption": "שער",
+"question": "מה פותחים לבאים הביתה?",
+"section": ""
+},
+{
+"id": "hq/geula-19/a9/p2",
+"en": "a closed warehouse with a wide wooden door, no people, no text (warehouse)",
+"topic": "🌅 הגאלה",
+"caption": "מחסן",
+"question": "מה פותחים לבאים הביתה?",
+"section": ""
+},
+{
+"id": "hq/geula-19/b1",
+"en": "a wide road with many small groups of travelers wearing kippot coming from every direction toward a stone city on a hill at sunrise, hopeful faces, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה כתוב בירמיהו כ״ג, ז׳–ח׳, על מה שיזכרו?",
+"section": ""
+},
+{
+"id": "hq/geula-19/b2",
+"en": "an ancient stone study hall with two wise bearded men wearing hats sitting and discussing over an open book, calm thoughtful expressions, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "בן זומא הביא את פסוקי ירמיהו, והחכמים ענו לו. מה ענו?",
+"section": ""
+},
+{
+"id": "hq/geula-19/b6",
+"en": "a single boy wearing a kippah and two relatives walking together on a quiet road toward a hilltop city at dawn, hopeful expressions, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה המסר של הפסוק ׳אחד מעיר ושנים ממשפחה׳?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a1/p0",
+"en": "a wall clock on a plain wall, no people, no text (clock)",
+"topic": "🌅 הגאלה",
+"caption": "שעון",
+"question": "מה שכח נעם לראות?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a1/p1",
+"en": "a boy wearing a kippah smiling beside a friend who greets him warmly in a school yard, a teacher nodding kindly in the background, friendly happy faces, no text (good things)",
+"topic": "🌅 הגאלה",
+"caption": "הטובים שכבר באו",
+"question": "מה שכח נעם לראות?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a1/p2",
+"en": "a school notebook and pencil on a desk, no people, no text (notebook)",
+"topic": "🌅 הגאלה",
+"caption": "מחברת",
+"question": "מה שכח נעם לראות?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a10/p0",
+"en": "a boy wearing a kippah with wide open eyes gazing at a blossoming hillside, amazed, no text (with the eyes)",
+"topic": "🌅 הגאלה",
+"caption": "בעיניים",
+"question": "מה פרוש ׳לעיניכם׳?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a10/p1",
+"en": "a stack of closed old books on a shelf, no people, no text (in books)",
+"topic": "🌅 הגאלה",
+"caption": "בספרים",
+"question": "מה פרוש ׳לעיניכם׳?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a10/p2",
+"en": "a boy wearing a kippah asleep with a dreamy smile and a small cloud above his head, no text (in a dream)",
+"topic": "🌅 הגאלה",
+"caption": "בחלום",
+"question": "מה פרוש ׳לעיניכם׳?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a2/p0",
+"en": "a single green sprout just breaking through brown soil, soft morning light, no people, no text (beginning)",
+"topic": "🌅 הגאלה",
+"caption": "התחלה",
+"question": "מה מסמל חדש איר?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a2/p1",
+"en": "a full golden wheat field ripe for harvest under blue sky, no people, no text (completion)",
+"topic": "🌅 הגאלה",
+"caption": "השלמה",
+"question": "מה מסמל חדש איר?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a2/p2",
+"en": "a winding dirt path climbing through green hills toward the distance, mid-journey, calm light, no people, no text (process)",
+"topic": "🌅 הגאלה",
+"caption": "תהליך",
+"question": "מה מסמל חדש איר?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a3/p0",
+"en": "a full golden wheat field ripe for harvest, no people, no text (completion)",
+"topic": "🌅 הגאלה",
+"caption": "השלמה",
+"question": "מה מסמל חדש ניסן?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a3/p1",
+"en": "a single green sprout and tiny spring blossoms just starting on a branch, fresh and hopeful, no people, no text (beginning)",
+"topic": "🌅 הגאלה",
+"caption": "התחלה",
+"question": "מה מסמל חדש ניסן?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a3/p2",
+"en": "a winding dirt path climbing through green hills toward the distance, no people, no text (process)",
+"topic": "🌅 הגאלה",
+"caption": "תהליך",
+"question": "מה מסמל חדש ניסן?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a4/p0",
+"en": "golden autumn leaves falling in an orchard with a gentle rain cloud, no people, no text (autumn)",
+"topic": "🌅 הגאלה",
+"caption": "סתיו",
+"question": "בין אילו חדשים נמצא איר?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a4/p1",
+"en": "a hot bright summer sun over a dry field with grapevines, no people, no text (summer)",
+"topic": "🌅 הגאלה",
+"caption": "קיץ",
+"question": "בין אילו חדשים נמצא איר?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a4/p2",
+"en": "a spring blossom branch on the left and a ripe wheat field on the right with a path between them, no people, no text (spring to wheat)",
+"topic": "🌅 הגאלה",
+"caption": "אביב וחיטה",
+"question": "בין אילו חדשים נמצא איר?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a5/p0",
+"en": "a boy wearing a kippah with a grumpy frowning face and folded arms, no text (complainer)",
+"topic": "🌅 הגאלה",
+"caption": "מתלונן",
+"question": "מי מרגיש שהמשיח כבר הגיע?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a5/p1",
+"en": "a boy wearing a kippah with a warm grateful smile looking up at the morning sky, no text (thankful one)",
+"topic": "🌅 הגאלה",
+"caption": "מודה",
+"question": "מי מרגיש שהמשיח כבר הגיע?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a5/p2",
+"en": "a boy wearing a kippah looking away at his shoes, distracted, no text (distracted one)",
+"topic": "🌅 הגאלה",
+"caption": "מפספס",
+"question": "מי מרגיש שהמשיח כבר הגיע?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a6/p0",
+"en": "a boy wearing a kippah with a gloomy face under a small grey cloud, no text (only troubles)",
+"topic": "🌅 הגאלה",
+"caption": "רק צרות",
+"question": "מה רואה המתלונן?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a6/p1",
+"en": "a boy wearing a kippah laughing with joy among colorful balloons, no text (only joy)",
+"topic": "🌅 הגאלה",
+"caption": "רק שמחה",
+"question": "מה רואה המתלונן?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a6/p2",
+"en": "a boy wearing a kippah looking at a bright sunrise with wide eyes, no text (big light)",
+"topic": "🌅 הגאלה",
+"caption": "אור גדול",
+"question": "מה רואה המתלונן?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a7/p0",
+"en": "a boy wearing a kippah writing angrily with a scowl in a notebook, no text (complaints)",
+"topic": "🌅 הגאלה",
+"caption": "תלונות",
+"question": "מה כותבים ביומן גאלה?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a7/p1",
+"en": "a boy wearing a kippah writing in a small notebook by lamplight with a gentle smile, no text (good thing)",
+"topic": "🌅 הגאלה",
+"caption": "דבר טוב",
+"question": "מה כותבים ביומן גאלה?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a7/p2",
+"en": "a boy wearing a kippah staring at an empty shelf with a sad face, no text (what is missing)",
+"topic": "🌅 הגאלה",
+"caption": "מה שחסר",
+"question": "מה כותבים ביומן גאלה?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a8/p0",
+"en": "a boy wearing a kippah asleep under a blanket in bed, peaceful, no text (sleep)",
+"topic": "🌅 הגאלה",
+"caption": "לישון",
+"question": "מה התפקיד שלנו עכשיו?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a8/p1",
+"en": "a boy wearing a kippah at a window with wide open eyes and an amazed smile looking out at the sunrise, no text (open eyes)",
+"topic": "🌅 הגאלה",
+"caption": "לפקוח עיניים",
+"question": "מה התפקיד שלנו עכשיו?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a8/p2",
+"en": "a boy wearing a kippah closing wooden shutters on a window, no text (close windows)",
+"topic": "🌅 הגאלה",
+"caption": "לסגור חלונות",
+"question": "מה התפקיד שלנו עכשיו?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a9/p0",
+"en": "a heavy round stone wheel in a quiet workshop, no people, no text (heavy wheel)",
+"topic": "🌅 הגאלה",
+"caption": "גלגל כבד",
+"question": "מה היתה התחנה הקודמת?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a9/p1",
+"en": "a stone road rising out of an old city at dawn with a ram's horn shofar resting on a rock, hopeful, no people, no text (bigger than the exodus)",
+"topic": "🌅 הגאלה",
+"caption": "גדול מיציאת מצרים",
+"question": "מה היתה התחנה הקודמת?",
+"section": ""
+},
+{
+"id": "hq/geula-20/a9/p2",
+"en": "a father-sized stone house with open door and flowering garden, no people, no text (father prepares house)",
+"topic": "🌅 הגאלה",
+"caption": "אבא מכין בית",
+"question": "מה היתה התחנה הקודמת?",
+"section": ""
+},
+{
+"id": "hq/geula-20/b1",
+"en": "a boy wearing a kippah holding a framed empty picture frame up to a window and frowning slightly at the sunrise view behind it, thoughtful, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה הטעות של מי שמחכה לתמונה אחת בלבד?",
+"section": ""
+},
+{
+"id": "hq/geula-20/b3",
+"en": "a boy wearing a kippah standing in the middle of a hillside path looking back at the way he came and ahead at the way still to go, calm hopeful face, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה אומר איר על המקום שבו אנחנו בדרך?",
+"section": ""
+},
+{
+"id": "hq/geula-20/b8",
+"en": "a boy wearing a kippah writing in a notebook at a desk by lamplight at evening with a tired but gentle smile, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "אני כותב יומן גאלה, והיום היה יום קשה. מה כותבים?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a1/p0",
+"en": "a few raindrops falling on a green field, no people, no text (rain)",
+"topic": "🌅 הגאלה",
+"caption": "גשם",
+"question": "מה מבקשים בברכה ׳השיבה׳?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a1/p1",
+"en": "a wise bearded man in a simple robe and kippah sitting calmly on a stone bench listening carefully to two men with a gentle fair expression, no text (good judges)",
+"topic": "🌅 הגאלה",
+"caption": "שופטים טובים",
+"question": "מה מבקשים בברכה ׳השיבה׳?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a1/p2",
+"en": "a bearded man in a simple robe and kippah resting a hand kindly on a sick man's shoulder, no text (healing)",
+"topic": "🌅 הגאלה",
+"caption": "רפואה",
+"question": "מה מבקשים בברכה ׳השיבה׳?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a10/p0",
+"en": "a thin line of pink-gold dawn light over dark hills, no people, no text (dawn)",
+"topic": "🌅 הגאלה",
+"caption": "אילת השחר",
+"question": "מה היתה התחנה הקודמת?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a10/p1",
+"en": "a boy wearing a kippah at a window with wide open eyes and an amazed smile, no text (open eyes)",
+"topic": "🌅 הגאלה",
+"caption": "לפקוח עיניים",
+"question": "מה היתה התחנה הקודמת?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a10/p2",
+"en": "a father-sized stone house with an open door and a flowering garden, warm morning light, no people, no text (father prepares house)",
+"topic": "🌅 הגאלה",
+"caption": "אבא מכין בית",
+"question": "מה היתה התחנה הקודמת?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a2/p0",
+"en": "one open prayer book on a wooden table in morning light, no people, no text (once)",
+"topic": "🌅 הגאלה",
+"caption": "פעם",
+"question": "כמה פעמים ביום מבקשים את זה?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a2/p1",
+"en": "two open prayer books side by side on a wooden table, no people, no text (twice)",
+"topic": "🌅 הגאלה",
+"caption": "פעמיים",
+"question": "כמה פעמים ביום מבקשים את זה?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a2/p2",
+"en": "three open prayer books in a row on a wooden table, no people, no text (three times)",
+"topic": "🌅 הגאלה",
+"caption": "שלוש",
+"question": "כמה פעמים ביום מבקשים את זה?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a3/p0",
+"en": "an old scroll on a stone table beside an olive branch, no people, no text (Isaiah)",
+"topic": "🌅 הגאלה",
+"caption": "ישעיהו",
+"question": "באיזה ספר נביא כתוב ׳ואשיבה שפטיך׳?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a3/p1",
+"en": "an old scroll on a stone table beside a small clay jar, no people, no text (Jeremiah)",
+"topic": "🌅 הגאלה",
+"caption": "ירמיהו",
+"question": "באיזה ספר נביא כתוב ׳ואשיבה שפטיך׳?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a3/p2",
+"en": "an old scroll on a stone table beside a wheel carved in stone, no people, no text (Ezekiel)",
+"topic": "🌅 הגאלה",
+"caption": "יחזקאל",
+"question": "באיזה ספר נביא כתוב ׳ואשיבה שפטיך׳?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a4/p0",
+"en": "a boy wearing a kippah sighing with his mouth open, hand in front of his mouth, no text (mouth)",
+"topic": "🌅 הגאלה",
+"caption": "בפה",
+"question": "איפה נמצא היגון?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a4/p1",
+"en": "a boy wearing a kippah with a sad face holding a hand over his chest, no text (heart)",
+"topic": "🌅 הגאלה",
+"caption": "בלב",
+"question": "איפה נמצא היגון?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a4/p2",
+"en": "a boy wearing a kippah looking at his open hand, no text (hand)",
+"topic": "🌅 הגאלה",
+"caption": "ביד",
+"question": "איפה נמצא היגון?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a5/p0",
+"en": "a bearded man wearing a simple crown and rich robe on a plain stone chair, no text (kings)",
+"topic": "🌅 הגאלה",
+"caption": "מלכים",
+"question": "מי הם היועצים לפי הבאור?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a5/p1",
+"en": "a bearded man in a simple robe selling fruit at a market stall, no text (merchants)",
+"topic": "🌅 הגאלה",
+"caption": "סוחרים",
+"question": "מי הם היועצים לפי הבאור?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a5/p2",
+"en": "a bearded man in a simple robe and kippah speaking kindly to a seated listener on a hillside path, wise gentle face, no text (prophets)",
+"topic": "🌅 הגאלה",
+"caption": "נביאים",
+"question": "מי הם היועצים לפי הבאור?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a6/p0",
+"en": "two bearded men in simple royal robes sitting on plain stone chairs, calm faces, no text (David and Solomon)",
+"topic": "🌅 הגאלה",
+"caption": "דוד ושלמה",
+"question": "מי היו היועצים במדרש?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a6/p1",
+"en": "two bearded men in long robes standing together by a desert rock, one holding a plain wooden staff, serious kind faces, no text (Moses and Aaron)",
+"topic": "🌅 הגאלה",
+"caption": "משה ואהרן",
+"question": "מי היו היועצים במדרש?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a6/p2",
+"en": "two bearded men in long robes standing by an old tree, calm faces, no text (Abraham and Isaac)",
+"topic": "🌅 הגאלה",
+"caption": "אברהם ויצחק",
+"question": "מי היו היועצים במדרש?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a7/p0",
+"en": "an ancient stone city on a modest hill with a plain wall, no people, no text (city of David)",
+"topic": "🌅 הגאלה",
+"caption": "עיר דוד",
+"question": "איך נקראת העיר אחרי כן?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a7/p1",
+"en": "an ancient stone city on a hill with a balanced pair of scales carved in the gateway, no people, no text (city of justice)",
+"topic": "🌅 הגאלה",
+"caption": "עיר הצדק",
+"question": "איך נקראת העיר אחרי כן?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a7/p2",
+"en": "an ancient stone city on a hill with a white dove flying above it, peaceful, no text (great city of peace)",
+"topic": "🌅 הגאלה",
+"caption": "עיר השלום",
+"question": "איך נקראת העיר אחרי כן?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a8/p0",
+"en": "a boy wearing a kippah looking up at a sunrise with a quiet smile, no text (redeemer)",
+"topic": "🌅 הגאלה",
+"caption": "גואל",
+"question": "הברכה מסתימת: ׳מלך…׳",
+"section": ""
+},
+{
+"id": "hq/geula-21/a8/p1",
+"en": "a boy wearing a kippah with his hand cupped to his ear listening gently, no text (hears prayer)",
+"topic": "🌅 הגאלה",
+"caption": "שומע תפילה",
+"question": "הברכה מסתימת: ׳מלך…׳",
+"section": ""
+},
+{
+"id": "hq/geula-21/a8/p2",
+"en": "a pair of balanced bronze scales on a table beside an open book, no people, no text (loves justice)",
+"topic": "🌅 הגאלה",
+"caption": "אוהב צדקה ומשפט",
+"question": "הברכה מסתימת: ׳מלך…׳",
+"section": ""
+},
+{
+"id": "hq/geula-21/a9/p0",
+"en": "two boys wearing kippot shouting at each other with angry faces, no text (shout)",
+"topic": "🌅 הגאלה",
+"caption": "צועקים",
+"question": "מה עושים כשיש וכוח בין חברים?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a9/p1",
+"en": "two boys wearing kippot asking a kind teacher wearing a kippah to decide, the teacher listening with a fair calm face, no text (ask a fair decider)",
+"topic": "🌅 הגאלה",
+"caption": "שואלים מכריע",
+"question": "מה עושים כשיש וכוח בין חברים?",
+"section": ""
+},
+{
+"id": "hq/geula-21/a9/p2",
+"en": "two boys wearing kippot turning their backs and walking away sadly, no text (give up)",
+"topic": "🌅 הגאלה",
+"caption": "מוותרים",
+"question": "מה עושים כשיש וכוח בין חברים?",
+"section": ""
+},
+{
+"id": "hq/geula-21/b1",
+"en": "an open ancient scroll beside an open prayer book on a wooden table in warm morning light, no people, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה הקשר בין הפסוק בישעיהו לברכת ׳השיבה׳?",
+"section": ""
+},
+{
+"id": "hq/geula-21/b2",
+"en": "a group of boys wearing kippot standing together with prayer books open, praying with calm faces, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה השנוי בין ׳שפטיך׳ שבפסוק ל׳שופטינו׳ שבתפלה?",
+"section": ""
+},
+{
+"id": "hq/geula-21/b3",
+"en": "two open scrolls side by side on a stone table, one at the start of a row of scrolls and one alone at the very beginning, soft light, no people, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה אומר הגר״א על ההבדל בין ׳ראשון׳ ל׳תחלה׳?",
+"section": ""
+},
+{
+"id": "hq/geula-21/b4",
+"en": "four bearded men in simple long robes and kippot standing in two pairs on a stone terrace, calm dignified faces, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "לפי המדרש, מי היו ׳שופטיך׳ ומי ׳יועציך׳?",
+"section": ""
+},
+{
+"id": "hq/geula-21/b5",
+"en": "a boy wearing a kippah with one hand on his chest and a thoughtful sad face and a small breath cloud near his mouth, soft light, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה ההבדל בין יגון לאנחה?",
+"section": ""
+},
+{
+"id": "hq/geula-21/b6",
+"en": "a boy wearing a kippah looking up with a relieved gentle smile as soft light breaks through gray clouds over a hill, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה התרוץ לשאלה: אם אין יגון, ממילא אין אנחה?",
+"section": ""
+},
+{
+"id": "hq/geula-21/b8",
+"en": "three boys wearing kippot in a school yard, two explaining with hands while the third listens attentively with a fair calm face, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "שני חברים בכתה חולקים על כלל במשחק, ושואלים אותי. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a1/p0",
+"en": "a small group of three bearded men in robes and kippot sitting at a table, calm looks, only these men, no text (three judges)",
+"topic": "🌅 הגאלה",
+"caption": "שלושה",
+"question": "כמה דינים היו בבית הדין הגדול?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a1/p1",
+"en": "a medium group of men in robes and kippot sitting in two rows in a stone hall, serious attentive looks, only men, no text (court of twenty-three)",
+"topic": "🌅 הגאלה",
+"caption": "עשרים ושלושה",
+"question": "כמה דינים היו בבית הדין הגדול?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a1/p2",
+"en": "a large half-circle of many seated bearded elders in robes and kippot in a grand hall of cut stone, wise calm looks, only men, no text (seventy-one)",
+"topic": "🌅 הגאלה",
+"caption": "שבעים ואחד",
+"question": "כמה דינים היו בבית הדין הגדול?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a2/p0",
+"en": "a busy market street with stalls and baskets, a few men buying and selling, no text (market)",
+"topic": "🌅 הגאלה",
+"caption": "בשוק",
+"question": "איפה ישב בית הדין הגדול?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a2/p1",
+"en": "a quiet hall built of large cut stone blocks with tall arches, a few elders in robes and kippot seated inside, dignified calm mood, only men, no text (hall of hewn stone)",
+"topic": "🌅 הגאלה",
+"caption": "בלשכת הגזית",
+"question": "איפה ישב בית הדין הגדול?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a2/p2",
+"en": "a green wheat field under a blue sky with a dirt path, no people, no text (field)",
+"topic": "🌅 הגאלה",
+"caption": "בשדה",
+"question": "איפה ישב בית הדין הגדול?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a3/p0",
+"en": "a calendar page hanging on a stone wall with a dry leaf beside it, no people, no text (waiting a year)",
+"topic": "🌅 הגאלה",
+"caption": "לעוד שנה",
+"question": "מה עושים כשהדבר ברור לדינים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a3/p1",
+"en": "a bearded judge in a robe and kippah speaking clearly and kindly to a man who nods with relief, bright stone hall, only these two men, no text (answer at once)",
+"topic": "🌅 הגאלה",
+"caption": "מיד",
+"question": "מה עושים כשהדבר ברור לדינים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a3/p2",
+"en": "a dusty road leading out of a city gate toward a faraway town on a hill, no people, no text (another city)",
+"topic": "🌅 הגאלה",
+"caption": "לעיר אחרת",
+"question": "מה עושים כשהדבר ברור לדינים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a4/p0",
+"en": "a man in a kippah standing alone with his hand on his chin looking puzzled and unsure, only the one man, no text (guessing alone)",
+"topic": "🌅 הגאלה",
+"caption": "מנחש לבד",
+"question": "מה עושה מי שיש לו ספק בהלכה?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a4/p1",
+"en": "a man in a kippah asking a question respectfully while a bearded judge in a robe listens, warm attentive faces, only these two men, no text (asking the judges)",
+"topic": "🌅 הגאלה",
+"caption": "שואל את הדיינים",
+"question": "מה עושה מי שיש לו ספק בהלכה?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a4/p2",
+"en": "a man in a kippah sitting on a bench with arms crossed looking at the sky, bored patient look, only the one man, no text (waiting)",
+"topic": "🌅 הגאלה",
+"caption": "ממתין",
+"question": "מה עושה מי שיש לו ספק בהלכה?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a5/p0",
+"en": "a man in a kippah walking back to a small stone house with a door, evening light, only the one man, no text (home)",
+"topic": "🌅 הגאלה",
+"caption": "הביתה",
+"question": "אם בית הדין שבעיר לא ידע, לאן הולכים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a5/p1",
+"en": "a winding stone road climbing up a hill toward an ancient stone city on the ridge at sunrise, a small figure walking up the road from behind, hopeful mood, no text (Jerusalem)",
+"topic": "🌅 הגאלה",
+"caption": "לירושלים",
+"question": "אם בית הדין שבעיר לא ידע, לאן הולכים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a5/p2",
+"en": "a calm blue sea with a sandy beach and one small boat, no people, no text (sea)",
+"topic": "🌅 הגאלה",
+"caption": "לים",
+"question": "אם בית הדין שבעיר לא ידע, לאן הולכים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a6/p0",
+"en": "many men in robes and kippot in a stone hall each raising one hand in agreement, a majority clearly on one side, calm focused faces, only men, no text (follow the majority)",
+"topic": "🌅 הגאלה",
+"caption": "הולכים אחר הרוב",
+"question": "איך מכריעים כשלא מסכימים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a6/p1",
+"en": "an empty stone hall with an unfinished open scroll lying on a table, nobody in the picture, no text (cancel the question)",
+"topic": "🌅 הגאלה",
+"caption": "מבטלים את השאלה",
+"question": "איך מכריעים כשלא מסכימים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a6/p2",
+"en": "one bearded man in a robe and kippah standing alone at a lectern giving a stern decision while others sit quietly, only men, no text (one decides alone)",
+"topic": "🌅 הגאלה",
+"caption": "מישהו מחליט לבדו",
+"question": "איך מכריעים כשלא מסכימים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a7/p0",
+"en": "a bearded judge in a robe and kippah with an open hand facing a group of men listening, the men nodding with calm relieved faces, only men, no text (this is the halacha)",
+"topic": "🌅 הגאלה",
+"caption": "כך הלכה",
+"question": "מה אומרים לכל השואלים בסוף?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a7/p1",
+"en": "a closed stone door with a plain wooden sign-post with no writing in front of an empty hall, no people, no text (come back tomorrow)",
+"topic": "🌅 הגאלה",
+"caption": "תחזרו מחר",
+"question": "מה אומרים לכל השואלים בסוף?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a7/p2",
+"en": "a man in a kippah shrugging with open empty hands next to an empty table, puzzled look, only the one man, no text (no answer)",
+"topic": "🌅 הגאלה",
+"caption": "אין תשובה",
+"question": "מה אומרים לכל השואלים בסוף?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a8/p0",
+"en": "a group of men in kippot in a bright room all smiling and nodding together with hands joined, peaceful mood, only men, no text (everyone agreed)",
+"topic": "🌅 הגאלה",
+"caption": "כולם הסכימו",
+"question": "מה קרה כשבית הדין הגדול בטל?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a8/p1",
+"en": "two men in kippot standing facing each other with one pointing up and one pointing down in a friendly disagreement, thoughtful faces, only these two men, no text (a dispute grew)",
+"topic": "🌅 הגאלה",
+"caption": "רבתה מחלוקת",
+"question": "מה קרה כשבית הדין הגדול בטל?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a8/p2",
+"en": "a plain stone synagogue building with a closed wooden door in a quiet street, no people, no text (synagogues closed)",
+"topic": "🌅 הגאלה",
+"caption": "נסגרו בתי הכנסת",
+"question": "מה קרה כשבית הדין הגדול בטל?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a9/p0",
+"en": "a dark night sky with a full moon over a quiet stone city, no people, no text (only at night)",
+"topic": "🌅 הגאלה",
+"caption": "רק בלילה",
+"question": "מתי ישבו הדינים בלשכת הגזית?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a9/p1",
+"en": "a bright stone hall in full daylight with sunbeams through a high window and elders in robes and kippot studying together, only men, no text (all day)",
+"topic": "🌅 הגאלה",
+"caption": "כל היום",
+"question": "מתי ישבו הדינים בלשכת הגזית?",
+"section": ""
+},
+{
+"id": "hq/geula-22/a9/p2",
+"en": "a plain sand hourglass standing on a stone table, no people, no text (one hour)",
+"topic": "🌅 הגאלה",
+"caption": "שעה אחת",
+"question": "מתי ישבו הדינים בלשכת הגזית?",
+"section": ""
+},
+{
+"id": "hq/geula-22/b2",
+"en": "a stone road with four wide steps rising up a hill toward a large hall of cut stone, golden morning light, no people, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "איזה סדר של בתי הדין נכון, לפי הרמב״ם?",
+"section": ""
+},
+{
+"id": "hq/geula-22/b3",
+"en": "elders in robes and kippot sitting in a half-circle in a stone hall, talking and thinking with serious open faces, an open scroll on a stand, only men, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה עושה בית הדין הגדול כשהדבר לא ברור לו?",
+"section": ""
+},
+{
+"id": "hq/geula-22/b4",
+"en": "a large half-circle of seated elders in a grand stone hall beside a smaller group of men in a small town hall, calm dignified mood, only men, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה ההבדל בין בית הדין הגדול לבתי הדין שבערים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/b5",
+"en": "a stone courtyard with a group of men in kippot standing together peacefully around one bearded elder who speaks with an open hand, calm faces, only men, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "לפי הרמב״ם, מה היה כשבית הדין הגדול היה קים?",
+"section": ""
+},
+{
+"id": "hq/geula-22/b6",
+"en": "an open stone gate with a path leading up to a large stone hall on a hill under a clear sky, no people, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "על איזה פסוק מביא הרמב״ם שצריך לסמך על בית הדין הגדול?",
+"section": ""
+},
+{
+"id": "hq/geula-22/b7",
+"en": "two boys in kippot at a school desk with an open book between them, one pointing at the page and one thinking, a teacher in a kippah walking toward them with a friendly face, only boys and the teacher, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "בכתה מתוכחים שני חברים על דין, ואיש לא יודע מי צודק. מה עושים?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a1/p0",
+"en": "a handful of smooth pebbles scattered on a plain wooden table, no people, no text (drawing lots)",
+"topic": "🌅 הגאלה",
+"caption": "בהגרלה בין התלמידים",
+"question": "איך עוברת הסמיכה מדור לדור?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a1/p1",
+"en": "an old bearded man in a robe and kippah speaking face to face with a younger man in a kippah who listens closely, warm respectful faces, only these two men, no text (from man to man)",
+"topic": "🌅 הגאלה",
+"caption": "איש מפי איש",
+"question": "איך עוברת הסמיכה מדור לדור?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a1/p2",
+"en": "a closed old book with a plain cover lying on a stone shelf, no people, no text (a closed book)",
+"topic": "🌅 הגאלה",
+"caption": "בספר סגור",
+"question": "איך עוברת הסמיכה מדור לדור?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a2/p0",
+"en": "two small stone houses side by side on a quiet street, no people, no text (two houses)",
+"topic": "🌅 הגאלה",
+"caption": "שני בתים",
+"question": "בין מה ישב רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a2/p1",
+"en": "two big green mountains with a quiet road winding between them under a morning sky, one small distant figure sitting on a rock beside the road, calm mood, no text (two mountains)",
+"topic": "🌅 הגאלה",
+"caption": "שני הרים",
+"question": "בין מה ישב רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a2/p2",
+"en": "two wide rivers flowing side by side through a green valley, no people, no text (two rivers)",
+"topic": "🌅 הגאלה",
+"caption": "שני נהרות",
+"question": "בין מה ישב רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a3/p0",
+"en": "one bearded elder in a robe and kippah standing by himself on a hillside road, only the one man, no text (one)",
+"topic": "🌅 הגאלה",
+"caption": "אחד",
+"question": "כמה זקנים סמך שם?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a3/p1",
+"en": "a group of five bearded elders in robes and kippot standing together on a hillside, serious thoughtful faces, only five men, no text (five)",
+"topic": "🌅 הגאלה",
+"caption": "חמישה",
+"question": "כמה זקנים סמך שם?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a3/p2",
+"en": "a group of three bearded elders in robes and kippot standing together on a hillside, only three men, no text (three)",
+"topic": "🌅 הגאלה",
+"caption": "שלושה",
+"question": "כמה זקנים סמך שם?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a4/p0",
+"en": "a few men in kippot sitting calmly on stones on a hillside, quiet look, only men, no text (sit)",
+"topic": "🌅 הגאלה",
+"caption": "שבו",
+"question": "מה אמר לתלמידים?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a4/p1",
+"en": "a table with bread and fruit under a tree, no people, no text (eat)",
+"topic": "🌅 הגאלה",
+"caption": "אכלו עכשיו",
+"question": "מה אמר לתלמידים?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a4/p2",
+"en": "a few men in robes and kippot running quickly up a mountain path away from the viewer, long robes flying, urgent eyes, seen from far behind, only men, no text (run)",
+"topic": "🌅 הגאלה",
+"caption": "רוצו",
+"question": "מה אמר לתלמידים?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a5/p0",
+"en": "five men in robes and kippot standing together on a mountain road at dusk, quiet looks, only men, no text (all the students)",
+"topic": "🌅 הגאלה",
+"caption": "כל התלמידים",
+"question": "מי נשאר במקום?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a5/p1",
+"en": "one elderly bearded man in a robe and kippah standing firmly and calmly alone on a mountain road, steady brave gaze toward the distance, only the one man, no text (the old man)",
+"topic": "🌅 הגאלה",
+"caption": "הזקן",
+"question": "מי נשאר במקום?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a5/p2",
+"en": "an empty mountain road at dusk with nobody on it, no people, no text (no one)",
+"topic": "🌅 הגאלה",
+"caption": "אף אחד",
+"question": "מי נשאר במקום?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a6/p0",
+"en": "a soft white cloud drifting over a mountain, no people, no text (a cloud)",
+"topic": "🌅 הגאלה",
+"caption": "כענן",
+"question": "כמו מה הוא אמר שהוא נשאר?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a6/p1",
+"en": "a big gray stone resting firmly in the middle of a mountain road, heavy and still, no people, no text (a stone)",
+"topic": "🌅 הגאלה",
+"caption": "כאבן",
+"question": "כמו מה הוא אמר שהוא נשאר?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a6/p2",
+"en": "a small bird perched on a branch with its wings open, no people, no text (a bird)",
+"topic": "🌅 הגאלה",
+"caption": "כציפור",
+"question": "כמו מה הוא אמר שהוא נשאר?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a7/p0",
+"en": "a bright hot sun over a dry hillside with cracked ground, no people, no text (hot)",
+"topic": "🌅 הגאלה",
+"caption": "כי היה חם",
+"question": "למה ישב מחוץ לעיר?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a7/p1",
+"en": "a quiet small town of stone roofs in the valley, peaceful, with one distant figure sitting alone on a far mountain, protective calm mood, no text (the town stays safe)",
+"topic": "🌅 הגאלה",
+"caption": "שהעיר לא תיפגע",
+"question": "למה ישב מחוץ לעיר?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a7/p2",
+"en": "a boy in a kippah walking with a stick and a small bag on a forest trail, cheerful face, only the one boy, no text (likes hiking)",
+"topic": "🌅 הגאלה",
+"caption": "כי אהב לטייל בהרים",
+"question": "למה ישב מחוץ לעיר?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a8/p0",
+"en": "an elderly bearded man in a robe and kippah standing tall and calm on a mountain at dusk, determined peaceful face, looking far ahead, only the one man, no text (gave his soul)",
+"topic": "🌅 הגאלה",
+"caption": "את נפשו",
+"question": "מה מסר רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a8/p1",
+"en": "a big old iron key lying on a stone, no people, no text (the key)",
+"topic": "🌅 הגאלה",
+"caption": "את המפתח",
+"question": "מה מסר רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a8/p2",
+"en": "a rolled scroll tied with a string lying on a wooden table, blank, no people, no text (the scroll)",
+"topic": "🌅 הגאלה",
+"caption": "את הספר",
+"question": "מה מסר רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a9/p0",
+"en": "a flock of sheep grazing on a green hillside, no people, no text (the sheep)",
+"topic": "🌅 הגאלה",
+"caption": "על הצאן של הכפר",
+"question": "על מה שמר רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a9/p1",
+"en": "a golden wheat field with a path through it, no people, no text (the fields)",
+"topic": "🌅 הגאלה",
+"caption": "על השדות",
+"question": "על מה שמר רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/a9/p2",
+"en": "an elder in a robe and kippah speaking quietly face to face with a younger man in a kippah, serious warm faces, only these two men, no text (the ordination)",
+"topic": "🌅 הגאלה",
+"caption": "על הסמיכה",
+"question": "על מה שמר רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/b2",
+"en": "two large mountains with a quiet road between them and a small distant town in the valley beyond, peaceful morning light, no people, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "למה בחר רבי יהודה בן בבא לשבת בין שני הרים?",
+"section": ""
+},
+{
+"id": "hq/geula-23/b3",
+"en": "five elderly bearded men in simple robes and kippot standing in a small circle on a hillside at dusk, serious and warm faces, only men, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מי היו בין הזקנים שסמך רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/b5",
+"en": "a heavy gray stone resting in the middle of a quiet mountain road at dusk with the road winding around it, still and firm, no people, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה פרוש ׳הריני מטל לפניהם כאבן שאין לה הופכין׳?",
+"section": ""
+},
+{
+"id": "hq/geula-23/b6",
+"en": "an old bearded man in a robe and kippah standing on a mountain ridge at sunrise looking toward a distant city with a quiet satisfied smile, only the one man, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה כתוב בגמרא בזכות רבי יהודה בן בבא?",
+"section": ""
+},
+{
+"id": "hq/geula-23/b7",
+"en": "an old bearded man in a robe and kippah standing in front of a younger man in a simple robe and kippah before a quiet crowd of men on a desert plain, solemn warm faces, only men, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "איזה פסוק מספר שמשה סמך את ידיו על יהושע?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a1/p0",
+"en": "a stone hillside town with narrow stone alleys and old houses on a mountain at sunrise, calm and bright, no people, no text (tzfat)",
+"topic": "🌅 הגאלה",
+"caption": "בצפת",
+"question": "באיזו עיר התכנסו החכמים כדי לסמך?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a1/p1",
+"en": "a flat river plain with a tall ancient city wall and date palms, no people, no text (babylon)",
+"topic": "🌅 הגאלה",
+"caption": "בבבל",
+"question": "באיזו עיר התכנסו החכמים כדי לסמך?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a1/p2",
+"en": "a sandy desert with a stone pyramid and a few date palms, no people, no text (egypt)",
+"topic": "🌅 הגאלה",
+"caption": "במצרים",
+"question": "באיזו עיר התכנסו החכמים כדי לסמך?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a10/p0",
+"en": "a stone road going up a hill toward a bright sunrise with a man in a kippah walking it with hope, no text (a way to fix)",
+"topic": "🌅 הגאלה",
+"caption": "שיש דרך לתקן",
+"question": "מה למדו חכמי צפת מן הספור של האנוסים?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a10/p1",
+"en": "an old stone clock tower with hands showing late evening and a man in a kippah looking at it sadly, no text (too late)",
+"topic": "🌅 הגאלה",
+"caption": "שכבר מאחר",
+"question": "מה למדו חכמי צפת מן הספור של האנוסים?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a10/p2",
+"en": "a man in a kippah with open empty hands, shrugging with a puzzled face in a stone alley, no text (nothing to do)",
+"topic": "🌅 הגאלה",
+"caption": "שאין מה לעשות",
+"question": "מה למדו חכמי צפת מן הספור של האנוסים?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a2/p0",
+"en": "a man in a hat standing in a dark corner of a stone room with a cloth over a table, glancing around with worry, no text (hide)",
+"topic": "🌅 הגאלה",
+"caption": "להסתיר הכל",
+"question": "מה רצו האנוסים לעשות כשהגיעו לארץ ישראל?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a2/p1",
+"en": "a man sitting alone with a closed old book on his lap, looking away with a sad and tired expression, no text (forget)",
+"topic": "🌅 הגאלה",
+"caption": "לשכח מיהדותם",
+"question": "מה רצו האנוסים לעשות כשהגיעו לארץ ישראל?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a2/p2",
+"en": "a man in a kippah standing at a stone gate at sunrise, looking forward with hope and a small smile, one hand open as if asking to come in, no text (return)",
+"topic": "🌅 הגאלה",
+"caption": "לשוב בתשובה",
+"question": "מה רצו האנוסים לעשות כשהגיעו לארץ ישראל?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a3/p0",
+"en": "a boy in a kippah hiding behind a stone wall with wide frightened eyes, no text (fear)",
+"topic": "🌅 הגאלה",
+"caption": "פחד",
+"question": "מה צריך אדם כדי לחזר בתשובה?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a3/p1",
+"en": "a boy in a kippah on a hill looking toward the sunrise with hope and a gentle smile, no text (hope)",
+"topic": "🌅 הגאלה",
+"caption": "תקוה",
+"question": "מה צריך אדם כדי לחזר בתשובה?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a3/p2",
+"en": "a quiet sunset over stone hills with a pink and orange sky, no people, no text (sunset)",
+"topic": "🌅 הגאלה",
+"caption": "שקיעה",
+"question": "מה צריך אדם כדי לחזר בתשובה?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a4/p0",
+"en": "an older wise bearded man in a kippah placing a hand gently on the shoulder of a younger man in a kippah in a stone study hall, warm respectful faces, no text (smicha)",
+"topic": "🌅 הגאלה",
+"caption": "סמיכה",
+"question": "מהי ההסכמה להיות דין ולסמך אחרים?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a4/p1",
+"en": "two boys in kippot racing each other across a stone courtyard, cheerful faces, no text (race)",
+"topic": "🌅 הגאלה",
+"caption": "התחרות",
+"question": "מהי ההסכמה להיות דין ולסמך אחרים?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a4/p2",
+"en": "a group of boys in kippot with walking sticks hiking on a green hill, smiling, no text (hike)",
+"topic": "🌅 הגאלה",
+"caption": "טיולים",
+"question": "מהי ההסכמה להיות דין ולסמך אחרים?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a5/p0",
+"en": "a bearded king with a simple crown playing a harp on a hilltop, peaceful expression, no text (david)",
+"topic": "🌅 הגאלה",
+"caption": "דוד המלך",
+"question": "מי היה הסמוך הראשון שבחרו חכמי צפת?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a5/p1",
+"en": "a younger scholar in a kippah at a desk with many closed books, thoughtful expression, no text (karo)",
+"topic": "🌅 הגאלה",
+"caption": "רבי יוסף קארו",
+"question": "מי היה הסמוך הראשון שבחרו חכמי צפת?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a5/p2",
+"en": "an elderly bearded scholar in a kippah and a simple robe standing in a stone alley of a hill town, dignified and kind expression, no text (berav)",
+"topic": "🌅 הגאלה",
+"caption": "מהר״י בירב",
+"question": "מי היה הסמוך הראשון שבחרו חכמי צפת?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a6/p0",
+"en": "an old sage in a kippah standing calmly in a stone doorway of a study hall, serious kind expression, no text (ben bava)",
+"topic": "🌅 הגאלה",
+"caption": "רבי יהודה בן בבא",
+"question": "מי היה בין הנסמכים בצפת?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a6/p1",
+"en": "a scholar in a kippah writing at a wooden desk with a quill and a large blank book, focused and calm, no text (karo)",
+"topic": "🌅 הגאלה",
+"caption": "רבי יוסף קארו",
+"question": "מי היה בין הנסמכים בצפת?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a6/p2",
+"en": "a scholar in a kippah and a long robe walking beside a stone building holding a closed book, thoughtful, no text (rambam)",
+"topic": "🌅 הגאלה",
+"caption": "הרמב״ם",
+"question": "מי היה בין הנסמכים בצפת?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a7/p0",
+"en": "a rolled blank scroll beside a quill on a stone table, no text (shoftim)",
+"topic": "🌅 הגאלה",
+"caption": "ספר שופטים",
+"question": "איזה ספר כתב הבית יוסף?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a7/p1",
+"en": "a small scroll tied with a ribbon on a field of barley, no text (ruth)",
+"topic": "🌅 הגאלה",
+"caption": "מגלת רות",
+"question": "איזה ספר כתב הבית יוסף?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a7/p2",
+"en": "a thick closed book on a wooden table next to a candle, a scholar's hand resting on it, no text on the cover (shulchan)",
+"topic": "🌅 הגאלה",
+"caption": "שלחן ערוך",
+"question": "איזה ספר כתב הבית יוסף?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a8/p0",
+"en": "a pile of gold and silver coins in a wooden chest, shining, no people, no text (gold and silver)",
+"topic": "🌅 הגאלה",
+"caption": "זהב וכסף",
+"question": "מה גואל את ציון, לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a8/p1",
+"en": "a wise bearded man in a kippah sitting at a wooden table judging calmly with open scrolls blank, fair and attentive expression, no text (justice)",
+"topic": "🌅 הגאלה",
+"caption": "משפט",
+"question": "מה גואל את ציון, לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a8/p2",
+"en": "a very tall stone wall with an arched gate on a hill, no people, no text (high walls)",
+"topic": "🌅 הגאלה",
+"caption": "חומות גבוהות",
+"question": "מה גואל את ציון, לפי הפסוק?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a9/p0",
+"en": "a boy in a kippah closing a wooden door with a stern face while another boy stands outside looking sad, no text (closed door)",
+"topic": "🌅 הגאלה",
+"caption": "סוגרים את הדלת בפניו",
+"question": "מה עושים כשרואים מישהו שרוצה לשוב?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a9/p1",
+"en": "a boy in a kippah looking at the floor with his back turned to another boy who stands waiting, no text (ignore)",
+"topic": "🌅 הגאלה",
+"caption": "מתעלמים",
+"question": "מה עושים כשרואים מישהו שרוצה לשוב?",
+"section": ""
+},
+{
+"id": "hq/geula-24/a9/p2",
+"en": "a boy in a kippah smiling and opening a wide wooden door for another boy in a kippah, warm welcoming faces, no text (open door)",
+"topic": "🌅 הגאלה",
+"caption": "פותחים לו דלת",
+"question": "מה עושים כשרואים מישהו שרוצה לשוב?",
+"section": ""
+},
+{
+"id": "hq/geula-24/b1",
+"en": "a group of bearded men in kippot sitting around a stone table in a stone hall nodding together in agreement, calm faces, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה כתב הרמב״ם על חכמים שמסכימים כלם לסמך?",
+"section": ""
+},
+{
+"id": "hq/geula-24/b3",
+"en": "a worried man in a kippah standing before a stone judges' bench in a quiet stone hall, hopeful but anxious expression, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "למה האנוסים היו צריכים בית דין של סמוכים דוקא?",
+"section": ""
+},
+{
+"id": "hq/geula-24/b4",
+"en": "a calm sunrise over a stone hill city with an open gate and a road leading up to it, no people, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה אומר הפסוק ׳ציון במשפט תפדה׳ על הדרך לגאלה?",
+"section": ""
+},
+{
+"id": "hq/geula-24/b6",
+"en": "an elderly bearded scholar in a kippah gently teaching two younger scholars in kippot at a stone table in a hill town hall, warm faces, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה קרה אחרי שהסכימו חכמי צפת על מהר״י בירב?",
+"section": ""
+},
+{
+"id": "hq/geula-24/b7",
+"en": "a hill town with a stream running between stone houses, wool drying on lines and olive trees around, no people, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "למה נקבצו החכמים דוקא בצפת, לפי ההסבר של השעור?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a1/p0",
+"en": "a boy in a kippah standing at the center of a table in a classroom while other boys around him point in many different directions, he looks puzzled, no text (agree)",
+"topic": "🌅 הגאלה",
+"caption": "שכלם יסכימו",
+"question": "מה קשה כשהחכמים מפזרים במקומות רחוקים?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a1/p1",
+"en": "a boy in a kippah writing a letter with a quill at a wooden table, calm face, no text (letter)",
+"topic": "🌅 הגאלה",
+"caption": "לכתב מכתב ארך",
+"question": "מה קשה כשהחכמים מפזרים במקומות רחוקים?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a1/p2",
+"en": "a boy in a kippah studying from an open book at a wooden desk, calm focused face, no text (study)",
+"topic": "🌅 הגאלה",
+"caption": "ללמד תורה ביחד",
+"question": "מה קשה כשהחכמים מפזרים במקומות רחוקים?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a2/p0",
+"en": "a young boy in a kippah holding a school bag at the entrance of a study hall, shy expression, no text (new student)",
+"topic": "🌅 הגאלה",
+"caption": "תלמיד חדש בכתה",
+"question": "מי לא צריך את הסכמת כלם כדי לסמך?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a2/p1",
+"en": "a crowd of men in different simple clothes standing in a market square, no text (anyone)",
+"topic": "🌅 הגאלה",
+"caption": "כל אדם בשוק",
+"question": "מי לא צריך את הסכמת כלם כדי לסמך?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a2/p2",
+"en": "an older wise bearded man in a kippah placing a hand gently on the shoulder of a younger man in a kippah in a stone study hall, calm respectful faces, no text (samuch)",
+"topic": "🌅 הגאלה",
+"caption": "סמוך מפי סמוך",
+"question": "מי לא צריך את הסכמת כלם כדי לסמך?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a3/p0",
+"en": "a bearded old prophet in a simple robe standing in a quiet stone sanctuary courtyard, gentle expression, no text (jeremiah)",
+"topic": "🌅 הגאלה",
+"caption": "ירמיהו הנביא",
+"question": "מי סמוך ויבוא לפני המשיח?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a3/p1",
+"en": "a simple man in a plain old coat walking on a stone road toward a city at sunrise, kind and calm expression, no fire, no light rays, no text (elijah)",
+"topic": "🌅 הגאלה",
+"caption": "אליהו הנביא",
+"question": "מי סמוך ויבוא לפני המשיח?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a3/p2",
+"en": "a man in a simple robe sitting on a rock by a calm sea looking out, thoughtful, no text (jonah)",
+"topic": "🌅 הגאלה",
+"caption": "יונה הנביא",
+"question": "מי סמוך ויבוא לפני המשיח?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a4/p0",
+"en": "a bearded man in a simple robe walking on a stone path near a city wall, serious expression, no text (from Jeremiah)",
+"topic": "🌅 הגאלה",
+"caption": "מירמיהו הנביא",
+"question": "ממי קבל אליהו סמיכה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a4/p1",
+"en": "a bearded man in a simple robe sitting by a river with a blank scroll, deep in thought, no text (from Ezekiel)",
+"topic": "🌅 הגאלה",
+"caption": "מיחזקאל הנביא",
+"question": "ממי קבל אליהו סמיכה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a4/p2",
+"en": "two men in kippot in simple coats: an older man placing a hand on the shoulder of a younger man, standing on a dirt path among olive trees, warm respectful faces, no text (from Achiya)",
+"topic": "🌅 הגאלה",
+"caption": "מאחיה השילוני",
+"question": "ממי קבל אליהו סמיכה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a5/p0",
+"en": "a group of bearded men in kippot sitting around a long stone table in a hall, listening to one another with calm faces, blank papers on the table, no text (meeting)",
+"topic": "🌅 הגאלה",
+"caption": "כנוס חכמים",
+"question": "מה הציעו להתחיל כדי להגיע להסכמה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a5/p1",
+"en": "builders in kippot putting stones on a stone wall of a new town on a hill, no text (build)",
+"topic": "🌅 הגאלה",
+"caption": "בנין עיר חדשה",
+"question": "מה הציעו להתחיל כדי להגיע להסכמה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a5/p2",
+"en": "a group of men in kippot with walking sticks climbing a stone path up a mountain, no text (climb)",
+"topic": "🌅 הגאלה",
+"caption": "מסע להר",
+"question": "מה הציעו להתחיל כדי להגיע להסכמה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a6/p0",
+"en": "a scholar in a kippah smiling with a closed book on a wooden desk, satisfied expression, no text (all clear)",
+"topic": "🌅 הגאלה",
+"caption": "הכל ברור לגמרי",
+"question": "מה כתב הרמב״ם בסוף ההלכה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a6/p1",
+"en": "a scholar in a kippah at a wooden desk looking up from a book with a raised eyebrow and a thoughtful puzzled expression, blank pages, no text (needs decision)",
+"topic": "🌅 הגאלה",
+"caption": "הדבר צריך הכרע",
+"question": "מה כתב הרמב״ם בסוף ההלכה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a6/p2",
+"en": "a scholar in a kippah putting down a quill and leaning back with arms folded, no text (nothing to add)",
+"topic": "🌅 הגאלה",
+"caption": "אין מה להוסיף כלל",
+"question": "מה כתב הרמב״ם בסוף ההלכה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a7/p0",
+"en": "a boy in a kippah sitting on a stone beside the road, watching, with a bored face, no text (wait aside)",
+"topic": "🌅 הגאלה",
+"caption": "יושבים ומחכים בצד",
+"question": "מה עושים כשהדרך ארכה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a7/p1",
+"en": "a boy in a kippah turning back from the road with slumped shoulders, no text (give up)",
+"topic": "🌅 הגאלה",
+"caption": "מותרים",
+"question": "מה עושים כשהדרך ארכה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a7/p2",
+"en": "a boy in a kippah taking his first step on a long stone road that winds up a green hill to a distant stone city, smiling with determination, no text (small step)",
+"topic": "🌅 הגאלה",
+"caption": "מתחילים בצעד קטן",
+"question": "מה עושים כשהדרך ארכה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a8/p0",
+"en": "a boy in a kippah planting a small tree in a garden at sunrise, looking up at the bright sky with trust and a gentle smile, no text (trust)",
+"topic": "🌅 הגאלה",
+"caption": "הקדוש ברוך הוא",
+"question": "מי משלים אחרי שהאדם מתחיל?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a8/p1",
+"en": "a boy in a kippah talking with a teacher in a kippah in a school yard, no text (teacher)",
+"topic": "🌅 הגאלה",
+"caption": "המורה",
+"question": "מי משלים אחרי שהאדם מתחיל?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a8/p2",
+"en": "a boy in a kippah talking over a garden fence with a neighbor man, no text (neighbor)",
+"topic": "🌅 הגאלה",
+"caption": "השכן",
+"question": "מי משלים אחרי שהאדם מתחיל?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a9/p0",
+"en": "boys in kippot standing and shouting at each other in a classroom with angry faces, no text (shout)",
+"topic": "🌅 הגאלה",
+"caption": "צועקים חזק",
+"question": "מה עושים בכנוס כתה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a9/p1",
+"en": "boys in kippot sitting in a circle on chairs in a classroom, one speaking while the others listen with attentive faces, no text (listen)",
+"topic": "🌅 הגאלה",
+"caption": "שומעים זה את זה",
+"question": "מה עושים בכנוס כתה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/a9/p2",
+"en": "boys in kippot running out of a classroom door, no text (run away)",
+"topic": "🌅 הגאלה",
+"caption": "בורחים הביתה",
+"question": "מה עושים בכנוס כתה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/b2",
+"en": "an older sage in a kippah placing a hand on the shoulder of a younger man in a kippah in a stone hall, others watching quietly, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה כתב הרמב״ם על מי שכבר סמוך מפי סמוך?",
+"section": ""
+},
+{
+"id": "hq/geula-25/b3",
+"en": "a group of bearded men in kippot at a stone table, some raising a hand and some shaking their heads, in a calm respectful discussion, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "על מה נחלקו בענין המלים ׳אם הסכימו כל החכמים׳?",
+"section": ""
+},
+{
+"id": "hq/geula-25/b4",
+"en": "a simple man in a plain old coat standing in a stone hall in front of seated men in kippot, with a calm kind face, no fire, no light rays, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "לפי הרדב״ז, איך אליהו פותר את הבעיה של ההסכמה?",
+"section": ""
+},
+{
+"id": "hq/geula-25/b5",
+"en": "boys in kippot sitting in a circle in a classroom, one boy speaking and the others listening, with a window showing a green hill, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "הכתה לא מסכימה על טיול, וכלם מתעצבנים. מה הצעד הראשון?",
+"section": ""
+},
+{
+"id": "hq/geula-25/b6",
+"en": "bearded men in kippot walking together toward a stone hall from different directions on stone paths, converging in a courtyard, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "למה הציעו להתחיל בכנוס שנתי ולא במנוי איש אחד?",
+"section": ""
+},
+{
+"id": "hq/geula-25/b7",
+"en": "a boy in a kippah sitting at a small wooden table with one open book and a candle, reading with a content smile, morning light, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "אני רוצה ללמד תורה הרבה, אבל אני מתחיל רק בעשרה דקות ביום. מה אזכר?",
+"section": ""
+},
+{
+"id": "hq/geula-25/b8",
+"en": "a simple man in a plain old coat walking on a stone road toward a city at dawn, calm kind face, no fire, no light rays, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה אומר הנביא מלאכי על אליהו?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a1/p0",
+"en": "one man in a kippah standing alone in front of a huge pile of stone blocks, looking small and worried, no text (alone)",
+"topic": "🌅 הגאלה",
+"caption": "אחד לבדו",
+"question": "מי בנה את בית המקדש הראשון ואת השני?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a1/p1",
+"en": "a wide empty blue sky with white clouds over a green hill, nothing built there, no people, no text (sky)",
+"topic": "🌅 הגאלה",
+"caption": "השמים",
+"question": "מי בנה את בית המקדש הראשון ואת השני?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a1/p2",
+"en": "many men in kippot building a stone wall together with big stone blocks and wooden scaffolding, smiling with effort and teamwork, no text (builders)",
+"topic": "🌅 הגאלה",
+"caption": "בני אדם",
+"question": "מי בנה את בית המקדש הראשון ואת השני?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a2/p0",
+"en": "a wide sandy desert with dunes and a few rocks under a hot sky, nobody there, no text (desert)",
+"topic": "🌅 הגאלה",
+"caption": "המדבר",
+"question": "לפי רש״י, המקדש העתיד יגלה ויבוא מ…?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a2/p1",
+"en": "an ancient stone Temple with large gates on a hill, blue sky with white clouds, a man in a kippah in front looking up at the sky with wonder, no fire, no beams of light, no text (sky)",
+"topic": "🌅 הגאלה",
+"caption": "השמים",
+"question": "לפי רש״י, המקדש העתיד יגלה ויבוא מ…?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a2/p2",
+"en": "a calm blue sea with gentle waves and a rocky shore, nobody there, no text (sea)",
+"topic": "🌅 הגאלה",
+"caption": "הים",
+"question": "לפי רש״י, המקדש העתיד יגלה ויבוא מ…?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a3/p0",
+"en": "a stone building half finished with wooden scaffolding and stacked stones and a worker man in a kippah wiping his forehead, no text (unfinished)",
+"topic": "🌅 הגאלה",
+"caption": "עוד בבנייה",
+"question": "׳בנוי ומשכלל׳ – מה זה אומר על המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a3/p1",
+"en": "a finished complete gleaming an ancient stone Temple with large gates on a hill, blue sky with white clouds, a boy in a kippah looking up at it with a happy amazed smile, no text (finished)",
+"topic": "🌅 הגאלה",
+"caption": "גמור ומוכן",
+"question": "׳בנוי ומשכלל׳ – מה זה אומר על המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a3/p2",
+"en": "a small old weathered stone hut with a crooked roof and moss, an old man in a kippah looking at it with a tired face, no text (old)",
+"topic": "🌅 הגאלה",
+"caption": "קטן וישן",
+"question": "׳בנוי ומשכלל׳ – מה זה אומר על המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a4/p0",
+"en": "a quiet building site at night under stars and a moon, stacked stones and wooden scaffolding standing empty, no people, no text (night)",
+"topic": "🌅 הגאלה",
+"caption": "בלילה",
+"question": "מתי בני אדם לא בונים את המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a4/p1",
+"en": "a building site at sunrise with men in kippot starting to work, cheerful faces, golden morning light, no text (morning)",
+"topic": "🌅 הגאלה",
+"caption": "בבוקר",
+"question": "מתי בני אדם לא בונים את המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a4/p2",
+"en": "a building site at noon with men in kippot working hard with stones under a bright sun, determined faces, no text (noon)",
+"topic": "🌅 הגאלה",
+"caption": "בצהריים",
+"question": "מתי בני אדם לא בונים את המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a5/p0",
+"en": "a group of men in kippot singing together outdoors with open mouths and happy faces, no text (song)",
+"topic": "🌅 הגאלה",
+"caption": "שיר",
+"question": "׳ועשו לי מקדש׳ – זו…",
+"section": ""
+},
+{
+"id": "hq/geula-26/a5/p1",
+"en": "a teacher in a kippah telling a story to a few boys in kippot sitting on the ground, the boys listening with wide eyes, no text (story)",
+"topic": "🌅 הגאלה",
+"caption": "סיפור",
+"question": "׳ועשו לי מקדש׳ – זו…",
+"section": ""
+},
+{
+"id": "hq/geula-26/a5/p2",
+"en": "two men in kippot lifting one big stone block together to place it in a wall, determined and proud faces, no text (mitzvah)",
+"topic": "🌅 הגאלה",
+"caption": "מצווה",
+"question": "׳ועשו לי מקדש׳ – זו…",
+"section": ""
+},
+{
+"id": "hq/geula-26/a6/p0",
+"en": "a man in a kippah stretching a long measuring rope along a stone wall, next to a blank unrolled scroll with no writing, focused careful face, no text (build)",
+"topic": "🌅 הגאלה",
+"caption": "לבנות",
+"question": "לפי ההסבר, מסכת מדות נכתבה כדי שנדע איך…",
+"section": ""
+},
+{
+"id": "hq/geula-26/a6/p1",
+"en": "a man in a kippah playing a lyre on a hill, eyes closed and peaceful smile, no text (music)",
+"topic": "🌅 הגאלה",
+"caption": "לנגן",
+"question": "לפי ההסבר, מסכת מדות נכתבה כדי שנדע איך…",
+"section": ""
+},
+{
+"id": "hq/geula-26/a6/p2",
+"en": "a man in a kippah planting a small sapling in the ground with a shovel, cheerful face, no text (plant)",
+"topic": "🌅 הגאלה",
+"caption": "לשתול",
+"question": "לפי ההסבר, מסכת מדות נכתבה כדי שנדע איך…",
+"section": ""
+},
+{
+"id": "hq/geula-26/a7/p0",
+"en": "a few men in kippot walking away along a dusty road with travel bags, looking back with unsure faces, no text (leave)",
+"topic": "🌅 הגאלה",
+"caption": "ילכו",
+"question": "לפי הירושלמי הגליות יתעוררו ויבואו. מה יעשו?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a7/p1",
+"en": "a group of men in kippot arriving with tools and stones on a hill and starting to build a stone wall, eager happy faces, no text (build)",
+"topic": "🌅 הגאלה",
+"caption": "יבנו",
+"question": "לפי הירושלמי הגליות יתעוררו ויבואו. מה יעשו?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a7/p2",
+"en": "a few men in kippot sleeping on the ground under a tree, relaxed closed eyes, no text (sleep)",
+"topic": "🌅 הגאלה",
+"caption": "יישנו",
+"question": "לפי הירושלמי הגליות יתעוררו ויבואו. מה יעשו?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a8/p0",
+"en": "a boy in a kippah pointing at himself with a proud smug face and arms crossed, only the one boy in this panel, no text (proud)",
+"topic": "🌅 הגאלה",
+"caption": "צודק",
+"question": "שני חברים מתוכחים, ולשאלה יש שני צדדים. מה כדאי לעשות?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a8/p1",
+"en": "a boy in a kippah sitting at a table with two open books side by side, looking from one to the other with curious interest, only the one boy in this panel, no text (study)",
+"topic": "🌅 הגאלה",
+"caption": "שני הצדדים",
+"question": "שני חברים מתוכחים, ולשאלה יש שני צדדים. מה כדאי לעשות?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a8/p2",
+"en": "a boy in a kippah walking away toward a house with a sulky face, only the one boy in this panel, no text (leave)",
+"topic": "🌅 הגאלה",
+"caption": "הביתה",
+"question": "שני חברים מתוכחים, ולשאלה יש שני צדדים. מה כדאי לעשות?",
+"section": ""
+},
+{
+"id": "hq/geula-26/a9/p0",
+"en": "men in kippot standing on a dry shore with a calm sea parted into two walls of water, looking up with amazed joyful faces, no text (sea)",
+"topic": "🌅 הגאלה",
+"caption": "הים",
+"question": "הפסוק ׳מקדש אדני כוננו ידיך׳ נאמר בשירת…",
+"section": ""
+},
+{
+"id": "hq/geula-26/a9/p1",
+"en": "a wide dry desert with a few rocks, one man in a kippah walking slowly with a staff, calm face, no text (desert)",
+"topic": "🌅 הגאלה",
+"caption": "המדבר",
+"question": "הפסוק ׳מקדש אדני כוננו ידיך׳ נאמר בשירת…",
+"section": ""
+},
+{
+"id": "hq/geula-26/a9/p2",
+"en": "a stone well in a field with a man in a kippah drawing water with a rope, calm happy face, no text (well)",
+"topic": "🌅 הגאלה",
+"caption": "הבאר",
+"question": "הפסוק ׳מקדש אדני כוננו ידיך׳ נאמר בשירת…",
+"section": ""
+},
+{
+"id": "hq/geula-26/b1",
+"en": "an ancient stone Temple with large gates on a hill under blue sky with soft white clouds, a thoughtful bearded man in a kippah in the foreground looking up at it with a curious raised eyebrow, no fire, no beams of light, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה התרוץ של רש״י לכך שמקדש העתיד יכול להופיע גם בלילה וביום טוב?",
+"section": ""
+},
+{
+"id": "hq/geula-26/b2",
+"en": "a quiet stone building site at dusk with wooden scaffolding and stacked stones, an older man in a kippah standing and scratching his head with a puzzled frown, looking at the empty site, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה הקשי שרש״י מעלה על החשש שהמקדש יבנה בלילה או ביום טוב?",
+"section": ""
+},
+{
+"id": "hq/geula-26/b3",
+"en": "a bearded teacher in a kippah holding up one finger while boys in kippot listen, the teacher looking at the boys with a warm gaze, a plain stone wall behind them, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "איזה פסוק מביא רש״י כדי ללמד שהמקדש העתיד יתגלה מן השמים?",
+"section": ""
+},
+{
+"id": "hq/geula-26/b5",
+"en": "two men in kippot carrying one big carved stone block together up a gentle hill, both with proud determined faces looking at the road ahead, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "המצוה ׳ועשו לי מקדש׳ – מה היא מלמדת לענין השאלה?",
+"section": ""
+},
+{
+"id": "hq/geula-26/b6",
+"en": "a man in a kippah measuring a stone wall with a long rope while another man holds the end, both focused and careful, a blank unrolled scroll on a stone table beside them, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "למה, לפי ההסבר, מסכת מדות מאריכה במדות המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a1/p0",
+"en": "a single ancient stone building alone on a green hill under blue sky, a man in a kippah looking at it, no text (one)",
+"topic": "🌅 הגאלה",
+"caption": "בית אחד",
+"question": "כמה בתים, לפי ההסבר, יהיו?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a1/p1",
+"en": "two ancient stone buildings standing side by side on a green hill under blue sky, a boy in a kippah looking from one to the other with a happy smile, no text (two)",
+"topic": "🌅 הגאלה",
+"caption": "שני בתים",
+"question": "כמה בתים, לפי ההסבר, יהיו?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a1/p2",
+"en": "four small stone houses in a row on a hill, a man in a kippah counting on his fingers, no text (four)",
+"topic": "🌅 הגאלה",
+"caption": "ארבעה בתים",
+"question": "כמה בתים, לפי ההסבר, יהיו?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a2/p0",
+"en": "a wide blue sky with white clouds over a green hill, nothing built there, no people, no text (sky)",
+"topic": "🌅 הגאלה",
+"caption": "השמים",
+"question": "הבית האחד יבנה בידי…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a2/p1",
+"en": "many men in kippot building a stone wall together with big stone blocks and wooden scaffolding, smiling with effort, no text (people)",
+"topic": "🌅 הגאלה",
+"caption": "בני אדם",
+"question": "הבית האחד יבנה בידי…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a2/p2",
+"en": "a calm blue sea with gentle waves and a rocky shore, nobody there, no text (sea)",
+"topic": "🌅 הגאלה",
+"caption": "הים",
+"question": "הבית האחד יבנה בידי…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a3/p0",
+"en": "a plain stone school building with a flat roof on a street, a few boys in kippot walking by, no text (school)",
+"topic": "🌅 הגאלה",
+"caption": "בית ספר",
+"question": "לפי המדרש, המשיח עומד על גג…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a3/p1",
+"en": "the flat roof of an ancient stone Temple with large gates on a hill, seen from below, blue sky with white clouds, no people on the roof, no text (temple)",
+"topic": "🌅 הגאלה",
+"caption": "בית המקדש",
+"question": "לפי המדרש, המשיח עומד על גג…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a3/p2",
+"en": "an open market with stalls and colorful cloth awnings, men in kippot buying fruit, no text (market)",
+"topic": "🌅 הגאלה",
+"caption": "שוק",
+"question": "לפי המדרש, המשיח עומד על גג…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a4/p0",
+"en": "a snail slowly crawling on a stone path, a boy in a kippah crouching and watching it patiently, no text (slow)",
+"topic": "🌅 הגאלה",
+"caption": "לאט יותר",
+"question": "אם נזכה, לפי חז״ל, הגאלה יכולה לבוא…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a4/p1",
+"en": "an empty dusty road leading nowhere with a closed gate, a man in a kippah sitting with a sad face, no text (never)",
+"topic": "🌅 הגאלה",
+"caption": "לעולם לא",
+"question": "אם נזכה, לפי חז״ל, הגאלה יכולה לבוא…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a4/p2",
+"en": "a man in a kippah running fast along a road toward a distant stone city at sunrise, happy determined face, no text (fast)",
+"topic": "🌅 הגאלה",
+"caption": "מהר יותר",
+"question": "אם נזכה, לפי חז״ל, הגאלה יכולה לבוא…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a5/p0",
+"en": "a stone building falling through the sky onto a hill, a man in a kippah below looking up with wide open eyes, no light beams, no text (falling)",
+"topic": "🌅 הגאלה",
+"caption": "בניין צונח",
+"question": "מה פרוש ׳מן השמים׳, לפי התפארת ישראל?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a5/p1",
+"en": "men in kippot lifting a big stone block together easily with calm happy faces under a clear blue sky, no light beams, no hand in the sky, no text (help)",
+"topic": "🌅 הגאלה",
+"caption": "עזרה מה׳",
+"question": "מה פרוש ׳מן השמים׳, לפי התפארת ישראל?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a5/p2",
+"en": "one big white cloud over a green hill, nobody there, no text (cloud)",
+"topic": "🌅 הגאלה",
+"caption": "ענן גדול",
+"question": "מה פרוש ׳מן השמים׳, לפי התפארת ישראל?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a6/p0",
+"en": "a long slow building site with a half-built stone wall and a calendar-like row of many sunrises and sunsets in the sky, a tired worker man in a kippah resting, no text (years)",
+"topic": "🌅 הגאלה",
+"caption": "נבנה בשנים",
+"question": "בנין שקם מהר מאד, נראה כאלו…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a6/p1",
+"en": "a finished complete ancient stone Temple with large gates standing on a hill under blue sky with white clouds, a boy in a kippah looking at it with a surprised amazed smile, no fire, no beams of light, no floating building, no text (amazed)",
+"topic": "🌅 הגאלה",
+"caption": "ירד מהשמיים",
+"question": "בנין שקם מהר מאד, נראה כאלו…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a6/p2",
+"en": "an old ancient stone building standing quietly on a hill with moss on it, a man in a kippah looking at it calmly, no text (always)",
+"topic": "🌅 הגאלה",
+"caption": "היה שם תמיד",
+"question": "בנין שקם מהר מאד, נראה כאלו…?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a7/p0",
+"en": "a table with cakes and cookies, a boy in a kippah smiling at them, no text (cakes)",
+"topic": "🌅 הגאלה",
+"caption": "עוגות",
+"question": "לפני שבונים מהר, מה מכינים?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a7/p1",
+"en": "stacked cut stones and tall wooden doors leaning on a wall in a workshop, a man in a kippah checking one door, no text (stones)",
+"topic": "🌅 הגאלה",
+"caption": "אבנים ודלתות",
+"question": "לפני שבונים מהר, מה מכינים?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a7/p2",
+"en": "a pile of colorful toys on the floor, a small boy in a kippah playing, no text (toys)",
+"topic": "🌅 הגאלה",
+"caption": "צעצועים",
+"question": "לפני שבונים מהר, מה מכינים?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a8/p0",
+"en": "men in kippot finishing a stone building on a hill, the stone walls rising on the ground, no text (below)",
+"topic": "🌅 הגאלה",
+"caption": "הבית שלמטה",
+"question": "מה בא קדם, לפי ההסבר?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a8/p1",
+"en": "an ancient stone Temple with large gates on a hill high among soft white clouds, calm blue sky, no fire, no beams of light, no text (above)",
+"topic": "🌅 הגאלה",
+"caption": "הבית שלמעלה",
+"question": "מה בא קדם, לפי ההסבר?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a8/p2",
+"en": "a group of men in kippot singing together outdoors with open mouths and happy faces, no text (song)",
+"topic": "🌅 הגאלה",
+"caption": "השירה",
+"question": "מה בא קדם, לפי ההסבר?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a9/p0",
+"en": "a man in a kippah standing at a door with a backpack looking out, no text (go)",
+"topic": "🌅 הגאלה",
+"caption": "פקודה לצאת",
+"question": "בשעור הזה, מה עושים עם המקורות?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a9/p1",
+"en": "a boy in a kippah at a wooden table with an open book, studying with a curious smile, no text (study)",
+"topic": "🌅 הגאלה",
+"caption": "לומדים",
+"question": "בשעור הזה, מה עושים עם המקורות?",
+"section": ""
+},
+{
+"id": "hq/geula-27/a9/p2",
+"en": "two boys in kippot playing with a ball in a yard, laughing, no text (game)",
+"topic": "🌅 הגאלה",
+"caption": "משחק",
+"question": "בשעור הזה, מה עושים עם המקורות?",
+"section": ""
+},
+{
+"id": "hq/geula-27/b1",
+"en": "a flat roof of an ancient stone Temple with large gates under blue sky with soft white clouds, seen from below, nobody on the roof, no fire, no beams of light, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה מלמד המדרש על כך שהמשיח עומד על גג בית המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-27/b2",
+"en": "workers in kippot assembling a large stone building very quickly with many prepared stone blocks and doors lined up neatly beside them, cheerful busy faces, a clear sky, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה הרעיון של בנין שמכן מראש וקם במהירות?",
+"section": ""
+},
+{
+"id": "hq/geula-27/b4",
+"en": "two roads leading to the same stone city on a hill, a man in a kippah running quickly on the short road and another walking calmly on the long road, both with peaceful faces, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה מלמדת הגמרא במלים ׳זכו – אחישנה, לא זכו – בעתה׳?",
+"section": ""
+},
+{
+"id": "hq/geula-27/b7",
+"en": "a boy in a kippah sitting at a desk with papers and colored pencils, working carefully with a determined smile, a friend leaning against the desk nearby, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "עליך להכין משהו חשוב לכתה, וחבר אומר: ׳הכל יסתדר לבד׳. מה נכון?",
+"section": ""
+},
+{
+"id": "hq/geula-27/b8",
+"en": "a calm teacher in a kippah and a few boys in kippot sitting around a table with open blank books, listening and thinking, warm window light, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה נכון לומר על למוד המקורות האלה?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a1/p0",
+"en": "a man in a kippah standing at a set table after a meal with a closed blank booklet, a calm grateful face, no text (grace)",
+"topic": "🌅 הגאלה",
+"caption": "ברכת המזון",
+"question": "באיזו תפלה אומרים ׳מזבח חדש בציון תכין׳?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a1/p1",
+"en": "a few men in kippot standing and praying quietly in a stone synagogue in the morning light, each holding a closed blank prayer book, no text (musaf)",
+"topic": "🌅 הגאלה",
+"caption": "מוסף ראש חודש",
+"question": "באיזו תפלה אומרים ׳מזבח חדש בציון תכין׳?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a1/p2",
+"en": "a boy in a kippah lying in bed at night with a small lamp and a closed blank book, peaceful face, no text (bedtime)",
+"topic": "🌅 הגאלה",
+"caption": "קריאת שמע",
+"question": "באיזו תפלה אומרים ׳מזבח חדש בציון תכין׳?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a2/p0",
+"en": "a small altar of whole smooth stones on a hill at sunrise, men in kippot standing quietly beside it, no fire, no smoke, no text (altar)",
+"topic": "🌅 הגאלה",
+"caption": "מזבח",
+"question": "מה בא קדם, לפי התפלה?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a2/p1",
+"en": "a big finished ancient stone Temple with large gates on a hill under a blue sky, a boy in a kippah looking up at it, no text (house)",
+"topic": "🌅 הגאלה",
+"caption": "בית שלם",
+"question": "מה בא קדם, לפי התפלה?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a2/p2",
+"en": "a tall stone city wall on a hill with a gate, men in kippot walking by it, no text (wall)",
+"topic": "🌅 הגאלה",
+"caption": "חומה גבוהה",
+"question": "מה בא קדם, לפי התפלה?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a3/p0",
+"en": "a tall stone tower on a hill with men in kippot looking up at it, no text (tower)",
+"topic": "🌅 הגאלה",
+"caption": "מגדל גבוה",
+"question": "מה בנו העולים בימי עזרא בתחלה?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a3/p1",
+"en": "a plain stone school building with a few boys in kippot walking in, no text (school)",
+"topic": "🌅 הגאלה",
+"caption": "בית ספר",
+"question": "מה בנו העולים בימי עזרא בתחלה?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a3/p2",
+"en": "men in kippot building a small altar of whole stones on a hill, working together with proud faces, no fire, no smoke, no text (altar)",
+"topic": "🌅 הגאלה",
+"caption": "מזבח",
+"question": "מה בנו העולים בימי עזרא בתחלה?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a4/p0",
+"en": "a pile of cracked broken stones on the ground, a man in a kippah looking at them with a frown, no text (broken)",
+"topic": "🌅 הגאלה",
+"caption": "אבנים שבורות",
+"question": "מאילו אבנים בונים את המזבח?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a4/p1",
+"en": "a pile of whole smooth stones, a man in a kippah running his hand over one with a pleased smile, no text (whole)",
+"topic": "🌅 הגאלה",
+"caption": "אבנים שלמות",
+"question": "מאילו אבנים בונים את המזבח?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a4/p2",
+"en": "a stack of bright painted bricks in red and blue, a boy in a kippah looking at them, no text (bricks)",
+"topic": "🌅 הגאלה",
+"caption": "לבנים צבועות",
+"question": "מאילו אבנים בונים את המזבח?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a5/p0",
+"en": "an iron hammer and chisel lying on a rock, a man in a kippah looking at them, no text (iron)",
+"topic": "🌅 הגאלה",
+"caption": "ברזל",
+"question": "מה אסור להניף על אבני המזבח?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a5/p1",
+"en": "a steaming kettle of hot water on a stone, no people, no text (water)",
+"topic": "🌅 הגאלה",
+"caption": "מים חמים",
+"question": "מה אסור להניף על אבני המזבח?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a5/p2",
+"en": "a log of cedar wood on the ground, a man in a kippah standing next to it, no text (wood)",
+"topic": "🌅 הגאלה",
+"caption": "עץ ארז",
+"question": "מה אסור להניף על אבני המזבח?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a6/p0",
+"en": "a finished complete ancient stone Temple with large gates on a hill under a blue sky, no people, no text (finished)",
+"topic": "🌅 הגאלה",
+"caption": "כבר גמור",
+"question": "כשבנו את המזבח בימי עזרא, ההיכל…?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a6/p1",
+"en": "a fast busy building site with many men in kippot lifting stones in one day, a bright noon sun, no text (one day)",
+"topic": "🌅 הגאלה",
+"caption": "נבנה היום",
+"question": "כשבנו את המזבח בימי עזרא, ההיכל…?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a6/p2",
+"en": "an empty hill with only a small stone altar in the middle and a flat empty field around it, a few men in kippot looking at the field, no text (not yet)",
+"topic": "🌅 הגאלה",
+"caption": "עדיין לא יוסד",
+"question": "כשבנו את המזבח בימי עזרא, ההיכל…?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a7/p0",
+"en": "a group of men in kippot singing together outdoors with open mouths and happy faces, no text (sing)",
+"topic": "🌅 הגאלה",
+"caption": "נשיר",
+"question": "מה לא אמרו בימי עזרא?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a7/p1",
+"en": "men in kippot sitting on the ground with folded arms and bored faces, waiting with nothing in their hands, no text (wait)",
+"topic": "🌅 הגאלה",
+"caption": "נחכה",
+"question": "מה לא אמרו בימי עזרא?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a7/p2",
+"en": "two men in kippot strolling along a hill path in the sunshine, relaxed, no text (stroll)",
+"topic": "🌅 הגאלה",
+"caption": "נטייל",
+"question": "מה לא אמרו בימי עזרא?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a8/p0",
+"en": "a loud crowd of men in kippot shouting and waving their arms in a noisy square, no text (loud)",
+"topic": "🌅 הגאלה",
+"caption": "רועש",
+"question": "הגאלה מתחילה בדבר…?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a8/p1",
+"en": "a huge dramatic scene with a giant stone gate towering over tiny men in kippot looking up in surprise, no text (huge)",
+"topic": "🌅 הגאלה",
+"caption": "גדול ומפתיע",
+"question": "הגאלה מתחילה בדבר…?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a8/p2",
+"en": "one small plain stone altar on a quiet hill at dawn, one man in a kippah standing beside it with a hopeful smile, no fire, no smoke, no text (small)",
+"topic": "🌅 הגאלה",
+"caption": "קטן וצנוע",
+"question": "הגאלה מתחילה בדבר…?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a9/p0",
+"en": "many men in kippot working together to stack whole stones into a small altar on a hill, determined and happy faces, no fire, no smoke, no text (people)",
+"topic": "🌅 הגאלה",
+"caption": "בני ישראל",
+"question": "יש מסבירים: מי יבנה את המזבח החדש?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a9/p1",
+"en": "white clouds in a blue sky over an empty hill, nobody there, no text (clouds)",
+"topic": "🌅 הגאלה",
+"caption": "העננים",
+"question": "יש מסבירים: מי יבנה את המזבח החדש?",
+"section": ""
+},
+{
+"id": "hq/geula-28/a9/p2",
+"en": "a strong wind blowing dust and leaves across an empty hill, no people, no text (wind)",
+"topic": "🌅 הגאלה",
+"caption": "רוח חזקה",
+"question": "יש מסבירים: מי יבנה את המזבח החדש?",
+"section": ""
+},
+{
+"id": "hq/geula-28/b1",
+"en": "a stone synagogue interior in soft morning light with a few men in kippot standing and praying quietly, each holding a closed blank prayer book, calm faces, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "באיזו תפלה אומרים ׳מזבח חדש בציון תכין׳?",
+"section": ""
+},
+{
+"id": "hq/geula-28/b2",
+"en": "a hill at dawn with a small stone altar in front and a wide empty foundation field behind it, a thoughtful man in a kippah standing between them looking at the field with hope, no fire, no smoke, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה הסדר שלמדו מנוסח התפלה ומימי עזרא?",
+"section": ""
+},
+{
+"id": "hq/geula-28/b4",
+"en": "a pile of whole smooth natural stones beside a small stone altar, a man in a kippah running his hand over a stone with an appreciative expression, no iron tools, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה כתוב בתורה על אבני המזבח?",
+"section": ""
+},
+{
+"id": "hq/geula-28/b5",
+"en": "a few men in kippot on a hill starting to lay stones for a small altar while a wide empty field waits behind them, patient hopeful expressions, soft morning light, no fire, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה למדו מכך שבימי עזרא בנו מזבח לפני ההיכל?",
+"section": ""
+},
+{
+"id": "hq/geula-28/b6",
+"en": "a boy in a kippah at a table starting to paint a large picture with only three colors, a happy determined smile, a paper on the table with no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "רוצים לציר תמונה גדולה, אבל חסרים כמה צבעים. מה כדאי?",
+"section": ""
+},
+{
+"id": "hq/geula-28/b7",
+"en": "two boys in kippot on a path, one holding a small stone and the other looking at him with a doubtful face, the first boy smiling kindly and pointing up the hill ahead, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "חבר אומר: ׳בשביל מה לעשות דבר קטן? זה לא ישנה כלום׳. מה נכון לענות?",
+"section": ""
+},
+{
+"id": "hq/geula-28/b8",
+"en": "a calm teacher in a kippah and a few boys in kippot sitting around a table with open blank books, listening and thinking, warm window light, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה נכון לומר על הלמוד של היום?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a1/p0",
+"en": "a small wooden chair in an empty room, no people, no text (chair)",
+"topic": "🌅 הגאלה",
+"caption": "כסא של ילד",
+"question": "מה היה גבה הפתח של היכל המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a1/p1",
+"en": "a very tall huge ancient stone building with a giant wooden door, a boy in a kippah standing tiny at the bottom looking up with wide amazed eyes, no text (school)",
+"topic": "🌅 הגאלה",
+"caption": "בית הספר",
+"question": "מה היה גבה הפתח של היכל המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a1/p2",
+"en": "a wooden wardrobe cupboard in a room, no people, no text (cupboard)",
+"topic": "🌅 הגאלה",
+"caption": "ארון",
+"question": "מה היה גבה הפתח של היכל המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a2/p0",
+"en": "a baker man in a kippah taking round loaves out of a stone oven, happy face, no text (baker)",
+"topic": "🌅 הגאלה",
+"caption": "אופה",
+"question": "איזה בעל מלאכה בונה דלת ענקית?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a2/p1",
+"en": "a weaver man in a kippah at a wooden loom with colorful threads, focused calm face, no text (weaver)",
+"topic": "🌅 הגאלה",
+"caption": "אורג",
+"question": "איזה בעל מלאכה בונה דלת ענקית?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a2/p2",
+"en": "a carpenter man in a kippah planing a huge wooden door in a workshop, wood shavings around, proud focused face, no text (carpenter)",
+"topic": "🌅 הגאלה",
+"caption": "נגר",
+"question": "איזה בעל מלאכה בונה דלת ענקית?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a3/p0",
+"en": "a large beautiful woven curtain hanging with blue purple and crimson colors, no people, no text (curtain)",
+"topic": "🌅 הגאלה",
+"caption": "מסך אריג",
+"question": "הפרכת במקדש היתה…",
+"section": ""
+},
+{
+"id": "hq/geula-29/a3/p1",
+"en": "a plain wooden table in an empty room, no people, no text (table)",
+"topic": "🌅 הגאלה",
+"caption": "שולחן עץ",
+"question": "הפרכת במקדש היתה…",
+"section": ""
+},
+{
+"id": "hq/geula-29/a3/p2",
+"en": "one big gray stone block on the ground, no people, no text (stone)",
+"topic": "🌅 הגאלה",
+"caption": "אבן גדולה",
+"question": "הפרכת במקדש היתה…",
+"section": ""
+},
+{
+"id": "hq/geula-29/a4/p0",
+"en": "a thick winter coat and a summer hat side by side on a hook, no people, no text (weather)",
+"topic": "🌅 הגאלה",
+"caption": "הגנה מהקור והחום",
+"question": "בגדי הקדש של הכהנים נעשו ל…",
+"section": ""
+},
+{
+"id": "hq/geula-29/a4/p1",
+"en": "beautiful priestly garments of white and blue and gold neatly laid out on a stone table, no people, no text (glory)",
+"topic": "🌅 הגאלה",
+"caption": "כבוד ותפארת",
+"question": "בגדי הקדש של הכהנים נעשו ל…",
+"section": ""
+},
+{
+"id": "hq/geula-29/a4/p2",
+"en": "a pile of toys and a ball on the floor of a room, no people, no text (toy)",
+"topic": "🌅 הגאלה",
+"caption": "משחק ושעשוע",
+"question": "בגדי הקדש של הכהנים נעשו ל…",
+"section": ""
+},
+{
+"id": "hq/geula-29/a5/p0",
+"en": "two loaves of bread on a wooden table, no people, no text (two)",
+"topic": "🌅 הגאלה",
+"caption": "שתי חלות",
+"question": "כמה חלות היו בלחם הפנים?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a5/p1",
+"en": "three loaves of bread on a wooden table, no people, no text (three)",
+"topic": "🌅 הגאלה",
+"caption": "שלוש חלות",
+"question": "כמה חלות היו בלחם הפנים?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a5/p2",
+"en": "twelve loaves of bread arranged in two neat rows of six on a golden table, no people, no text (twelve)",
+"topic": "🌅 הגאלה",
+"caption": "שתים עשרה",
+"question": "כמה חלות היו בלחם הפנים?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a6/p0",
+"en": "broken cracked stone pieces scattered on the ground, no people, no text (broken)",
+"topic": "🌅 הגאלה",
+"caption": "שבורות",
+"question": "איך היו האבנים בבנין בימי שלמה?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a6/p1",
+"en": "a pile of tiny pebbles on the ground, no people, no text (small)",
+"topic": "🌅 הגאלה",
+"caption": "קטנות",
+"question": "איך היו האבנים בבנין בימי שלמה?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a6/p2",
+"en": "big smooth whole stone blocks stacked neatly beside a building site, a man in a kippah looking at them with satisfaction, no text (whole)",
+"topic": "🌅 הגאלה",
+"caption": "שלמות",
+"question": "איך היו האבנים בבנין בימי שלמה?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a7/p0",
+"en": "a boy in a kippah asleep in bed at midday, only the one boy, no text (sleep)",
+"topic": "🌅 הגאלה",
+"caption": "לישון",
+"question": "הילד שואל: מה אני יכול לעשות היום?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a7/p1",
+"en": "a boy in a kippah sitting bored and looking at a wall clock, only the one boy, no text (wait)",
+"topic": "🌅 הגאלה",
+"caption": "לחכות",
+"question": "הילד שואל: מה אני יכול לעשות היום?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a7/p2",
+"en": "a boy in a kippah helping an old man in a kippah carry a heavy bag, both smiling warmly, no text (good deed)",
+"topic": "🌅 הגאלה",
+"caption": "מעשה טוב",
+"question": "הילד שואל: מה אני יכול לעשות היום?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a8/p0",
+"en": "several boys in kippot studying together at a table with open books and cheerful determined faces, no text (kids)",
+"topic": "🌅 הגאלה",
+"caption": "הילדים הלומדים",
+"question": "מי הם דור בוני המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a8/p1",
+"en": "only a few old gray-bearded men in kippot sitting on a bench, calm faces, no children, no text (adults)",
+"topic": "🌅 הגאלה",
+"caption": "רק מבוגרים חשובים",
+"question": "מי הם דור בוני המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a8/p2",
+"en": "an empty stone courtyard with nobody in it, no text (nobody)",
+"topic": "🌅 הגאלה",
+"caption": "אף אחד לא יבנה",
+"question": "מי הם דור בוני המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a9/p0",
+"en": "a man in a kippah walking away from a pile of wooden planks with a shrug, no text (give up)",
+"topic": "🌅 הגאלה",
+"caption": "מוותרים",
+"question": "מה עושים לפני שבונים דלת ענקית?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a9/p1",
+"en": "a young man in a kippah learning carpentry next to an older carpenter, watching his hands closely with curiosity, no text (learn)",
+"topic": "🌅 הגאלה",
+"caption": "לומדים",
+"question": "מה עושים לפני שבונים דלת ענקית?",
+"section": ""
+},
+{
+"id": "hq/geula-29/a9/p2",
+"en": "a man in a kippah standing and just staring at a big wooden door with folded arms, no text (stare)",
+"topic": "🌅 הגאלה",
+"caption": "מסתכלים",
+"question": "מה עושים לפני שבונים דלת ענקית?",
+"section": ""
+},
+{
+"id": "hq/geula-29/b1",
+"en": "a very tall ancient stone temple doorway with large wooden doors, a thoughtful man in a kippah in front looking up with a raised eyebrow, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה כתוב במשנה מדות על גבה ורחב פתח ההיכל?",
+"section": ""
+},
+{
+"id": "hq/geula-29/b2",
+"en": "stone blocks, wooden doors and folded cloths neatly prepared in rows at a building site at dawn, a man in a kippah looking at them with hopeful calm eyes, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה הרעיון שיש מסבירים כדי לחבר בין ׳מן השמים׳ ל׳בידי אדם׳?",
+"section": ""
+},
+{
+"id": "hq/geula-29/b3",
+"en": "a large woven curtain with blue purple and crimson threads hanging in a stone hall, a man in a kippah at a loom beside it, with a focused careful expression, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "איך מתאר הכתוב את מלאכת הפרכת?",
+"section": ""
+},
+{
+"id": "hq/geula-29/b4",
+"en": "white and blue and gold priestly garments neatly laid on a stone table, a man in a kippah looking at them with quiet respect, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "לפי התורה, למה נעשו בגדי הקדש של אהרן?",
+"section": ""
+},
+{
+"id": "hq/geula-29/b5",
+"en": "a baker in a kippah shaping dough on a floured table, twelve round loaves cooling on a wooden rack nearby, with a patient focused face, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה כתוב בתורה על מספר החלות ועל גדל כל חלה בלחם הפנים?",
+"section": ""
+},
+{
+"id": "hq/geula-29/b6",
+"en": "men in kippot quietly setting big smooth stone blocks into a wall of an ancient stone temple on a hill, calm respectful faces, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה כתוב על בנית הבית הראשון בימי שלמה?",
+"section": ""
+},
+{
+"id": "hq/geula-29/b8",
+"en": "a boy in a kippah in a classroom pointing thoughtfully at one picture among several pictures on a wall, with a curious smile, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "בכתה מבקשים מכל תלמיד לבחר חלק אחד מן המקדש וללמד עליו. מה כדאי לבחר?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a1/p0",
+"en": "a boy in a kippah singing happily outdoors with open mouth, only the one boy, no text (song)",
+"topic": "🌅 הגאלה",
+"caption": "שיר",
+"question": "מה רצה הילד בכתה ד׳ ללמד?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a1/p1",
+"en": "a boy in a kippah at a wooden desk bending over a big closed holy book with an eager smile, only the one boy, no text (Gemara)",
+"topic": "🌅 הגאלה",
+"caption": "גמרא",
+"question": "מה רצה הילד בכתה ד׳ ללמד?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a1/p2",
+"en": "a boy in a kippah holding a needle and thread sewing a cloth with focus, only the one boy, no text (sewing)",
+"topic": "🌅 הגאלה",
+"caption": "תפירה",
+"question": "מה רצה הילד בכתה ד׳ ללמד?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a10/p0",
+"en": "a boy in a kippah waking at sunrise with a grateful smile and raised hands, only the one boy, no text (thanks)",
+"topic": "🌅 הגאלה",
+"caption": "תודה רבה",
+"question": "מה אני יכול לומר לה׳ בבקר?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a10/p1",
+"en": "a boy in a kippah with a frown and crossed arms, only the one boy, no text (angry)",
+"topic": "🌅 הגאלה",
+"caption": "אני כועס",
+"question": "מה אני יכול לומר לה׳ בבקר?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a10/p2",
+"en": "a boy in a kippah shrugging with a bored face, only the one boy, no text (unbothered)",
+"topic": "🌅 הגאלה",
+"caption": "לא אכפת לי בכלל",
+"question": "מה אני יכול לומר לה׳ בבקר?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a2/p0",
+"en": "a boy in a kippah talking to his teacher in a classroom, both friendly, no text (teacher)",
+"topic": "🌅 הגאלה",
+"caption": "מהמורה",
+"question": "ממי בקש הילד ביום הראשון גמרא?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a2/p1",
+"en": "a boy in a kippah talking to a man holding a big key beside a synagogue door, no text (gabbai)",
+"topic": "🌅 הגאלה",
+"caption": "מהגבאי",
+"question": "ממי בקש הילד ביום הראשון גמרא?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a2/p2",
+"en": "a boy in a kippah asking an old neighbor man in a kippah over a garden fence with a polite smile, no text (neighbor)",
+"topic": "🌅 הגאלה",
+"caption": "מהשכן",
+"question": "ממי בקש הילד ביום הראשון גמרא?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a3/p0",
+"en": "a boy in a kippah receiving a large old key from a gabbai man in a kippah in front of a synagogue door, both smiling, no text (key)",
+"topic": "🌅 הגאלה",
+"caption": "מפתח בית הכנסת",
+"question": "מה בקש הילד מן הגבאי?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a3/p1",
+"en": "a boy in a kippah singing, only the one boy, no text (song)",
+"topic": "🌅 הגאלה",
+"caption": "שיר",
+"question": "מה בקש הילד מן הגבאי?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a3/p2",
+"en": "a big wooden table in a room, no people, no text (table)",
+"topic": "🌅 הגאלה",
+"caption": "השולחן",
+"question": "מה בקש הילד מן הגבאי?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a4/p0",
+"en": "a father in a kippah handing a big new holy book as a gift to his young son in a kippah, both with warm happy faces, no text (father)",
+"topic": "🌅 הגאלה",
+"caption": "אבא",
+"question": "מי קנה לילד גמרא גדולה?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a4/p1",
+"en": "a new teacher in a kippah standing at a classroom board, no text (teacher)",
+"topic": "🌅 הגאלה",
+"caption": "המורה החדש",
+"question": "מי קנה לילד גמרא גדולה?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a4/p2",
+"en": "an old neighbor man in a kippah sitting in a garden, no text (neighbor)",
+"topic": "🌅 הגאלה",
+"caption": "השכן הזקן",
+"question": "מי קנה לילד גמרא גדולה?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a5/p0",
+"en": "men in kippot standing in front of an ancient stone Temple with large gates, lifting their hands with grateful happy faces, no text (thank)",
+"topic": "🌅 הגאלה",
+"caption": "להודות",
+"question": "מה מטרת בית המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a5/p1",
+"en": "a boy in a kippah hiding behind a stone wall, only the one boy, no text (hide)",
+"topic": "🌅 הגאלה",
+"caption": "להתחבא מהעולם",
+"question": "מה מטרת בית המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a5/p2",
+"en": "two boys in kippot playing ball in a courtyard, no text (play)",
+"topic": "🌅 הגאלה",
+"caption": "לשחק כל היום",
+"question": "מה מטרת בית המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a6/p0",
+"en": "a man in a kippah with raised hands and a thankful peaceful smile looking at the morning sky, no text (thank)",
+"topic": "🌅 הגאלה",
+"caption": "אודך",
+"question": "׳ה׳ אלהי לעולם…׳",
+"section": ""
+},
+{
+"id": "hq/geula-30/a6/p1",
+"en": "a man in a kippah laying stones in a wall, no text (build)",
+"topic": "🌅 הגאלה",
+"caption": "אבנה בית",
+"question": "׳ה׳ אלהי לעולם…׳",
+"section": ""
+},
+{
+"id": "hq/geula-30/a6/p2",
+"en": "a man in a kippah with a finger on his lips in silence, no text (silent)",
+"topic": "🌅 הגאלה",
+"caption": "אשתוק",
+"question": "׳ה׳ אלהי לעולם…׳",
+"section": ""
+},
+{
+"id": "hq/geula-30/a7/p0",
+"en": "a stone bridge over a small river, no people, no text (bridge)",
+"topic": "🌅 הגאלה",
+"caption": "גשר",
+"question": "מה בונה ההודיה, לפי המשל?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a7/p1",
+"en": "an ancient stone Temple with large gates on a hill with blue sky, a boy in a kippah in front looking up with a thankful smile, no fire, no beams of light, no text (Temple)",
+"topic": "🌅 הגאלה",
+"caption": "בית המקדש",
+"question": "מה בונה ההודיה, לפי המשל?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a7/p2",
+"en": "a simple sukkah of branches in a yard, no people, no text (sukkah)",
+"topic": "🌅 הגאלה",
+"caption": "סוכה",
+"question": "מה בונה ההודיה, לפי המשל?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a8/p0",
+"en": "a boy in a kippah resting on a bench with closed eyes, only the one boy, no text (rest)",
+"topic": "🌅 הגאלה",
+"caption": "לנוח",
+"question": "אל נאמר: ׳כשיבוא המשיח נלמד׳. אלא…",
+"section": ""
+},
+{
+"id": "hq/geula-30/a8/p1",
+"en": "a boy in a kippah quietly waiting with his hands folded and looking at the road, only the one boy, no text (wait)",
+"topic": "🌅 הגאלה",
+"caption": "לחכות בשקט",
+"question": "אל נאמר: ׳כשיבוא המשיח נלמד׳. אלא…",
+"section": ""
+},
+{
+"id": "hq/geula-30/a8/p2",
+"en": "a boy in a kippah studying with open books at a table with a hopeful look at an open window, only the one boy, no text (learn)",
+"topic": "🌅 הגאלה",
+"caption": "ללמוד כדי שיבוא",
+"question": "אל נאמר: ׳כשיבוא המשיח נלמד׳. אלא…",
+"section": ""
+},
+{
+"id": "hq/geula-30/a9/p0",
+"en": "a winter evening with a calendar-less empty prayer hall, men in kippot standing quietly with serious hopeful faces, no text (fast)",
+"topic": "🌅 הגאלה",
+"caption": "עשרה בטבת",
+"question": "באיזה יום צום שואלים: איך גורמים שיבנה המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a9/p1",
+"en": "a cheerful festive room with masks and noisemakers on a table, no people, no text (Purim)",
+"topic": "🌅 הגאלה",
+"caption": "פורים",
+"question": "באיזה יום צום שואלים: איך גורמים שיבנה המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-30/a9/p2",
+"en": "a table with white flowers and green branches for a spring festival, no people, no text (Shavuot)",
+"topic": "🌅 הגאלה",
+"caption": "חג השבועות",
+"question": "באיזה יום צום שואלים: איך גורמים שיבנה המקדש?",
+"section": ""
+},
+{
+"id": "hq/geula-30/b1",
+"en": "a boy in a kippah politely asking a synagogue gabbai man in a kippah who holds a large key, the boy with a hopeful eager expression, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה עשה הילד ביום השלישי כדי שיוכל ללמד?",
+"section": ""
+},
+{
+"id": "hq/geula-30/b2",
+"en": "a father in a kippah giving a big new holy book to his son in a kippah, the boy's face lighting up with surprise and joy, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "מה היתה ההפתעה ביום הרביעי, ולמה?",
+"section": ""
+},
+{
+"id": "hq/geula-30/b3",
+"en": "men in kippot standing near an ancient stone Temple with large gates on a hill, looking up with deep gratitude and quiet smiles, no fire, no beams of light, no letters, no text",
+"topic": "🌅 הגאלה",
+"caption": "",
+"question": "לפי הנמשל, מה אומר לנו אבינו שבשמים כשהוא רואה כמה אנחנו רוצים להודות?",
+"section": ""
+}
+]
